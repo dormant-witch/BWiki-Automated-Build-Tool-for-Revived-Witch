@@ -1,0 +1,131 @@
+{
+    "104": {
+        "id": 104,
+        "sceneID": 20028,
+        "rewardFirstID": 2279,
+        "battleID": 6276,
+        "spirit": 25,
+        "minSkillLevel": 3,
+        "monsterlv": 230,
+        "monsterInfoID": [
+            10003
+        ],
+        "recommendLv": 230,
+        "rewardID": 2274,
+        "minEquipLevel": 12,
+        "nameID": 1900350
+    },
+    "201": {
+        "id": 201,
+        "sceneID": 20028,
+        "rewardFirstID": 2276,
+        "battleID": 6277,
+        "spirit": 25,
+        "minSkillLevel": 2,
+        "monsterlv": 150,
+        "monsterInfoID": [
+            10005
+        ],
+        "recommendLv": 150,
+        "rewardID": 2271,
+        "minEquipLevel": 5,
+        "nameID": 1900347
+    },
+    "202": {
+        "id": 202,
+        "sceneID": 20028,
+        "rewardFirstID": 2277,
+        "battleID": 6278,
+        "spirit": 25,
+        "minSkillLevel": 2,
+        "monsterlv": 170,
+        "monsterInfoID": [
+            10006,
+            10005
+        ],
+        "recommendLv": 170,
+        "rewardID": 2272,
+        "minEquipLevel": 10,
+        "nameID": 1900348
+    },
+    "203": {
+        "id": 203,
+        "sceneID": 20028,
+        "rewardFirstID": 2278,
+        "battleID": 6279,
+        "spirit": 25,
+        "minSkillLevel": 3,
+        "monsterlv": 210,
+        "monsterInfoID": [
+            10007
+        ],
+        "recommendLv": 210,
+        "rewardID": 2273,
+        "minEquipLevel": 10,
+        "nameID": 1900349
+    },
+    "204": {
+        "id": 204,
+        "sceneID": 20028,
+        "rewardFirstID": 2279,
+        "battleID": 6280,
+        "spirit": 25,
+        "minSkillLevel": 3,
+        "monsterlv": 230,
+        "monsterInfoID": [
+            10008
+        ],
+        "recommendLv": 230,
+        "rewardID": 2274,
+        "minEquipLevel": 12,
+        "nameID": 1900350
+    },
+    "101": {
+        "id": 101,
+        "sceneID": 20028,
+        "rewardFirstID": 2276,
+        "battleID": 6273,
+        "spirit": 25,
+        "minSkillLevel": 2,
+        "monsterlv": 150,
+        "monsterInfoID": [
+            10001
+        ],
+        "recommendLv": 150,
+        "rewardID": 2271,
+        "minEquipLevel": 5,
+        "nameID": 1900347
+    },
+    "102": {
+        "id": 102,
+        "sceneID": 20028,
+        "rewardFirstID": 2277,
+        "battleID": 6274,
+        "spirit": 25,
+        "minSkillLevel": 2,
+        "monsterlv": 170,
+        "monsterInfoID": [
+            10002
+        ],
+        "recommendLv": 170,
+        "rewardID": 2272,
+        "minEquipLevel": 10,
+        "nameID": 1900348
+    },
+    "103": {
+        "id": 103,
+        "sceneID": 20028,
+        "rewardFirstID": 2278,
+        "battleID": 6275,
+        "spirit": 25,
+        "minSkillLevel": 3,
+        "monsterlv": 210,
+        "monsterInfoID": [
+            10004
+        ],
+        "recommendLv": 210,
+        "rewardID": 2273,
+        "minEquipLevel": 10,
+        "nameID": 1900349
+    }
+}

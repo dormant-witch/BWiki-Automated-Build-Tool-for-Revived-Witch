@@ -1,0 +1,62 @@
+[
+    {
+        "itemID": 35002,
+        "id": 1,
+        "itemNum": 200000,
+        "neededPoint": 5000
+    },
+    {
+        "itemID": 31037,
+        "id": 2,
+        "itemNum": 1,
+        "neededPoint": 10000
+    },
+    {
+        "itemID": 74002,
+        "id": 3,
+        "itemNum": 60,
+        "neededPoint": 15000
+    },
+    {
+        "itemID": 79001,
+        "id": 4,
+        "itemNum": 80,
+        "neededPoint": 20000
+    },
+    {
+        "itemID": 70002,
+        "id": 5,
+        "itemNum": 2,
+        "neededPoint": 30000
+    },
+    {
+        "itemID": 35008,
+        "id": 6,
+        "itemNum": 200,
+        "neededPoint": 40000
+    },
+    {
+        "itemID": 31038,
+        "id": 7,
+        "itemNum": 1,
+        "neededPoint": 50000
+    },
+    {
+        "itemID": 79002,
+        "id": 8,
+        "itemNum": 40,
+        "neededPoint": 60000
+    },
+    {
+        "itemID": 70003,
+        "id": 9,
+        "itemNum": 1,
+        "neededPoint": 80000
+    },
+    {
+        "itemID": 30076,
+        "id": 10,
+        "itemNum": 2,
+        "neededPoint": 100000
+    }
+]

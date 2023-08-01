@@ -1,0 +1,6559 @@
+{
+    "20009": {
+        "id": 20009,
+        "enterID": "0,0",
+        "nextNode": [
+            30003
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": {},
+        "aimPosition": [
+            "0,0"
+        ],
+        "jumpType": 0,
+        "aimSceneID": [
+            30003
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "40001": {
+        "id": 40001,
+        "enterID": "9,19",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40002": {
+        "id": 40002,
+        "enterID": "4,19",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40003": {
+        "id": 40003,
+        "enterID": "4,27",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40004": {
+        "id": 40004,
+        "enterID": "8,22",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40005": {
+        "id": 40005,
+        "enterID": "4,22",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40006": {
+        "id": 40006,
+        "enterID": "9,22",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40007": {
+        "id": 40007,
+        "enterID": "14,21",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "60001": {
+        "id": 60001,
+        "enterID": "4,6",
+        "nextNode": {},
+        "isShowInMap": [
+            0
+        ],
+        "exitSituation": [
+            "8,13,1,1"
+        ],
+        "aimPosition": [
+            "3,7"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            60002
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "3"
+    },
+    "60002": {
+        "id": 60002,
+        "enterID": "3,7",
+        "nextNode": {},
+        "isShowInMap": [
+            0
+        ],
+        "exitSituation": [
+            "12,18,1,1"
+        ],
+        "aimPosition": [
+            "4,6"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            60003
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "2"
+    },
+    "60003": {
+        "id": 60003,
+        "enterID": "4,6",
+        "nextNode": {},
+        "isShowInMap": [
+            0
+        ],
+        "exitSituation": [
+            "8,13,1,1"
+        ],
+        "aimPosition": [
+            "3,19"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            60004
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "2"
+    },
+    "60004": {
+        "id": 60004,
+        "enterID": "3,19",
+        "nextNode": {},
+        "isShowInMap": [
+            0
+        ],
+        "exitSituation": [
+            "4,3,1,1"
+        ],
+        "aimPosition": [
+            "12,5"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            60005
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "60005": {
+        "id": 60005,
+        "enterID": "12,5",
+        "nextNode": {},
+        "isShowInMap": [
+            0
+        ],
+        "exitSituation": [
+            "13,1,1,1"
+        ],
+        "aimPosition": [
+            "12,2"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            60006
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "60006": {
+        "id": 60006,
+        "enterID": "12,2",
+        "nextNode": {},
+        "isShowInMap": [
+            0
+        ],
+        "exitSituation": [
+            "13,1,1,1"
+        ],
+        "aimPosition": [
+            "0,0"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            30001
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "60007": {
+        "id": 60007,
+        "enterID": "3,15",
+        "nextNode": {},
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "14,1,3,1"
+        ],
+        "aimPosition": [
+            "3,3"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            60008
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "5"
+    },
+    "60008": {
+        "id": 60008,
+        "enterID": "3,3",
+        "nextNode": {},
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "15,2,3,1"
+        ],
+        "aimPosition": [
+            "3,3"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            60009
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "4"
+    },
+    "60009": {
+        "id": 60009,
+        "enterID": "3,3",
+        "nextNode": {},
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "14,15,3,1"
+        ],
+        "aimPosition": [
+            "4,9"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            60010
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "4"
+    },
+    "60010": {
+        "id": 60010,
+        "enterID": "4,9",
+        "nextNode": {},
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "15,1,3,1"
+        ],
+        "aimPosition": [
+            "5,15"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            60011
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "60011": {
+        "id": 60011,
+        "enterID": "5,15",
+        "nextNode": {},
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "0,0,1,1"
+        ],
+        "aimPosition": [
+            "0,0"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            30001
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16001": {
+        "id": 16001,
+        "enterID": "7,26",
+        "nextNode": [
+            16002
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "15,5,3,1"
+        ],
+        "aimPosition": [
+            "10,28"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            16002
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16002": {
+        "id": 16002,
+        "enterID": "10,28",
+        "nextNode": [
+            16003
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "23,3,3,1"
+        ],
+        "aimPosition": [
+            "11,34"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            16003
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16003": {
+        "id": 16003,
+        "enterID": "11,34",
+        "nextNode": [
+            16004
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "20,3,3,1"
+        ],
+        "aimPosition": [
+            "10,25"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            16004
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16004": {
+        "id": 16004,
+        "enterID": "10,25",
+        "nextNode": [
+            16005
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "10,1,2,1"
+        ],
+        "aimPosition": [
+            "13,30"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            16005
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16005": {
+        "id": 16005,
+        "enterID": "13,30",
+        "nextNode": [
+            16006
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "22,3,4,1"
+        ],
+        "aimPosition": [
+            "13,31"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            16006
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16006": {
+        "id": 16006,
+        "enterID": "13,31",
+        "nextNode": [
+            16007
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "12,1,3,1"
+        ],
+        "aimPosition": [
+            "11,32"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            16007
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16007": {
+        "id": 16007,
+        "enterID": "11,32",
+        "nextNode": [
+            16008
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "25,4,3,1"
+        ],
+        "aimPosition": [
+            "19,32"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            16008
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16008": {
+        "id": 16008,
+        "enterID": "19,32",
+        "nextNode": [
+            16009
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "27,1,2,1"
+        ],
+        "aimPosition": [
+            "7,33"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            16009
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16009": {
+        "id": 16009,
+        "enterID": "7,33",
+        "nextNode": [
+            16010
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "24,4,4,1"
+        ],
+        "aimPosition": [
+            "7,33"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            16010
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16010": {
+        "id": 16010,
+        "enterID": "7,33",
+        "nextNode": [
+            16011
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "24,3,2,1"
+        ],
+        "aimPosition": [
+            "7,33"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            16011
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16011": {
+        "id": 16011,
+        "enterID": "7,33",
+        "nextNode": [
+            16012
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "22,2,2,1"
+        ],
+        "aimPosition": [
+            "9,29"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            16012
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16012": {
+        "id": 16012,
+        "enterID": "9,31",
+        "nextNode": [
+            16013
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "28,5,2,1"
+        ],
+        "aimPosition": [
+            "13,32"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            16013
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16013": {
+        "id": 16013,
+        "enterID": "13,32",
+        "nextNode": [
+            16014
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "33,2,2,1"
+        ],
+        "aimPosition": [
+            "13,32"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            16014
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16014": {
+        "id": 16014,
+        "enterID": "13,32",
+        "nextNode": [
+            16015
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "19,1,2,1"
+        ],
+        "aimPosition": [
+            "9,39"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            16015
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16015": {
+        "id": 16015,
+        "enterID": "9,39",
+        "nextNode": [
+            16016
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "17,2,2,1"
+        ],
+        "aimPosition": [
+            "6,30"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            16016
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16016": {
+        "id": 16016,
+        "enterID": "6,30",
+        "nextNode": [
+            16017
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "33,4,2,1"
+        ],
+        "aimPosition": [
+            "7,26"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            16017
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16017": {
+        "id": 16017,
+        "enterID": "7,26",
+        "nextNode": [
+            16018
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "19,2,2,1"
+        ],
+        "aimPosition": [
+            "13,26"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            16018
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16018": {
+        "id": 16018,
+        "enterID": "13,26",
+        "nextNode": [
+            16019
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "23,1,2,1"
+        ],
+        "aimPosition": [
+            "15,33"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            16019
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16019": {
+        "id": 16019,
+        "enterID": "15,33",
+        "nextNode": [
+            16020
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "23,2,2,1"
+        ],
+        "aimPosition": [
+            "13,27"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            16020
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16020": {
+        "id": 16020,
+        "enterID": "13,27",
+        "nextNode": [
+            16021
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "13,1,2,1"
+        ],
+        "aimPosition": [
+            "5,29"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            16021
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16021": {
+        "id": 16021,
+        "enterID": "5,29",
+        "nextNode": [
+            16022
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "23,1,2,1"
+        ],
+        "aimPosition": [
+            "11,27"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            16022
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16022": {
+        "id": 16022,
+        "enterID": "11,27",
+        "nextNode": [
+            16023
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "10,1,1,1"
+        ],
+        "aimPosition": [
+            "10,23"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            16023
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16023": {
+        "id": 16023,
+        "enterID": "10,23",
+        "nextNode": [
+            16024
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "10,1,2,1"
+        ],
+        "aimPosition": [
+            "5,27"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            16024
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16024": {
+        "id": 16024,
+        "enterID": "5,27",
+        "nextNode": [
+            16025
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "23,1,2,1"
+        ],
+        "aimPosition": [
+            "6,28"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            16025
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15001": {
+        "id": 15001,
+        "enterID": "12,45",
+        "nextNode": [
+            15002
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "19,1,3,2"
+        ],
+        "aimPosition": [
+            "7,34"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            15002
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15002": {
+        "id": 15002,
+        "enterID": "7,34",
+        "nextNode": [
+            15003
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "15,4,5,2"
+        ],
+        "aimPosition": [
+            "16,36"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            15003
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15003": {
+        "id": 15003,
+        "enterID": "16,36",
+        "nextNode": [
+            15004
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "17,2,5,2"
+        ],
+        "aimPosition": [
+            "7,25"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            15004
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15004": {
+        "id": 15004,
+        "enterID": "7,25",
+        "nextNode": [
+            15005
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "27,1,4,2"
+        ],
+        "aimPosition": [
+            "15,39"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            15005
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15005": {
+        "id": 15005,
+        "enterID": "15,39",
+        "nextNode": [
+            15006
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "22,5,4,1"
+        ],
+        "aimPosition": [
+            "9,35"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            15006
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15006": {
+        "id": 15006,
+        "enterID": "9,35",
+        "nextNode": [
+            15007
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "20,4,2,1"
+        ],
+        "aimPosition": [
+            "16,39"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            15007
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15007": {
+        "id": 15007,
+        "enterID": "16,39",
+        "nextNode": [
+            15008
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "15,5,3,1"
+        ],
+        "aimPosition": [
+            "16,34"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            15008
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15008": {
+        "id": 15008,
+        "enterID": "16,34",
+        "nextNode": [
+            15009
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "16,2,3,1"
+        ],
+        "aimPosition": [
+            "10,34"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            15009
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15009": {
+        "id": 15009,
+        "enterID": "10,34",
+        "nextNode": [
+            15011
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "22,1,3,2"
+        ],
+        "aimPosition": [
+            "0,0"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            30012
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            2
+        ],
+        "enterDirection": "0"
+    },
+    "16034": {
+        "id": 16034,
+        "enterID": "7,38",
+        "nextNode": [
+            16035
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "15,2,2,1"
+        ],
+        "aimPosition": [
+            "24,51"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            16035
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15011": {
+        "id": 15011,
+        "enterID": "13,30",
+        "nextNode": [
+            15012
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "11,2,4,2"
+        ],
+        "aimPosition": [
+            "21,42"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            15012
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15012": {
+        "id": 15012,
+        "enterID": "21,42",
+        "nextNode": [
+            15013
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "20,2,3,2"
+        ],
+        "aimPosition": [
+            "18,32"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            15013
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15013": {
+        "id": 15013,
+        "enterID": "18,32",
+        "nextNode": [
+            15014
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "14,3,4,2"
+        ],
+        "aimPosition": [
+            "14,33"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            15014
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15014": {
+        "id": 15014,
+        "enterID": "14,33",
+        "nextNode": [
+            15015
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "34,3,2,2"
+        ],
+        "aimPosition": [
+            "7,28"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            15015
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15015": {
+        "id": 15015,
+        "enterID": "7,28",
+        "nextNode": [
+            15016
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "23,3,4,2"
+        ],
+        "aimPosition": [
+            "8,28"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            15016
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15016": {
+        "id": 15016,
+        "enterID": "8,28",
+        "nextNode": [
+            15017
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "30,1,4,2"
+        ],
+        "aimPosition": [
+            "14,30"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            15017
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15017": {
+        "id": 15017,
+        "enterID": "14,30",
+        "nextNode": [
+            15018
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "32,3,3,2"
+        ],
+        "aimPosition": [
+            "14,32"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            15018
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15018": {
+        "id": 15018,
+        "enterID": "14,32",
+        "nextNode": [
+            15019
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "25,1,3,2"
+        ],
+        "aimPosition": [
+            "9,30"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            15019
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15019": {
+        "id": 15019,
+        "enterID": "9,30",
+        "nextNode": [
+            15020
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "28,2,3,2"
+        ],
+        "aimPosition": [
+            "15,28"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            15020
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15020": {
+        "id": 15020,
+        "enterID": "15,28",
+        "nextNode": [
+            15021
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "24,4,3,2"
+        ],
+        "aimPosition": [
+            "9,28"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            15021
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15021": {
+        "id": 15021,
+        "enterID": "9,28",
+        "nextNode": [
+            15022
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "31,3,3,2"
+        ],
+        "aimPosition": [
+            "23,28"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            15022
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15022": {
+        "id": 15022,
+        "enterID": "23,28",
+        "nextNode": [
+            15023
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "26,1,4,1"
+        ],
+        "aimPosition": [
+            "11,31"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            15023
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15023": {
+        "id": 15023,
+        "enterID": "11,31",
+        "nextNode": [
+            15024
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "32,3,4,2"
+        ],
+        "aimPosition": [
+            "23,36"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            15024
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15024": {
+        "id": 15024,
+        "enterID": "23,36",
+        "nextNode": [
+            15025
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "35,2,3,2"
+        ],
+        "aimPosition": [
+            "12,33"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            15025
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14001": {
+        "id": 14001,
+        "enterID": "5,16",
+        "nextNode": [
+            14002
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "40,13,3,1"
+        ],
+        "aimPosition": [
+            "8,36"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            14002
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14002": {
+        "id": 14002,
+        "enterID": "8,36",
+        "nextNode": [
+            14003
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "35,24,3,1"
+        ],
+        "aimPosition": [
+            "7,28"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            14003
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14003": {
+        "id": 14003,
+        "enterID": "7,28",
+        "nextNode": [
+            14004
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "25,5,3,1"
+        ],
+        "aimPosition": [
+            "27,32"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            14004
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14004": {
+        "id": 14004,
+        "enterID": "27,32",
+        "nextNode": [
+            14005
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "26,3,3,1"
+        ],
+        "aimPosition": [
+            "4,31"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            14005
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14005": {
+        "id": 14005,
+        "enterID": "4,31",
+        "nextNode": [
+            14006
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "21,4,3,1"
+        ],
+        "aimPosition": [
+            "3,26"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            14006
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14006": {
+        "id": 14006,
+        "enterID": "3,26",
+        "nextNode": [
+            14007
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "29,3,3,1"
+        ],
+        "aimPosition": [
+            "21,30"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            14007
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14007": {
+        "id": 14007,
+        "enterID": "21,30",
+        "nextNode": [
+            14008
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "34,7,3,1"
+        ],
+        "aimPosition": [
+            "11,42"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            14008
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14008": {
+        "id": 14008,
+        "enterID": "11,42",
+        "nextNode": [
+            14009
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "12,3,3,1"
+        ],
+        "aimPosition": [
+            "18,30"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            14009
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14009": {
+        "id": 14009,
+        "enterID": "18,30",
+        "nextNode": [
+            14010
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "19,2,3,1"
+        ],
+        "aimPosition": [
+            "16,38"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            14010
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14010": {
+        "id": 14010,
+        "enterID": "16,38",
+        "nextNode": [
+            14011
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "14,3,3,1"
+        ],
+        "aimPosition": [
+            "3,24"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            14011
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14011": {
+        "id": 14011,
+        "enterID": "3,24",
+        "nextNode": [
+            14012
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "24,1,3,1"
+        ],
+        "aimPosition": [
+            "11,28"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            14012
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14012": {
+        "id": 14012,
+        "enterID": "11,28",
+        "nextNode": [
+            14013
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "24,4,3,1"
+        ],
+        "aimPosition": [
+            "6,23"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            14013
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14013": {
+        "id": 14013,
+        "enterID": "6,23",
+        "nextNode": [
+            14014
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "23,5,3,1"
+        ],
+        "aimPosition": [
+            "3,28"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            14014
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14014": {
+        "id": 14014,
+        "enterID": "3,28",
+        "nextNode": [
+            14015
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "28,1,3,1"
+        ],
+        "aimPosition": [
+            "5,25"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            14015
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14015": {
+        "id": 14015,
+        "enterID": "5,25",
+        "nextNode": [
+            14016
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "22,1,3,1"
+        ],
+        "aimPosition": [
+            "3,32"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            14016
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14016": {
+        "id": 14016,
+        "enterID": "3,32",
+        "nextNode": [
+            14017
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "25,2,3,1"
+        ],
+        "aimPosition": [
+            "3,34"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            14017
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14017": {
+        "id": 14017,
+        "enterID": "3,34",
+        "nextNode": [
+            14018
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "13,3,3,1"
+        ],
+        "aimPosition": [
+            "9,21"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            14018
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14018": {
+        "id": 14018,
+        "enterID": "9,21",
+        "nextNode": [
+            14019
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "6,2,3,1"
+        ],
+        "aimPosition": [
+            "21,35"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            14019
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14019": {
+        "id": 14019,
+        "enterID": "21,35",
+        "nextNode": [
+            14020
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "20,5,3,1"
+        ],
+        "aimPosition": [
+            "16,26"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            14020
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14020": {
+        "id": 14020,
+        "enterID": "16,26",
+        "nextNode": [
+            14021
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "16,2,3,1"
+        ],
+        "aimPosition": [
+            "15,27"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            14021
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14021": {
+        "id": 14021,
+        "enterID": "15,27",
+        "nextNode": [
+            14022
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "6,3,3,1"
+        ],
+        "aimPosition": [
+            "4,33"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            14022
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14022": {
+        "id": 14022,
+        "enterID": "4,33",
+        "nextNode": [
+            14023
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "16,6,3,1"
+        ],
+        "aimPosition": [
+            "11,29"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            14023
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14023": {
+        "id": 14023,
+        "enterID": "11,29",
+        "nextNode": [
+            14024
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "15,3,3,1"
+        ],
+        "aimPosition": [
+            "12,26"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            14024
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14024": {
+        "id": 14024,
+        "enterID": "12,26",
+        "nextNode": [
+            14025
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "23,3,3,1"
+        ],
+        "aimPosition": [
+            "10,31"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            14025
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13001": {
+        "id": 13001,
+        "enterID": "16,17",
+        "nextNode": [
+            13002
+        ],
+        "isShowInMap": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "exitSituation": [
+            "40,2,2,1",
+            "1,1,1,1",
+            "2,1,1,1",
+            "3,1,1,1",
+            "4,1,1,1"
+        ],
+        "aimPosition": [
+            "5,28",
+            "10,11",
+            "10,10",
+            "10,10",
+            "10,10"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            13002,
+            13101,
+            13102,
+            13103,
+            13104
+        ],
+        "exitID": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "direction": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13002": {
+        "id": 13002,
+        "enterID": "5,28",
+        "nextNode": [
+            13003
+        ],
+        "isShowInMap": [
+            1,
+            0
+        ],
+        "exitSituation": [
+            "22,2,2,1",
+            "0,0,1,1"
+        ],
+        "aimPosition": [
+            "31,33",
+            "5,5"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            13003,
+            13101
+        ],
+        "exitID": [
+            1,
+            2
+        ],
+        "direction": [
+            0,
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13003": {
+        "id": 13003,
+        "enterID": "31,33",
+        "nextNode": [
+            13004
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "23,3,3,1"
+        ],
+        "aimPosition": [
+            "27,33"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            13004
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13004": {
+        "id": 13004,
+        "enterID": "27,33",
+        "nextNode": [
+            13005
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "26,3,3,1"
+        ],
+        "aimPosition": [
+            "4,32"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            13005
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13005": {
+        "id": 13005,
+        "enterID": "4,32",
+        "nextNode": [
+            13006
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "22,4,2,1"
+        ],
+        "aimPosition": [
+            "3,28"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            13006
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13006": {
+        "id": 13006,
+        "enterID": "3,28",
+        "nextNode": [
+            13007
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "29,3,3,1"
+        ],
+        "aimPosition": [
+            "7,31"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            13007
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13007": {
+        "id": 13007,
+        "enterID": "7,31",
+        "nextNode": [
+            13008
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "23,5,3,1"
+        ],
+        "aimPosition": [
+            "5,33"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            13008
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13008": {
+        "id": 13008,
+        "enterID": "5,33",
+        "nextNode": [
+            13009
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "29,1,2,1"
+        ],
+        "aimPosition": [
+            "19,29"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            13009
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13009": {
+        "id": 13009,
+        "enterID": "19,29",
+        "nextNode": [
+            13010
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "14,5,3,1"
+        ],
+        "aimPosition": [
+            "11,29"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            13010
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13010": {
+        "id": 13010,
+        "enterID": "11,29",
+        "nextNode": [
+            13011
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "32,15,3,1"
+        ],
+        "aimPosition": [
+            "3,25"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            13011
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13011": {
+        "id": 13011,
+        "enterID": "3,25",
+        "nextNode": [
+            13012
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "24,1,3,1"
+        ],
+        "aimPosition": [
+            "20,28"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            13012
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13012": {
+        "id": 13012,
+        "enterID": "20,28",
+        "nextNode": [
+            13013
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "4,2,3,1"
+        ],
+        "aimPosition": [
+            "9,29"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            13013
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13013": {
+        "id": 13013,
+        "enterID": "9,29",
+        "nextNode": [
+            13014
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "24,4,3,1"
+        ],
+        "aimPosition": [
+            "6,24"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            13014
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13014": {
+        "id": 13014,
+        "enterID": "6,24",
+        "nextNode": [
+            13015
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "23,5,3,1"
+        ],
+        "aimPosition": [
+            "6,15"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            13015
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13015": {
+        "id": 13015,
+        "enterID": "6,15",
+        "nextNode": [
+            13016
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "28,2,3,1"
+        ],
+        "aimPosition": [
+            "12,25"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            13016
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13016": {
+        "id": 13016,
+        "enterID": "12,25",
+        "nextNode": [
+            13017
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "17,2,3,1"
+        ],
+        "aimPosition": [
+            "24,37"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            13017
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13017": {
+        "id": 13017,
+        "enterID": "24,37",
+        "nextNode": [
+            13018
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "19,5,3,1"
+        ],
+        "aimPosition": [
+            "8,29"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            13018
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13018": {
+        "id": 13018,
+        "enterID": "8,29",
+        "nextNode": [
+            13019
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "6,2,3,1"
+        ],
+        "aimPosition": [
+            "7,32"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            13019
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13019": {
+        "id": 13019,
+        "enterID": "7,32",
+        "nextNode": [
+            13020
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "22,1,3,1"
+        ],
+        "aimPosition": [
+            "25,17"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            13020
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13020": {
+        "id": 13020,
+        "enterID": "25,17",
+        "nextNode": [
+            13021
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "6,1,3,1"
+        ],
+        "aimPosition": [
+            "21,36"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            13021
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13021": {
+        "id": 13021,
+        "enterID": "21,36",
+        "nextNode": [
+            13022
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "20,5,3,1"
+        ],
+        "aimPosition": [
+            "16,27"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            13022
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13022": {
+        "id": 13022,
+        "enterID": "16,27",
+        "nextNode": [
+            13023
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "16,2,3,1"
+        ],
+        "aimPosition": [
+            "13,26"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            13023
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13023": {
+        "id": 13023,
+        "enterID": "13,26",
+        "nextNode": [
+            13024
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "4,1,3,1"
+        ],
+        "aimPosition": [
+            "10,24"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            13024
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13024": {
+        "id": 13024,
+        "enterID": "10,24",
+        "nextNode": [
+            13025
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "22,10,3,1"
+        ],
+        "aimPosition": [
+            "21,28"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            13025
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "12001": {
+        "id": 12001,
+        "enterID": "2,33",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "12002": {
+        "id": 12002,
+        "enterID": "5,37",
+        "nextNode": [
+            12003
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "29,1,2,1"
+        ],
+        "aimPosition": [
+            "14,32"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            12003
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "12003": {
+        "id": 12003,
+        "enterID": "14,32",
+        "nextNode": [
+            12004
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "39,2,3,1"
+        ],
+        "aimPosition": [
+            "6,28"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            12004
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "12004": {
+        "id": 12004,
+        "enterID": "6,28",
+        "nextNode": [
+            12005
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "32,2,3,1"
+        ],
+        "aimPosition": [
+            "24,33"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            12005
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "12005": {
+        "id": 12005,
+        "enterID": "24,33",
+        "nextNode": [
+            12006
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "12,4,2,1"
+        ],
+        "aimPosition": [
+            "3,3"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            12006
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            4
+        ],
+        "enterDirection": "0"
+    },
+    "12006": {
+        "id": 12006,
+        "enterID": "3,3",
+        "nextNode": [
+            12007
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "21,2,3,1"
+        ],
+        "aimPosition": [
+            "5,35"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            12007
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "4"
+    },
+    "12007": {
+        "id": 12007,
+        "enterID": "5,35",
+        "nextNode": [
+            12008
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "32,8,3,1"
+        ],
+        "aimPosition": [
+            "5,30"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            12008
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "12008": {
+        "id": 12008,
+        "enterID": "5,30",
+        "nextNode": [
+            12009
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "31,2,3,1"
+        ],
+        "aimPosition": [
+            "4,13"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            12009
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            4
+        ],
+        "enterDirection": "0"
+    },
+    "12009": {
+        "id": 12009,
+        "enterID": "4,13",
+        "nextNode": [
+            12010
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "18,5,3,1"
+        ],
+        "aimPosition": [
+            "3,28"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            12010
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "4"
+    },
+    "12010": {
+        "id": 12010,
+        "enterID": "3,28",
+        "nextNode": [
+            12011
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "13,11,3,1"
+        ],
+        "aimPosition": [
+            "9,26"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            12011
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "12011": {
+        "id": 12011,
+        "enterID": "9,26",
+        "nextNode": [
+            12012
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "21,2,3,1"
+        ],
+        "aimPosition": [
+            "2,21"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            12012
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "12012": {
+        "id": 12012,
+        "enterID": "2,21",
+        "nextNode": [
+            12013
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "26,6,1,1"
+        ],
+        "aimPosition": [
+            "3,27"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            12013
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "12013": {
+        "id": 12013,
+        "enterID": "3,27",
+        "nextNode": [
+            12014
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "22,2,3,1"
+        ],
+        "aimPosition": [
+            "3,24"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            12014
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "12014": {
+        "id": 12014,
+        "enterID": "3,24",
+        "nextNode": [
+            12015
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "24,2,3,1"
+        ],
+        "aimPosition": [
+            "3,25"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            12015
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "12015": {
+        "id": 12015,
+        "enterID": "3,25",
+        "nextNode": [
+            12016
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "24,4,3,1"
+        ],
+        "aimPosition": [
+            "7,25"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            12016
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "12016": {
+        "id": 12016,
+        "enterID": "7,25",
+        "nextNode": [
+            12017
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "25,0,3,1"
+        ],
+        "aimPosition": [
+            "2,3"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            12017
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            2
+        ],
+        "enterDirection": "0"
+    },
+    "12017": {
+        "id": 12017,
+        "enterID": "2,3",
+        "nextNode": [
+            12018
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "24,3,1,3"
+        ],
+        "aimPosition": [
+            "3,3"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            12018
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            4
+        ],
+        "enterDirection": "2"
+    },
+    "12018": {
+        "id": 12018,
+        "enterID": "3,3",
+        "nextNode": [
+            12019
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "3,27,1,3"
+        ],
+        "aimPosition": [
+            "3,28"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            12019
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            2
+        ],
+        "enterDirection": "4"
+    },
+    "12019": {
+        "id": 12019,
+        "enterID": "3,28",
+        "nextNode": [
+            12020
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "15,13,3,1"
+        ],
+        "aimPosition": [
+            "5,24"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            12020
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "12020": {
+        "id": 12020,
+        "enterID": "5,24",
+        "nextNode": [
+            12021
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "38,3,1,3"
+        ],
+        "aimPosition": [
+            "3,16"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            12021
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "4"
+    },
+    "12021": {
+        "id": 12021,
+        "enterID": "3,16",
+        "nextNode": [
+            12022
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "22,4,3,1"
+        ],
+        "aimPosition": [
+            "3,24"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            12022
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "12022": {
+        "id": 12022,
+        "enterID": "3,24",
+        "nextNode": [
+            12023
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "31,3,3,1"
+        ],
+        "aimPosition": [
+            "5,33"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            12023
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "12023": {
+        "id": 12023,
+        "enterID": "5,33",
+        "nextNode": [
+            12024
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "23,3,4,1"
+        ],
+        "aimPosition": [
+            "2,25"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            12024
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "11000": {
+        "id": 11000,
+        "enterID": "17,59",
+        "nextNode": [
+            20006
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "25,0,1,1"
+        ],
+        "aimPosition": [
+            "0,0"
+        ],
+        "jumpType": 0,
+        "aimSceneID": [
+            20006
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            6
+        ],
+        "enterDirection": "0"
+    },
+    "12025": {
+        "id": 12025,
+        "enterID": "2,32",
+        "nextNode": [
+            20008
+        ],
+        "isShowInMap": [
+            0,
+            0
+        ],
+        "exitSituation": [
+            "1,1,1,1",
+            "0,0,0,0"
+        ],
+        "aimPosition": [
+            "0,0",
+            "0,0"
+        ],
+        "jumpType": 0,
+        "aimSceneID": [
+            20008,
+            30007
+        ],
+        "exitID": [
+            1,
+            2
+        ],
+        "direction": [
+            0,
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "11003": {
+        "id": 11003,
+        "enterID": "10,7",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 1,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "11004": {
+        "id": 11004,
+        "enterID": "18,8",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 1,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "11005": {
+        "id": 11005,
+        "enterID": "10,7",
+        "nextNode": [
+            13101
+        ],
+        "isShowInMap": [
+            0
+        ],
+        "exitSituation": [
+            "1,1,1,1"
+        ],
+        "aimPosition": [
+            "5,5"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            13101
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "40201": {
+        "id": 40201,
+        "enterID": "4,19",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40202": {
+        "id": 40202,
+        "enterID": "3,17",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40203": {
+        "id": 40203,
+        "enterID": "4,20",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "4"
+    },
+    "40204": {
+        "id": 40204,
+        "enterID": "5,24",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "10001": {
+        "id": 10001,
+        "enterID": "2,27",
+        "nextNode": [
+            10002
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "21,1,1,2"
+        ],
+        "aimPosition": [
+            "3,10"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            10002
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10002": {
+        "id": 10002,
+        "enterID": "3,10",
+        "nextNode": [
+            10003
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "27,2,1,2"
+        ],
+        "aimPosition": [
+            "9,25"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            10003
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10003": {
+        "id": 10003,
+        "enterID": "9,25",
+        "nextNode": [
+            10004
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "9,1,2,1"
+        ],
+        "aimPosition": [
+            "16,46"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            10004
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10004": {
+        "id": 10004,
+        "enterID": "16,46",
+        "nextNode": [
+            10005
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "45,2,1,2"
+        ],
+        "aimPosition": [
+            "4,25"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            10005
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10005": {
+        "id": 10005,
+        "enterID": "4,25",
+        "nextNode": [
+            10007
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "40,0,3,1"
+        ],
+        "aimPosition": [
+            "3,13"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            10007
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10007": {
+        "id": 10007,
+        "enterID": "3,13",
+        "nextNode": [
+            10009
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "30,13,2,1"
+        ],
+        "aimPosition": [
+            "4,25"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            10009
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10009": {
+        "id": 10009,
+        "enterID": "4,25",
+        "nextNode": [
+            10010
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "14,3,3,1"
+        ],
+        "aimPosition": [
+            "4,20"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            10010
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10010": {
+        "id": 10010,
+        "enterID": "4,20",
+        "nextNode": [
+            10011
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "21,5,2,1"
+        ],
+        "aimPosition": [
+            "20,37"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            10011
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10011": {
+        "id": 10011,
+        "enterID": "20,37",
+        "nextNode": [
+            12002
+        ],
+        "isShowInMap": [
+            0,
+            0
+        ],
+        "exitSituation": [
+            "20,5,1,1",
+            "11,21,2,1"
+        ],
+        "aimPosition": [
+            "5,37",
+            "13,25"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            12002,
+            10012
+        ],
+        "exitID": [
+            1,
+            2
+        ],
+        "direction": [
+            0,
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10012": {
+        "id": 10012,
+        "enterID": "13,25",
+        "nextNode": [
+            10013
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "29,3,3,1"
+        ],
+        "aimPosition": [
+            "5,23"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            10013
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10013": {
+        "id": 10013,
+        "enterID": "5,23",
+        "nextNode": [
+            10014
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "25,8,3,1"
+        ],
+        "aimPosition": [
+            "9,27"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            10014
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10014": {
+        "id": 10014,
+        "enterID": "9,27",
+        "nextNode": [
+            10015
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "20,3,3,1"
+        ],
+        "aimPosition": [
+            "4,20"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            10015
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10015": {
+        "id": 10015,
+        "enterID": "4,20",
+        "nextNode": [
+            10016
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "6,2,3,1"
+        ],
+        "aimPosition": [
+            "15,29"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            10016
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10016": {
+        "id": 10016,
+        "enterID": "15,29",
+        "nextNode": [
+            10017
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "11,2,3,1"
+        ],
+        "aimPosition": [
+            "4,24"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            10017
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10017": {
+        "id": 10017,
+        "enterID": "4,24",
+        "nextNode": [
+            10018
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "3,3,3,1"
+        ],
+        "aimPosition": [
+            "11,25"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            10018
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10018": {
+        "id": 10018,
+        "enterID": "11,25",
+        "nextNode": [
+            10019
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "9,1,5,1"
+        ],
+        "aimPosition": [
+            "5,26"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            10019
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10019": {
+        "id": 10019,
+        "enterID": "5,26",
+        "nextNode": [
+            10020
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "4,2,3,1"
+        ],
+        "aimPosition": [
+            "5,22"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            10020
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10020": {
+        "id": 10020,
+        "enterID": "5,22",
+        "nextNode": [
+            10021
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "10,2,5,1"
+        ],
+        "aimPosition": [
+            "16,40"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            10021
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10021": {
+        "id": 10021,
+        "enterID": "16,40",
+        "nextNode": [
+            13001
+        ],
+        "isShowInMap": [
+            0
+        ],
+        "exitSituation": [
+            "3,3,1,1"
+        ],
+        "aimPosition": [
+            "16,17"
+        ],
+        "jumpType": 0,
+        "aimSceneID": [
+            13001
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10022": {
+        "id": 10022,
+        "enterID": "4,22",
+        "nextNode": [
+            10023
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "19,3,2,1"
+        ],
+        "aimPosition": [
+            "12,19"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            10023
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10023": {
+        "id": 10023,
+        "enterID": "12,19",
+        "nextNode": [
+            10024
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "12,2,2,1"
+        ],
+        "aimPosition": [
+            "10,20"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            10024
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10024": {
+        "id": 10024,
+        "enterID": "10,20",
+        "nextNode": [
+            10025
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "16,2,2,1"
+        ],
+        "aimPosition": [
+            "10,27"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            10025
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10025": {
+        "id": 10025,
+        "enterID": "10,27",
+        "nextNode": [
+            10026
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "14,2,2,1"
+        ],
+        "aimPosition": [
+            "5,18"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            10026
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10026": {
+        "id": 10026,
+        "enterID": "5,18",
+        "nextNode": [
+            10027
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "24,2,2,1"
+        ],
+        "aimPosition": [
+            "11,22"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            10027
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10027": {
+        "id": 10027,
+        "enterID": "11,22",
+        "nextNode": [
+            10028
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "11,2,2,1"
+        ],
+        "aimPosition": [
+            "4,18"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            10028
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10028": {
+        "id": 10028,
+        "enterID": "4,18",
+        "nextNode": [
+            10029
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "23,2,2,1"
+        ],
+        "aimPosition": [
+            "11,21"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            10029
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10029": {
+        "id": 10029,
+        "enterID": "11,21",
+        "nextNode": [
+            10030
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "11,1,2,1"
+        ],
+        "aimPosition": [
+            "6,33"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            10030
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10030": {
+        "id": 10030,
+        "enterID": "6,33",
+        "nextNode": [
+            10031
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "6,1,2,1"
+        ],
+        "aimPosition": [
+            "13,37"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            10031
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10031": {
+        "id": 10031,
+        "enterID": "13,37",
+        "nextNode": {},
+        "isShowInMap": [
+            0
+        ],
+        "exitSituation": [
+            "1,1,1,1"
+        ],
+        "aimPosition": [
+            "5,16"
+        ],
+        "jumpType": 0,
+        "aimSceneID": [
+            14001
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10032": {
+        "id": 10032,
+        "enterID": "9,27",
+        "nextNode": [
+            10033
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "16,1,2,1"
+        ],
+        "aimPosition": [
+            "9,23"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            10033
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10033": {
+        "id": 10033,
+        "enterID": "9,23",
+        "nextNode": [
+            10034
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "12,1,2,1"
+        ],
+        "aimPosition": [
+            "14,22"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            10034
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10034": {
+        "id": 10034,
+        "enterID": "14,22",
+        "nextNode": [
+            10035
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "7,2,2,1"
+        ],
+        "aimPosition": [
+            "4,20"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            10035
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10035": {
+        "id": 10035,
+        "enterID": "4,20",
+        "nextNode": [
+            10036
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "15,8,2,1"
+        ],
+        "aimPosition": [
+            "5,20"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            10036
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10036": {
+        "id": 10036,
+        "enterID": "5,20",
+        "nextNode": [
+            10037
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "15,2,2,1"
+        ],
+        "aimPosition": [
+            "13,27"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            10037
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10037": {
+        "id": 10037,
+        "enterID": "13,27",
+        "nextNode": [
+            10038
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "4,4,2,1"
+        ],
+        "aimPosition": [
+            "4,16"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            10038
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10038": {
+        "id": 10038,
+        "enterID": "4,16",
+        "nextNode": [
+            10039
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "17,1,2,1"
+        ],
+        "aimPosition": [
+            "6,29"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            10039
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10039": {
+        "id": 10039,
+        "enterID": "6,29",
+        "nextNode": [
+            10040
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "5,1,2,1"
+        ],
+        "aimPosition": [
+            "11,33"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            10040
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10040": {
+        "id": 10040,
+        "enterID": "11,33",
+        "nextNode": [
+            10041
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "7,2,2,1"
+        ],
+        "aimPosition": [
+            "13,38"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            10041
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "10041": {
+        "id": 10041,
+        "enterID": "13,38",
+        "nextNode": {},
+        "isShowInMap": [
+            0,
+            0
+        ],
+        "exitSituation": [
+            "1,1,1,1",
+            "1,1,1,1"
+        ],
+        "aimPosition": [
+            "12,45",
+            "14,27"
+        ],
+        "jumpType": 0,
+        "aimSceneID": [
+            15001,
+            30006
+        ],
+        "exitID": [
+            1,
+            2
+        ],
+        "direction": [
+            0,
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "30012": {
+        "id": 30012,
+        "enterID": "0,0",
+        "nextNode": [
+            15011
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "0,0,1,1"
+        ],
+        "aimPosition": [
+            "13,30"
+        ],
+        "jumpType": 0,
+        "aimSceneID": [
+            15011
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "2"
+    },
+    "40301": {
+        "id": 40301,
+        "enterID": "3,11",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "4"
+    },
+    "40302": {
+        "id": 40302,
+        "enterID": "4,25",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40303": {
+        "id": 40303,
+        "enterID": "4,22",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40304": {
+        "id": 40304,
+        "enterID": "4,21",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40311": {
+        "id": 40311,
+        "enterID": "3,11",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "4"
+    },
+    "40312": {
+        "id": 40312,
+        "enterID": "4,25",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40313": {
+        "id": 40313,
+        "enterID": "4,22",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40314": {
+        "id": 40314,
+        "enterID": "4,21",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40321": {
+        "id": 40321,
+        "enterID": "3,11",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "4"
+    },
+    "40322": {
+        "id": 40322,
+        "enterID": "4,25",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40323": {
+        "id": 40323,
+        "enterID": "4,22",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40324": {
+        "id": 40324,
+        "enterID": "4,21",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40123": {
+        "id": 40123,
+        "enterID": "4,21",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40122": {
+        "id": 40122,
+        "enterID": "4,22",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40121": {
+        "id": 40121,
+        "enterID": "4,21",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40113": {
+        "id": 40113,
+        "enterID": "4,21",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40112": {
+        "id": 40112,
+        "enterID": "4,22",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40111": {
+        "id": 40111,
+        "enterID": "4,21",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40103": {
+        "id": 40103,
+        "enterID": "4,21",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40102": {
+        "id": 40102,
+        "enterID": "4,22",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "40101": {
+        "id": 40101,
+        "enterID": "4,21",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 0,
+        "aimSceneID": {},
+        "exitID": {},
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "30006": {
+        "id": 30006,
+        "enterID": "14,27",
+        "nextNode": {},
+        "isShowInMap": [
+            0
+        ],
+        "exitSituation": [
+            "5,4,4,1"
+        ],
+        "aimPosition": [
+            "12,45"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            15001
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "30003": {
+        "id": 30003,
+        "enterID": "0,0",
+        "nextNode": [
+            12002
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": {},
+        "aimPosition": [
+            "5,37"
+        ],
+        "jumpType": 0,
+        "aimSceneID": [
+            12002
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16035": {
+        "id": 16035,
+        "enterID": "24,51",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": {},
+        "jumpType": 2,
+        "aimSceneID": {},
+        "exitID": [
+            1
+        ],
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "16033": {
+        "id": 16033,
+        "enterID": "6,31",
+        "nextNode": [
+            16034
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "24,2,2,1"
+        ],
+        "aimPosition": [
+            "7,38"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            16034
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16032": {
+        "id": 16032,
+        "enterID": "7,26",
+        "nextNode": [
+            16033
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "20,2,2,1"
+        ],
+        "aimPosition": [
+            "6,31"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            16033
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16031": {
+        "id": 16031,
+        "enterID": "7,34",
+        "nextNode": [
+            16032
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "25,1,2,1"
+        ],
+        "aimPosition": [
+            "7,26"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            16032
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16030": {
+        "id": 16030,
+        "enterID": "12,33",
+        "nextNode": [
+            16031
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "11,1,3,1"
+        ],
+        "aimPosition": [
+            "7,34"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            16031
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16029": {
+        "id": 16029,
+        "enterID": "6,18",
+        "nextNode": [
+            16030
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "19,2,3,1"
+        ],
+        "aimPosition": [
+            "12,33"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            16030
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16028": {
+        "id": 16028,
+        "enterID": "5,20",
+        "nextNode": [
+            16029
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "19,1,4,1"
+        ],
+        "aimPosition": [
+            "6,18"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            16029
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16027": {
+        "id": 16027,
+        "enterID": "4,20",
+        "nextNode": [
+            16028
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "24,3,3,1"
+        ],
+        "aimPosition": [
+            "5,20"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            16028
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16026": {
+        "id": 16026,
+        "enterID": "7,26",
+        "nextNode": [
+            16027
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "20,7,4,1"
+        ],
+        "aimPosition": [
+            "4,20"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            16027
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "16025": {
+        "id": 16025,
+        "enterID": "6,28",
+        "nextNode": [
+            16026
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "24,1,4,1"
+        ],
+        "aimPosition": [
+            "7,26"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            16026
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15035": {
+        "id": 15035,
+        "enterID": "10,21",
+        "nextNode": {},
+        "isShowInMap": {},
+        "exitSituation": {},
+        "aimPosition": [
+            "7,26"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            16001
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": {},
+        "enterDirection": "0"
+    },
+    "15034": {
+        "id": 15034,
+        "enterID": "19,38",
+        "nextNode": [
+            15035
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "18,2,3,2"
+        ],
+        "aimPosition": [
+            "10,21"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            15035
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15033": {
+        "id": 15033,
+        "enterID": "24,32",
+        "nextNode": [
+            15034
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "23,3,3,2"
+        ],
+        "aimPosition": [
+            "19,38"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            15034
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15032": {
+        "id": 15032,
+        "enterID": "15,37",
+        "nextNode": [
+            15033
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "14,3,3,2"
+        ],
+        "aimPosition": [
+            "24,32"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            15033
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15031": {
+        "id": 15031,
+        "enterID": "17,34",
+        "nextNode": [
+            15032
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "22,3,3,2"
+        ],
+        "aimPosition": [
+            "15,37"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            15032
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15030": {
+        "id": 15030,
+        "enterID": "22,40",
+        "nextNode": [
+            15031
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "16,2,4,2"
+        ],
+        "aimPosition": [
+            "17,34"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            15031
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15029": {
+        "id": 15029,
+        "enterID": "12,36",
+        "nextNode": [
+            15030
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "28,2,3,2"
+        ],
+        "aimPosition": [
+            "22,40"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            15030
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15028": {
+        "id": 15028,
+        "enterID": "14,34",
+        "nextNode": [
+            15029
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "24,6,3,2"
+        ],
+        "aimPosition": [
+            "12,36"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            15029
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15027": {
+        "id": 15027,
+        "enterID": "5,32",
+        "nextNode": [
+            15028
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "19,3,3,2"
+        ],
+        "aimPosition": [
+            "14,34"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            15028
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15026": {
+        "id": 15026,
+        "enterID": "18,35",
+        "nextNode": [
+            15027
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "14,4,4,2"
+        ],
+        "aimPosition": [
+            "5,32"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            15027
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "15025": {
+        "id": 15025,
+        "enterID": "12,33",
+        "nextNode": [
+            15026
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "24,3,4,2"
+        ],
+        "aimPosition": [
+            "18,35"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            15026
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14038": {
+        "id": 14038,
+        "enterID": "17,37",
+        "nextNode": {},
+        "isShowInMap": [
+            0
+        ],
+        "exitSituation": [
+            "0,0,1,1"
+        ],
+        "aimPosition": [
+            "9,27"
+        ],
+        "jumpType": 0,
+        "aimSceneID": [
+            10032
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14037": {
+        "id": 14037,
+        "enterID": "5,45",
+        "nextNode": [
+            14038
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "18,2,4,1"
+        ],
+        "aimPosition": [
+            "17,37"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            14038
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14036": {
+        "id": 14036,
+        "enterID": "10,31",
+        "nextNode": [
+            14037
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "9,4,3,1"
+        ],
+        "aimPosition": [
+            "5,45"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            14037
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14035": {
+        "id": 14035,
+        "enterID": "17,37",
+        "nextNode": [
+            14036
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "6,3,1,1"
+        ],
+        "aimPosition": [
+            "10,31"
+        ],
+        "jumpType": 0,
+        "aimSceneID": [
+            14036
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14034": {
+        "id": 14034,
+        "enterID": "24,26",
+        "nextNode": [
+            14035
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "5,8,3,1"
+        ],
+        "aimPosition": [
+            "17,37"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            14035
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14033": {
+        "id": 14033,
+        "enterID": "23,24",
+        "nextNode": [
+            14034
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "6,5,3,1"
+        ],
+        "aimPosition": [
+            "24,26"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            14034
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14032": {
+        "id": 14032,
+        "enterID": "27,23",
+        "nextNode": [
+            14033
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "17,7,3,1"
+        ],
+        "aimPosition": [
+            "23,24"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            14033
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14031": {
+        "id": 14031,
+        "enterID": "6,31",
+        "nextNode": [
+            14032
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "24,3,3,1"
+        ],
+        "aimPosition": [
+            "27,23"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            14032
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14030": {
+        "id": 14030,
+        "enterID": "5,28",
+        "nextNode": [
+            14031
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "4,4,3,1"
+        ],
+        "aimPosition": [
+            "6,31"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            14031
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14029": {
+        "id": 14029,
+        "enterID": "18,34",
+        "nextNode": [
+            14030
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "22,3,3,1"
+        ],
+        "aimPosition": [
+            "5,28"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            14030
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14028": {
+        "id": 14028,
+        "enterID": "14,55",
+        "nextNode": [
+            14029
+        ],
+        "isShowInMap": [
+            0
+        ],
+        "exitSituation": [
+            "1,1,1,1"
+        ],
+        "aimPosition": [
+            "18,34"
+        ],
+        "jumpType": 0,
+        "aimSceneID": [
+            14029
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14027": {
+        "id": 14027,
+        "enterID": "5,45",
+        "nextNode": [
+            14028
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "18,2,4,1"
+        ],
+        "aimPosition": [
+            "14,55"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            14028
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14026": {
+        "id": 14026,
+        "enterID": "4,32",
+        "nextNode": [
+            14027
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "19,3,3,1"
+        ],
+        "aimPosition": [
+            "5,45"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            14027
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "14025": {
+        "id": 14025,
+        "enterID": "10,31",
+        "nextNode": [
+            14026
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "9,4,3,1"
+        ],
+        "aimPosition": [
+            "4,32"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            14026
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13104": {
+        "id": 13104,
+        "enterID": "10,10",
+        "nextNode": [
+            13001
+        ],
+        "isShowInMap": [
+            0
+        ],
+        "exitSituation": [
+            "1,1,1,1"
+        ],
+        "aimPosition": [
+            "41,36"
+        ],
+        "jumpType": 0,
+        "aimSceneID": [
+            13001
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13103": {
+        "id": 13103,
+        "enterID": "10,10",
+        "nextNode": [
+            13001
+        ],
+        "isShowInMap": [
+            0
+        ],
+        "exitSituation": [
+            "1,1,1,1"
+        ],
+        "aimPosition": [
+            "24,29"
+        ],
+        "jumpType": 0,
+        "aimSceneID": [
+            13001
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13102": {
+        "id": 13102,
+        "enterID": "10,10",
+        "nextNode": [
+            13001
+        ],
+        "isShowInMap": [
+            0
+        ],
+        "exitSituation": [
+            "1,1,1,1"
+        ],
+        "aimPosition": [
+            "4,37"
+        ],
+        "jumpType": 0,
+        "aimSceneID": [
+            13001
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13101": {
+        "id": 13101,
+        "enterID": "5,5",
+        "nextNode": [
+            13001
+        ],
+        "isShowInMap": [
+            0
+        ],
+        "exitSituation": [
+            "1,1,1,1"
+        ],
+        "aimPosition": [
+            "25,37"
+        ],
+        "jumpType": 0,
+        "aimSceneID": [
+            13001
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13035": {
+        "id": 13035,
+        "enterID": "14,56",
+        "nextNode": [
+            10022
+        ],
+        "isShowInMap": [
+            0,
+            0
+        ],
+        "exitSituation": [
+            "0,0,1,1",
+            "0,0,1,1"
+        ],
+        "aimPosition": [
+            "4,22",
+            "12,13"
+        ],
+        "jumpType": 0,
+        "aimSceneID": [
+            10022,
+            13035
+        ],
+        "exitID": [
+            1,
+            2
+        ],
+        "direction": [
+            0,
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13034": {
+        "id": 13034,
+        "enterID": "5,36",
+        "nextNode": [
+            13035
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "19,3,1,1"
+        ],
+        "aimPosition": [
+            "14,56"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            13035
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13033": {
+        "id": 13033,
+        "enterID": "4,28",
+        "nextNode": [
+            13034
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "5,3,3,1"
+        ],
+        "aimPosition": [
+            "5,36"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            13034
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13032": {
+        "id": 13032,
+        "enterID": "5,45",
+        "nextNode": [
+            13033
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "20,2,1,1"
+        ],
+        "aimPosition": [
+            "4,28"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            13033
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13031": {
+        "id": 13031,
+        "enterID": "3,32",
+        "nextNode": [
+            13032
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "18,2,3,1"
+        ],
+        "aimPosition": [
+            "5,45"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            13032
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13030": {
+        "id": 13030,
+        "enterID": "10,32",
+        "nextNode": [
+            13031
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "10,4,1,1"
+        ],
+        "aimPosition": [
+            "3,32"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            13031
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13029": {
+        "id": 13029,
+        "enterID": "4,22",
+        "nextNode": [
+            13030
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "13,3,3,1"
+        ],
+        "aimPosition": [
+            "10,32"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            13030
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13028": {
+        "id": 13028,
+        "enterID": "4,27",
+        "nextNode": [
+            13029
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "18,3,3,1"
+        ],
+        "aimPosition": [
+            "4,22"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            13029
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13027": {
+        "id": 13027,
+        "enterID": "11,29",
+        "nextNode": [
+            13028
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "15,3,3,1"
+        ],
+        "aimPosition": [
+            "4,27"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            13028
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13026": {
+        "id": 13026,
+        "enterID": "4,34",
+        "nextNode": [
+            13027
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "16,6,3,1"
+        ],
+        "aimPosition": [
+            "11,29"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            13027
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "13025": {
+        "id": 13025,
+        "enterID": "21,28",
+        "nextNode": [
+            13026
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "10,1,3,1"
+        ],
+        "aimPosition": [
+            "4,34"
+        ],
+        "jumpType": 1,
+        "aimSceneID": [
+            13026
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    },
+    "12024": {
+        "id": 12024,
+        "enterID": "2,25",
+        "nextNode": [
+            12025
+        ],
+        "isShowInMap": [
+            1
+        ],
+        "exitSituation": [
+            "30,3,5,1"
+        ],
+        "aimPosition": [
+            "2,32"
+        ],
+        "jumpType": 2,
+        "aimSceneID": [
+            12025
+        ],
+        "exitID": [
+            1
+        ],
+        "direction": [
+            0
+        ],
+        "enterDirection": "0"
+    }
+}

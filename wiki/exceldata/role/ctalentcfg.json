@@ -1,0 +1,93 @@
+[
+    {
+        "parameter1": 20,
+        "id": 1,
+        "type": 1,
+        "parameter2": 10,
+        "costAP": 1
+    },
+    {
+        "parameter1": 30,
+        "id": 2,
+        "type": 1,
+        "parameter2": 10,
+        "costAP": 1
+    },
+    {
+        "parameter1": 40,
+        "id": 3,
+        "type": 1,
+        "parameter2": 10,
+        "costAP": 1
+    },
+    {
+        "parameter1": 50,
+        "id": 4,
+        "type": 1,
+        "parameter2": 10,
+        "costAP": 1
+    },
+    {
+        "parameter1": 60,
+        "id": 5,
+        "type": 1,
+        "parameter2": 10,
+        "costAP": 1
+    },
+    {
+        "parameter1": 20,
+        "id": 6,
+        "type": 1,
+        "parameter2": 10,
+        "costAP": 1
+    },
+    {
+        "parameter1": 30,
+        "id": 7,
+        "type": 1,
+        "parameter2": 10,
+        "costAP": 1
+    },
+    {
+        "parameter1": 40,
+        "id": 8,
+        "type": 1,
+        "parameter2": 20,
+        "costAP": 2
+    },
+    {
+        "parameter1": 50,
+        "id": 9,
+        "type": 1,
+        "parameter2": 20,
+        "costAP": 2
+    },
+    {
+        "parameter1": 60,
+        "id": 10,
+        "type": 1,
+        "parameter2": 20,
+        "costAP": 2
+    },
+    {
+        "parameter1": 20,
+        "id": 11,
+        "type": 1,
+        "parameter2": 20,
+        "costAP": 2
+    },
+    {
+        "parameter1": 40,
+        "id": 12,
+        "type": 1,
+        "parameter2": 20,
+        "costAP": 2
+    },
+    {
+        "parameter1": 500021,
+        "id": 13,
+        "type": 2,
+        "parameter2": 500041,
+        "costAP": 2
+    }
+]

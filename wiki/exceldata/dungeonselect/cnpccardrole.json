@@ -1,0 +1,899 @@
+[
+    {
+        "likabilityLevel": 5,
+        "id": 1,
+        "evolutionLevel": 1,
+        "equipId": [
+            46204,
+            47603,
+            47803
+        ],
+        "cardRoleLevel": 100,
+        "equipBreakLevel": [
+            0,
+            0,
+            0
+        ],
+        "ability3": [
+            1121
+        ],
+        "equipLevel": [
+            5,
+            3,
+            3
+        ],
+        "skillLevel": [
+            2,
+            2
+        ],
+        "ability1": [
+            1022
+        ],
+        "cardRoleId": 76,
+        "passiveSkillLevel": 1,
+        "breakLevel": 2,
+        "ability2": [
+            1121
+        ]
+    },
+    {
+        "likabilityLevel": 7,
+        "id": 2,
+        "evolutionLevel": 2,
+        "equipId": [
+            46202,
+            47602,
+            47802
+        ],
+        "cardRoleLevel": 145,
+        "equipBreakLevel": [
+            0,
+            0,
+            0
+        ],
+        "ability3": [
+            1122
+        ],
+        "equipLevel": [
+            6,
+            2,
+            2
+        ],
+        "skillLevel": [
+            3,
+            3
+        ],
+        "ability1": [
+            1021
+        ],
+        "cardRoleId": 76,
+        "passiveSkillLevel": 1,
+        "breakLevel": 3,
+        "ability2": [
+            1122
+        ]
+    },
+    {
+        "likabilityLevel": 6,
+        "id": 3,
+        "evolutionLevel": 1,
+        "equipId": [
+            46204,
+            47603,
+            48003
+        ],
+        "cardRoleLevel": 103,
+        "equipBreakLevel": [
+            0,
+            0,
+            0
+        ],
+        "ability3": [
+            1111
+        ],
+        "equipLevel": [
+            5,
+            3,
+            3
+        ],
+        "skillLevel": [
+            2,
+            2
+        ],
+        "ability1": [
+            1032
+        ],
+        "cardRoleId": 2,
+        "passiveSkillLevel": 1,
+        "breakLevel": 2,
+        "ability2": [
+            1121
+        ]
+    },
+    {
+        "likabilityLevel": 7,
+        "id": 4,
+        "evolutionLevel": 1,
+        "equipId": [
+            46204,
+            47604,
+            48004
+        ],
+        "cardRoleLevel": 125,
+        "equipBreakLevel": [
+            0,
+            0,
+            0
+        ],
+        "ability3": [
+            1112
+        ],
+        "equipLevel": [
+            3,
+            4,
+            4
+        ],
+        "skillLevel": [
+            2,
+            2
+        ],
+        "ability1": [
+            1082
+        ],
+        "cardRoleId": 2,
+        "passiveSkillLevel": 1,
+        "breakLevel": 2,
+        "ability2": [
+            1122
+        ]
+    },
+    {
+        "likabilityLevel": 4,
+        "id": 5,
+        "evolutionLevel": 1,
+        "equipId": [
+            46202,
+            47604,
+            47804
+        ],
+        "cardRoleLevel": 95,
+        "equipBreakLevel": [
+            0,
+            0,
+            0
+        ],
+        "ability3": [
+            1123
+        ],
+        "equipLevel": [
+            4,
+            4,
+            4
+        ],
+        "skillLevel": [
+            2,
+            2
+        ],
+        "ability1": [
+            1031
+        ],
+        "cardRoleId": 9,
+        "passiveSkillLevel": 1,
+        "breakLevel": 2,
+        "ability2": [
+            1132
+        ]
+    },
+    {
+        "likabilityLevel": 6,
+        "id": 6,
+        "evolutionLevel": 2,
+        "equipId": [
+            46201,
+            47603,
+            48002
+        ],
+        "cardRoleLevel": 115,
+        "equipBreakLevel": [
+            0,
+            0,
+            0
+        ],
+        "ability3": [
+            1021
+        ],
+        "equipLevel": [
+            3,
+            3,
+            2
+        ],
+        "skillLevel": [
+            2,
+            2
+        ],
+        "ability1": {},
+        "cardRoleId": 9,
+        "passiveSkillLevel": 1,
+        "breakLevel": 2,
+        "ability2": [
+            1131
+        ]
+    },
+    {
+        "likabilityLevel": 5,
+        "id": 7,
+        "evolutionLevel": 1,
+        "equipId": [
+            46204,
+            47602,
+            47802
+        ],
+        "cardRoleLevel": 97,
+        "equipBreakLevel": [
+            0,
+            0,
+            0
+        ],
+        "ability3": [
+            1021
+        ],
+        "equipLevel": [
+            5,
+            2,
+            2
+        ],
+        "skillLevel": [
+            2,
+            2
+        ],
+        "ability1": [
+            1022
+        ],
+        "cardRoleId": 4,
+        "passiveSkillLevel": 1,
+        "breakLevel": 2,
+        "ability2": [
+            1121
+        ]
+    },
+    {
+        "likabilityLevel": 6,
+        "id": 8,
+        "evolutionLevel": 2,
+        "equipId": [
+            46204,
+            47604,
+            47803
+        ],
+        "cardRoleLevel": 120,
+        "equipBreakLevel": [
+            0,
+            0,
+            0
+        ],
+        "ability3": [
+            1031
+        ],
+        "equipLevel": [
+            3,
+            4,
+            3
+        ],
+        "skillLevel": [
+            2,
+            2
+        ],
+        "ability1": [
+            1032
+        ],
+        "cardRoleId": 4,
+        "passiveSkillLevel": 1,
+        "breakLevel": 2,
+        "ability2": [
+            1132
+        ]
+    },
+    {
+        "likabilityLevel": 4,
+        "id": 9,
+        "evolutionLevel": 1,
+        "equipId": [
+            45206,
+            47404,
+            47806
+        ],
+        "cardRoleLevel": 110,
+        "equipBreakLevel": [
+            0,
+            0,
+            0
+        ],
+        "ability3": [
+            1023,
+            1103
+        ],
+        "equipLevel": [
+            6,
+            4,
+            5
+        ],
+        "skillLevel": [
+            2,
+            2
+        ],
+        "ability1": [
+            1023,
+            1033
+        ],
+        "cardRoleId": 8,
+        "passiveSkillLevel": 1,
+        "breakLevel": 2,
+        "ability2": [
+            1122
+        ]
+    },
+    {
+        "likabilityLevel": 7,
+        "id": 10,
+        "evolutionLevel": 1,
+        "equipId": [
+            45204,
+            47406,
+            47803
+        ],
+        "cardRoleLevel": 135,
+        "equipBreakLevel": [
+            0,
+            0,
+            0
+        ],
+        "ability3": [
+            1031
+        ],
+        "equipLevel": [
+            5,
+            5,
+            3
+        ],
+        "skillLevel": [
+            3,
+            3
+        ],
+        "ability1": [
+            1022
+        ],
+        "cardRoleId": 8,
+        "passiveSkillLevel": 1,
+        "breakLevel": 3,
+        "ability2": [
+            1123,
+            1123
+        ]
+    },
+    {
+        "likabilityLevel": 8,
+        "id": 11,
+        "evolutionLevel": 1,
+        "equipId": [
+            45204,
+            47403,
+            48003
+        ],
+        "cardRoleLevel": 105,
+        "equipBreakLevel": [
+            0,
+            0,
+            0
+        ],
+        "ability3": [
+            1021
+        ],
+        "equipLevel": [
+            4,
+            3,
+            3
+        ],
+        "skillLevel": [
+            2,
+            2
+        ],
+        "ability1": [
+            1022
+        ],
+        "cardRoleId": 59,
+        "passiveSkillLevel": 1,
+        "breakLevel": 2,
+        "ability2": [
+            1121
+        ]
+    },
+    {
+        "likabilityLevel": 4,
+        "id": 12,
+        "evolutionLevel": 1,
+        "equipId": [
+            45206,
+            47404,
+            48004
+        ],
+        "cardRoleLevel": 131,
+        "equipBreakLevel": [
+            0,
+            0,
+            0
+        ],
+        "ability3": [
+            1082
+        ],
+        "equipLevel": [
+            5,
+            4,
+            4
+        ],
+        "skillLevel": [
+            3,
+            3
+        ],
+        "ability1": [
+            1023,
+            1034
+        ],
+        "cardRoleId": 59,
+        "passiveSkillLevel": 1,
+        "breakLevel": 3,
+        "ability2": [
+            1122
+        ]
+    },
+    {
+        "likabilityLevel": 2,
+        "id": 13,
+        "evolutionLevel": 1,
+        "equipId": [
+            45204,
+            47406,
+            48006
+        ],
+        "cardRoleLevel": 99,
+        "equipBreakLevel": [
+            0,
+            0,
+            0
+        ],
+        "ability3": [
+            1024,
+            1103
+        ],
+        "equipLevel": [
+            3,
+            5,
+            5
+        ],
+        "skillLevel": [
+            2,
+            2
+        ],
+        "ability1": [
+            1032
+        ],
+        "cardRoleId": 49,
+        "passiveSkillLevel": 1,
+        "breakLevel": 2,
+        "ability2": [
+            1124,
+            1134
+        ]
+    },
+    {
+        "likabilityLevel": 5,
+        "id": 14,
+        "evolutionLevel": 1,
+        "equipId": [
+            45206,
+            47403,
+            47804
+        ],
+        "cardRoleLevel": 127,
+        "equipBreakLevel": [
+            0,
+            0,
+            0
+        ],
+        "ability3": [
+            1022
+        ],
+        "equipLevel": [
+            6,
+            3,
+            4
+        ],
+        "skillLevel": [
+            2,
+            2
+        ],
+        "ability1": [
+            1033,
+            1083
+        ],
+        "cardRoleId": 49,
+        "passiveSkillLevel": 1,
+        "breakLevel": 2,
+        "ability2": [
+            1121
+        ]
+    },
+    {
+        "likabilityLevel": 3,
+        "id": 15,
+        "evolutionLevel": 1,
+        "equipId": [
+            45204,
+            47402,
+            47804
+        ],
+        "cardRoleLevel": 97,
+        "equipBreakLevel": [
+            0,
+            0,
+            0
+        ],
+        "ability3": [
+            1032
+        ],
+        "equipLevel": [
+            4,
+            2,
+            4
+        ],
+        "skillLevel": [
+            2,
+            2
+        ],
+        "ability1": [
+            1022
+        ],
+        "cardRoleId": 27,
+        "passiveSkillLevel": 1,
+        "breakLevel": 2,
+        "ability2": [
+            1122
+        ]
+    },
+    {
+        "likabilityLevel": 4,
+        "id": 16,
+        "evolutionLevel": 1,
+        "equipId": [
+            45204,
+            47406,
+            47803
+        ],
+        "cardRoleLevel": 131,
+        "equipBreakLevel": [
+            0,
+            0,
+            0
+        ],
+        "ability3": [
+            1021
+        ],
+        "equipLevel": [
+            3,
+            5,
+            3
+        ],
+        "skillLevel": [
+            3,
+            3
+        ],
+        "ability1": [
+            1022
+        ],
+        "cardRoleId": 27,
+        "passiveSkillLevel": 1,
+        "breakLevel": 3,
+        "ability2": [
+            1124,
+            1133
+        ]
+    },
+    {
+        "likabilityLevel": 6,
+        "id": 17,
+        "evolutionLevel": 1,
+        "equipId": [
+            45404,
+            47604,
+            48004
+        ],
+        "cardRoleLevel": 105,
+        "equipBreakLevel": [
+            0,
+            0,
+            0
+        ],
+        "ability3": [
+            1023
+        ],
+        "equipLevel": [
+            5,
+            4,
+            4
+        ],
+        "skillLevel": [
+            2,
+            2
+        ],
+        "ability1": [
+            1032
+        ],
+        "cardRoleId": 16,
+        "passiveSkillLevel": 1,
+        "breakLevel": 2,
+        "ability2": [
+            1122
+        ]
+    },
+    {
+        "likabilityLevel": 7,
+        "id": 18,
+        "evolutionLevel": 1,
+        "equipId": [
+            45404,
+            47404,
+            48006
+        ],
+        "cardRoleLevel": 135,
+        "equipBreakLevel": [
+            0,
+            0,
+            0
+        ],
+        "ability3": [
+            1084,
+            1093
+        ],
+        "equipLevel": [
+            4,
+            4,
+            5
+        ],
+        "skillLevel": [
+            3,
+            3
+        ],
+        "ability1": [
+            1082
+        ],
+        "cardRoleId": 16,
+        "passiveSkillLevel": 1,
+        "breakLevel": 3,
+        "ability2": [
+            1122
+        ]
+    },
+    {
+        "likabilityLevel": 5,
+        "id": 19,
+        "evolutionLevel": 1,
+        "equipId": [
+            47004,
+            47603,
+            48004
+        ],
+        "cardRoleLevel": 87,
+        "equipBreakLevel": [
+            0,
+            0,
+            0
+        ],
+        "ability3": [
+            1022
+        ],
+        "equipLevel": [
+            4,
+            3,
+            4
+        ],
+        "skillLevel": [
+            2,
+            2
+        ],
+        "ability1": [
+            1023
+        ],
+        "cardRoleId": 35,
+        "passiveSkillLevel": 1,
+        "breakLevel": 2,
+        "ability2": [
+            1121
+        ]
+    },
+    {
+        "likabilityLevel": 8,
+        "id": 20,
+        "evolutionLevel": 1,
+        "equipId": [
+            47004,
+            47606,
+            48006
+        ],
+        "cardRoleLevel": 100,
+        "equipBreakLevel": [
+            0,
+            0,
+            0
+        ],
+        "ability3": [
+            1084,
+            1113
+        ],
+        "equipLevel": [
+            4,
+            5,
+            5
+        ],
+        "skillLevel": [
+            2,
+            2
+        ],
+        "ability1": [
+            1033
+        ],
+        "cardRoleId": 35,
+        "passiveSkillLevel": 1,
+        "breakLevel": 2,
+        "ability2": [
+            1123,
+            1123
+        ]
+    },
+    {
+        "likabilityLevel": 4,
+        "id": 21,
+        "evolutionLevel": 1,
+        "equipId": [
+            45804,
+            47603,
+            47803
+        ],
+        "cardRoleLevel": 93,
+        "equipBreakLevel": [
+            0,
+            0,
+            0
+        ],
+        "ability3": [
+            1031
+        ],
+        "equipLevel": [
+            4,
+            3,
+            3
+        ],
+        "skillLevel": [
+            2,
+            2
+        ],
+        "ability1": [
+            1032
+        ],
+        "cardRoleId": 32,
+        "passiveSkillLevel": 1,
+        "breakLevel": 2,
+        "ability2": [
+            1131
+        ]
+    },
+    {
+        "likabilityLevel": 5,
+        "id": 22,
+        "evolutionLevel": 1,
+        "equipId": [
+            45804,
+            47404,
+            47804
+        ],
+        "cardRoleLevel": 99,
+        "equipBreakLevel": [
+            0,
+            0,
+            0
+        ],
+        "ability3": [
+            1033
+        ],
+        "equipLevel": [
+            4,
+            4,
+            4
+        ],
+        "skillLevel": [
+            2,
+            2
+        ],
+        "ability1": [
+            1033
+        ],
+        "cardRoleId": 32,
+        "passiveSkillLevel": 1,
+        "breakLevel": 2,
+        "ability2": [
+            1123
+        ]
+    },
+    {
+        "likabilityLevel": 3,
+        "id": 23,
+        "evolutionLevel": 1,
+        "equipId": [
+            45404,
+            47403,
+            47803
+        ],
+        "cardRoleLevel": 75,
+        "equipBreakLevel": [
+            0,
+            0,
+            0
+        ],
+        "ability3": [
+            1021
+        ],
+        "equipLevel": [
+            3,
+            3,
+            3
+        ],
+        "skillLevel": [
+            2,
+            2
+        ],
+        "ability1": [
+            1082
+        ],
+        "cardRoleId": 75,
+        "passiveSkillLevel": 0,
+        "breakLevel": 2,
+        "ability2": [
+            1131
+        ]
+    },
+    {
+        "likabilityLevel": 5,
+        "id": 24,
+        "evolutionLevel": 1,
+        "equipId": [
+            45404,
+            47602,
+            48003
+        ],
+        "cardRoleLevel": 91,
+        "equipBreakLevel": [
+            0,
+            0,
+            0
+        ],
+        "ability3": [
+            1081
+        ],
+        "equipLevel": [
+            4,
+            2,
+            3
+        ],
+        "skillLevel": [
+            2,
+            2
+        ],
+        "ability1": [
+            1102
+        ],
+        "cardRoleId": 75,
+        "passiveSkillLevel": 1,
+        "breakLevel": 2,
+        "ability2": [
+            1131
+        ]
+    }
+]

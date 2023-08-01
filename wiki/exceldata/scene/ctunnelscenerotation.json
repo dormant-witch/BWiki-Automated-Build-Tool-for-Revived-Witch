@@ -1,0 +1,41 @@
+[
+    {
+        "maxPosZ": 0,
+        "id": 1,
+        "maxPosX": 0,
+        "normalPosZ": 0,
+        "minPosX": 0,
+        "normalRotationY": 6,
+        "minPosZ": 0,
+        "minRotationY": 0,
+        "normalPosX": 0,
+        "sceneObject": "Tunnel\/WalkTunnel",
+        "maxRotationY": 18
+    },
+    {
+        "maxPosZ": 0,
+        "id": 2,
+        "maxPosX": 0,
+        "normalPosZ": 0,
+        "minPosX": 0,
+        "normalRotationY": 0,
+        "minPosZ": 0,
+        "minRotationY": 0,
+        "normalPosX": 0,
+        "sceneObject": "Tunnel\/WalkTunnel\/YiShiJie_TX\/Mask",
+        "maxRotationY": 0
+    },
+    {
+        "maxPosZ": 0.3,
+        "id": 3,
+        "maxPosX": 0.43,
+        "normalPosZ": 0,
+        "minPosX": 0.43,
+        "normalRotationY": 0,
+        "minPosZ": -0.3,
+        "minRotationY": 0,
+        "normalPosX": 0.43,
+        "sceneObject": "ActorTunnel",
+        "maxRotationY": 0
+    }
+]

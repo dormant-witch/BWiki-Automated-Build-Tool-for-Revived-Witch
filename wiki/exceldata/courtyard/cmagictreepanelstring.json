@@ -1,0 +1,79 @@
+{
+    "200": {
+        "id": 200,
+        "stayingfunction": 800088,
+        "illustration": 11901,
+        "scenariostring": [
+            800098,
+            800099,
+            800100
+        ],
+        "stayingnumber": 1439
+    },
+    "700": {
+        "id": 700,
+        "stayingfunction": 800315,
+        "illustration": 11904,
+        "scenariostring": [
+            800192,
+            800192,
+            800192
+        ],
+        "stayingnumber": -1
+    },
+    "600": {
+        "id": 600,
+        "stayingfunction": 800184,
+        "illustration": 11904,
+        "scenariostring": [
+            800185,
+            800186,
+            800187
+        ],
+        "stayingnumber": 1439
+    },
+    "100": {
+        "id": 100,
+        "stayingfunction": 800104,
+        "illustration": 11900,
+        "scenariostring": [
+            800092,
+            800093,
+            800094
+        ],
+        "stayingnumber": -1
+    },
+    "500": {
+        "id": 500,
+        "stayingfunction": 800087,
+        "illustration": 11904,
+        "scenariostring": [
+            800095,
+            800096,
+            800097
+        ],
+        "stayingnumber": 1330
+    },
+    "400": {
+        "id": 400,
+        "stayingfunction": 800086,
+        "illustration": 11903,
+        "scenariostring": [
+            800089,
+            800090,
+            800091
+        ],
+        "stayingnumber": 1439
+    },
+    "300": {
+        "id": 300,
+        "stayingfunction": 800105,
+        "illustration": 11902,
+        "scenariostring": [
+            800101,
+            800102,
+            800103
+        ],
+        "stayingnumber": -1
+    }
+}

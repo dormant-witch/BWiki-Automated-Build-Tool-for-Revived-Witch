@@ -1,0 +1,2507 @@
+{
+    "40064": {
+        "id": 40064,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "在庭院探索异界之镜1次",
+        "UIjumpvalue": 20,
+        "rewardid": 1911,
+        "unlockid": 1001319,
+        "unlockcondition": "2,8",
+        "missionnameTextID": 1000384,
+        "missionname": "异界之镜",
+        "badgeID": 0,
+        "groupID": 29,
+        "endevent": 43,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000461
+    },
+    "40065": {
+        "id": 40065,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "累计在庭院探索异界之镜20次",
+        "UIjumpvalue": 20,
+        "rewardid": 1912,
+        "unlockid": 1001320,
+        "unlockcondition": "2,8",
+        "missionnameTextID": 1000385,
+        "missionname": "异界之镜",
+        "badgeID": 0,
+        "groupID": 29,
+        "endevent": 55,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000462
+    },
+    "40066": {
+        "id": 40066,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "累计在庭院探索异界之镜100次",
+        "UIjumpvalue": 20,
+        "rewardid": 1913,
+        "unlockid": 1001321,
+        "unlockcondition": "2,8",
+        "missionnameTextID": 1000386,
+        "missionname": "异界之镜",
+        "badgeID": 0,
+        "groupID": 29,
+        "endevent": 56,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            500
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000463
+    },
+    "40067": {
+        "id": 40067,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "进行1次炼金",
+        "UIjumpvalue": 20,
+        "rewardid": 1914,
+        "unlockid": 1001322,
+        "unlockcondition": "2,8",
+        "missionnameTextID": 1001001,
+        "missionname": "炼金术",
+        "badgeID": 0,
+        "groupID": 30,
+        "endevent": 132,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001023
+    },
+    "40068": {
+        "id": 40068,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "进行50次炼金",
+        "UIjumpvalue": 20,
+        "rewardid": 1915,
+        "unlockid": 1001323,
+        "unlockcondition": "2,8",
+        "missionnameTextID": 1001002,
+        "missionname": "炼金术",
+        "badgeID": 0,
+        "groupID": 30,
+        "endevent": 133,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001024
+    },
+    "40069": {
+        "id": 40069,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "进行100次炼金",
+        "UIjumpvalue": 20,
+        "rewardid": 1916,
+        "unlockid": 1001324,
+        "unlockcondition": "2,8",
+        "missionnameTextID": 1001003,
+        "missionname": "炼金术",
+        "badgeID": 0,
+        "groupID": 30,
+        "endevent": 134,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            200
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001025
+    },
+    "40070": {
+        "id": 40070,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "庭院全部建筑达到满级",
+        "UIjumpvalue": 20,
+        "rewardid": 1917,
+        "unlockid": 1001325,
+        "unlockcondition": "2,8",
+        "missionnameTextID": 1000780,
+        "missionname": "温馨家园",
+        "badgeID": 24,
+        "groupID": 31,
+        "endevent": 66,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            500,
+            1
+        ],
+        "rewarditem": [
+            35008,
+            31070
+        ],
+        "descriptionTextID": 1000776
+    },
+    "40071": {
+        "id": 40071,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "使用1套家具主题",
+        "UIjumpvalue": 20,
+        "rewardid": 1918,
+        "unlockid": 1001326,
+        "unlockcondition": "2,8",
+        "missionnameTextID": 1001100,
+        "missionname": "主题家具",
+        "badgeID": 0,
+        "groupID": 32,
+        "endevent": 140,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001101
+    },
+    "40072": {
+        "id": 40072,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "使用5套不同的家具主题",
+        "UIjumpvalue": 20,
+        "rewardid": 1919,
+        "unlockid": 1001327,
+        "unlockcondition": "2,8",
+        "missionnameTextID": 1001102,
+        "missionname": "主题家具",
+        "badgeID": 0,
+        "groupID": 32,
+        "endevent": 141,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001103
+    },
+    "40073": {
+        "id": 40073,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "使用10套不同的家具主题",
+        "UIjumpvalue": 20,
+        "rewardid": 1920,
+        "unlockid": 1001328,
+        "unlockcondition": "2,8",
+        "missionnameTextID": 1001104,
+        "missionname": "主题家具",
+        "badgeID": 0,
+        "groupID": 32,
+        "endevent": 142,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            500
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001105
+    },
+    "40077": {
+        "id": 40077,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "通关1次破碎之境",
+        "UIjumpvalue": 30,
+        "rewardid": 2663,
+        "unlockid": 1001329,
+        "unlockcondition": "3,35",
+        "missionnameTextID": 1001106,
+        "missionname": "破碎之境",
+        "badgeID": 0,
+        "groupID": 34,
+        "endevent": 143,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001107
+    },
+    "40078": {
+        "id": 40078,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "通关5次破碎之境",
+        "UIjumpvalue": 30,
+        "rewardid": 2664,
+        "unlockid": 1001330,
+        "unlockcondition": "3,35",
+        "missionnameTextID": 1001108,
+        "missionname": "破碎之境",
+        "badgeID": 0,
+        "groupID": 34,
+        "endevent": 144,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001109
+    },
+    "40079": {
+        "id": 40079,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "通关20次破碎之境",
+        "UIjumpvalue": 30,
+        "rewardid": 2665,
+        "unlockid": 1001331,
+        "unlockcondition": "3,35",
+        "missionnameTextID": 1001110,
+        "missionname": "破碎之境",
+        "badgeID": 0,
+        "groupID": 34,
+        "endevent": 145,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            200
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001111
+    },
+    "40080": {
+        "id": 40080,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "在时空裂隙中获胜10次",
+        "UIjumpvalue": 22,
+        "rewardid": 2666,
+        "unlockid": 1001332,
+        "unlockcondition": "3,10",
+        "missionnameTextID": 1001112,
+        "missionname": "时空裂隙",
+        "badgeID": 0,
+        "groupID": 35,
+        "endevent": 146,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001113
+    },
+    "40081": {
+        "id": 40081,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "在时空裂隙中获胜100次",
+        "UIjumpvalue": 22,
+        "rewardid": 2667,
+        "unlockid": 1001333,
+        "unlockcondition": "3,10",
+        "missionnameTextID": 1001114,
+        "missionname": "时空裂隙",
+        "badgeID": 0,
+        "groupID": 35,
+        "endevent": 147,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001115
+    },
+    "40082": {
+        "id": 40082,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "在时空裂隙中获胜500次",
+        "UIjumpvalue": 22,
+        "rewardid": 2668,
+        "unlockid": 1001334,
+        "unlockcondition": "3,10",
+        "missionnameTextID": 1001116,
+        "missionname": "时空裂隙",
+        "badgeID": 0,
+        "groupID": 35,
+        "endevent": 148,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            200
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001117
+    },
+    "40083": {
+        "id": 40083,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "第一次通关梦境世界",
+        "UIjumpvalue": 17,
+        "rewardid": 2816,
+        "unlockid": 1001344,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000378,
+        "missionname": "回溯梦境",
+        "badgeID": 1,
+        "groupID": 36,
+        "endevent": 37,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40,
+            1
+        ],
+        "rewarditem": [
+            35008,
+            31070
+        ],
+        "descriptionTextID": 1001335
+    },
+    "40084": {
+        "id": 40084,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "魔法树达到3级",
+        "UIjumpvalue": 20,
+        "rewardid": 2817,
+        "unlockid": 1001345,
+        "unlockcondition": "2,8",
+        "missionnameTextID": 1000398,
+        "missionname": "茁壮成长",
+        "badgeID": 18,
+        "groupID": 37,
+        "endevent": 63,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40,
+            1
+        ],
+        "rewarditem": [
+            35008,
+            31070
+        ],
+        "descriptionTextID": 1001336
+    },
+    "40085": {
+        "id": 40085,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "累计完成10个任务",
+        "UIjumpvalue": 0,
+        "rewardid": 2818,
+        "unlockid": 1001346,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000357,
+        "missionname": "肩负使命",
+        "badgeID": 19,
+        "groupID": 38,
+        "endevent": 52,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40,
+            1
+        ],
+        "rewarditem": [
+            35008,
+            31070
+        ],
+        "descriptionTextID": 1000434
+    },
+    "40086": {
+        "id": 40086,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "累计完成100个任务",
+        "UIjumpvalue": 0,
+        "rewardid": 2819,
+        "unlockid": 1001347,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000358,
+        "missionname": "肩负使命",
+        "badgeID": 20,
+        "groupID": 38,
+        "endevent": 53,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80,
+            1
+        ],
+        "rewarditem": [
+            35008,
+            31070
+        ],
+        "descriptionTextID": 1000435
+    },
+    "40087": {
+        "id": 40087,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "累计完成200个任务",
+        "UIjumpvalue": 0,
+        "rewardid": 2820,
+        "unlockid": 1001348,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000359,
+        "missionname": "肩负使命",
+        "badgeID": 21,
+        "groupID": 38,
+        "endevent": 54,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            500,
+            1
+        ],
+        "rewarditem": [
+            35008,
+            31070
+        ],
+        "descriptionTextID": 1000436
+    },
+    "40088": {
+        "id": 40088,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "累计完成一次关卡",
+        "UIjumpvalue": 16,
+        "rewardid": 2821,
+        "unlockid": 1001349,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000351,
+        "missionname": "探索未知",
+        "badgeID": 25,
+        "groupID": 39,
+        "endevent": 16,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40,
+            1
+        ],
+        "rewarditem": [
+            35008,
+            31070
+        ],
+        "descriptionTextID": 1000428
+    },
+    "40089": {
+        "id": 40089,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "累计完成50次关卡",
+        "UIjumpvalue": 16,
+        "rewardid": 2822,
+        "unlockid": 1001350,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000352,
+        "missionname": "探索未知",
+        "badgeID": 26,
+        "groupID": 39,
+        "endevent": 17,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80,
+            1
+        ],
+        "rewarditem": [
+            35008,
+            31070
+        ],
+        "descriptionTextID": 1000429
+    },
+    "40090": {
+        "id": 40090,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "累计完成100次关卡",
+        "UIjumpvalue": 16,
+        "rewardid": 2823,
+        "unlockid": 1001351,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000353,
+        "missionname": "探索未知",
+        "badgeID": 27,
+        "groupID": 39,
+        "endevent": 18,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            500,
+            1
+        ],
+        "rewarditem": [
+            35008,
+            31070
+        ],
+        "descriptionTextID": 1000430
+    },
+    "40091": {
+        "id": 40091,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 4,
+        "jumptype": -1,
+        "description": "完成1次评论",
+        "UIjumpvalue": 0,
+        "rewardid": 2826,
+        "unlockid": 1001347,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1001599,
+        "missionname": "分享经历",
+        "badgeID": 0,
+        "groupID": 40,
+        "endevent": 107,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001600
+    },
+    "40095": {
+        "id": 40095,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "击败卡蜜莉安",
+        "UIjumpvalue": 16,
+        "rewardid": 4069,
+        "unlockid": 1001347,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1001657,
+        "missionname": "嘉庇艾尔的未来",
+        "badgeID": 0,
+        "groupID": 41,
+        "endevent": 153,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001658
+    },
+    "40096": {
+        "id": 40096,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "击败阿卡莎",
+        "UIjumpvalue": 16,
+        "rewardid": 4070,
+        "unlockid": 1001347,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1001659,
+        "missionname": "剑的选择",
+        "badgeID": 0,
+        "groupID": 42,
+        "endevent": 154,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001660
+    },
+    "40000": {
+        "id": 40000,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 4,
+        "jumptype": 2,
+        "description": "拥有第一个好友",
+        "UIjumpvalue": 15,
+        "rewardid": 2826,
+        "unlockid": 1001352,
+        "unlockcondition": "2,16",
+        "missionnameTextID": 1000374,
+        "missionname": "异境的联络",
+        "badgeID": 31,
+        "groupID": 23,
+        "endevent": 33,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40,
+            1
+        ],
+        "rewarditem": [
+            35008,
+            31070
+        ],
+        "descriptionTextID": 1001343
+    },
+    "40001": {
+        "id": 40001,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "击败时空监视者",
+        "UIjumpvalue": 16,
+        "rewardid": 1848,
+        "unlockid": 1001256,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000361,
+        "missionname": "踏入异境",
+        "badgeID": 0,
+        "groupID": 1,
+        "endevent": 20,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000438
+    },
+    "40002": {
+        "id": 40002,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "击败弗莱尔",
+        "UIjumpvalue": 16,
+        "rewardid": 1849,
+        "unlockid": 1001257,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000362,
+        "missionname": "香消玉殒",
+        "badgeID": 0,
+        "groupID": 2,
+        "endevent": 21,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000439
+    },
+    "40003": {
+        "id": 40003,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "击败埃舍雷",
+        "UIjumpvalue": 16,
+        "rewardid": 1850,
+        "unlockid": 1001258,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000363,
+        "missionname": "拯救伊敏瑟伦",
+        "badgeID": 0,
+        "groupID": 3,
+        "endevent": 22,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000440
+    },
+    "40004": {
+        "id": 40004,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "击败赫沃奥塔",
+        "UIjumpvalue": 16,
+        "rewardid": 1851,
+        "unlockid": 1001259,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000364,
+        "missionname": "凶恶之熊",
+        "badgeID": 0,
+        "groupID": 4,
+        "endevent": 23,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000441
+    },
+    "40005": {
+        "id": 40005,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "击败瑟希薇",
+        "UIjumpvalue": 16,
+        "rewardid": 1852,
+        "unlockid": 1001260,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000365,
+        "missionname": "风雪消停",
+        "badgeID": 0,
+        "groupID": 5,
+        "endevent": 24,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000442
+    },
+    "40006": {
+        "id": 40006,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "击败辛莫拉",
+        "UIjumpvalue": 16,
+        "rewardid": 1853,
+        "unlockid": 1001261,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000366,
+        "missionname": "拯救谢波契卡",
+        "badgeID": 0,
+        "groupID": 6,
+        "endevent": 25,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000443
+    },
+    "40007": {
+        "id": 40007,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "累计打开100个宝箱",
+        "UIjumpvalue": 16,
+        "rewardid": 1854,
+        "unlockid": 1001262,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000340,
+        "missionname": "宝箱收集者",
+        "badgeID": 0,
+        "groupID": 7,
+        "endevent": 5,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000417
+    },
+    "40008": {
+        "id": 40008,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "累计打开500个宝箱",
+        "UIjumpvalue": 16,
+        "rewardid": 1855,
+        "unlockid": 1001263,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000341,
+        "missionname": "宝箱收集者",
+        "badgeID": 0,
+        "groupID": 7,
+        "endevent": 6,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            200
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000418
+    },
+    "40009": {
+        "id": 40009,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "累计打开50个玛那晶簇",
+        "UIjumpvalue": 16,
+        "rewardid": 1856,
+        "unlockid": 1001264,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000343,
+        "missionname": "玛那收集者",
+        "badgeID": 0,
+        "groupID": 8,
+        "endevent": 8,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000420
+    },
+    "40010": {
+        "id": 40010,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "累计打开250个玛那晶簇",
+        "UIjumpvalue": 16,
+        "rewardid": 1857,
+        "unlockid": 1001265,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000344,
+        "missionname": "玛那收集者",
+        "badgeID": 0,
+        "groupID": 8,
+        "endevent": 9,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            200
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000421
+    },
+    "40011": {
+        "id": 40011,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "累计击败50个怪物",
+        "UIjumpvalue": 16,
+        "rewardid": 1858,
+        "unlockid": 1001266,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000336,
+        "missionname": "魔物猎手",
+        "badgeID": 7,
+        "groupID": 9,
+        "endevent": 1,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40,
+            1
+        ],
+        "rewarditem": [
+            35008,
+            31070
+        ],
+        "descriptionTextID": 1000413
+    },
+    "40012": {
+        "id": 40012,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "累计击败500个怪物",
+        "UIjumpvalue": 16,
+        "rewardid": 1859,
+        "unlockid": 1001267,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000337,
+        "missionname": "魔物猎手",
+        "badgeID": 8,
+        "groupID": 9,
+        "endevent": 2,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80,
+            1
+        ],
+        "rewarditem": [
+            35008,
+            31070
+        ],
+        "descriptionTextID": 1000414
+    },
+    "40013": {
+        "id": 40013,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "累计击败2000个怪物",
+        "UIjumpvalue": 16,
+        "rewardid": 1860,
+        "unlockid": 1001268,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000338,
+        "missionname": "魔物猎手",
+        "badgeID": 9,
+        "groupID": 9,
+        "endevent": 3,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            200,
+            1
+        ],
+        "rewarditem": [
+            35008,
+            31070
+        ],
+        "descriptionTextID": 1000415
+    },
+    "40014": {
+        "id": 40014,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "累计获得10万玛那",
+        "UIjumpvalue": 16,
+        "rewardid": 1861,
+        "unlockid": 1001269,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000348,
+        "missionname": "汇聚魔力",
+        "badgeID": 13,
+        "groupID": 10,
+        "endevent": 13,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40,
+            1
+        ],
+        "rewarditem": [
+            35008,
+            31070
+        ],
+        "descriptionTextID": 1000425
+    },
+    "40015": {
+        "id": 40015,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "累计获得500万玛那",
+        "UIjumpvalue": 16,
+        "rewardid": 1862,
+        "unlockid": 1001270,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000349,
+        "missionname": "汇聚魔力",
+        "badgeID": 14,
+        "groupID": 10,
+        "endevent": 14,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80,
+            1
+        ],
+        "rewarditem": [
+            35008,
+            31070
+        ],
+        "descriptionTextID": 1000426
+    },
+    "40016": {
+        "id": 40016,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "累计获得5000万玛那",
+        "UIjumpvalue": 16,
+        "rewardid": 1863,
+        "unlockid": 1001271,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000350,
+        "missionname": "汇聚魔力",
+        "badgeID": 15,
+        "groupID": 10,
+        "endevent": 15,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            500,
+            1
+        ],
+        "rewarditem": [
+            35008,
+            31070
+        ],
+        "descriptionTextID": 1000427
+    },
+    "40017": {
+        "id": 40017,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "累计获得20件装备",
+        "UIjumpvalue": 16,
+        "rewardid": 1864,
+        "unlockid": 1001272,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000354,
+        "missionname": "装备收集者",
+        "badgeID": 0,
+        "groupID": 11,
+        "endevent": 49,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000431
+    },
+    "40018": {
+        "id": 40018,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "累计获得200件装备",
+        "UIjumpvalue": 16,
+        "rewardid": 1865,
+        "unlockid": 1001273,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000355,
+        "missionname": "装备收集者",
+        "badgeID": 0,
+        "groupID": 11,
+        "endevent": 50,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000432
+    },
+    "40019": {
+        "id": 40019,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "累计获得500件装备",
+        "UIjumpvalue": 16,
+        "rewardid": 1866,
+        "unlockid": 1001274,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000356,
+        "missionname": "装备收集者",
+        "badgeID": 0,
+        "groupID": 11,
+        "endevent": 51,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            500
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000433
+    },
+    "40020": {
+        "id": 40020,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "通关梦境世界全部关卡",
+        "UIjumpvalue": 16,
+        "rewardid": 1867,
+        "unlockid": 1001275,
+        "unlockcondition": "2,4",
+        "missionnameTextID": 1001153,
+        "missionname": "梦境世界",
+        "badgeID": 0,
+        "groupID": 12,
+        "endevent": 117,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            200
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001154
+    },
+    "40021": {
+        "id": 40021,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 1,
+        "jumptype": 2,
+        "description": "打断1次敌人施法",
+        "UIjumpvalue": 16,
+        "rewardid": 1868,
+        "unlockid": 1001276,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000982,
+        "missionname": "战斗技巧",
+        "badgeID": 0,
+        "groupID": 13,
+        "endevent": 118,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001004
+    },
+    "40022": {
+        "id": 40022,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "任意3个人偶达到突破1阶",
+        "UIjumpvalue": 8,
+        "rewardid": 1869,
+        "unlockid": 1001277,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000370,
+        "missionname": "突破上限",
+        "badgeID": 28,
+        "groupID": 14,
+        "endevent": 29,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40,
+            1
+        ],
+        "rewarditem": [
+            35008,
+            31070
+        ],
+        "descriptionTextID": 1000447
+    },
+    "40023": {
+        "id": 40023,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "任意3个人偶达到突破2阶",
+        "UIjumpvalue": 8,
+        "rewardid": 1870,
+        "unlockid": 1001278,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1001167,
+        "missionname": "突破上限",
+        "badgeID": 29,
+        "groupID": 14,
+        "endevent": 30,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80,
+            1
+        ],
+        "rewarditem": [
+            35008,
+            31070
+        ],
+        "descriptionTextID": 1001170
+    },
+    "40024": {
+        "id": 40024,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "任意3个人偶达到突破3阶",
+        "UIjumpvalue": 8,
+        "rewardid": 1871,
+        "unlockid": 1001279,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1001168,
+        "missionname": "突破上限",
+        "badgeID": 30,
+        "groupID": 14,
+        "endevent": 31,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            200,
+            1
+        ],
+        "rewarditem": [
+            35008,
+            31070
+        ],
+        "descriptionTextID": 1001171
+    },
+    "40025": {
+        "id": 40025,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "3个人偶达到突破4阶",
+        "UIjumpvalue": 8,
+        "rewardid": 1872,
+        "unlockid": 1001280,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1001169,
+        "missionname": "突破上限",
+        "badgeID": 0,
+        "groupID": 14,
+        "endevent": 149,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            500
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001172
+    },
+    "40026": {
+        "id": 40026,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "累计1个人偶达到进化1级",
+        "UIjumpvalue": 4,
+        "rewardid": 1873,
+        "unlockid": 1001281,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000988,
+        "missionname": "进化之力",
+        "badgeID": 0,
+        "groupID": 15,
+        "endevent": 119,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001010
+    },
+    "40027": {
+        "id": 40027,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "累计3个人偶达到进化2级",
+        "UIjumpvalue": 4,
+        "rewardid": 1874,
+        "unlockid": 1001282,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000988,
+        "missionname": "进化之力",
+        "badgeID": 0,
+        "groupID": 15,
+        "endevent": 120,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001011
+    },
+    "40028": {
+        "id": 40028,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "累计6个人偶达到进化3级",
+        "UIjumpvalue": 4,
+        "rewardid": 1875,
+        "unlockid": 1001283,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000989,
+        "missionname": "进化之力",
+        "badgeID": 0,
+        "groupID": 15,
+        "endevent": 150,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            500
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001173
+    },
+    "40029": {
+        "id": 40029,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 2,
+        "jumptype": 2,
+        "description": "拥有10个人偶",
+        "UIjumpvalue": 8,
+        "rewardid": 1876,
+        "unlockid": 1001284,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000391,
+        "missionname": "人偶收集者",
+        "badgeID": 0,
+        "groupID": 16,
+        "endevent": 46,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000468
+    },
+    "40030": {
+        "id": 40030,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 2,
+        "jumptype": 2,
+        "description": "拥有30个人偶",
+        "UIjumpvalue": 8,
+        "rewardid": 1877,
+        "unlockid": 1001285,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000392,
+        "missionname": "人偶收集者",
+        "badgeID": 0,
+        "groupID": 16,
+        "endevent": 47,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            200
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000469
+    },
+    "40031": {
+        "id": 40031,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 2,
+        "jumptype": 2,
+        "description": "拥有50个人偶",
+        "UIjumpvalue": 8,
+        "rewardid": 1878,
+        "unlockid": 1001286,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000393,
+        "missionname": "人偶收集者",
+        "badgeID": 0,
+        "groupID": 16,
+        "endevent": 48,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            500
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000470
+    },
+    "40032": {
+        "id": 40032,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 2,
+        "jumptype": 2,
+        "description": "任意人偶的羁绊等级达到2",
+        "UIjumpvalue": 8,
+        "rewardid": 1879,
+        "unlockid": 1001287,
+        "unlockcondition": "1,6",
+        "missionnameTextID": 1000394,
+        "missionname": "一心同体",
+        "badgeID": 4,
+        "groupID": 17,
+        "endevent": 59,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40,
+            1
+        ],
+        "rewarditem": [
+            35008,
+            31070
+        ],
+        "descriptionTextID": 1000471
+    },
+    "40033": {
+        "id": 40033,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 2,
+        "jumptype": 2,
+        "description": "任意人偶的羁绊等级达到10",
+        "UIjumpvalue": 8,
+        "rewardid": 1880,
+        "unlockid": 1001288,
+        "unlockcondition": "1,6",
+        "missionnameTextID": 1000395,
+        "missionname": "一心同体",
+        "badgeID": 5,
+        "groupID": 17,
+        "endevent": 60,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80,
+            1
+        ],
+        "rewarditem": [
+            35008,
+            31070
+        ],
+        "descriptionTextID": 1000472
+    },
+    "40034": {
+        "id": 40034,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 2,
+        "jumptype": 2,
+        "description": "任意人偶的羁绊等级达到20",
+        "UIjumpvalue": 8,
+        "rewardid": 1881,
+        "unlockid": 1001289,
+        "unlockcondition": "1,6",
+        "missionnameTextID": 1000396,
+        "missionname": "一心同体",
+        "badgeID": 6,
+        "groupID": 17,
+        "endevent": 61,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            200,
+            1
+        ],
+        "rewarditem": [
+            35008,
+            31070
+        ],
+        "descriptionTextID": 1000473
+    },
+    "40035": {
+        "id": 40035,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "任意1个人偶技能提升至满级",
+        "UIjumpvalue": 11,
+        "rewardid": 1882,
+        "unlockid": 1001290,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000990,
+        "missionname": "技能之力",
+        "badgeID": 0,
+        "groupID": 18,
+        "endevent": 121,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001012
+    },
+    "40036": {
+        "id": 40036,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "任意3个人偶技能提升至满级",
+        "UIjumpvalue": 11,
+        "rewardid": 1883,
+        "unlockid": 1001291,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000991,
+        "missionname": "技能之力",
+        "badgeID": 0,
+        "groupID": 18,
+        "endevent": 122,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            200
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001013
+    },
+    "40037": {
+        "id": 40037,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 2,
+        "jumptype": 2,
+        "description": "获得1个人偶外观",
+        "UIjumpvalue": 19,
+        "rewardid": 1884,
+        "unlockid": 1001292,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000992,
+        "missionname": "时尚达人",
+        "badgeID": 0,
+        "groupID": 19,
+        "endevent": 123,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001014
+    },
+    "40038": {
+        "id": 40038,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 2,
+        "jumptype": 2,
+        "description": "获得10个不同的人偶外观",
+        "UIjumpvalue": 19,
+        "rewardid": 1885,
+        "unlockid": 1001293,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000993,
+        "missionname": "时尚达人",
+        "badgeID": 0,
+        "groupID": 19,
+        "endevent": 124,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            200
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001015
+    },
+    "40039": {
+        "id": 40039,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "任意装备强化至5级",
+        "UIjumpvalue": 13,
+        "rewardid": 1886,
+        "unlockid": 1001294,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1001174,
+        "missionname": "锻造术",
+        "badgeID": 0,
+        "groupID": 20,
+        "endevent": 151,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001175
+    },
+    "40040": {
+        "id": 40040,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "3个装备强化至20级",
+        "UIjumpvalue": 13,
+        "rewardid": 1887,
+        "unlockid": 1001295,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000994,
+        "missionname": "锻造术",
+        "badgeID": 0,
+        "groupID": 20,
+        "endevent": 125,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001016
+    },
+    "40041": {
+        "id": 40041,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "3个装备强化至40级",
+        "UIjumpvalue": 13,
+        "rewardid": 1888,
+        "unlockid": 1001296,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000995,
+        "missionname": "锻造术",
+        "badgeID": 0,
+        "groupID": 20,
+        "endevent": 126,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            200
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001017
+    },
+    "40042": {
+        "id": 40042,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "进行1次装备附魔",
+        "UIjumpvalue": 13,
+        "rewardid": 1889,
+        "unlockid": 1001297,
+        "unlockcondition": "2,20",
+        "missionnameTextID": 1000406,
+        "missionname": "装备附魔",
+        "badgeID": 0,
+        "groupID": 21,
+        "endevent": 71,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000483
+    },
+    "40043": {
+        "id": 40043,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "累计进行装备附魔100次",
+        "UIjumpvalue": 13,
+        "rewardid": 1890,
+        "unlockid": 1001298,
+        "unlockcondition": "2,20",
+        "missionnameTextID": 1000407,
+        "missionname": "装备附魔",
+        "badgeID": 0,
+        "groupID": 21,
+        "endevent": 72,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000484
+    },
+    "40044": {
+        "id": 40044,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "累计进行装备附魔500次",
+        "UIjumpvalue": 13,
+        "rewardid": 1891,
+        "unlockid": 1001299,
+        "unlockcondition": "2,20",
+        "missionnameTextID": 1000408,
+        "missionname": "装备附魔",
+        "badgeID": 0,
+        "groupID": 21,
+        "endevent": 73,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            200
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000485
+    },
+    "40045": {
+        "id": 40045,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "进行1次装备突破",
+        "UIjumpvalue": 13,
+        "rewardid": 1892,
+        "unlockid": 1001300,
+        "unlockcondition": "2,8",
+        "missionnameTextID": 1001176,
+        "missionname": "装备突破",
+        "badgeID": 0,
+        "groupID": 22,
+        "endevent": 152,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001177
+    },
+    "40046": {
+        "id": 40046,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "累计3个装备达到突破2级",
+        "UIjumpvalue": 13,
+        "rewardid": 1893,
+        "unlockid": 1001301,
+        "unlockcondition": "2,8",
+        "missionnameTextID": 1000996,
+        "missionname": "装备突破",
+        "badgeID": 0,
+        "groupID": 22,
+        "endevent": 127,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001018
+    },
+    "40047": {
+        "id": 40047,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "累计3个装备达到突破3级",
+        "UIjumpvalue": 13,
+        "rewardid": 1894,
+        "unlockid": 1001302,
+        "unlockcondition": "2,8",
+        "missionnameTextID": 1000997,
+        "missionname": "装备突破",
+        "badgeID": 0,
+        "groupID": 22,
+        "endevent": 128,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            200
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001019
+    },
+    "40048": {
+        "id": 40048,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 4,
+        "jumptype": 2,
+        "description": "拥有10名好友",
+        "UIjumpvalue": 15,
+        "rewardid": 3183,
+        "unlockid": 1001303,
+        "unlockcondition": "2,16",
+        "missionnameTextID": 1000375,
+        "missionname": "异境的联络",
+        "badgeID": 32,
+        "groupID": 23,
+        "endevent": 34,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80,
+            1
+        ],
+        "rewarditem": [
+            35008,
+            31070
+        ],
+        "descriptionTextID": 1000452
+    },
+    "40049": {
+        "id": 40049,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 4,
+        "jumptype": 2,
+        "description": "拥有100名好友",
+        "UIjumpvalue": 15,
+        "rewardid": 3184,
+        "unlockid": 1001304,
+        "unlockcondition": "2,16",
+        "missionnameTextID": 1000376,
+        "missionname": "异境的联络",
+        "badgeID": 33,
+        "groupID": 23,
+        "endevent": 35,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            500,
+            1
+        ],
+        "rewarditem": [
+            35008,
+            31070
+        ],
+        "descriptionTextID": 1000453
+    },
+    "40050": {
+        "id": 40050,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 4,
+        "jumptype": 2,
+        "description": "累计获得200点友情点",
+        "UIjumpvalue": 15,
+        "rewardid": 1897,
+        "unlockid": 1001305,
+        "unlockcondition": "2,16",
+        "missionnameTextID": 1000771,
+        "missionname": "友谊之心",
+        "badgeID": 0,
+        "groupID": 24,
+        "endevent": 106,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000772
+    },
+    "40051": {
+        "id": 40051,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 4,
+        "jumptype": 2,
+        "description": "累计获得1000点友情点",
+        "UIjumpvalue": 15,
+        "rewardid": 1898,
+        "unlockid": 1001306,
+        "unlockcondition": "2,16",
+        "missionnameTextID": 1000757,
+        "missionname": "友谊之心",
+        "badgeID": 0,
+        "groupID": 24,
+        "endevent": 92,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000740
+    },
+    "40052": {
+        "id": 40052,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 4,
+        "jumptype": 2,
+        "description": "累计获得5000点友情点",
+        "UIjumpvalue": 15,
+        "rewardid": 1899,
+        "unlockid": 1001307,
+        "unlockcondition": "2,16",
+        "missionnameTextID": 1000758,
+        "missionname": "友谊之心",
+        "badgeID": 0,
+        "groupID": 24,
+        "endevent": 93,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            200
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000741
+    },
+    "40053": {
+        "id": 40053,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 2,
+        "jumptype": 2,
+        "description": "累计抽卡30次",
+        "UIjumpvalue": 5,
+        "rewardid": 1900,
+        "unlockid": 1001308,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000759,
+        "missionname": "人偶收藏家",
+        "badgeID": 0,
+        "groupID": 25,
+        "endevent": 94,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000742
+    },
+    "40054": {
+        "id": 40054,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 2,
+        "jumptype": 2,
+        "description": "累计抽卡100次",
+        "UIjumpvalue": 5,
+        "rewardid": 1901,
+        "unlockid": 1001309,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000760,
+        "missionname": "人偶收藏家",
+        "badgeID": 0,
+        "groupID": 25,
+        "endevent": 95,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000743
+    },
+    "40055": {
+        "id": 40055,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 2,
+        "jumptype": 2,
+        "description": "累计抽卡500次",
+        "UIjumpvalue": 5,
+        "rewardid": 1902,
+        "unlockid": 1001310,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000761,
+        "missionname": "人偶收藏家",
+        "badgeID": 0,
+        "groupID": 25,
+        "endevent": 96,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            200
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000744
+    },
+    "40056": {
+        "id": 40056,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 2,
+        "jumptype": 2,
+        "description": "累计抽卡1000次",
+        "UIjumpvalue": 5,
+        "rewardid": 1903,
+        "unlockid": 1001311,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000762,
+        "missionname": "人偶收藏家",
+        "badgeID": 0,
+        "groupID": 25,
+        "endevent": 97,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            500
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000745
+    },
+    "40057": {
+        "id": 40057,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 4,
+        "jumptype": 2,
+        "description": "在友情点商城购买50次道具",
+        "UIjumpvalue": 19,
+        "rewardid": 1904,
+        "unlockid": 1001312,
+        "unlockcondition": "2,18",
+        "missionnameTextID": 1000763,
+        "missionname": "友谊的价值",
+        "badgeID": 0,
+        "groupID": 26,
+        "endevent": 98,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000746
+    },
+    "40058": {
+        "id": 40058,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 4,
+        "jumptype": 2,
+        "description": "在友情点商城购买100次道具",
+        "UIjumpvalue": 19,
+        "rewardid": 1905,
+        "unlockid": 1001313,
+        "unlockcondition": "2,18",
+        "missionnameTextID": 1000764,
+        "missionname": "友谊的价值",
+        "badgeID": 0,
+        "groupID": 26,
+        "endevent": 99,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            200
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000747
+    },
+    "40059": {
+        "id": 40059,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "梦境螺旋满级1次",
+        "UIjumpvalue": 19,
+        "rewardid": 1906,
+        "unlockid": 1001314,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1000999,
+        "missionname": "梦境螺旋",
+        "badgeID": 0,
+        "groupID": 27,
+        "endevent": 130,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001021
+    },
+    "40060": {
+        "id": 40060,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "梦境螺旋满级2次",
+        "UIjumpvalue": 19,
+        "rewardid": 1907,
+        "unlockid": 1001315,
+        "unlockcondition": "1,3",
+        "missionnameTextID": 1001000,
+        "missionname": "梦境螺旋",
+        "badgeID": 0,
+        "groupID": 27,
+        "endevent": 131,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1001022
+    },
+    "40061": {
+        "id": 40061,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "获得100点家具币",
+        "UIjumpvalue": 19,
+        "rewardid": 1908,
+        "unlockid": 1001316,
+        "unlockcondition": "2,8",
+        "missionnameTextID": 1000765,
+        "missionname": "收集达人",
+        "badgeID": 0,
+        "groupID": 28,
+        "endevent": 100,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            40
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000748
+    },
+    "40062": {
+        "id": 40062,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "获得1000点家具币",
+        "UIjumpvalue": 19,
+        "rewardid": 1909,
+        "unlockid": 1001317,
+        "unlockcondition": "2,8",
+        "missionnameTextID": 1000766,
+        "missionname": "收集达人",
+        "badgeID": 0,
+        "groupID": 28,
+        "endevent": 101,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            80
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000749
+    },
+    "40063": {
+        "id": 40063,
+        "missiontype": 4,
+        "achievePoint": 10,
+        "tabID": 3,
+        "jumptype": 2,
+        "description": "获得5000点家具币",
+        "UIjumpvalue": 19,
+        "rewardid": 1910,
+        "unlockid": 1001318,
+        "unlockcondition": "2,8",
+        "missionnameTextID": 1000767,
+        "missionname": "收集达人",
+        "badgeID": 0,
+        "groupID": 28,
+        "endevent": 102,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            500
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "descriptionTextID": 1000750
+    }
+}

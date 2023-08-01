@@ -1,0 +1,65 @@
+{
+    "8": {
+        "items": "",
+        "id": 8,
+        "type": 2,
+        "lightMaxNum": 1000,
+        "fireflyordernum": 3,
+        "fireflyMaxNum": 50,
+        "level": 1
+    },
+    "1": {
+        "items": "",
+        "id": 1,
+        "type": 1,
+        "lightMaxNum": 3000,
+        "fireflyordernum": 1,
+        "fireflyMaxNum": 50,
+        "level": 1
+    },
+    "2": {
+        "items": "",
+        "id": 2,
+        "type": 1,
+        "lightMaxNum": 5000,
+        "fireflyordernum": 1,
+        "fireflyMaxNum": 50,
+        "level": 2
+    },
+    "3": {
+        "items": "",
+        "id": 3,
+        "type": 1,
+        "lightMaxNum": 10000,
+        "fireflyordernum": 1,
+        "fireflyMaxNum": 50,
+        "level": 3
+    },
+    "12": {
+        "items": "",
+        "id": 12,
+        "type": 3,
+        "lightMaxNum": 3000,
+        "fireflyordernum": 5,
+        "fireflyMaxNum": 50,
+        "level": 1
+    },
+    "10": {
+        "items": "",
+        "id": 10,
+        "type": 2,
+        "lightMaxNum": 5000,
+        "fireflyordernum": 3,
+        "fireflyMaxNum": 50,
+        "level": 3
+    },
+    "9": {
+        "items": "",
+        "id": 9,
+        "type": 2,
+        "lightMaxNum": 3000,
+        "fireflyordernum": 3,
+        "fireflyMaxNum": 50,
+        "level": 2
+    }
+}

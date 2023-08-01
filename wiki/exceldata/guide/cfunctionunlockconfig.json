@@ -1,0 +1,410 @@
+{
+    "1": {
+        "tips": 0,
+        "id": 1,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 3
+    },
+    "2": {
+        "tips": 11611,
+        "id": 2,
+        "sort": 0,
+        "textID": 1281,
+        "playerLv": -1,
+        "level": 12
+    },
+    "3": {
+        "tips": 0,
+        "id": 3,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 999
+    },
+    "4": {
+        "tips": 0,
+        "id": 4,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 1
+    },
+    "5": {
+        "tips": 0,
+        "id": 5,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 1
+    },
+    "6": {
+        "tips": 0,
+        "id": 6,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 5
+    },
+    "7": {
+        "tips": 0,
+        "id": 7,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 12
+    },
+    "11": {
+        "tips": 0,
+        "id": 11,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 6
+    },
+    "12": {
+        "tips": 0,
+        "id": 12,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 38
+    },
+    "13": {
+        "tips": 0,
+        "id": 13,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 1
+    },
+    "14": {
+        "tips": 11612,
+        "id": 14,
+        "sort": 0,
+        "textID": 1282,
+        "playerLv": -1,
+        "level": 3
+    },
+    "15": {
+        "tips": 0,
+        "id": 15,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 8
+    },
+    "16": {
+        "tips": 0,
+        "id": 16,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 1
+    },
+    "18": {
+        "tips": 0,
+        "id": 18,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 43
+    },
+    "23": {
+        "tips": 0,
+        "id": 23,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 1
+    },
+    "24": {
+        "tips": 0,
+        "id": 24,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 6
+    },
+    "25": {
+        "tips": 0,
+        "id": 25,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 8
+    },
+    "26": {
+        "tips": 0,
+        "id": 26,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 14
+    },
+    "27": {
+        "tips": 0,
+        "id": 27,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 1
+    },
+    "28": {
+        "tips": 0,
+        "id": 28,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 1
+    },
+    "29": {
+        "tips": 0,
+        "id": 29,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 6
+    },
+    "30": {
+        "tips": 0,
+        "id": 30,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 3
+    },
+    "31": {
+        "tips": 0,
+        "id": 31,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 1
+    },
+    "32": {
+        "tips": 0,
+        "id": 32,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 41
+    },
+    "33": {
+        "tips": 0,
+        "id": 33,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 17
+    },
+    "34": {
+        "tips": 0,
+        "id": 34,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 1
+    },
+    "35": {
+        "tips": 12220,
+        "id": 35,
+        "sort": 0,
+        "textID": 1399,
+        "playerLv": -1,
+        "level": 17
+    },
+    "36": {
+        "tips": 0,
+        "id": 36,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 1
+    },
+    "37": {
+        "tips": 0,
+        "id": 37,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 28
+    },
+    "38": {
+        "tips": 0,
+        "id": 38,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 4
+    },
+    "39": {
+        "tips": 0,
+        "id": 39,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 3
+    },
+    "40": {
+        "tips": 0,
+        "id": 40,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 2
+    },
+    "41": {
+        "tips": 0,
+        "id": 41,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 2
+    },
+    "42": {
+        "tips": 0,
+        "id": 42,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 6
+    },
+    "43": {
+        "tips": 0,
+        "id": 43,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 14
+    },
+    "44": {
+        "tips": 0,
+        "id": 44,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 43
+    },
+    "45": {
+        "tips": 0,
+        "id": 45,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 43
+    },
+    "46": {
+        "tips": 0,
+        "id": 46,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 17
+    },
+    "47": {
+        "tips": 0,
+        "id": 47,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 6
+    },
+    "48": {
+        "tips": 0,
+        "id": 48,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 6
+    },
+    "49": {
+        "tips": 0,
+        "id": 49,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": 38
+    },
+    "1010": {
+        "tips": 0,
+        "id": 1010,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": -1
+    },
+    "1011": {
+        "tips": 0,
+        "id": 1011,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": -1
+    },
+    "1012": {
+        "tips": 12651,
+        "id": 1012,
+        "sort": 0,
+        "textID": 1507,
+        "playerLv": -1,
+        "level": 19
+    },
+    "1009": {
+        "tips": 0,
+        "id": 1009,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": -1
+    },
+    "1008": {
+        "tips": 0,
+        "id": 1008,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": -1
+    },
+    "1007": {
+        "tips": 0,
+        "id": 1007,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": -1
+    },
+    "1006": {
+        "tips": 0,
+        "id": 1006,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": -1
+    },
+    "1005": {
+        "tips": 0,
+        "id": 1005,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": -1
+    },
+    "1003": {
+        "tips": 0,
+        "id": 1003,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": -1
+    },
+    "1001": {
+        "tips": 0,
+        "id": 1001,
+        "sort": 0,
+        "textID": 0,
+        "playerLv": -1,
+        "level": -1
+    }
+}

@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "buffID": 71101,
+        "typeID": 1,
+        "pointNum": 0,
+        "descriptionID": 702423,
+        "nameID": 702358
+    },
+    {
+        "id": 2,
+        "buffID": 71102,
+        "typeID": 2,
+        "pointNum": 500,
+        "descriptionID": 702424,
+        "nameID": 702359
+    },
+    {
+        "id": 3,
+        "buffID": 71103,
+        "typeID": 3,
+        "pointNum": 1000,
+        "descriptionID": 702425,
+        "nameID": 702360
+    },
+    {
+        "id": 4,
+        "buffID": 71104,
+        "typeID": 1,
+        "pointNum": 0,
+        "descriptionID": 702426,
+        "nameID": 702358
+    },
+    {
+        "id": 5,
+        "buffID": 71105,
+        "typeID": 2,
+        "pointNum": 500,
+        "descriptionID": 702427,
+        "nameID": 702359
+    },
+    {
+        "id": 6,
+        "buffID": 71106,
+        "typeID": 3,
+        "pointNum": 1000,
+        "descriptionID": 702428,
+        "nameID": 702360
+    },
+    {
+        "id": 7,
+        "buffID": 71107,
+        "typeID": 1,
+        "pointNum": 0,
+        "descriptionID": 702429,
+        "nameID": 702358
+    },
+    {
+        "id": 8,
+        "buffID": 71108,
+        "typeID": 2,
+        "pointNum": 500,
+        "descriptionID": 702430,
+        "nameID": 702359
+    },
+    {
+        "id": 9,
+        "buffID": 71109,
+        "typeID": 3,
+        "pointNum": 1000,
+        "descriptionID": 702431,
+        "nameID": 702360
+    },
+    {
+        "id": 10,
+        "buffID": 71110,
+        "typeID": 1,
+        "pointNum": 0,
+        "descriptionID": 702432,
+        "nameID": 702358
+    },
+    {
+        "id": 11,
+        "buffID": 71111,
+        "typeID": 2,
+        "pointNum": 500,
+        "descriptionID": 702433,
+        "nameID": 702359
+    },
+    {
+        "id": 12,
+        "buffID": 71112,
+        "typeID": 3,
+        "pointNum": 1000,
+        "descriptionID": 702434,
+        "nameID": 702360
+    },
+    {
+        "id": 13,
+        "buffID": 71113,
+        "typeID": 1,
+        "pointNum": 0,
+        "descriptionID": 702435,
+        "nameID": 702358
+    },
+    {
+        "id": 14,
+        "buffID": 71114,
+        "typeID": 2,
+        "pointNum": 500,
+        "descriptionID": 702436,
+        "nameID": 702359
+    },
+    {
+        "id": 15,
+        "buffID": 71115,
+        "typeID": 3,
+        "pointNum": 1000,
+        "descriptionID": 702437,
+        "nameID": 702360
+    },
+    {
+        "id": 16,
+        "buffID": 71116,
+        "typeID": 1,
+        "pointNum": 0,
+        "descriptionID": 702438,
+        "nameID": 702358
+    },
+    {
+        "id": 17,
+        "buffID": 71117,
+        "typeID": 2,
+        "pointNum": 500,
+        "descriptionID": 702439,
+        "nameID": 702359
+    },
+    {
+        "id": 18,
+        "buffID": 71118,
+        "typeID": 3,
+        "pointNum": 1000,
+        "descriptionID": 702440,
+        "nameID": 702360
+    }
+]

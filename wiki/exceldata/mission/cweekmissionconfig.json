@@ -1,0 +1,457 @@
+{
+    "80001": {
+        "progressnameTextID": [
+            1000308
+        ],
+        "id": 80001,
+        "missiontype": 8,
+        "progressname": [
+            "战斗胜利"
+        ],
+        "toptip": [
+            200007
+        ],
+        "instruction": "探索途中会遇到各种各样的怪物，尝试在战斗中消灭它们，获得100场战斗胜利。",
+        "instructionTextID": 1000322,
+        "jumptype": 2,
+        "activevalue": 5,
+        "description": "累计战斗胜利100次",
+        "UIjumpvalue": 16,
+        "rewardid": 1835,
+        "missionnameTextID": 1000280,
+        "missionname": "胜利女神·二",
+        "unlockcondition": "1,1;4,35",
+        "descriptionTextID": 1000294,
+        "endevent": 1,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            10000
+        ],
+        "rewarditem": [
+            35002
+        ],
+        "targettype": 2
+    },
+    "80002": {
+        "progressnameTextID": [
+            1000309
+        ],
+        "id": 80002,
+        "missiontype": 8,
+        "progressname": [
+            "赠送礼物"
+        ],
+        "toptip": [
+            200008
+        ],
+        "instruction": "向人偶赠送心仪的礼物可以提升羁绊等级。",
+        "instructionTextID": 1000323,
+        "jumptype": 2,
+        "activevalue": 10,
+        "description": "向人偶赠送礼物5次",
+        "UIjumpvalue": 9,
+        "rewardid": 1836,
+        "missionnameTextID": 1000281,
+        "missionname": "传达心意",
+        "unlockcondition": "1,1;4,35",
+        "descriptionTextID": 1000295,
+        "endevent": 2,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            2
+        ],
+        "rewarditem": [
+            74000
+        ],
+        "targettype": 2
+    },
+    "80003": {
+        "progressnameTextID": [
+            1000310
+        ],
+        "id": 80003,
+        "missiontype": 8,
+        "progressname": [
+            "强化人偶"
+        ],
+        "toptip": [
+            200009
+        ],
+        "instruction": "在梦境世界中可以获得大量玛那或材料。",
+        "instructionTextID": 1000324,
+        "jumptype": 2,
+        "activevalue": 10,
+        "description": "提升任意人偶的强化等级5次",
+        "UIjumpvalue": 2,
+        "rewardid": 1837,
+        "missionnameTextID": 1000282,
+        "missionname": "人偶强化",
+        "unlockcondition": "1,1;4,35",
+        "descriptionTextID": 1000296,
+        "endevent": 3,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            10000
+        ],
+        "rewarditem": [
+            35002
+        ],
+        "targettype": 5
+    },
+    "80004": {
+        "progressnameTextID": [
+            1000311
+        ],
+        "id": 80004,
+        "missiontype": 8,
+        "progressname": [
+            "通关主线关卡"
+        ],
+        "toptip": [
+            200010
+        ],
+        "instruction": "继续向前探索，通关主线关卡。",
+        "instructionTextID": 1000325,
+        "jumptype": 2,
+        "activevalue": 10,
+        "description": "通关10次主线关卡",
+        "UIjumpvalue": 16,
+        "rewardid": 1838,
+        "missionnameTextID": 1000283,
+        "missionname": "日常探索",
+        "unlockcondition": "1,1;4,35",
+        "descriptionTextID": 1000297,
+        "endevent": 4,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            10000
+        ],
+        "rewarditem": [
+            35002
+        ],
+        "targettype": 5
+    },
+    "80006": {
+        "progressnameTextID": [
+            1000313
+        ],
+        "id": 80006,
+        "missiontype": 8,
+        "progressname": [
+            "通关玛那梦境"
+        ],
+        "toptip": [
+            200011
+        ],
+        "instruction": "在玛那梦境中可获得大量玛那。",
+        "instructionTextID": 1000327,
+        "jumptype": 2,
+        "activevalue": 5,
+        "description": "通关3次玛那梦境副本",
+        "UIjumpvalue": 17,
+        "rewardid": 1840,
+        "missionnameTextID": 1000285,
+        "missionname": "玛那梦境",
+        "unlockcondition": "1,1;4,35",
+        "descriptionTextID": 1000299,
+        "endevent": 6,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            10000
+        ],
+        "rewarditem": [
+            35002
+        ],
+        "targettype": 6
+    },
+    "80007": {
+        "progressnameTextID": [
+            1000314
+        ],
+        "id": 80007,
+        "missiontype": 8,
+        "progressname": [
+            "通关突破材料副本"
+        ],
+        "toptip": [
+            200012
+        ],
+        "instruction": "突破材料副本是获得人偶突破材料的重要途径。",
+        "instructionTextID": 1000328,
+        "jumptype": 2,
+        "activevalue": 10,
+        "description": "通关3次突破材料副本",
+        "UIjumpvalue": 17,
+        "rewardid": 1841,
+        "missionnameTextID": 1000286,
+        "missionname": "突破材料",
+        "unlockcondition": "1,1;4,35",
+        "descriptionTextID": 1000300,
+        "endevent": 7,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            1
+        ],
+        "rewarditem": [
+            31037
+        ],
+        "targettype": 6
+    },
+    "80008": {
+        "progressnameTextID": [
+            1000315
+        ],
+        "id": 80008,
+        "missiontype": 8,
+        "progressname": [
+            "通关技能材料副本"
+        ],
+        "toptip": [
+            200013
+        ],
+        "instruction": "技能材料副本是提升人偶技能等级的重要途径。",
+        "instructionTextID": 1000329,
+        "jumptype": 2,
+        "activevalue": 5,
+        "description": "通关3次技能材料副本",
+        "UIjumpvalue": 17,
+        "rewardid": 1842,
+        "missionnameTextID": 1000287,
+        "missionname": "技能材料",
+        "unlockcondition": "1,1;4,35",
+        "descriptionTextID": 1000301,
+        "endevent": 8,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            3
+        ],
+        "rewarditem": [
+            74000
+        ],
+        "targettype": 3
+    },
+    "80009": {
+        "progressnameTextID": [
+            1000316
+        ],
+        "id": 80009,
+        "missiontype": 8,
+        "progressname": [
+            "通关人偶装备副本"
+        ],
+        "toptip": [
+            200014
+        ],
+        "instruction": "在装备副本中会掉落各类优质装备。",
+        "instructionTextID": 1000330,
+        "jumptype": 2,
+        "activevalue": 10,
+        "description": "通关3次人偶装备副本",
+        "UIjumpvalue": 17,
+        "rewardid": 1843,
+        "missionnameTextID": 1000288,
+        "missionname": "装备收集",
+        "unlockcondition": "1,1;4,35",
+        "descriptionTextID": 1000302,
+        "endevent": 9,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            5
+        ],
+        "rewarditem": [
+            76000
+        ],
+        "targettype": 3
+    },
+    "80010": {
+        "progressnameTextID": [
+            1000317
+        ],
+        "id": 80010,
+        "missiontype": 8,
+        "progressname": [
+            "收集白光"
+        ],
+        "toptip": [
+            200015
+        ],
+        "instruction": "在庭院中点击游荡的白色萤火，或使用萤火灯台可以获得白光。",
+        "instructionTextID": 1000331,
+        "jumptype": 2,
+        "activevalue": 10,
+        "description": "在庭院收取1000单位的白光",
+        "UIjumpvalue": 20,
+        "rewardid": 1844,
+        "missionnameTextID": 1000289,
+        "missionname": "萤火收集",
+        "unlockcondition": "1,1;4,35",
+        "descriptionTextID": 1000303,
+        "endevent": 10,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            15
+        ],
+        "rewarditem": [
+            35018
+        ],
+        "targettype": 13
+    },
+    "80011": {
+        "progressnameTextID": [
+            1000318
+        ],
+        "id": 80011,
+        "missiontype": 8,
+        "progressname": [
+            "装备强化"
+        ],
+        "toptip": [
+            200016
+        ],
+        "instruction": "在庭院中可以派遣人偶探索异界之镜，带回丰富的素材。",
+        "instructionTextID": 1000332,
+        "jumptype": 2,
+        "activevalue": 5,
+        "description": "魔女庭院探索异界之镜10次",
+        "UIjumpvalue": 20,
+        "rewardid": 1845,
+        "missionnameTextID": 1000290,
+        "missionname": "委派探索",
+        "unlockcondition": "1,1;4,35",
+        "descriptionTextID": 1000304,
+        "endevent": 11,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            15
+        ],
+        "rewarditem": [
+            35018
+        ],
+        "targettype": 16
+    },
+    "80012": {
+        "progressnameTextID": [
+            1000319
+        ],
+        "id": 80012,
+        "missiontype": 8,
+        "progressname": [
+            "装备收集"
+        ],
+        "toptip": [
+            200017
+        ],
+        "instruction": "战斗胜利以及打开宝箱都有一定概率获得装备。",
+        "instructionTextID": 1000333,
+        "jumptype": 2,
+        "activevalue": 5,
+        "description": "装备强化10次",
+        "UIjumpvalue": 1,
+        "rewardid": 1846,
+        "missionnameTextID": 1000291,
+        "missionname": "强化装备",
+        "unlockcondition": "1,1;4,35",
+        "descriptionTextID": 1000305,
+        "endevent": 12,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            5
+        ],
+        "rewarditem": [
+            76000
+        ],
+        "targettype": 17
+    },
+    "80013": {
+        "progressnameTextID": [
+            1000321
+        ],
+        "id": 80013,
+        "missiontype": 8,
+        "progressname": [
+            "进行召唤"
+        ],
+        "toptip": [
+            200017
+        ],
+        "instruction": "复制异界的灵魂，增添新的人偶来为你战斗吧。",
+        "instructionTextID": 1000335,
+        "jumptype": 2,
+        "activevalue": 5,
+        "description": "进行5次召唤",
+        "UIjumpvalue": 5,
+        "rewardid": 1847,
+        "missionnameTextID": 1000293,
+        "missionname": "召唤练习",
+        "unlockcondition": "1,1;4,35",
+        "descriptionTextID": 1000307,
+        "endevent": 14,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            50
+        ],
+        "rewarditem": [
+            35008
+        ],
+        "targettype": 11
+    },
+    "80014": {
+        "progressnameTextID": [
+            1000308
+        ],
+        "id": 80014,
+        "missiontype": 8,
+        "progressname": [
+            "战斗胜利"
+        ],
+        "toptip": [
+            200007
+        ],
+        "instruction": "探索途中会遇到各种各样的怪物，尝试在战斗中消灭它们，获得50场战斗胜利。",
+        "instructionTextID": 1000683,
+        "jumptype": 2,
+        "activevalue": 10,
+        "description": "累计战斗胜利50次",
+        "UIjumpvalue": 16,
+        "rewardid": 1835,
+        "missionnameTextID": 1000682,
+        "missionname": "胜利女神·一",
+        "unlockcondition": "1,1;4,35",
+        "descriptionTextID": 1000684,
+        "endevent": 15,
+        "jumpvalue": [
+            0
+        ],
+        "rewardquantity": [
+            10000
+        ],
+        "rewarditem": [
+            35002
+        ],
+        "targettype": 2
+    }
+}

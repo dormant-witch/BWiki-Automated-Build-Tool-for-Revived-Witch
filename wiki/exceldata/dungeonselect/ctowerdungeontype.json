@@ -1,0 +1,86 @@
+[
+    {
+        "image": 11679,
+        "id": 1,
+        "level": 17,
+        "mayDropItems": [
+            76002,
+            76001
+        ],
+        "sureDropItems": [
+            35002,
+            35008,
+            76003
+        ],
+        "name": "事象限界·初",
+        "unlockdescribe": "通关2-13解锁",
+        "unlockdescribeTextID": 1900216,
+        "sectionid": [
+            10001,
+            10002,
+            10003
+        ],
+        "recommendStrength": 30,
+        "star": 1,
+        "sort": 1,
+        "describeTextID": 1900213,
+        "nameTextID": 1900210,
+        "describe": "由时之塔，伊敏瑟伦两种要素浮岛组成的事象限界，可以获得各种装备和材料。"
+    },
+    {
+        "image": 11677,
+        "id": 2,
+        "level": 33,
+        "mayDropItems": [
+            76003,
+            76001
+        ],
+        "sureDropItems": [
+            35002,
+            35008,
+            76004
+        ],
+        "name": "事象限界·刻",
+        "unlockdescribe": "通关3-10和事象限界·初解锁",
+        "unlockdescribeTextID": 1900217,
+        "sectionid": [
+            10004,
+            10005,
+            10006
+        ],
+        "recommendStrength": 60,
+        "star": 11,
+        "sort": 2,
+        "describeTextID": 1900214,
+        "nameTextID": 1900211,
+        "describe": "由时之塔，伊敏瑟伦，谢波契卡三种要素浮岛组成的事象限界，可以获得各种装备和材料。"
+    },
+    {
+        "image": 11678,
+        "id": 3,
+        "level": 41,
+        "mayDropItems": [
+            76003,
+            76001
+        ],
+        "sureDropItems": [
+            35002,
+            35008,
+            76005
+        ],
+        "name": "事象限界·终",
+        "unlockdescribe": "通关3-18和事象限界·刻解锁",
+        "unlockdescribeTextID": 1900218,
+        "sectionid": [
+            10007,
+            10008,
+            10009
+        ],
+        "recommendStrength": 70,
+        "star": 111,
+        "sort": 3,
+        "describeTextID": 1900215,
+        "nameTextID": 1900212,
+        "describe": "由时之塔，伊敏瑟伦，谢波契卡三种要素浮岛组成的事象限界，可以获得各种装备和材料。"
+    }
+]

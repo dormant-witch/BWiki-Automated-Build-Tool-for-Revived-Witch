@@ -1,0 +1,362 @@
+{
+    "128": {
+        "collecttype": 35069,
+        "id": 128,
+        "collectrequirenum": 3500,
+        "collectbonusnum": [
+            10
+        ],
+        "eventid": 47001,
+        "collectbonus": [
+            31383
+        ]
+    },
+    "129": {
+        "collecttype": 35069,
+        "id": 129,
+        "collectrequirenum": 4000,
+        "collectbonusnum": [
+            10
+        ],
+        "eventid": 47001,
+        "collectbonus": [
+            31380
+        ]
+    },
+    "130": {
+        "collecttype": 35069,
+        "id": 130,
+        "collectrequirenum": 5000,
+        "collectbonusnum": [
+            1
+        ],
+        "eventid": 47001,
+        "collectbonus": [
+            35068
+        ]
+    },
+    "101": {
+        "collecttype": 35024,
+        "id": 101,
+        "collectrequirenum": 200,
+        "collectbonusnum": [
+            1
+        ],
+        "eventid": 6001,
+        "collectbonus": [
+            30076
+        ]
+    },
+    "102": {
+        "collecttype": 35024,
+        "id": 102,
+        "collectrequirenum": 400,
+        "collectbonusnum": [
+            5
+        ],
+        "eventid": 6001,
+        "collectbonus": [
+            75016
+        ]
+    },
+    "103": {
+        "collecttype": 35024,
+        "id": 103,
+        "collectrequirenum": 600,
+        "collectbonusnum": [
+            5
+        ],
+        "eventid": 6001,
+        "collectbonus": [
+            75016
+        ]
+    },
+    "104": {
+        "collecttype": 35024,
+        "id": 104,
+        "collectrequirenum": 800,
+        "collectbonusnum": [
+            1
+        ],
+        "eventid": 6001,
+        "collectbonus": [
+            30076
+        ]
+    },
+    "105": {
+        "collecttype": 35024,
+        "id": 105,
+        "collectrequirenum": 1000,
+        "collectbonusnum": [
+            10
+        ],
+        "eventid": 6001,
+        "collectbonus": [
+            75017
+        ]
+    },
+    "106": {
+        "collecttype": 35024,
+        "id": 106,
+        "collectrequirenum": 1300,
+        "collectbonusnum": [
+            10
+        ],
+        "eventid": 6001,
+        "collectbonus": [
+            75017
+        ]
+    },
+    "107": {
+        "collecttype": 35024,
+        "id": 107,
+        "collectrequirenum": 1600,
+        "collectbonusnum": [
+            1
+        ],
+        "eventid": 6001,
+        "collectbonus": [
+            30076
+        ]
+    },
+    "108": {
+        "collecttype": 35024,
+        "id": 108,
+        "collectrequirenum": 1800,
+        "collectbonusnum": [
+            10
+        ],
+        "eventid": 6001,
+        "collectbonus": [
+            75017
+        ]
+    },
+    "109": {
+        "collecttype": 35024,
+        "id": 109,
+        "collectrequirenum": 2000,
+        "collectbonusnum": [
+            10
+        ],
+        "eventid": 6001,
+        "collectbonus": [
+            75017
+        ]
+    },
+    "110": {
+        "collecttype": 35024,
+        "id": 110,
+        "collectrequirenum": 2200,
+        "collectbonusnum": [
+            10
+        ],
+        "eventid": 6001,
+        "collectbonus": [
+            75017
+        ]
+    },
+    "111": {
+        "collecttype": 35024,
+        "id": 111,
+        "collectrequirenum": 2400,
+        "collectbonusnum": [
+            10
+        ],
+        "eventid": 6001,
+        "collectbonus": [
+            75019
+        ]
+    },
+    "112": {
+        "collecttype": 35024,
+        "id": 112,
+        "collectrequirenum": 2800,
+        "collectbonusnum": [
+            1
+        ],
+        "eventid": 6001,
+        "collectbonus": [
+            30076
+        ]
+    },
+    "113": {
+        "collecttype": 35024,
+        "id": 113,
+        "collectrequirenum": 3000,
+        "collectbonusnum": [
+            10
+        ],
+        "eventid": 6001,
+        "collectbonus": [
+            75019
+        ]
+    },
+    "114": {
+        "collecttype": 35024,
+        "id": 114,
+        "collectrequirenum": 3300,
+        "collectbonusnum": [
+            10
+        ],
+        "eventid": 6001,
+        "collectbonus": [
+            75019
+        ]
+    },
+    "115": {
+        "collecttype": 35024,
+        "id": 115,
+        "collectrequirenum": 3500,
+        "collectbonusnum": [
+            1
+        ],
+        "eventid": 6001,
+        "collectbonus": [
+            31102
+        ]
+    },
+    "116": {
+        "collecttype": 35069,
+        "id": 116,
+        "collectrequirenum": 200,
+        "collectbonusnum": [
+            10
+        ],
+        "eventid": 47001,
+        "collectbonus": [
+            74001
+        ]
+    },
+    "117": {
+        "collecttype": 35069,
+        "id": 117,
+        "collectrequirenum": 400,
+        "collectbonusnum": [
+            10
+        ],
+        "eventid": 47001,
+        "collectbonus": [
+            74002
+        ]
+    },
+    "118": {
+        "collecttype": 35069,
+        "id": 118,
+        "collectrequirenum": 600,
+        "collectbonusnum": [
+            1
+        ],
+        "eventid": 47001,
+        "collectbonus": [
+            30076
+        ]
+    },
+    "119": {
+        "collecttype": 35069,
+        "id": 119,
+        "collectrequirenum": 800,
+        "collectbonusnum": [
+            10
+        ],
+        "eventid": 47001,
+        "collectbonus": [
+            75018
+        ]
+    },
+    "120": {
+        "collecttype": 35069,
+        "id": 120,
+        "collectrequirenum": 1000,
+        "collectbonusnum": [
+            10
+        ],
+        "eventid": 47001,
+        "collectbonus": [
+            75019
+        ]
+    },
+    "121": {
+        "collecttype": 35069,
+        "id": 121,
+        "collectrequirenum": 1200,
+        "collectbonusnum": [
+            1
+        ],
+        "eventid": 47001,
+        "collectbonus": [
+            30076
+        ]
+    },
+    "122": {
+        "collecttype": 35069,
+        "id": 122,
+        "collectrequirenum": 1500,
+        "collectbonusnum": [
+            10
+        ],
+        "eventid": 47001,
+        "collectbonus": [
+            74004
+        ]
+    },
+    "123": {
+        "collecttype": 35069,
+        "id": 123,
+        "collectrequirenum": 1800,
+        "collectbonusnum": [
+            10
+        ],
+        "eventid": 47001,
+        "collectbonus": [
+            74005
+        ]
+    },
+    "124": {
+        "collecttype": 35069,
+        "id": 124,
+        "collectrequirenum": 2100,
+        "collectbonusnum": [
+            1
+        ],
+        "eventid": 47001,
+        "collectbonus": [
+            30076
+        ]
+    },
+    "125": {
+        "collecttype": 35069,
+        "id": 125,
+        "collectrequirenum": 2400,
+        "collectbonusnum": [
+            10
+        ],
+        "eventid": 47001,
+        "collectbonus": [
+            31386
+        ]
+    },
+    "126": {
+        "collecttype": 35069,
+        "id": 126,
+        "collectrequirenum": 2700,
+        "collectbonusnum": [
+            10
+        ],
+        "eventid": 47001,
+        "collectbonus": [
+            31389
+        ]
+    },
+    "127": {
+        "collecttype": 35069,
+        "id": 127,
+        "collectrequirenum": 3000,
+        "collectbonusnum": [
+            1
+        ],
+        "eventid": 47001,
+        "collectbonus": [
+            30076
+        ]
+    }
+}

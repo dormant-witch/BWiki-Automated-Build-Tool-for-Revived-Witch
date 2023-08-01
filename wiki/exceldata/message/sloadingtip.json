@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "defectCondition": 0,
+        "tipMsgTextID": 700521,
+        "effectCondition": 0,
+        "weight": 1,
+        "tipMsg": "【战斗：位移技能】$B$战斗中可以使用位移技能躲避部分伤害"
+    },
+    {
+        "id": 2,
+        "defectCondition": 0,
+        "tipMsgTextID": 700522,
+        "effectCondition": 2005,
+        "weight": 1,
+        "tipMsg": "【战斗：队伍配置】$B$不同人偶技能消耗的能量通常不同$B$合理配置队伍成员以最大化利用战斗能量"
+    },
+    {
+        "id": 3,
+        "defectCondition": 0,
+        "tipMsgTextID": 700523,
+        "effectCondition": 0,
+        "weight": 1,
+        "tipMsg": "【探索：角色移动】$B$轻推摇杆可以由跑步切换为行走"
+    },
+    {
+        "id": 4,
+        "defectCondition": 0,
+        "tipMsgTextID": 700524,
+        "effectCondition": 2005,
+        "weight": 1,
+        "tipMsg": "【百科：玛那收集者】$B$会在体内储存玛那微粒的魔法植物"
+    },
+    {
+        "id": 5,
+        "defectCondition": 0,
+        "tipMsgTextID": 700525,
+        "effectCondition": 2001,
+        "weight": 1,
+        "tipMsg": "【百科：圣坛】$B$在探索中可以使用圣坛恢复生命$B$通常情况只能使用一次"
+    },
+    {
+        "id": 6,
+        "defectCondition": 0,
+        "tipMsgTextID": 700526,
+        "effectCondition": 2002,
+        "weight": 1,
+        "tipMsg": "【探索：折返】$B$在探索中可以随时点击地图右上角按钮返回塔底"
+    },
+    {
+        "id": 7,
+        "defectCondition": 0,
+        "tipMsgTextID": 700649,
+        "effectCondition": 2012,
+        "weight": 1,
+        "tipMsg": "【战斗：阵容】$B$魔导型人偶更注重魔法伤害$B$而破坏型人偶更注重物理攻击"
+    },
+    {
+        "id": 8,
+        "defectCondition": 0,
+        "tipMsgTextID": 700528,
+        "effectCondition": 0,
+        "weight": 1,
+        "tipMsg": "【探索：传送点解锁】$B$某些关卡在完成后可解锁传送点$B$之后可从初始之间直接传送到该区域"
+    },
+    {
+        "id": 9,
+        "defectCondition": 0,
+        "tipMsgTextID": 700642,
+        "effectCondition": 2005,
+        "weight": 1,
+        "tipMsg": "【战斗：能量控制】$B$秩序能量自然增长$B$混沌能量消耗秩序获得 "
+    },
+    {
+        "id": 10,
+        "defectCondition": 0,
+        "tipMsgTextID": 700642,
+        "effectCondition": 2005,
+        "weight": 1,
+        "tipMsg": "【战斗：能量控制】$B$秩序能量自然增长$B$混沌能量消耗秩序获得 "
+    },
+    {
+        "id": 11,
+        "defectCondition": 0,
+        "tipMsgTextID": 700643,
+        "effectCondition": 2006,
+        "weight": 1,
+        "tipMsg": "【探索：时之塔】$B$时之塔内存在一些可以发射光线的古老方尖碑$B$利用镜子引导光线照射在门上，可以将门打开"
+    },
+    {
+        "id": 12,
+        "defectCondition": 2014,
+        "tipMsgTextID": 700644,
+        "effectCondition": 2007,
+        "weight": 1,
+        "tipMsg": "【探索：谢波契卡之山】$B$谢波契卡之山中魔法墙是依靠水晶塔的魔力构建的$B$点亮全部水晶塔便可以将魔法墙破坏"
+    },
+    {
+        "id": 13,
+        "defectCondition": 0,
+        "tipMsgTextID": 700645,
+        "effectCondition": 2008,
+        "weight": 1,
+        "tipMsg": "【百科：传送阵】$B$传送阵可以将人瞬间传送到另外一个地点$B$大部分传送阵都是双向的，但传说也存在单向的传送阵"
+    },
+    {
+        "id": 14,
+        "defectCondition": 0,
+        "tipMsgTextID": 700646,
+        "effectCondition": 2009,
+        "weight": 1,
+        "tipMsg": "【百科：魔女庭院】$B$升级魔法树之后$B$其他建筑可建造的最大等级也会提升"
+    },
+    {
+        "id": 15,
+        "defectCondition": 0,
+        "tipMsgTextID": 700647,
+        "effectCondition": 2010,
+        "weight": 1,
+        "tipMsg": "【战斗：阵容】$B$守护型人偶有着最高的生命和防御"
+    },
+    {
+        "id": 16,
+        "defectCondition": 0,
+        "tipMsgTextID": 700648,
+        "effectCondition": 2011,
+        "weight": 1,
+        "tipMsg": "【战斗：阵容】$B$刺杀型人偶有着最高的攻击"
+    },
+    {
+        "id": 17,
+        "defectCondition": 0,
+        "tipMsgTextID": 700649,
+        "effectCondition": 2012,
+        "weight": 1,
+        "tipMsg": "【战斗：阵容】$B$魔导型人偶更注重魔法伤害$B$而破坏型人偶更注重物理攻击"
+    },
+    {
+        "id": 18,
+        "defectCondition": 0,
+        "tipMsgTextID": 700648,
+        "effectCondition": 2011,
+        "weight": 1,
+        "tipMsg": "【战斗：阵容】$B$刺杀型人偶有着最高的攻击"
+    },
+    {
+        "id": 19,
+        "defectCondition": 2018,
+        "tipMsgTextID": 700915,
+        "effectCondition": 2015,
+        "weight": 3,
+        "tipMsg": "【战斗：阵容】$B$嘉庇艾尔的魔物更容易受到魔法伤害"
+    },
+    {
+        "id": 20,
+        "defectCondition": 2019,
+        "tipMsgTextID": 700916,
+        "effectCondition": 2016,
+        "weight": 3,
+        "tipMsg": "【战斗：阵容】$B$时之塔的机械守卫有着很强的物理抗性"
+    },
+    {
+        "id": 21,
+        "defectCondition": 2020,
+        "tipMsgTextID": 700917,
+        "effectCondition": 2017,
+        "weight": 5,
+        "tipMsg": "【战斗：能量控制】$B$受到黑魔法影响的德亚丝$B$更容易感知到能量的变化"
+    }
+]

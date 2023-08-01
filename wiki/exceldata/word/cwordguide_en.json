@@ -1,0 +1,870 @@
+{
+    "2301184": {
+        "text": "萤火灯台介绍3",
+        "id": 2301184
+    },
+    "2301185": {
+        "text": "魔女小屋介绍1",
+        "id": 2301185
+    },
+    "2301186": {
+        "text": "魔女小屋介绍2",
+        "id": 2301186
+    },
+    "2301187": {
+        "text": "魔女小屋介绍3",
+        "id": 2301187
+    },
+    "2301188": {
+        "text": "炼金所介绍1",
+        "id": 2301188
+    },
+    "2301189": {
+        "text": "炼金所介绍2",
+        "id": 2301189
+    },
+    "2301190": {
+        "text": "荧光屋1",
+        "id": 2301190
+    },
+    "2301191": {
+        "text": "荧光屋2",
+        "id": 2301191
+    },
+    "2301192": {
+        "text": "异界之境1",
+        "id": 2301192
+    },
+    "2301193": {
+        "text": "异界之境2",
+        "id": 2301193
+    },
+    "2301194": {
+        "text": "萤火灯台",
+        "id": 2301194
+    },
+    "2301195": {
+        "text": "萤火灯台1",
+        "id": 2301195
+    },
+    "2301196": {
+        "text": "萤火灯台2",
+        "id": 2301196
+    },
+    "2301197": {
+        "text": "萤火灯台3",
+        "id": 2301197
+    },
+    "2301198": {
+        "text": "音乐盒",
+        "id": 2301198
+    },
+    "2301199": {
+        "text": "音乐盒1",
+        "id": 2301199
+    },
+    "2301025": {
+        "text": "Enhance your dolls first to prepare for the unknown danger that lies ahead.",
+        "id": 2301025
+    },
+    "2301026": {
+        "text": "To confront the unpredictable enemies, enhance your dolls.",
+        "id": 2301026
+    },
+    "2301027": {
+        "text": "Tap for details.",
+        "id": 2301027
+    },
+    "2301028": {
+        "text": "Check the Enhance feature.",
+        "id": 2301028
+    },
+    "2301035": {
+        "text": "Friends Assist will be restored to the maximum times once you've cleared a stage.",
+        "id": 2301035
+    },
+    "2301036": {
+        "text": "Tap the icon in the top right to pause the game.",
+        "id": 2301036
+    },
+    "2301037": {
+        "text": "When paused, tap the character avatars at the bottom of the screen to check skill descriptions.",
+        "id": 2301037
+    },
+    "2301038": {
+        "text": "Tap Retreat to exit the combat and return to the Hall of Origin.",
+        "id": 2301038
+    },
+    "2301039": {
+        "text": "Accepted commissions can be managed on the <color=#FFB252>Commission Board<\/color>.",
+        "id": 2301039
+    },
+    "2301040": {
+        "text": "Tap to claim your Commission Rewards.",
+        "id": 2301040
+    },
+    "2301041": {
+        "text": "Tap Mini Map.",
+        "id": 2301041
+    },
+    "2301042": {
+        "text": "This is the Exploration menu.",
+        "id": 2301042
+    },
+    "2301043": {
+        "text": "You can check current quests and the map of the current region here.",
+        "id": 2301043
+    },
+    "2301044": {
+        "text": "Return to Hall of Origin.",
+        "id": 2301044
+    },
+    "2301045": {
+        "text": "Adjust your team to decide the formation of your dolls in combats.",
+        "id": 2301045
+    },
+    "2301046": {
+        "text": "Now, let's add a front-row doll to the team.",
+        "id": 2301046
+    },
+    "2301047": {
+        "text": "Formation Complete.",
+        "id": 2301047
+    },
+    "2301048": {
+        "text": "Now, let's begin your adventure.",
+        "id": 2301048
+    },
+    "2301001": {
+        "text": "Managing your energy usage during combats is the key to victory.",
+        "id": 2301001
+    },
+    "2301002": {
+        "text": "",
+        "id": 2301002
+    },
+    "2301003": {
+        "text": "",
+        "id": 2301003
+    },
+    "2301004": {
+        "text": "",
+        "id": 2301004
+    },
+    "2301005": {
+        "text": "Once the monster's current Health bar drops to 0, it will enter Weakened status.",
+        "id": 2301005
+    },
+    "2301006": {
+        "text": "In its Weakened status, the monster can't move and all damages dealt to it will be doubled.",
+        "id": 2301006
+    },
+    "2301007": {
+        "text": "Tap the Auto icon at upper right to start Auto Combat.",
+        "id": 2301007
+    },
+    "2301008": {
+        "text": "In Auto Combat, skills will be activated automatically when there is enough energy.",
+        "id": 2301008
+    },
+    "2301009": {
+        "text": "You can always choose to use energy according to your skill releasing arrangement by tapping Skill Arrangement.",
+        "id": 2301009
+    },
+    "2301010": {
+        "text": "Check your skills in the Witch Profile.",
+        "id": 2301010
+    },
+    "2301011": {
+        "text": "Switch skills on the Skill menu.",
+        "id": 2301011
+    },
+    "2301012": {
+        "text": "The selected skill will be available in combats after switching.",
+        "id": 2301012
+    },
+    "2301013": {
+        "text": "Skill unlocked: Cleansing ",
+        "id": 2301013
+    },
+    "2301014": {
+        "text": "[Witch Courtyard] unlocked. Enter it from the main screen.",
+        "id": 2301014
+    },
+    "2301015": {
+        "text": "Tap Acceleration icon to accelerate the combat speed to twice as fast.",
+        "id": 2301015
+    },
+    "2301016": {
+        "text": "Hold the [Enhance] icon to Quick Enhance the doll.",
+        "id": 2301016
+    },
+    "2301017": {
+        "text": "Master, please proceed with your exploration in the tower.",
+        "id": 2301017
+    },
+    "2301018": {
+        "text": "Tap to start adventure.",
+        "id": 2301018
+    },
+    "2301019": {
+        "text": "Master, welcome back to the Hall of Origin. Allow me to introduce you to the new features.  ",
+        "id": 2301019
+    },
+    "2301020": {
+        "text": "Tap your <color=#FFB252>Avatar<\/color> to adjust various options. ",
+        "id": 2301020
+    },
+    "2301021": {
+        "text": "<color=#FFB252>Adventure<\/color> will improve your knowledge of this world, and unravel your puzzles.",
+        "id": 2301021
+    },
+    "2301022": {
+        "text": "Here is the <color=#FFB252>Doll<\/color> menu, where you can check all stats of the Dolls.",
+        "id": 2301022
+    },
+    "2301023": {
+        "text": "You can form your adventure team here.",
+        "id": 2301023
+    },
+    "2301024": {
+        "text": "All trophies are collected in the <color=#FFB252>Workshop<\/color>. You can check them any time.",
+        "id": 2301024
+    },
+    "2300001": {
+        "text": "Enhance yourself with Mana",
+        "id": 2300001
+    },
+    "2300002": {
+        "text": "Switch to Croche",
+        "id": 2300002
+    },
+    "2300003": {
+        "text": "Enhance the doll with Mana",
+        "id": 2300003
+    },
+    "2300004": {
+        "text": "Please change your equipment",
+        "id": 2300004
+    },
+    "2301029": {
+        "text": "Hold to enhance.",
+        "id": 2301029
+    },
+    "2301030": {
+        "text": "Switch to the next doll.",
+        "id": 2301030
+    },
+    "2301031": {
+        "text": "Hold to enhance the doll.",
+        "id": 2301031
+    },
+    "2301032": {
+        "text": "Tap to fast switch.",
+        "id": 2301032
+    },
+    "2301033": {
+        "text": "Return to Hall of Origin.",
+        "id": 2301033
+    },
+    "2301034": {
+        "text": "Friends Assist allows you to summon a doll from your friend to launch an attack. Limited to once in each combat.",
+        "id": 2301034
+    },
+    "2300011": {
+        "text": "Combat Tip 1\/4",
+        "id": 2300011
+    },
+    "2300012": {
+        "text": "Combat Tip 2\/4",
+        "id": 2300012
+    },
+    "2300013": {
+        "text": "Combat Tip 3\/4",
+        "id": 2300013
+    },
+    "2300014": {
+        "text": "Combat Tip 4\/4",
+        "id": 2300014
+    },
+    "2300015": {
+        "text": "Combat Tip 1\/2",
+        "id": 2300015
+    },
+    "2300016": {
+        "text": "Combat Tip 2\/2",
+        "id": 2300016
+    },
+    "2300017": {
+        "text": "Combat Tip 1\/3",
+        "id": 2300017
+    },
+    "2300018": {
+        "text": "Combat Tip 2\/3",
+        "id": 2300018
+    },
+    "2300019": {
+        "text": "Combat Tip 3\/3",
+        "id": 2300019
+    },
+    "2300020": {
+        "text": "Skill unlocked: Bloom",
+        "id": 2300020
+    },
+    "2300021": {
+        "text": "Skill unlocked: Cleansing  ",
+        "id": 2300021
+    },
+    "2300022": {
+        "text": "Courtyard unlocked",
+        "id": 2300022
+    },
+    "2300023": {
+        "text": "Quick Enhancement",
+        "id": 2300023
+    },
+    "2300024": {
+        "text": "Skill unlocked: Time Freeze",
+        "id": 2300024
+    },
+    "2301049": {
+        "text": "Master, try equipping your newly acquired weapon.",
+        "id": 2301049
+    },
+    "2301050": {
+        "text": "Tap to Auto Equip Weapons.",
+        "id": 2301050
+    },
+    "2301051": {
+        "text": "Try enhancing the equipment.",
+        "id": 2301051
+    },
+    "2301052": {
+        "text": "Tap Forge.",
+        "id": 2301052
+    },
+    "2301053": {
+        "text": "Select materials for enhancement.",
+        "id": 2301053
+    },
+    "2301054": {
+        "text": "Now, let's start enhancing the equipment.",
+        "id": 2301054
+    },
+    "2301055": {
+        "text": "The vessel hanging on your belt is packed with souls. Please summon them in the Hall of Origin.",
+        "id": 2301055
+    },
+    "2301056": {
+        "text": "Please <color=#FFB252>Summon<\/color> new dolls.",
+        "id": 2301056
+    },
+    "2301057": {
+        "text": "Tap to summon.",
+        "id": 2301057
+    },
+    "2301058": {
+        "text": "Tap <color=#FFB252>Summon Again<\/color> to repeat Summon x10. Tap <color=#FFB252>Finish Summoning<\/color> to stop the process and confirm the result of the summoning.",
+        "id": 2301058
+    },
+    "2301059": {
+        "text": "Master, the <color=#FFB252>Daily Commission<\/color> is unlocked.",
+        "id": 2301059
+    },
+    "2301060": {
+        "text": "Pray Quests refresh daily. Tap to claim your rewards.",
+        "id": 2301060
+    },
+    "2301061": {
+        "text": "Tap here to enter the Adventure menu.",
+        "id": 2301061
+    },
+    "2301062": {
+        "text": "Explore the Dreamworld to acquire abundant materials.",
+        "id": 2301062
+    },
+    "2301063": {
+        "text": "Explore <color=#FFB252>Mana Dreamland<\/color> to earn Mana.",
+        "id": 2301063
+    },
+    "2301064": {
+        "text": "Welcome to the Shop. You can purchase supplies for your adventure here.",
+        "id": 2301064
+    },
+    "2301065": {
+        "text": "This is the <color=#FFB252>Hot Items<\/color> menu. Do check it often as you don't want to miss out on the recommended items.",
+        "id": 2301065
+    },
+    "2301066": {
+        "text": "Now, let's have a look at the <color=#FFB252>Groceries<\/color>.",
+        "id": 2301066
+    },
+    "2301067": {
+        "text": "You can redeem <color=#FFB252>Materials<\/color> with all kinds of currencies acquired from explorations.",
+        "id": 2301067
+    },
+    "2301068": {
+        "text": "This is the <color=#FFB252>Costume<\/color> menu for the dolls.",
+        "id": 2301068
+    },
+    "2301069": {
+        "text": "You can select various looks for your favorite dolls.",
+        "id": 2301069
+    },
+    "2301070": {
+        "text": "That will be it. Enjoy your shopping.",
+        "id": 2301070
+    },
+    "2301071": {
+        "text": "Master, when you were exploring, a new feature was unlocked in the Hall of Origin.",
+        "id": 2301071
+    },
+    "2301072": {
+        "text": "Tap to enter the <color=#FFB252>Witch Courtyard<\/color>.",
+        "id": 2301072
+    },
+    "2301073": {
+        "text": "Tap to check the <color=#FFB252>Magic Tree<\/color> feature.",
+        "id": 2301073
+    },
+    "2301074": {
+        "text": "Tap to unlock the Firefly Lampstand.",
+        "id": 2301074
+    },
+    "2301075": {
+        "text": "Collect the Light of Fireflies.",
+        "id": 2301075
+    },
+    "2301076": {
+        "text": "Tap to check the <color=#FFB252>Firefly Lampstand<\/color> feature.",
+        "id": 2301076
+    },
+    "2301077": {
+        "text": "Catch more Fireflies and collect the Light of Fireflies.",
+        "id": 2301077
+    },
+    "2301078": {
+        "text": "Try to unlock other features.",
+        "id": 2301078
+    },
+    "2301079": {
+        "text": "Enter the Magic Tree feature menu.",
+        "id": 2301079
+    },
+    "2301080": {
+        "text": "Tap here to unlock the Mirror of the Otherworld feature.",
+        "id": 2301080
+    },
+    "2301081": {
+        "text": "Tap to check the <color=#FFB252>Mirror of the Otherworld<\/color> feature.",
+        "id": 2301081
+    },
+    "2301082": {
+        "text": "You can dispatch dolls to explore and collect resources for you.",
+        "id": 2301082
+    },
+    "2301083": {
+        "text": "Master, enemies ahead are even stronger. Be fully prepared before proceeding with your adventure.",
+        "id": 2301083
+    },
+    "2301084": {
+        "text": "Master, you might want to take a short break here. A new feature has been unlocked in the Hall of Origin.",
+        "id": 2301084
+    },
+    "2301085": {
+        "text": "Tap the icon to check the Friends feature.",
+        "id": 2301085
+    },
+    "2301086": {
+        "text": "You can add new friends, and designate an Assist Doll to help other witches.",
+        "id": 2301086
+    },
+    "2301087": {
+        "text": "Change Assist Doll",
+        "id": 2301087
+    },
+    "2301088": {
+        "text": "Select Assist Doll to make combat easier.",
+        "id": 2301088
+    },
+    "2301089": {
+        "text": "Confirm your selection.",
+        "id": 2301089
+    },
+    "2301090": {
+        "text": "Master, Evil Return feature unlocks.",
+        "id": 2301090
+    },
+    "2301091": {
+        "text": "You can challenge the powerful enemies that you have defeated in your adventure repeatedly.",
+        "id": 2301091
+    },
+    "2301092": {
+        "text": "Defeat them using less time than before to get great rewards.",
+        "id": 2301092
+    },
+    "2301093": {
+        "text": "Master, by improving your bond with the dolls, you will be able to increase their strength.",
+        "id": 2301093
+    },
+    "2301094": {
+        "text": "Try sending a gift to a doll.",
+        "id": 2301094
+    },
+    "2301095": {
+        "text": "Clear a stage to unlock the Auto Explore feature.",
+        "id": 2301095
+    },
+    "2301096": {
+        "text": "The doll has reached the Max Level. Now try to Ascend the doll.",
+        "id": 2301096
+    },
+    "2301097": {
+        "text": "Return to the Doll Details.",
+        "id": 2301097
+    },
+    "2301098": {
+        "text": "Enter the Doll Ascension menu.",
+        "id": 2301098
+    },
+    "2301099": {
+        "text": "Dolls' Max Level will be increased after Ascension.",
+        "id": 2301099
+    },
+    "2301100": {
+        "text": "The <color=#FFB252>Intangible Barrier<\/color> is unlocked.",
+        "id": 2301100
+    },
+    "2301101": {
+        "text": "Tap here to enter the Intangible Barrier.",
+        "id": 2301101
+    },
+    "2301102": {
+        "text": "Tap The Intangible Barrier: Prelude.",
+        "id": 2301102
+    },
+    "2301103": {
+        "text": "Tap <color=#FFB252>Challenge<\/color> to challenge the Intangible Barrier.",
+        "id": 2301103
+    },
+    "2301104": {
+        "text": "Alchemy converts basic materials into advanced items.",
+        "id": 2301104
+    },
+    "2301105": {
+        "text": "Select an Alchemy Recipe.",
+        "id": 2301105
+    },
+    "2301106": {
+        "text": "Add an Assistant to increase the drop rate of byproducts.",
+        "id": 2301106
+    },
+    "2301107": {
+        "text": "As you become more proficient, the drop rate of byproducts will also increase.",
+        "id": 2301107
+    },
+    "2301108": {
+        "text": "Master, here is your cottage.",
+        "id": 2301108
+    },
+    "2301109": {
+        "text": "You can decorate it however you like.",
+        "id": 2301109
+    },
+    "2301110": {
+        "text": "Dolls resting in the cottage can gradually restore Energy.",
+        "id": 2301110
+    },
+    "2301111": {
+        "text": "You might purchase desired furniture pieces in the Furniture Shop.",
+        "id": 2301111
+    },
+    "2301112": {
+        "text": "You can return to the Hall of Origin at any time. The Intangible Barrier will save the Exploration Progress for you.",
+        "id": 2301112
+    },
+    "2301113": {
+        "text": "You can reset the Exploration Progress here.",
+        "id": 2301113
+    },
+    "2301114": {
+        "text": "Tap on an adjacent area to move.",
+        "id": 2301114
+    },
+    "2301115": {
+        "text": "Defeat the ultimate monster to proceed to the next stage.",
+        "id": 2301115
+    },
+    "2301116": {
+        "text": "Return to the Hall of Origin and use the Music Box of Time.",
+        "id": 2301116
+    },
+    "2301117": {
+        "text": "Master, a new path has revealed itself in the Chrono Tower.",
+        "id": 2301117
+    },
+    "2301118": {
+        "text": "Enter the Chrono Tower Floor 10.",
+        "id": 2301118
+    },
+    "2301119": {
+        "text": "Master, a new feature has been unlocked in the Hall of Origin.",
+        "id": 2301119
+    },
+    "2301120": {
+        "text": "Tap here to enter the Adventure menu.",
+        "id": 2301120
+    },
+    "2301121": {
+        "text": "Skill unlocked: Time Freeze",
+        "id": 2301121
+    },
+    "2301122": {
+        "text": "Use <color=#FFCA65>Psychics<\/color> to enhance <color=#6EBEF0>Miku<\/color>'s <color=#FFCA65>Basic Attack<\/color> and <color=#FFCA65>Evilsend<\/color>.",
+        "id": 2301122
+    },
+    "2301123": {
+        "text": "Use <color=#FFCA65>Wind Cutter<\/color> to deal Physical DMG to all enemies.",
+        "id": 2301123
+    },
+    "2301124": {
+        "text": "You have 5 Soul Marks now. Unleash them to restore all the Chaos and Order Energy, and triple Order Energy's increase rate for 5 seconds.",
+        "id": 2301124
+    },
+    "2301125": {
+        "text": "After the energy burst, there will be a 15-second Energy Drained state, during which Soul Marks cannot be obtained.",
+        "id": 2301125
+    },
+    "2301126": {
+        "text": "Tap here to switch to Speed x2.",
+        "id": 2301126
+    },
+    "2301127": {
+        "text": "Tap here to switch to Auto Combat.",
+        "id": 2301127
+    },
+    "2301128": {
+        "text": "Tap the Skill icon to switch to the Auto Release of skill.",
+        "id": 2301128
+    },
+    "2301129": {
+        "text": "Restore Health for the ally with the lowest Health by using <color=#FFCA65>Whisper of Flower<\/color>.",
+        "id": 2301129
+    },
+    "2301130": {
+        "text": "Intangible Barrier",
+        "id": 2301130
+    },
+    "2301131": {
+        "text": "Exploration Progression",
+        "id": 2301131
+    },
+    "2301132": {
+        "text": "Weekly Rewards",
+        "id": 2301132
+    },
+    "2301133": {
+        "text": "The Intangible Barrier locates on the margin of chronospaces.$B$Being blessed with the power of the Protector, you can explore the Intangible Barrier now.",
+        "id": 2301133
+    },
+    "2301134": {
+        "text": "You will encounter all kinds of events in the Intangible Barrier. $B$The increasingly difficult battles can be dealt with by stacking up various<color=#FFCA65>buffs<\/color>.",
+        "id": 2301134
+    },
+    "2301135": {
+        "text": "Rewards are reset every Thursday at 4:00 (UTC\/GMT+8). $B$The more checkpoints you pass, the better the rewards are.",
+        "id": 2301135
+    },
+    "2301136": {
+        "text": "Rune: Swift",
+        "id": 2301136
+    },
+    "2301137": {
+        "text": "When the <color=#FFCA65>Swift Rune<\/color> is active, the witch's speed is boosted.",
+        "id": 2301137
+    },
+    "2301138": {
+        "text": "Rune: Sneak",
+        "id": 2301138
+    },
+    "2301139": {
+        "text": "When the <color=#FFCA65>Sneak Rune<\/color> is active, the witch will not be detected by monsters.",
+        "id": 2301139
+    },
+    "2301140": {
+        "text": "You obtained a memory segment in the turbulence of chronospaces. Check it out!",
+        "id": 2301140
+    },
+    "2301141": {
+        "text": "Tap on the Intangible Memory.",
+        "id": 2301141
+    },
+    "2301142": {
+        "text": "Tap to unlock",
+        "id": 2301142
+    },
+    "2301143": {
+        "text": "Tap here to enter.",
+        "id": 2301143
+    },
+    "2301144": {
+        "text": "The Backup Doll feature is unlocked.",
+        "id": 2301144
+    },
+    "2301145": {
+        "text": "Let's add a Backup doll to the team!",
+        "id": 2301145
+    },
+    "2301146": {
+        "text": "Select a Backup doll and tap Confirm.",
+        "id": 2301146
+    },
+    "2301147": {
+        "text": "On the Character Bond page, you can check the interesting stories of the characters, listen to their voices, and interact with them in multiple ways.",
+        "id": 2301147
+    },
+    "2301148": {
+        "text": "Switch to different menus with the Feature Tabs on the right. Now, let's try to interact with characters!",
+        "id": 2301148
+    },
+    "2301149": {
+        "text": "When you tap a doll, different responses will be made.",
+        "id": 2301149
+    },
+    "2301150": {
+        "text": "Send a gift to a doll of your choice.",
+        "id": 2301150
+    },
+    "2301151": {
+        "text": "Sending gifts will strengthen your bond with the doll and unlock the doll's story.",
+        "id": 2301151
+    },
+    "2301152": {
+        "text": "Different dolls have different gift preferences.",
+        "id": 2301152
+    },
+    "2301153": {
+        "text": "When the Bond with a doll reaches a certain level, you will receive all types of gifts from the doll. Keep your gifts coming!",
+        "id": 2301153
+    },
+    "2301154": {
+        "text": "Tap to check the gifts from the dolls.",
+        "id": 2301154
+    },
+    "2301155": {
+        "text": "Enter <color=#FFCA65>Dimensional Trials<\/color>",
+        "id": 2301155
+    },
+    "2301156": {
+        "text": "Explore the <color=#FFCA65>Broken Lands<\/color>.",
+        "id": 2301156
+    },
+    "2301157": {
+        "text": "Enter <color=#FFCA65>Evil Return<\/color> ",
+        "id": 2301157
+    },
+    "2301158": {
+        "text": "Explore the <color=#FFCA65>Intangible Barrier<\/color>.",
+        "id": 2301158
+    },
+    "2301159": {
+        "text": "Explore the <color=#FFCA65>Chronospace Breach<\/color>.",
+        "id": 2301159
+    },
+    "2301160": {
+        "text": "Select the Firefly Lampstand",
+        "id": 2301160
+    },
+    "2301161": {
+        "text": "Select Mirror of the Otherworld",
+        "id": 2301161
+    },
+    "2301162": {
+        "text": "During your adventures, you can collect materials used for unlocking skills.",
+        "id": 2301162
+    },
+    "2301163": {
+        "text": "Unlock skills to make your dolls more powerful.",
+        "id": 2301163
+    },
+    "2301164": {
+        "text": "Place your favorite doll in the Hall of Origin.",
+        "id": 2301164
+    },
+    "2301165": {
+        "text": "Tap to change dolls.",
+        "id": 2301165
+    },
+    "2301166": {
+        "text": "Use <color=#FFCA65>Mind's Eye<\/color> to stun an enemy. Stop the Succubus from casting a spell.",
+        "id": 2301166
+    },
+    "2301167": {
+        "text": "Tap [Pause] to see skill description.",
+        "id": 2301167
+    },
+    "2301168": {
+        "text": "Defeat the elite or ultimate monster of a stage to get a blessing reward.",
+        "id": 2301168
+    },
+    "2301169": {
+        "text": "Check your blessings here.",
+        "id": 2301169
+    },
+    "2301170": {
+        "text": "<color=#FFCA65>Mind's Eye<\/color> stuns a single enemy.",
+        "id": 2301170
+    },
+    "2301171": {
+        "text": "Tap [Continue] to return to combat.",
+        "id": 2301171
+    },
+    "2301172": {
+        "text": "Auto Explore is now available. Tap the button to start.",
+        "id": 2301172
+    },
+    "2301173": {
+        "text": "A Soul Mark can be gained after using a Chaos Energy skill. At 5 Marks, the Energy Outbreak mode will be activated.",
+        "id": 2301173
+    },
+    "2301174": {
+        "text": "",
+        "id": 2301174
+    },
+    "2301175": {
+        "text": "魔法树",
+        "id": 2301175
+    },
+    "2301176": {
+        "text": "魔女小屋",
+        "id": 2301176
+    },
+    "2301177": {
+        "text": "炼金所",
+        "id": 2301177
+    },
+    "2301178": {
+        "text": "荧光屋",
+        "id": 2301178
+    },
+    "2301179": {
+        "text": "异界之境",
+        "id": 2301179
+    },
+    "2301180": {
+        "text": "魔法树介绍1",
+        "id": 2301180
+    },
+    "2301181": {
+        "text": "魔法树介绍2",
+        "id": 2301181
+    },
+    "2301182": {
+        "text": "萤火灯台介绍1",
+        "id": 2301182
+    },
+    "2301183": {
+        "text": "萤火灯台介绍2",
+        "id": 2301183
+    }
+}

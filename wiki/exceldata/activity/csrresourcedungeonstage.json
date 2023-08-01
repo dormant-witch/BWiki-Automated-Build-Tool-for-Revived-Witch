@@ -1,0 +1,683 @@
+{
+    "20801": {
+        "monsterid": [
+            10022
+        ],
+        "id": 20801,
+        "sceneID": 20053,
+        "unlockTextID": 0,
+        "battleID": 11130,
+        "descriptionID": 702471,
+        "levelShow": 160,
+        "unlockCondition": [
+            108,
+            0
+        ],
+        "type": 208,
+        "imageID": 0,
+        "firstItems": 35008,
+        "monsterformid": 0,
+        "nodepos": "0",
+        "sureItemNums": {},
+        "baseSpirit": 1,
+        "mopupTime": 0,
+        "sureDropItems": {},
+        "firstItemNums": 40,
+        "spirit": 20,
+        "nameID": 702291
+    },
+    "20101": {
+        "monsterid": [
+            10017
+        ],
+        "id": 20101,
+        "sceneID": 20052,
+        "unlockTextID": 0,
+        "battleID": 11123,
+        "descriptionID": 702482,
+        "levelShow": 80,
+        "unlockCondition": [
+            101,
+            0
+        ],
+        "type": 201,
+        "imageID": 0,
+        "firstItems": 35008,
+        "monsterformid": 0,
+        "nodepos": "0",
+        "sureItemNums": {},
+        "baseSpirit": 1,
+        "mopupTime": 0,
+        "sureDropItems": {},
+        "firstItemNums": 40,
+        "spirit": 10,
+        "nameID": 702284
+    },
+    "20201": {
+        "monsterid": [
+            10017,
+            10018
+        ],
+        "id": 20201,
+        "sceneID": 20052,
+        "unlockTextID": 0,
+        "battleID": 11124,
+        "descriptionID": 702465,
+        "levelShow": 90,
+        "unlockCondition": [
+            102,
+            0
+        ],
+        "type": 202,
+        "imageID": 0,
+        "firstItems": 35008,
+        "monsterformid": 0,
+        "nodepos": "0",
+        "sureItemNums": {},
+        "baseSpirit": 1,
+        "mopupTime": 0,
+        "sureDropItems": {},
+        "firstItemNums": 40,
+        "spirit": 10,
+        "nameID": 702285
+    },
+    "62021": {
+        "monsterid": {},
+        "id": 62021,
+        "sceneID": 20052,
+        "unlockTextID": 0,
+        "battleID": 11119,
+        "descriptionID": 0,
+        "levelShow": 0,
+        "unlockCondition": [
+            108,
+            0
+        ],
+        "type": 602,
+        "imageID": 0,
+        "firstItems": 0,
+        "monsterformid": 0,
+        "nodepos": "0",
+        "sureItemNums": {},
+        "baseSpirit": 0,
+        "mopupTime": 0,
+        "sureDropItems": {},
+        "firstItemNums": 0,
+        "spirit": 0,
+        "nameID": 0
+    },
+    "20301": {
+        "monsterid": [
+            10018
+        ],
+        "id": 20301,
+        "sceneID": 20052,
+        "unlockTextID": 0,
+        "battleID": 11125,
+        "descriptionID": 702466,
+        "levelShow": 100,
+        "unlockCondition": [
+            103,
+            0
+        ],
+        "type": 203,
+        "imageID": 0,
+        "firstItems": 35008,
+        "monsterformid": 0,
+        "nodepos": "0",
+        "sureItemNums": {},
+        "baseSpirit": 1,
+        "mopupTime": 0,
+        "sureDropItems": {},
+        "firstItemNums": 40,
+        "spirit": 15,
+        "nameID": 702286
+    },
+    "60501": {
+        "monsterid": {},
+        "id": 60501,
+        "sceneID": 20053,
+        "unlockTextID": 0,
+        "battleID": 11122,
+        "descriptionID": 0,
+        "levelShow": 0,
+        "unlockCondition": [
+            108,
+            0
+        ],
+        "type": 605,
+        "imageID": 0,
+        "firstItems": 0,
+        "monsterformid": 0,
+        "nodepos": "0",
+        "sureItemNums": {},
+        "baseSpirit": 0,
+        "mopupTime": 0,
+        "sureDropItems": {},
+        "firstItemNums": 0,
+        "spirit": 0,
+        "nameID": 0
+    },
+    "60401": {
+        "monsterid": {},
+        "id": 60401,
+        "sceneID": 20052,
+        "unlockTextID": 0,
+        "battleID": 11121,
+        "descriptionID": 0,
+        "levelShow": 0,
+        "unlockCondition": [
+            108,
+            0
+        ],
+        "type": 604,
+        "imageID": 0,
+        "firstItems": 0,
+        "monsterformid": 0,
+        "nodepos": "0",
+        "sureItemNums": {},
+        "baseSpirit": 0,
+        "mopupTime": 0,
+        "sureDropItems": {},
+        "firstItemNums": 0,
+        "spirit": 0,
+        "nameID": 0
+    },
+    "60301": {
+        "monsterid": {},
+        "id": 60301,
+        "sceneID": 20052,
+        "unlockTextID": 0,
+        "battleID": 11120,
+        "descriptionID": 0,
+        "levelShow": 0,
+        "unlockCondition": [
+            108,
+            0
+        ],
+        "type": 603,
+        "imageID": 0,
+        "firstItems": 0,
+        "monsterformid": 0,
+        "nodepos": "0",
+        "sureItemNums": {},
+        "baseSpirit": 0,
+        "mopupTime": 0,
+        "sureDropItems": {},
+        "firstItemNums": 0,
+        "spirit": 0,
+        "nameID": 0
+    },
+    "20401": {
+        "monsterid": [
+            833
+        ],
+        "id": 20401,
+        "sceneID": 20052,
+        "unlockTextID": 0,
+        "battleID": 11126,
+        "descriptionID": 702467,
+        "levelShow": 110,
+        "unlockCondition": [
+            104,
+            0
+        ],
+        "type": 204,
+        "imageID": 0,
+        "firstItems": 35008,
+        "monsterformid": 0,
+        "nodepos": "0",
+        "sureItemNums": {},
+        "baseSpirit": 1,
+        "mopupTime": 0,
+        "sureDropItems": {},
+        "firstItemNums": 40,
+        "spirit": 15,
+        "nameID": 702287
+    },
+    "60101": {
+        "monsterid": {},
+        "id": 60101,
+        "sceneID": 20052,
+        "unlockTextID": 0,
+        "battleID": 11118,
+        "descriptionID": 0,
+        "levelShow": 0,
+        "unlockCondition": [
+            108,
+            0
+        ],
+        "type": 601,
+        "imageID": 0,
+        "firstItems": 0,
+        "monsterformid": 0,
+        "nodepos": "0",
+        "sureItemNums": {},
+        "baseSpirit": 0,
+        "mopupTime": 0,
+        "sureDropItems": {},
+        "firstItemNums": 0,
+        "spirit": 0,
+        "nameID": 0
+    },
+    "31001": {
+        "monsterid": [
+            10022,
+            10021
+        ],
+        "id": 31001,
+        "sceneID": 20052,
+        "unlockTextID": 702411,
+        "battleID": 11140,
+        "descriptionID": 702473,
+        "levelShow": 280,
+        "unlockCondition": [
+            20801,
+            30901
+        ],
+        "type": 310,
+        "imageID": 14472,
+        "firstItems": 35008,
+        "monsterformid": 20171,
+        "nodepos": "1770,570",
+        "sureItemNums": [
+            50,
+            1
+        ],
+        "baseSpirit": 1,
+        "mopupTime": 480,
+        "sureDropItems": [
+            35067,
+            74002
+        ],
+        "firstItemNums": 40,
+        "spirit": 25,
+        "nameID": 702306
+    },
+    "30901": {
+        "monsterid": [
+            10021,
+            10019
+        ],
+        "id": 30901,
+        "sceneID": 20053,
+        "unlockTextID": 702410,
+        "battleID": 11139,
+        "descriptionID": 702473,
+        "levelShow": 250,
+        "unlockCondition": [
+            20801,
+            30801
+        ],
+        "type": 309,
+        "imageID": 14472,
+        "firstItems": 35008,
+        "monsterformid": 20169,
+        "nodepos": "1465,260",
+        "sureItemNums": [
+            50,
+            1
+        ],
+        "baseSpirit": 1,
+        "mopupTime": 480,
+        "sureDropItems": [
+            35067,
+            74002
+        ],
+        "firstItemNums": 40,
+        "spirit": 25,
+        "nameID": 702305
+    },
+    "20501": {
+        "monsterid": [
+            10018,
+            10020
+        ],
+        "id": 20501,
+        "sceneID": 20052,
+        "unlockTextID": 0,
+        "battleID": 11127,
+        "descriptionID": 702468,
+        "levelShow": 120,
+        "unlockCondition": [
+            105,
+            0
+        ],
+        "type": 205,
+        "imageID": 0,
+        "firstItems": 35008,
+        "monsterformid": 0,
+        "nodepos": "0",
+        "sureItemNums": {},
+        "baseSpirit": 1,
+        "mopupTime": 0,
+        "sureDropItems": {},
+        "firstItemNums": 40,
+        "spirit": 15,
+        "nameID": 702288
+    },
+    "30801": {
+        "monsterid": [
+            833
+        ],
+        "id": 30801,
+        "sceneID": 20052,
+        "unlockTextID": 702409,
+        "battleID": 11138,
+        "descriptionID": 702473,
+        "levelShow": 240,
+        "unlockCondition": [
+            20801,
+            30701
+        ],
+        "type": 308,
+        "imageID": 14472,
+        "firstItems": 35008,
+        "monsterformid": 20198,
+        "nodepos": "1160,570",
+        "sureItemNums": [
+            40,
+            1
+        ],
+        "baseSpirit": 1,
+        "mopupTime": 360,
+        "sureDropItems": [
+            35067,
+            74001
+        ],
+        "firstItemNums": 40,
+        "spirit": 20,
+        "nameID": 702304
+    },
+    "30701": {
+        "monsterid": [
+            10018,
+            10019
+        ],
+        "id": 30701,
+        "sceneID": 20052,
+        "unlockTextID": 702408,
+        "battleID": 11137,
+        "descriptionID": 702473,
+        "levelShow": 230,
+        "unlockCondition": [
+            20801,
+            30601
+        ],
+        "type": 307,
+        "imageID": 14472,
+        "firstItems": 35008,
+        "monsterformid": 20170,
+        "nodepos": "855,260",
+        "sureItemNums": [
+            40,
+            1
+        ],
+        "baseSpirit": 1,
+        "mopupTime": 360,
+        "sureDropItems": [
+            35067,
+            74001
+        ],
+        "firstItemNums": 40,
+        "spirit": 20,
+        "nameID": 702303
+    },
+    "30601": {
+        "monsterid": [
+            10017,
+            10018
+        ],
+        "id": 30601,
+        "sceneID": 20052,
+        "unlockTextID": 0,
+        "battleID": 11136,
+        "descriptionID": 702473,
+        "levelShow": 220,
+        "unlockCondition": [
+            20801,
+            0
+        ],
+        "type": 306,
+        "imageID": 14472,
+        "firstItems": 35008,
+        "monsterformid": 20167,
+        "nodepos": "550,570",
+        "sureItemNums": [
+            30,
+            1
+        ],
+        "baseSpirit": 1,
+        "mopupTime": 240,
+        "sureDropItems": [
+            35067,
+            74000
+        ],
+        "firstItemNums": 40,
+        "spirit": 15,
+        "nameID": 702302
+    },
+    "20601": {
+        "monsterid": [
+            10020
+        ],
+        "id": 20601,
+        "sceneID": 20052,
+        "unlockTextID": 0,
+        "battleID": 11128,
+        "descriptionID": 702469,
+        "levelShow": 130,
+        "unlockCondition": [
+            106,
+            0
+        ],
+        "type": 206,
+        "imageID": 0,
+        "firstItems": 35008,
+        "monsterformid": 0,
+        "nodepos": "0",
+        "sureItemNums": {},
+        "baseSpirit": 1,
+        "mopupTime": 0,
+        "sureDropItems": {},
+        "firstItemNums": 40,
+        "spirit": 20,
+        "nameID": 702289
+    },
+    "30501": {
+        "monsterid": [
+            10020,
+            10021
+        ],
+        "id": 30501,
+        "sceneID": 20052,
+        "unlockTextID": 702407,
+        "battleID": 11135,
+        "descriptionID": 702472,
+        "levelShow": 180,
+        "unlockCondition": [
+            20701,
+            30401
+        ],
+        "type": 305,
+        "imageID": 14472,
+        "firstItems": 35008,
+        "monsterformid": 20166,
+        "nodepos": "1770,570",
+        "sureItemNums": [
+            40,
+            1
+        ],
+        "baseSpirit": 1,
+        "mopupTime": 360,
+        "sureDropItems": [
+            35066,
+            74001
+        ],
+        "firstItemNums": 40,
+        "spirit": 20,
+        "nameID": 702301
+    },
+    "30401": {
+        "monsterid": [
+            10021,
+            10019
+        ],
+        "id": 30401,
+        "sceneID": 20052,
+        "unlockTextID": 702406,
+        "battleID": 11134,
+        "descriptionID": 702472,
+        "levelShow": 150,
+        "unlockCondition": [
+            20601,
+            30301
+        ],
+        "type": 304,
+        "imageID": 14472,
+        "firstItems": 35008,
+        "monsterformid": 20169,
+        "nodepos": "1465,260",
+        "sureItemNums": [
+            40,
+            1
+        ],
+        "baseSpirit": 1,
+        "mopupTime": 360,
+        "sureDropItems": [
+            35066,
+            74001
+        ],
+        "firstItemNums": 40,
+        "spirit": 20,
+        "nameID": 702300
+    },
+    "30301": {
+        "monsterid": [
+            833
+        ],
+        "id": 30301,
+        "sceneID": 20052,
+        "unlockTextID": 702405,
+        "battleID": 11133,
+        "descriptionID": 702472,
+        "levelShow": 140,
+        "unlockCondition": [
+            20501,
+            30201
+        ],
+        "type": 303,
+        "imageID": 14472,
+        "firstItems": 35008,
+        "monsterformid": 20198,
+        "nodepos": "1160,570",
+        "sureItemNums": [
+            30,
+            1
+        ],
+        "baseSpirit": 1,
+        "mopupTime": 240,
+        "sureDropItems": [
+            35066,
+            74000
+        ],
+        "firstItemNums": 40,
+        "spirit": 15,
+        "nameID": 702299
+    },
+    "20701": {
+        "monsterid": [
+            10021
+        ],
+        "id": 20701,
+        "sceneID": 20052,
+        "unlockTextID": 0,
+        "battleID": 11129,
+        "descriptionID": 702470,
+        "levelShow": 140,
+        "unlockCondition": [
+            107,
+            0
+        ],
+        "type": 207,
+        "imageID": 0,
+        "firstItems": 35008,
+        "monsterformid": 0,
+        "nodepos": "0",
+        "sureItemNums": {},
+        "baseSpirit": 1,
+        "mopupTime": 0,
+        "sureDropItems": {},
+        "firstItemNums": 40,
+        "spirit": 20,
+        "nameID": 702290
+    },
+    "30201": {
+        "monsterid": [
+            10018,
+            10019
+        ],
+        "id": 30201,
+        "sceneID": 20052,
+        "unlockTextID": 702404,
+        "battleID": 11132,
+        "descriptionID": 702472,
+        "levelShow": 130,
+        "unlockCondition": [
+            20401,
+            30101
+        ],
+        "type": 302,
+        "imageID": 14472,
+        "firstItems": 35008,
+        "monsterformid": 20170,
+        "nodepos": "855,260",
+        "sureItemNums": [
+            30,
+            1
+        ],
+        "baseSpirit": 1,
+        "mopupTime": 240,
+        "sureDropItems": [
+            35066,
+            74000
+        ],
+        "firstItemNums": 40,
+        "spirit": 15,
+        "nameID": 702298
+    },
+    "30101": {
+        "monsterid": [
+            10017,
+            10018
+        ],
+        "id": 30101,
+        "sceneID": 20052,
+        "unlockTextID": 0,
+        "battleID": 11131,
+        "descriptionID": 702472,
+        "levelShow": 120,
+        "unlockCondition": [
+            20301,
+            0
+        ],
+        "type": 301,
+        "imageID": 14472,
+        "firstItems": 35008,
+        "monsterformid": 20167,
+        "nodepos": "550,570",
+        "sureItemNums": [
+            20,
+            1
+        ],
+        "baseSpirit": 1,
+        "mopupTime": 180,
+        "sureDropItems": [
+            35066,
+            74003
+        ],
+        "firstItemNums": 40,
+        "spirit": 10,
+        "nameID": 702297
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "weight": 30,
+        "id": 1,
+        "describe": "发生灾厄",
+        "describeTextID": 1900143
+    },
+    {
+        "weight": 70,
+        "id": 2,
+        "describe": "获得秘宝",
+        "describeTextID": 1900144
+    }
+]

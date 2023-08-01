@@ -1,0 +1,46 @@
+[
+    {
+        "buyNum": 1,
+        "id": 1,
+        "itemNum2": 3,
+        "itemId3": 35046,
+        "item3Probability": 20,
+        "itemNum1": 20,
+        "itemNum3": 1,
+        "itemId1": 35044,
+        "itemId2": 35045
+    },
+    {
+        "buyNum": 10,
+        "id": 2,
+        "itemNum2": 3,
+        "itemId3": 35046,
+        "item3Probability": 20,
+        "itemNum1": 20,
+        "itemNum3": 1,
+        "itemId1": 35044,
+        "itemId2": 35045
+    },
+    {
+        "buyNum": 1,
+        "id": 3,
+        "itemNum2": 2,
+        "itemId3": 35046,
+        "item3Probability": 80,
+        "itemNum1": 20,
+        "itemNum3": 1,
+        "itemId1": 35044,
+        "itemId2": 35045
+    },
+    {
+        "buyNum": 10,
+        "id": 4,
+        "itemNum2": 2,
+        "itemId3": 35046,
+        "item3Probability": 80,
+        "itemNum1": 20,
+        "itemNum3": 1,
+        "itemId1": 35044,
+        "itemId2": 35045
+    }
+]

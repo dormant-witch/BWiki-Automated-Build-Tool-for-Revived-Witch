@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "text": 701814,
+        "clowntype": "BattleIdle"
+    },
+    {
+        "id": 2,
+        "text": 701815,
+        "clowntype": "BattleIdle"
+    },
+    {
+        "id": 3,
+        "text": 701816,
+        "clowntype": "BattleIdle"
+    },
+    {
+        "id": 4,
+        "text": 701817,
+        "clowntype": "BattleIdle"
+    },
+    {
+        "id": 5,
+        "text": 701818,
+        "clowntype": "Down"
+    }
+]

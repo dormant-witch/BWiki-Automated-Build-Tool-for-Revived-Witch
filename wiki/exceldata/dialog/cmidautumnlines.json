@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "type": 1,
+        "isStart": 1,
+        "textId": 204531,
+        "activityid": 12001,
+        "shapeId": 9
+    },
+    {
+        "id": 2,
+        "type": 1,
+        "isStart": 1,
+        "textId": 204532,
+        "activityid": 12001,
+        "shapeId": 9
+    },
+    {
+        "id": 3,
+        "type": 1,
+        "isStart": 1,
+        "textId": 204533,
+        "activityid": 12001,
+        "shapeId": 9
+    },
+    {
+        "id": 4,
+        "type": 2,
+        "isStart": 0,
+        "textId": 204529,
+        "activityid": 12001,
+        "shapeId": 9
+    },
+    {
+        "id": 5,
+        "type": 3,
+        "isStart": 0,
+        "textId": 204528,
+        "activityid": 12001,
+        "shapeId": 9
+    },
+    {
+        "id": 6,
+        "type": 4,
+        "isStart": 0,
+        "textId": 204530,
+        "activityid": 12001,
+        "shapeId": 9
+    },
+    {
+        "id": 7,
+        "type": 1,
+        "isStart": 1,
+        "textId": 207033,
+        "activityid": 12002,
+        "shapeId": 9
+    },
+    {
+        "id": 8,
+        "type": 1,
+        "isStart": 1,
+        "textId": 207034,
+        "activityid": 12002,
+        "shapeId": 9
+    },
+    {
+        "id": 9,
+        "type": 1,
+        "isStart": 1,
+        "textId": 207035,
+        "activityid": 12002,
+        "shapeId": 9
+    },
+    {
+        "id": 10,
+        "type": 2,
+        "isStart": 0,
+        "textId": 207036,
+        "activityid": 12002,
+        "shapeId": 9
+    },
+    {
+        "id": 11,
+        "type": 3,
+        "isStart": 0,
+        "textId": 207037,
+        "activityid": 12002,
+        "shapeId": 9
+    },
+    {
+        "id": 12,
+        "type": 4,
+        "isStart": 0,
+        "textId": 207038,
+        "activityid": 12002,
+        "shapeId": 9
+    }
+]

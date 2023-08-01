@@ -1,0 +1,7362 @@
+{
+    "1": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 1,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "2": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 2,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "3": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 3,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "4": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 4,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "5": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 5,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "6": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 6,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "7": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 7,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "8": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 8,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "9": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 9,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "10": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 10,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "11": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 11,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "12": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 12,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "13": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 13,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "14": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 14,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "15": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 15,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "16": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 16,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "17": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 17,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "18": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 18,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "19": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 19,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "20": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 20,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "21": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 21,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "22": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 22,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "23": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 23,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "24": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 24,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "25": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 25,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "26": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 26,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "27": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 27,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "28": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 28,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "29": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 29,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "30": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 30,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "31": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 31,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "32": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 32,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "33": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 33,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "34": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 34,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 4,
+        "Defeat": 11
+    },
+    "35": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 35,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "36": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 36,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "37": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 37,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "38": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 38,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "39": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 39,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            0
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "40": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 40,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "41": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 41,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "42": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 42,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "43": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 43,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "44": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 44,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "45": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 45,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "46": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 46,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "47": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 47,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "48": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 48,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "49": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 49,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "51": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 51,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "52": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 52,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "53": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 53,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "54": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 54,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "55": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 55,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "56": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 56,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "57": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 57,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "58": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 58,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "59": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 59,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "60": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 60,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "61": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 61,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "63": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 63,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "64": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 64,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "65": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 65,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "66": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 66,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "67": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 67,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "68": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 68,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "69": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 69,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "70": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 70,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "71": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 71,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "72": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 72,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "73": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 73,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "74": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 74,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "75": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 75,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "76": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 76,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "78": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 78,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "79": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 79,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "80": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 80,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "81": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 81,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "82": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 82,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "83": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 83,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "84": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 84,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "85": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 85,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "86": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 86,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "88": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 88,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "89": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 89,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "90": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 90,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "91": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 91,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "92": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 92,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "94": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 94,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "95": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 95,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "97": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 97,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "98": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 98,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "99": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 99,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "100": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 100,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "101": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 101,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "102": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 102,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "103": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 103,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "104": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 104,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "105": {
+        "Emotion": [
+            4,
+            5,
+            1
+        ],
+        "id": 105,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 2,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "106": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 106,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "107": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 107,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "108": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 108,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "109": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 109,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "110": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 110,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "111": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 111,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "112": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 112,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "113": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 113,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "115": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 115,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "117": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 117,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "119": {
+        "Emotion": [
+            4,
+            5,
+            1
+        ],
+        "id": 119,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 2,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "120": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 120,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "121": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 121,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "122": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 122,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "123": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 123,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    },
+    "124": {
+        "Emotion": [
+            4,
+            5,
+            0
+        ],
+        "id": 124,
+        "Conversation": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "Standby": 2,
+        "Attacked": [
+            5,
+            12
+        ],
+        "BattleStart": 5,
+        "LifeHealing": 2,
+        "Adventure": 2,
+        "touch": [
+            12,
+            5,
+            13,
+            12,
+            5
+        ],
+        "Impression": [
+            2,
+            2,
+            10,
+            10,
+            13
+        ],
+        "LimitUp": 10,
+        "OpenBox": 0,
+        "NormalGift": 2,
+        "Login": 1,
+        "Introduction": 1,
+        "RareUp": 10,
+        "Summory": 1,
+        "Withdraw": 2,
+        "Dispatch": 2,
+        "Formation": 2,
+        "ManaTree": 0,
+        "LevelUp": 10,
+        "Revive": 10,
+        "YardTouch": [
+            2,
+            2
+        ],
+        "FavoriteGift": 4,
+        "SkillCV": [
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        "BattleKill": 10,
+        "Victory": 1,
+        "Defeat": 11
+    }
+}

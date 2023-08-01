@@ -1,0 +1,26 @@
+[
+    {
+        "itemID": 35048,
+        "id": 1,
+        "breaklv": 1,
+        "itemnum": 10
+    },
+    {
+        "itemID": 35048,
+        "id": 2,
+        "breaklv": 2,
+        "itemnum": 30
+    },
+    {
+        "itemID": 35048,
+        "id": 3,
+        "breaklv": 3,
+        "itemnum": 50
+    },
+    {
+        "itemID": 35048,
+        "id": 4,
+        "breaklv": 4,
+        "itemnum": 100
+    }
+]

@@ -1,0 +1,177 @@
+{
+    "40000": {
+        "id": 40000,
+        "unlockCondition": 0,
+        "icon": 10944,
+        "name": "无",
+        "nameTextID": 1300653
+    },
+    "40001": {
+        "id": 40001,
+        "unlockCondition": 0,
+        "icon": 11462,
+        "name": "华光之岛",
+        "nameTextID": 1300654
+    },
+    "40002": {
+        "id": 40002,
+        "unlockCondition": 0,
+        "icon": 11453,
+        "name": "塞尔缇卡王国",
+        "nameTextID": 1300655
+    },
+    "40003": {
+        "id": 40003,
+        "unlockCondition": 0,
+        "icon": 11450,
+        "name": "露尼亚公国",
+        "nameTextID": 1300656
+    },
+    "40004": {
+        "id": 40004,
+        "unlockCondition": 0,
+        "icon": 11460,
+        "name": "新教会",
+        "nameTextID": 1300657
+    },
+    "40005": {
+        "id": 40005,
+        "unlockCondition": 0,
+        "icon": 11455,
+        "name": "圣教会",
+        "nameTextID": 1300658
+    },
+    "40006": {
+        "id": 40006,
+        "unlockCondition": 0,
+        "icon": 11440,
+        "name": "洛哈伯王国",
+        "nameTextID": 1300659
+    },
+    "40007": {
+        "id": 40007,
+        "unlockCondition": 0,
+        "icon": 11451,
+        "name": "蒙特尼亚公国",
+        "nameTextID": 1300660
+    },
+    "40008": {
+        "id": 40008,
+        "unlockCondition": 0,
+        "icon": 11452,
+        "name": "潘诺尼亚王国",
+        "nameTextID": 1300661
+    },
+    "40009": {
+        "id": 40009,
+        "unlockCondition": 0,
+        "icon": 11442,
+        "name": "贝尔吉卡王国",
+        "nameTextID": 1300662
+    },
+    "40010": {
+        "id": 40010,
+        "unlockCondition": 0,
+        "icon": 11441,
+        "name": "埃舍蕾势力",
+        "nameTextID": 1300663
+    },
+    "40011": {
+        "id": 40011,
+        "unlockCondition": 0,
+        "icon": 11445,
+        "name": "弗摩尔",
+        "nameTextID": 1300664
+    },
+    "40012": {
+        "id": 40012,
+        "unlockCondition": 0,
+        "icon": 11449,
+        "name": "兰纳玛",
+        "nameTextID": 1300665
+    },
+    "40013": {
+        "id": 40013,
+        "unlockCondition": 0,
+        "icon": 11454,
+        "name": "瑟希薇势力",
+        "nameTextID": 1300666
+    },
+    "40014": {
+        "id": 40014,
+        "unlockCondition": 0,
+        "icon": 11446,
+        "name": "霍尔姆加德公国",
+        "nameTextID": 1300667
+    },
+    "40015": {
+        "id": 40015,
+        "unlockCondition": 0,
+        "icon": 11447,
+        "name": "精灵湖畔",
+        "nameTextID": 1300668
+    },
+    "40016": {
+        "id": 40016,
+        "unlockCondition": 0,
+        "icon": 11444,
+        "name": "反抗同盟",
+        "nameTextID": 1300669
+    },
+    "40017": {
+        "id": 40017,
+        "unlockCondition": 0,
+        "icon": 11448,
+        "name": "卡蜜莉安势力",
+        "nameTextID": 1300670
+    },
+    "40018": {
+        "id": 40018,
+        "unlockCondition": 0,
+        "icon": 11457,
+        "name": "罗姆尼",
+        "nameTextID": 1300671
+    },
+    "40019": {
+        "id": 40019,
+        "unlockCondition": 0,
+        "icon": 11443,
+        "name": "部落联盟安帝斯",
+        "nameTextID": 1300672
+    },
+    "40020": {
+        "id": 40020,
+        "unlockCondition": 0,
+        "icon": 10944,
+        "name": "守护者势力",
+        "nameTextID": 1300673
+    },
+    "40021": {
+        "id": 40021,
+        "unlockCondition": 0,
+        "icon": 10944,
+        "name": "夜魔神势力",
+        "nameTextID": 1300674
+    },
+    "40022": {
+        "id": 40022,
+        "unlockCondition": 0,
+        "icon": 11461,
+        "name": "虚空之境",
+        "nameTextID": 1300675
+    },
+    "40023": {
+        "id": 40023,
+        "unlockCondition": 0,
+        "icon": 11459,
+        "name": "雾之女巫势力",
+        "nameTextID": 1300676
+    },
+    "40024": {
+        "id": 40024,
+        "unlockCondition": 0,
+        "icon": 11456,
+        "name": "圣域",
+        "nameTextID": 1300677
+    }
+}

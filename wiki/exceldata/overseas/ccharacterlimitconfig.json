@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "en_floor": 3,
+        "jp_floor": 2,
+        "jp_top": 7,
+        "kr_top": 7,
+        "cn_top": 7,
+        "cn_floor": 2,
+        "en_top": 15,
+        "kr_floor": 2
+    },
+    {
+        "id": 2,
+        "en_floor": 0,
+        "jp_floor": 2,
+        "jp_top": 4,
+        "kr_top": 4,
+        "cn_top": 6,
+        "cn_floor": 0,
+        "en_top": 10,
+        "kr_floor": 2
+    },
+    {
+        "id": 3,
+        "en_floor": 3,
+        "jp_floor": 2,
+        "jp_top": 6,
+        "kr_top": 6,
+        "cn_top": 6,
+        "cn_floor": 2,
+        "en_top": 15,
+        "kr_floor": 2
+    },
+    {
+        "id": 4,
+        "en_floor": 3,
+        "jp_floor": 2,
+        "jp_top": 7,
+        "kr_top": 7,
+        "cn_top": 7,
+        "cn_floor": 2,
+        "en_top": 15,
+        "kr_floor": 2
+    },
+    {
+        "id": 5,
+        "en_floor": 3,
+        "jp_floor": 2,
+        "jp_top": 7,
+        "kr_top": 7,
+        "cn_top": 7,
+        "cn_floor": 2,
+        "en_top": 15,
+        "kr_floor": 2
+    },
+    {
+        "id": 6,
+        "en_floor": 0,
+        "jp_floor": 0,
+        "jp_top": 30,
+        "kr_top": 30,
+        "cn_top": 30,
+        "cn_floor": 0,
+        "en_top": 90,
+        "kr_floor": 0
+    },
+    {
+        "id": 7,
+        "en_floor": 0,
+        "jp_floor": 0,
+        "jp_top": 140,
+        "kr_top": 140,
+        "cn_top": 140,
+        "cn_floor": 0,
+        "en_top": 300,
+        "kr_floor": 0
+    }
+]

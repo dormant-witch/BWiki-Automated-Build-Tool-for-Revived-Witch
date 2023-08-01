@@ -1,0 +1,142 @@
+{
+    "10016": {
+        "id": 10016,
+        "classname": "PhysicalDamage",
+        "isFloat": 1,
+        "isCrit": 0,
+        "buffclass": 1
+    },
+    "10017": {
+        "id": 10017,
+        "classname": "MagicDamage",
+        "isFloat": 1,
+        "isCrit": 0,
+        "buffclass": 2
+    },
+    "10018": {
+        "id": 10018,
+        "classname": "MagicHeal",
+        "isFloat": 1,
+        "isCrit": 0,
+        "buffclass": 4
+    },
+    "10019": {
+        "id": 10019,
+        "classname": "Dispel",
+        "isFloat": 0,
+        "isCrit": 0,
+        "buffclass": 5
+    },
+    "10000": {
+        "id": 10000,
+        "classname": "PhysicalDamage",
+        "isFloat": 1,
+        "isCrit": 1,
+        "buffclass": 1
+    },
+    "10001": {
+        "id": 10001,
+        "classname": "MagicDamage",
+        "isFloat": 1,
+        "isCrit": 1,
+        "buffclass": 2
+    },
+    "10002": {
+        "id": 10002,
+        "classname": "PhysicalHeal",
+        "isFloat": 1,
+        "isCrit": 1,
+        "buffclass": 3
+    },
+    "10003": {
+        "id": 10003,
+        "classname": "MagicHeal",
+        "isFloat": 1,
+        "isCrit": 1,
+        "buffclass": 4
+    },
+    "10004": {
+        "id": 10004,
+        "classname": "Interruption",
+        "isFloat": 0,
+        "isCrit": 0,
+        "buffclass": 4
+    },
+    "10005": {
+        "id": 10005,
+        "classname": "Purify",
+        "isFloat": 0,
+        "isCrit": 0,
+        "buffclass": 5
+    },
+    "10006": {
+        "id": 10006,
+        "classname": "Revive",
+        "isFloat": 1,
+        "isCrit": 0,
+        "buffclass": 5
+    },
+    "10007": {
+        "id": 10007,
+        "classname": "PureDamage",
+        "isFloat": 0,
+        "isCrit": 0,
+        "buffclass": 5
+    },
+    "10008": {
+        "id": 10008,
+        "classname": "PhysicalStealHeal",
+        "isFloat": 0,
+        "isCrit": 0,
+        "buffclass": 3
+    },
+    "10009": {
+        "id": 10009,
+        "classname": "MagicStealHeal",
+        "isFloat": 0,
+        "isCrit": 0,
+        "buffclass": 4
+    },
+    "10010": {
+        "id": 10010,
+        "classname": "OverHeal",
+        "isFloat": 0,
+        "isCrit": 0,
+        "buffclass": 4
+    },
+    "10011": {
+        "id": 10011,
+        "classname": "PowerUp",
+        "isFloat": 0,
+        "isCrit": 0,
+        "buffclass": 5
+    },
+    "10012": {
+        "id": 10012,
+        "classname": "DamageReduce",
+        "isFloat": 0,
+        "isCrit": 0,
+        "buffclass": 5
+    },
+    "10013": {
+        "id": 10013,
+        "classname": "Dispel",
+        "isFloat": 0,
+        "isCrit": 0,
+        "buffclass": 5
+    },
+    "10014": {
+        "id": 10014,
+        "classname": "HPRemove",
+        "isFloat": 0,
+        "isCrit": 0,
+        "buffclass": 5
+    },
+    "10015": {
+        "id": 10015,
+        "classname": "ComboCost",
+        "isFloat": 0,
+        "isCrit": 0,
+        "buffclass": 5
+    }
+}

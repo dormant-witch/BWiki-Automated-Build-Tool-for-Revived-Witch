@@ -1,0 +1,2770 @@
+[
+    {
+        "id": 1,
+        "backGround": "BackGroundT1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 1
+    },
+    {
+        "id": 2,
+        "backGround": "BackGroundT1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 2
+    },
+    {
+        "id": 3,
+        "backGround": "BackGroundT1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 3
+    },
+    {
+        "id": 4,
+        "backGround": "BackGroundT1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 4
+    },
+    {
+        "id": 5,
+        "backGround": "BackGroundW1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW1",
+        "bmgId": 135,
+        "sectionID": 5
+    },
+    {
+        "id": 6,
+        "backGround": "BackGroundW1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW1",
+        "bmgId": 135,
+        "sectionID": 6
+    },
+    {
+        "id": 7,
+        "backGround": "BackGroundW1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW1",
+        "bmgId": 135,
+        "sectionID": 7
+    },
+    {
+        "id": 8,
+        "backGround": "BackGroundW1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW1",
+        "bmgId": 135,
+        "sectionID": 8
+    },
+    {
+        "id": 9,
+        "backGround": "BackGroundW1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW1",
+        "bmgId": 135,
+        "sectionID": 9
+    },
+    {
+        "id": 10,
+        "backGround": "BackGroundW1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW1",
+        "bmgId": 135,
+        "sectionID": 10
+    },
+    {
+        "id": 11,
+        "backGround": "BackGroundW1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW1",
+        "bmgId": 135,
+        "sectionID": 11
+    },
+    {
+        "id": 12,
+        "backGround": "BackGroundW1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW1",
+        "bmgId": 135,
+        "sectionID": 12
+    },
+    {
+        "id": 13,
+        "backGround": "BackGroundW1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW1",
+        "bmgId": 135,
+        "sectionID": 13
+    },
+    {
+        "id": 14,
+        "backGround": "BackGroundW1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW1",
+        "bmgId": 135,
+        "sectionID": 14
+    },
+    {
+        "id": 15,
+        "backGround": "BackGroundW1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW1",
+        "bmgId": 135,
+        "sectionID": 15
+    },
+    {
+        "id": 16,
+        "backGround": "BackGroundW1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW1",
+        "bmgId": 135,
+        "sectionID": 16
+    },
+    {
+        "id": 17,
+        "backGround": "BackGroundW1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW1",
+        "bmgId": 135,
+        "sectionID": 17
+    },
+    {
+        "id": 18,
+        "backGround": "BackGroundT1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 18
+    },
+    {
+        "id": 19,
+        "backGround": "BackGroundT1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 19
+    },
+    {
+        "id": 20,
+        "backGround": "BackGroundT1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 20
+    },
+    {
+        "id": 21,
+        "backGround": "BackGroundT1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 21
+    },
+    {
+        "id": 22,
+        "backGround": "BackGroundT1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 22
+    },
+    {
+        "id": 23,
+        "backGround": "BackGroundT1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 23
+    },
+    {
+        "id": 24,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 234,
+        "sectionID": 24
+    },
+    {
+        "id": 25,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 234,
+        "sectionID": 25
+    },
+    {
+        "id": 26,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 234,
+        "sectionID": 26
+    },
+    {
+        "id": 27,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 234,
+        "sectionID": 27
+    },
+    {
+        "id": 28,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 234,
+        "sectionID": 28
+    },
+    {
+        "id": 29,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 234,
+        "sectionID": 29
+    },
+    {
+        "id": 30,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 234,
+        "sectionID": 30
+    },
+    {
+        "id": 31,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 234,
+        "sectionID": 31
+    },
+    {
+        "id": 32,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 234,
+        "sectionID": 32
+    },
+    {
+        "id": 33,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 234,
+        "sectionID": 33
+    },
+    {
+        "id": 34,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 234,
+        "sectionID": 34
+    },
+    {
+        "id": 35,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 234,
+        "sectionID": 35
+    },
+    {
+        "id": 36,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 234,
+        "sectionID": 36
+    },
+    {
+        "id": 37,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 234,
+        "sectionID": 37
+    },
+    {
+        "id": 38,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 234,
+        "sectionID": 38
+    },
+    {
+        "id": 39,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 234,
+        "sectionID": 39
+    },
+    {
+        "id": 40,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 234,
+        "sectionID": 40
+    },
+    {
+        "id": 41,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 234,
+        "sectionID": 41
+    },
+    {
+        "id": 42,
+        "backGround": "BackGroundBattle4",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 10101
+    },
+    {
+        "id": 43,
+        "backGround": "BackGroundBattle4",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 10102
+    },
+    {
+        "id": 44,
+        "backGround": "BackGroundBattle4",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 135,
+        "sectionID": 10103
+    },
+    {
+        "id": 45,
+        "backGround": "BackGroundBattle4",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 135,
+        "sectionID": 10104
+    },
+    {
+        "id": 46,
+        "backGround": "BackGroundBattle4",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 234,
+        "sectionID": 10105
+    },
+    {
+        "id": 47,
+        "backGround": "BackGroundBattle4",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 234,
+        "sectionID": 10106
+    },
+    {
+        "id": 48,
+        "backGround": "BackGroundBattle5",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 20101
+    },
+    {
+        "id": 49,
+        "backGround": "BackGroundBattle5",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 135,
+        "sectionID": 20102
+    },
+    {
+        "id": 50,
+        "backGround": "BackGroundBattle5",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 234,
+        "sectionID": 20103
+    },
+    {
+        "id": 51,
+        "backGround": "BackGroundBattle6",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 20201
+    },
+    {
+        "id": 52,
+        "backGround": "BackGroundBattle6",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 135,
+        "sectionID": 20202
+    },
+    {
+        "id": 53,
+        "backGround": "BackGroundBattle6",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 234,
+        "sectionID": 20203
+    },
+    {
+        "id": 54,
+        "backGround": "BackGroundBattle7",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 20301
+    },
+    {
+        "id": 55,
+        "backGround": "BackGroundBattle7",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 135,
+        "sectionID": 20302
+    },
+    {
+        "id": 56,
+        "backGround": "BackGroundBattle7",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 234,
+        "sectionID": 20303
+    },
+    {
+        "id": 57,
+        "backGround": "BackGroundBattle3",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 30101
+    },
+    {
+        "id": 58,
+        "backGround": "BackGroundBattle3",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 30102
+    },
+    {
+        "id": 59,
+        "backGround": "BackGroundBattle3",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 30103
+    },
+    {
+        "id": 60,
+        "backGround": "BackGroundBattle3",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 30104
+    },
+    {
+        "id": 61,
+        "backGround": "BackGroundBattle2",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 40101
+    },
+    {
+        "id": 62,
+        "backGround": "BackGroundBattle2",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 40102
+    },
+    {
+        "id": 63,
+        "backGround": "BackGroundBattle2",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 135,
+        "sectionID": 40103
+    },
+    {
+        "id": 64,
+        "backGround": "BackGroundBattle2",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 234,
+        "sectionID": 40104
+    },
+    {
+        "id": 65,
+        "backGround": "BackGroundBattle2",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 40201
+    },
+    {
+        "id": 66,
+        "backGround": "BackGroundBattle2",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 40202
+    },
+    {
+        "id": 67,
+        "backGround": "BackGroundBattle2",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 135,
+        "sectionID": 40203
+    },
+    {
+        "id": 68,
+        "backGround": "BackGroundBattle2",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 234,
+        "sectionID": 40204
+    },
+    {
+        "id": 69,
+        "backGround": "BackGroundBattle2",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 40301
+    },
+    {
+        "id": 70,
+        "backGround": "BackGroundBattle2",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 40302
+    },
+    {
+        "id": 71,
+        "backGround": "BackGroundBattle2",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 135,
+        "sectionID": 40303
+    },
+    {
+        "id": 72,
+        "backGround": "BackGroundBattle2",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 234,
+        "sectionID": 40304
+    },
+    {
+        "id": 73,
+        "backGround": "BackGroundT1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 42
+    },
+    {
+        "id": 74,
+        "backGround": "BackGroundT1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 43
+    },
+    {
+        "id": 75,
+        "backGround": "BackGroundT1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 44
+    },
+    {
+        "id": 76,
+        "backGround": "BackGroundT1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 45
+    },
+    {
+        "id": 77,
+        "backGround": "BackGroundT1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 46
+    },
+    {
+        "id": 78,
+        "backGround": "BackGroundT1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 47
+    },
+    {
+        "id": 79,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 574,
+        "sectionID": 48
+    },
+    {
+        "id": 80,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 574,
+        "sectionID": 49
+    },
+    {
+        "id": 81,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 574,
+        "sectionID": 50
+    },
+    {
+        "id": 82,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 575,
+        "sectionID": 51
+    },
+    {
+        "id": 83,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 575,
+        "sectionID": 52
+    },
+    {
+        "id": 84,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 575,
+        "sectionID": 53
+    },
+    {
+        "id": 85,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 574,
+        "sectionID": 54
+    },
+    {
+        "id": 86,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 574,
+        "sectionID": 55
+    },
+    {
+        "id": 87,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 575,
+        "sectionID": 56
+    },
+    {
+        "id": 88,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 575,
+        "sectionID": 57
+    },
+    {
+        "id": 89,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 574,
+        "sectionID": 58
+    },
+    {
+        "id": 90,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 574,
+        "sectionID": 59
+    },
+    {
+        "id": 91,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 575,
+        "sectionID": 60
+    },
+    {
+        "id": 92,
+        "backGround": "BackGroundW2",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW2",
+        "bmgId": 575,
+        "sectionID": 61
+    },
+    {
+        "id": 93,
+        "backGround": "BackGroundW4",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW4",
+        "bmgId": 576,
+        "sectionID": 62
+    },
+    {
+        "id": 94,
+        "backGround": "BackGroundW4",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW4",
+        "bmgId": 576,
+        "sectionID": 63
+    },
+    {
+        "id": 95,
+        "backGround": "BackGroundW4",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW4",
+        "bmgId": 576,
+        "sectionID": 64
+    },
+    {
+        "id": 96,
+        "backGround": "BackGroundW4",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW4",
+        "bmgId": 576,
+        "sectionID": 65
+    },
+    {
+        "id": 97,
+        "backGround": "BackGroundW4",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW4",
+        "bmgId": 576,
+        "sectionID": 66
+    },
+    {
+        "id": 98,
+        "backGround": "BackGroundW4",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundW4",
+        "bmgId": 576,
+        "sectionID": 67
+    },
+    {
+        "id": 99,
+        "backGround": "BackGroundT1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 68
+    },
+    {
+        "id": 100,
+        "backGround": "BackGroundT1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 69
+    },
+    {
+        "id": 101,
+        "backGround": "BackGroundT1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 70
+    },
+    {
+        "id": 102,
+        "backGround": "BackGroundT1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 71
+    },
+    {
+        "id": 103,
+        "backGround": "BackGroundT1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 72
+    },
+    {
+        "id": 104,
+        "backGround": "BackGroundT1",
+        "dungeontype": 2,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 73
+    },
+    {
+        "id": 105,
+        "backGround": "BackGroundBattle5",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 20104
+    },
+    {
+        "id": 106,
+        "backGround": "BackGroundBattle5",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 135,
+        "sectionID": 20105
+    },
+    {
+        "id": 107,
+        "backGround": "BackGroundBattle5",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 234,
+        "sectionID": 20106
+    },
+    {
+        "id": 108,
+        "backGround": "BackGroundBattle6",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 20204
+    },
+    {
+        "id": 109,
+        "backGround": "BackGroundBattle6",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 135,
+        "sectionID": 20205
+    },
+    {
+        "id": 110,
+        "backGround": "BackGroundBattle6",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 234,
+        "sectionID": 20206
+    },
+    {
+        "id": 111,
+        "backGround": "BackGroundBattle7",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 20304
+    },
+    {
+        "id": 112,
+        "backGround": "BackGroundBattle7",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 135,
+        "sectionID": 20305
+    },
+    {
+        "id": 113,
+        "backGround": "BackGroundBattle7",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 234,
+        "sectionID": 20306
+    },
+    {
+        "id": 114,
+        "backGround": "BackGroundBattle3",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 30105
+    },
+    {
+        "id": 115,
+        "backGround": "BackGroundBattle3",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 30106
+    },
+    {
+        "id": 116,
+        "backGround": "BackGroundBattle3",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 30107
+    },
+    {
+        "id": 117,
+        "backGround": "BackGroundBattle3",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 30108
+    },
+    {
+        "id": 118,
+        "backGround": "BackGroundW3",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 994,
+        "sectionID": 74
+    },
+    {
+        "id": 119,
+        "backGround": "BackGroundW3",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 995,
+        "sectionID": 75
+    },
+    {
+        "id": 120,
+        "backGround": "BackGroundW3",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 994,
+        "sectionID": 76
+    },
+    {
+        "id": 121,
+        "backGround": "BackGroundW3",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 995,
+        "sectionID": 77
+    },
+    {
+        "id": 122,
+        "backGround": "BackGroundW3",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 994,
+        "sectionID": 78
+    },
+    {
+        "id": 123,
+        "backGround": "BackGroundW3",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 995,
+        "sectionID": 79
+    },
+    {
+        "id": 124,
+        "backGround": "BackGroundW3",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 994,
+        "sectionID": 80
+    },
+    {
+        "id": 125,
+        "backGround": "BackGroundW3",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 995,
+        "sectionID": 81
+    },
+    {
+        "id": 126,
+        "backGround": "BackGroundW3",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 994,
+        "sectionID": 82
+    },
+    {
+        "id": 127,
+        "backGround": "BackGroundW3",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 995,
+        "sectionID": 83
+    },
+    {
+        "id": 128,
+        "backGround": "BackGroundW3",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 994,
+        "sectionID": 84
+    },
+    {
+        "id": 129,
+        "backGround": "BackGroundW3",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 995,
+        "sectionID": 85
+    },
+    {
+        "id": 130,
+        "backGround": "BackGroundW3",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 994,
+        "sectionID": 86
+    },
+    {
+        "id": 131,
+        "backGround": "BackGroundW3",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 995,
+        "sectionID": 87
+    },
+    {
+        "id": 132,
+        "backGround": "BackGroundW3",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 994,
+        "sectionID": 88
+    },
+    {
+        "id": 133,
+        "backGround": "BackGroundW3",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 995,
+        "sectionID": 89
+    },
+    {
+        "id": 134,
+        "backGround": "BackGroundW3",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 994,
+        "sectionID": 90
+    },
+    {
+        "id": 135,
+        "backGround": "BackGroundW3",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 995,
+        "sectionID": 91
+    },
+    {
+        "id": 136,
+        "backGround": "BackGroundBattle2",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 40105
+    },
+    {
+        "id": 137,
+        "backGround": "BackGroundBattle2",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 40106
+    },
+    {
+        "id": 138,
+        "backGround": "BackGroundBattle2",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 135,
+        "sectionID": 40107
+    },
+    {
+        "id": 139,
+        "backGround": "BackGroundBattle2",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 234,
+        "sectionID": 40108
+    },
+    {
+        "id": 140,
+        "backGround": "BackGroundBattle2",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 40205
+    },
+    {
+        "id": 141,
+        "backGround": "BackGroundBattle2",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 40206
+    },
+    {
+        "id": 142,
+        "backGround": "BackGroundBattle2",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 135,
+        "sectionID": 40207
+    },
+    {
+        "id": 143,
+        "backGround": "BackGroundBattle2",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 234,
+        "sectionID": 40208
+    },
+    {
+        "id": 144,
+        "backGround": "BackGroundBattle2",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 40305
+    },
+    {
+        "id": 145,
+        "backGround": "BackGroundBattle2",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 130,
+        "sectionID": 40306
+    },
+    {
+        "id": 146,
+        "backGround": "BackGroundBattle2",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 135,
+        "sectionID": 40307
+    },
+    {
+        "id": 147,
+        "backGround": "BackGroundBattle2",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 234,
+        "sectionID": 40308
+    },
+    {
+        "id": 148,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 149,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 150,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 151,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 152,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 153,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 154,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 155,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 156,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 157,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 158,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 159,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 160,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 161,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 162,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 163,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 164,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 165,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 166,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 167,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 168,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 169,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 170,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 171,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 172,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 173,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 174,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 175,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 176,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 177,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 178,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 179,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 180,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 181,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 182,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 183,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 184,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 185,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 186,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 187,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 188,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 189,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 190,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 191,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 192,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 193,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 194,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 195,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 196,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 197,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 198,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 199,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 200,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 201,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 202,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 203,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 3,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 40308
+    },
+    {
+        "id": 204,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001401
+    },
+    {
+        "id": 205,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001402
+    },
+    {
+        "id": 206,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001403
+    },
+    {
+        "id": 207,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001404
+    },
+    {
+        "id": 208,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001405
+    },
+    {
+        "id": 209,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001406
+    },
+    {
+        "id": 210,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001407
+    },
+    {
+        "id": 211,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001408
+    },
+    {
+        "id": 212,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001409
+    },
+    {
+        "id": 213,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001410
+    },
+    {
+        "id": 214,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001411
+    },
+    {
+        "id": 215,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001412
+    },
+    {
+        "id": 216,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001413
+    },
+    {
+        "id": 217,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001414
+    },
+    {
+        "id": 218,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001415
+    },
+    {
+        "id": 219,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001416
+    },
+    {
+        "id": 220,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001417
+    },
+    {
+        "id": 221,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001418
+    },
+    {
+        "id": 222,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001419
+    },
+    {
+        "id": 223,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001420
+    },
+    {
+        "id": 224,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001421
+    },
+    {
+        "id": 225,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001422
+    },
+    {
+        "id": 226,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001423
+    },
+    {
+        "id": 227,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001424
+    },
+    {
+        "id": 228,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001425
+    },
+    {
+        "id": 229,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001426
+    },
+    {
+        "id": 230,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001427
+    },
+    {
+        "id": 231,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001428
+    },
+    {
+        "id": 232,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001429
+    },
+    {
+        "id": 233,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001430
+    },
+    {
+        "id": 234,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001431
+    },
+    {
+        "id": 235,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001432
+    },
+    {
+        "id": 236,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001433
+    },
+    {
+        "id": 237,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001434
+    },
+    {
+        "id": 238,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001435
+    },
+    {
+        "id": 239,
+        "backGround": "BackGroundBattle9",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1356,
+        "sectionID": 18001436
+    },
+    {
+        "id": 240,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001401
+    },
+    {
+        "id": 241,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001402
+    },
+    {
+        "id": 242,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001403
+    },
+    {
+        "id": 243,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001404
+    },
+    {
+        "id": 244,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001405
+    },
+    {
+        "id": 245,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001406
+    },
+    {
+        "id": 246,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001407
+    },
+    {
+        "id": 247,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001408
+    },
+    {
+        "id": 248,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001409
+    },
+    {
+        "id": 249,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001410
+    },
+    {
+        "id": 250,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001411
+    },
+    {
+        "id": 251,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001412
+    },
+    {
+        "id": 252,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001413
+    },
+    {
+        "id": 253,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001414
+    },
+    {
+        "id": 254,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001415
+    },
+    {
+        "id": 255,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001416
+    },
+    {
+        "id": 256,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001417
+    },
+    {
+        "id": 257,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001418
+    },
+    {
+        "id": 258,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001419
+    },
+    {
+        "id": 259,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001420
+    },
+    {
+        "id": 260,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001421
+    },
+    {
+        "id": 261,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001422
+    },
+    {
+        "id": 262,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001423
+    },
+    {
+        "id": 263,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001424
+    },
+    {
+        "id": 264,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001425
+    },
+    {
+        "id": 265,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001426
+    },
+    {
+        "id": 266,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001427
+    },
+    {
+        "id": 267,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001428
+    },
+    {
+        "id": 268,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001429
+    },
+    {
+        "id": 269,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001430
+    },
+    {
+        "id": 270,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001431
+    },
+    {
+        "id": 271,
+        "backGround": "BackGroundBattle10",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1362,
+        "sectionID": 27001432
+    },
+    {
+        "id": 272,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 135,
+        "sectionID": 40001401
+    },
+    {
+        "id": 273,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 135,
+        "sectionID": 40001402
+    },
+    {
+        "id": 274,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 135,
+        "sectionID": 40001403
+    },
+    {
+        "id": 275,
+        "backGround": "BackGroundT1",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 135,
+        "sectionID": 40001404
+    },
+    {
+        "id": 276,
+        "backGround": "BackGroundT1",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 135,
+        "sectionID": 40001405
+    },
+    {
+        "id": 277,
+        "backGround": "BackGroundT1",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 135,
+        "sectionID": 40001406
+    },
+    {
+        "id": 278,
+        "backGround": "BackGroundT1",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 135,
+        "sectionID": 40001407
+    },
+    {
+        "id": 279,
+        "backGround": "BackGroundT1",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 135,
+        "sectionID": 40001408
+    },
+    {
+        "id": 280,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 135,
+        "sectionID": 40001409
+    },
+    {
+        "id": 281,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 135,
+        "sectionID": 40001410
+    },
+    {
+        "id": 282,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 135,
+        "sectionID": 40001411
+    },
+    {
+        "id": 283,
+        "backGround": "BackGroundT1",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 135,
+        "sectionID": 40001412
+    },
+    {
+        "id": 284,
+        "backGround": "BackGroundT1",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 135,
+        "sectionID": 40001413
+    },
+    {
+        "id": 285,
+        "backGround": "BackGroundT1",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 135,
+        "sectionID": 40001414
+    },
+    {
+        "id": 286,
+        "backGround": "BackGroundT1",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 135,
+        "sectionID": 40001415
+    },
+    {
+        "id": 287,
+        "backGround": "BackGroundT1",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 135,
+        "sectionID": 40001416
+    },
+    {
+        "id": 288,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 135,
+        "sectionID": 10000
+    },
+    {
+        "id": 289,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 135,
+        "sectionID": 10001
+    },
+    {
+        "id": 290,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 135,
+        "sectionID": 10002
+    },
+    {
+        "id": 291,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 135,
+        "sectionID": 10003
+    },
+    {
+        "id": 292,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 135,
+        "sectionID": 10004
+    },
+    {
+        "id": 293,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 135,
+        "sectionID": 10005
+    },
+    {
+        "id": 294,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 135,
+        "sectionID": 10006
+    },
+    {
+        "id": 295,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 135,
+        "sectionID": 10007
+    },
+    {
+        "id": 296,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 135,
+        "sectionID": 10008
+    },
+    {
+        "id": 297,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 135,
+        "sectionID": 10009
+    },
+    {
+        "id": 298,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 135,
+        "sectionID": 10010
+    },
+    {
+        "id": 299,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 135,
+        "sectionID": 10011
+    },
+    {
+        "id": 300,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 135,
+        "sectionID": 10012
+    },
+    {
+        "id": 301,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 135,
+        "sectionID": 10013
+    },
+    {
+        "id": 302,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 135,
+        "sectionID": 10014
+    },
+    {
+        "id": 303,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 135,
+        "sectionID": 10015
+    },
+    {
+        "id": 304,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 1252,
+        "sectionID": 10032
+    },
+    {
+        "id": 305,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 1252,
+        "sectionID": 10033
+    },
+    {
+        "id": 306,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 1252,
+        "sectionID": 10034
+    },
+    {
+        "id": 307,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 1252,
+        "sectionID": 10035
+    },
+    {
+        "id": 308,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 1252,
+        "sectionID": 10036
+    },
+    {
+        "id": 309,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 1252,
+        "sectionID": 10037
+    },
+    {
+        "id": 310,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 1252,
+        "sectionID": 10038
+    },
+    {
+        "id": 311,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 1252,
+        "sectionID": 10039
+    },
+    {
+        "id": 312,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 1253,
+        "sectionID": 10040
+    },
+    {
+        "id": 313,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 1253,
+        "sectionID": 10041
+    },
+    {
+        "id": 314,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 1253,
+        "sectionID": 10042
+    },
+    {
+        "id": 315,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 1253,
+        "sectionID": 10043
+    },
+    {
+        "id": 316,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 1253,
+        "sectionID": 10044
+    },
+    {
+        "id": 317,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 1253,
+        "sectionID": 10045
+    },
+    {
+        "id": 318,
+        "backGround": "BackGroundBattle11",
+        "dungeontype": 8,
+        "foreGround": "",
+        "bmgId": 1253,
+        "sectionID": 10046
+    },
+    {
+        "id": 319,
+        "backGround": "BackGroundW3 _n",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 1409,
+        "sectionID": 92
+    },
+    {
+        "id": 320,
+        "backGround": "BackGroundW3 _n",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 1409,
+        "sectionID": 93
+    },
+    {
+        "id": 321,
+        "backGround": "BackGroundW3 _n",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 1409,
+        "sectionID": 94
+    },
+    {
+        "id": 322,
+        "backGround": "BackGroundW3 _n",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 1409,
+        "sectionID": 95
+    },
+    {
+        "id": 323,
+        "backGround": "BackGroundW3 _n",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 1409,
+        "sectionID": 96
+    },
+    {
+        "id": 324,
+        "backGround": "BackGroundW3 _n",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 1409,
+        "sectionID": 97
+    },
+    {
+        "id": 325,
+        "backGround": "BackGroundW3 _n",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 1409,
+        "sectionID": 98
+    },
+    {
+        "id": 326,
+        "backGround": "BackGroundW3 _n",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 1409,
+        "sectionID": 99
+    },
+    {
+        "id": 327,
+        "backGround": "BackGroundW3 _n",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 1409,
+        "sectionID": 100
+    },
+    {
+        "id": 328,
+        "backGround": "BackGroundW3 _n",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 1409,
+        "sectionID": 101
+    },
+    {
+        "id": 329,
+        "backGround": "BackGroundW3 _n",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 1409,
+        "sectionID": 102
+    },
+    {
+        "id": 330,
+        "backGround": "BackGroundW3 _n",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 1409,
+        "sectionID": 103
+    },
+    {
+        "id": 331,
+        "backGround": "BackGroundW3 _n",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 1409,
+        "sectionID": 104
+    },
+    {
+        "id": 332,
+        "backGround": "BackGroundW3 _n",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 1409,
+        "sectionID": 105
+    },
+    {
+        "id": 333,
+        "backGround": "BackGroundW3 _n",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 1409,
+        "sectionID": 106
+    },
+    {
+        "id": 334,
+        "backGround": "BackGroundW3 _n",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 1409,
+        "sectionID": 107
+    },
+    {
+        "id": 335,
+        "backGround": "BackGroundW3 _n",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 1409,
+        "sectionID": 108
+    },
+    {
+        "id": 336,
+        "backGround": "BackGroundW3 _n",
+        "dungeontype": 2,
+        "foreGround": "",
+        "bmgId": 1409,
+        "sectionID": 109
+    },
+    {
+        "id": 337,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 46001301
+    },
+    {
+        "id": 338,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 46001302
+    },
+    {
+        "id": 339,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 46001303
+    },
+    {
+        "id": 340,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 46001304
+    },
+    {
+        "id": 341,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 46001305
+    },
+    {
+        "id": 342,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 46001306
+    },
+    {
+        "id": 343,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 46001307
+    },
+    {
+        "id": 344,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 46001308
+    },
+    {
+        "id": 345,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 46001309
+    },
+    {
+        "id": 346,
+        "backGround": "BackGroundBattle8",
+        "dungeontype": 8,
+        "foreGround": "ForeGroundT1",
+        "bmgId": 1324,
+        "sectionID": 46001310
+    }
+]

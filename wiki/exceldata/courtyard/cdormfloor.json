@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "1F",
+        "stayingfloor": 800082
+    },
+    {
+        "id": 2,
+        "name": "2F",
+        "stayingfloor": 800083
+    },
+    {
+        "id": 3,
+        "name": "3F",
+        "stayingfloor": 800084
+    }
+]

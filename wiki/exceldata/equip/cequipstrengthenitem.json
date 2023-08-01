@@ -1,0 +1,38 @@
+{
+    "76000": {
+        "decomposereturn": 1,
+        "id": 76000,
+        "sort": 1,
+        "Exp": 50
+    },
+    "76001": {
+        "decomposereturn": 1,
+        "id": 76001,
+        "sort": 2,
+        "Exp": 200
+    },
+    "76002": {
+        "decomposereturn": 1,
+        "id": 76002,
+        "sort": 3,
+        "Exp": 500
+    },
+    "76003": {
+        "decomposereturn": 1,
+        "id": 76003,
+        "sort": 4,
+        "Exp": 1000
+    },
+    "76004": {
+        "decomposereturn": 0,
+        "id": 76004,
+        "sort": 5,
+        "Exp": 1500
+    },
+    "76005": {
+        "decomposereturn": 0,
+        "id": 76005,
+        "sort": 6,
+        "Exp": 2000
+    }
+}

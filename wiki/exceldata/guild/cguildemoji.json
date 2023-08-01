@@ -1,0 +1,499 @@
+[
+    {
+        "id": 1,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 1,
+        "SortId": 10,
+        "EmojiId": 12399
+    },
+    {
+        "id": 2,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 1,
+        "SortId": 20,
+        "EmojiId": 12400
+    },
+    {
+        "id": 3,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 1,
+        "SortId": 30,
+        "EmojiId": 12401
+    },
+    {
+        "id": 4,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 1,
+        "SortId": 40,
+        "EmojiId": 12402
+    },
+    {
+        "id": 5,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 1,
+        "SortId": 50,
+        "EmojiId": 12403
+    },
+    {
+        "id": 6,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 1,
+        "SortId": 60,
+        "EmojiId": 12404
+    },
+    {
+        "id": 7,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 1,
+        "SortId": 70,
+        "EmojiId": 12546
+    },
+    {
+        "id": 8,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 1,
+        "SortId": 80,
+        "EmojiId": 12547
+    },
+    {
+        "id": 9,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 1,
+        "SortId": 90,
+        "EmojiId": 12548
+    },
+    {
+        "id": 10,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 1,
+        "SortId": 100,
+        "EmojiId": 12549
+    },
+    {
+        "id": 11,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 1,
+        "SortId": 110,
+        "EmojiId": 12550
+    },
+    {
+        "id": 12,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 1,
+        "SortId": 120,
+        "EmojiId": 12551
+    },
+    {
+        "id": 13,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 1,
+        "SortId": 130,
+        "EmojiId": 12552
+    },
+    {
+        "id": 14,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 1,
+        "SortId": 140,
+        "EmojiId": 12553
+    },
+    {
+        "id": 15,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 1,
+        "SortId": 150,
+        "EmojiId": 12554
+    },
+    {
+        "id": 16,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 1,
+        "SortId": 160,
+        "EmojiId": 12555
+    },
+    {
+        "id": 17,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 1,
+        "SortId": 15,
+        "EmojiId": 13061
+    },
+    {
+        "id": 18,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 2,
+        "SortId": 25,
+        "EmojiId": 13062
+    },
+    {
+        "id": 19,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 2,
+        "SortId": 35,
+        "EmojiId": 13063
+    },
+    {
+        "id": 20,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 2,
+        "SortId": 45,
+        "EmojiId": 13064
+    },
+    {
+        "id": 21,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 2,
+        "SortId": 55,
+        "EmojiId": 13065
+    },
+    {
+        "id": 22,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 2,
+        "SortId": 65,
+        "EmojiId": 13066
+    },
+    {
+        "id": 23,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 2,
+        "SortId": 75,
+        "EmojiId": 13067
+    },
+    {
+        "id": 24,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 2,
+        "SortId": 162,
+        "EmojiId": 13068
+    },
+    {
+        "id": 25,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 2,
+        "SortId": 164,
+        "EmojiId": 13069
+    },
+    {
+        "id": 26,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 2,
+        "SortId": 166,
+        "EmojiId": 13070
+    },
+    {
+        "id": 27,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 2,
+        "SortId": 168,
+        "EmojiId": 13071
+    },
+    {
+        "id": 28,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 2,
+        "SortId": 170,
+        "EmojiId": 13072
+    },
+    {
+        "id": 29,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 2,
+        "SortId": 172,
+        "EmojiId": 13073
+    },
+    {
+        "id": 30,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 2,
+        "SortId": 174,
+        "EmojiId": 13074
+    },
+    {
+        "id": 31,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 2,
+        "SortId": 176,
+        "EmojiId": 13075
+    },
+    {
+        "id": 32,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 2,
+        "SortId": 178,
+        "EmojiId": 13076
+    },
+    {
+        "id": 33,
+        "EmojiNanmeId": 2000023,
+        "Emojitype": 3,
+        "SortId": 179,
+        "EmojiId": 13396
+    },
+    {
+        "id": 34,
+        "EmojiNanmeId": 2000024,
+        "Emojitype": 3,
+        "SortId": 180,
+        "EmojiId": 13397
+    },
+    {
+        "id": 35,
+        "EmojiNanmeId": 2000025,
+        "Emojitype": 3,
+        "SortId": 181,
+        "EmojiId": 13398
+    },
+    {
+        "id": 36,
+        "EmojiNanmeId": 2000026,
+        "Emojitype": 3,
+        "SortId": 182,
+        "EmojiId": 13399
+    },
+    {
+        "id": 37,
+        "EmojiNanmeId": 2000027,
+        "Emojitype": 3,
+        "SortId": 183,
+        "EmojiId": 13400
+    },
+    {
+        "id": 38,
+        "EmojiNanmeId": 2000028,
+        "Emojitype": 3,
+        "SortId": 184,
+        "EmojiId": 13401
+    },
+    {
+        "id": 39,
+        "EmojiNanmeId": 2000029,
+        "Emojitype": 3,
+        "SortId": 185,
+        "EmojiId": 13402
+    },
+    {
+        "id": 40,
+        "EmojiNanmeId": 2000030,
+        "Emojitype": 3,
+        "SortId": 186,
+        "EmojiId": 13403
+    },
+    {
+        "id": 41,
+        "EmojiNanmeId": 2000031,
+        "Emojitype": 3,
+        "SortId": 187,
+        "EmojiId": 13404
+    },
+    {
+        "id": 42,
+        "EmojiNanmeId": 2000032,
+        "Emojitype": 3,
+        "SortId": 188,
+        "EmojiId": 13405
+    },
+    {
+        "id": 43,
+        "EmojiNanmeId": 2000033,
+        "Emojitype": 3,
+        "SortId": 189,
+        "EmojiId": 13406
+    },
+    {
+        "id": 44,
+        "EmojiNanmeId": 2000034,
+        "Emojitype": 3,
+        "SortId": 190,
+        "EmojiId": 13407
+    },
+    {
+        "id": 45,
+        "EmojiNanmeId": 2000035,
+        "Emojitype": 3,
+        "SortId": 191,
+        "EmojiId": 13408
+    },
+    {
+        "id": 46,
+        "EmojiNanmeId": 2000036,
+        "Emojitype": 3,
+        "SortId": 192,
+        "EmojiId": 13409
+    },
+    {
+        "id": 47,
+        "EmojiNanmeId": 2000037,
+        "Emojitype": 3,
+        "SortId": 193,
+        "EmojiId": 13410
+    },
+    {
+        "id": 48,
+        "EmojiNanmeId": 2000038,
+        "Emojitype": 3,
+        "SortId": 194,
+        "EmojiId": 13411
+    },
+    {
+        "id": 49,
+        "EmojiNanmeId": 2000039,
+        "Emojitype": 4,
+        "SortId": 195,
+        "EmojiId": 13992
+    },
+    {
+        "id": 50,
+        "EmojiNanmeId": 2000040,
+        "Emojitype": 4,
+        "SortId": 196,
+        "EmojiId": 13993
+    },
+    {
+        "id": 51,
+        "EmojiNanmeId": 2000041,
+        "Emojitype": 4,
+        "SortId": 197,
+        "EmojiId": 13994
+    },
+    {
+        "id": 52,
+        "EmojiNanmeId": 2000042,
+        "Emojitype": 4,
+        "SortId": 198,
+        "EmojiId": 13995
+    },
+    {
+        "id": 53,
+        "EmojiNanmeId": 2000043,
+        "Emojitype": 4,
+        "SortId": 199,
+        "EmojiId": 13996
+    },
+    {
+        "id": 54,
+        "EmojiNanmeId": 2000044,
+        "Emojitype": 4,
+        "SortId": 200,
+        "EmojiId": 13997
+    },
+    {
+        "id": 55,
+        "EmojiNanmeId": 2000045,
+        "Emojitype": 4,
+        "SortId": 201,
+        "EmojiId": 13998
+    },
+    {
+        "id": 56,
+        "EmojiNanmeId": 2000046,
+        "Emojitype": 4,
+        "SortId": 202,
+        "EmojiId": 13999
+    },
+    {
+        "id": 57,
+        "EmojiNanmeId": 2000047,
+        "Emojitype": 4,
+        "SortId": 203,
+        "EmojiId": 14000
+    },
+    {
+        "id": 58,
+        "EmojiNanmeId": 2000048,
+        "Emojitype": 4,
+        "SortId": 204,
+        "EmojiId": 14001
+    },
+    {
+        "id": 59,
+        "EmojiNanmeId": 2000049,
+        "Emojitype": 4,
+        "SortId": 205,
+        "EmojiId": 14002
+    },
+    {
+        "id": 60,
+        "EmojiNanmeId": 2000050,
+        "Emojitype": 4,
+        "SortId": 206,
+        "EmojiId": 14003
+    },
+    {
+        "id": 61,
+        "EmojiNanmeId": 2000051,
+        "Emojitype": 4,
+        "SortId": 207,
+        "EmojiId": 14004
+    },
+    {
+        "id": 62,
+        "EmojiNanmeId": 2000052,
+        "Emojitype": 4,
+        "SortId": 208,
+        "EmojiId": 14005
+    },
+    {
+        "id": 63,
+        "EmojiNanmeId": 2000053,
+        "Emojitype": 4,
+        "SortId": 209,
+        "EmojiId": 14006
+    },
+    {
+        "id": 64,
+        "EmojiNanmeId": 2000054,
+        "Emojitype": 4,
+        "SortId": 210,
+        "EmojiId": 14007
+    },
+    {
+        "id": 65,
+        "EmojiNanmeId": 2000055,
+        "Emojitype": 1,
+        "SortId": 211,
+        "EmojiId": 14014
+    },
+    {
+        "id": 66,
+        "EmojiNanmeId": 2000056,
+        "Emojitype": 1,
+        "SortId": 212,
+        "EmojiId": 14105
+    },
+    {
+        "id": 67,
+        "EmojiNanmeId": 2000057,
+        "Emojitype": 1,
+        "SortId": 213,
+        "EmojiId": 14824
+    },
+    {
+        "id": 68,
+        "EmojiNanmeId": 2000058,
+        "Emojitype": 1,
+        "SortId": 214,
+        "EmojiId": 14825
+    },
+    {
+        "id": 69,
+        "EmojiNanmeId": 2000059,
+        "Emojitype": 1,
+        "SortId": 215,
+        "EmojiId": 14826
+    },
+    {
+        "id": 70,
+        "EmojiNanmeId": 2000060,
+        "Emojitype": 1,
+        "SortId": 216,
+        "EmojiId": 14827
+    },
+    {
+        "id": 71,
+        "EmojiNanmeId": 2000061,
+        "Emojitype": 1,
+        "SortId": 217,
+        "EmojiId": 14828
+    }
+]

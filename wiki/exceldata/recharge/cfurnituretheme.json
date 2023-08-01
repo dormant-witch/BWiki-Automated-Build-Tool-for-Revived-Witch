@@ -1,0 +1,134 @@
+{
+    "1009": {
+        "id": 1009,
+        "Fursmallpic": 14415,
+        "Maxlimit": 2,
+        "CloseTime": "2022-05-26 03:59:59",
+        "Sort": 9,
+        "Furbigpic": 14415,
+        "LimitType": 1,
+        "Upperlimit": 2,
+        "OpenTime": "2022-05-13 04:00:00"
+    },
+    "1010": {
+        "id": 1010,
+        "Fursmallpic": 14595,
+        "Maxlimit": 2,
+        "CloseTime": "2022-07-14 03:59:59",
+        "Sort": 10,
+        "Furbigpic": 14595,
+        "LimitType": 1,
+        "Upperlimit": 2,
+        "OpenTime": "2022-05-13 04:00:00"
+    },
+    "1011": {
+        "id": 1011,
+        "Fursmallpic": 15044,
+        "Maxlimit": 2,
+        "CloseTime": "2022-08-25 03:59:59",
+        "Sort": 11,
+        "Furbigpic": 15044,
+        "LimitType": 1,
+        "Upperlimit": 2,
+        "OpenTime": "2022-08-11 04:00:00"
+    },
+    "1012": {
+        "id": 1012,
+        "Fursmallpic": 15044,
+        "Maxlimit": 2,
+        "CloseTime": "2022-11-10 03:59:59",
+        "Sort": 12,
+        "Furbigpic": 15044,
+        "LimitType": 1,
+        "Upperlimit": 2,
+        "OpenTime": "2022-10-27 04:00:00"
+    },
+    "1000": {
+        "id": 1000,
+        "Fursmallpic": 11500,
+        "Maxlimit": 2,
+        "CloseTime": "0",
+        "Sort": 7,
+        "Furbigpic": 11501,
+        "LimitType": 0,
+        "Upperlimit": 2,
+        "OpenTime": "0"
+    },
+    "1001": {
+        "id": 1001,
+        "Fursmallpic": 11788,
+        "Maxlimit": 3,
+        "CloseTime": "0",
+        "Sort": 6,
+        "Furbigpic": 11790,
+        "LimitType": 2,
+        "Upperlimit": 3,
+        "OpenTime": "2020-10-15 04:00:00"
+    },
+    "1002": {
+        "id": 1002,
+        "Fursmallpic": 11787,
+        "Maxlimit": 3,
+        "CloseTime": "0",
+        "Sort": 5,
+        "Furbigpic": 11789,
+        "LimitType": 2,
+        "Upperlimit": 3,
+        "OpenTime": "2020-12-15 04:00:00"
+    },
+    "1003": {
+        "id": 1003,
+        "Fursmallpic": 11787,
+        "Maxlimit": 2,
+        "CloseTime": "2021-08-12 04:00:00",
+        "Sort": 4,
+        "Furbigpic": 12416,
+        "LimitType": 1,
+        "Upperlimit": 2,
+        "OpenTime": "2021-06-24 04:00:00"
+    },
+    "1004": {
+        "id": 1004,
+        "Fursmallpic": 11787,
+        "Maxlimit": 2,
+        "CloseTime": "2021-10-18 03:59:59",
+        "Sort": 3,
+        "Furbigpic": 12416,
+        "LimitType": 1,
+        "Upperlimit": 2,
+        "OpenTime": "2021-09-27 04:00:01"
+    },
+    "1005": {
+        "id": 1005,
+        "Fursmallpic": 13593,
+        "Maxlimit": 2,
+        "CloseTime": "2021-11-11 03:59:59",
+        "Sort": 2,
+        "Furbigpic": 13593,
+        "LimitType": 1,
+        "Upperlimit": 2,
+        "OpenTime": "2021-10-01 04:00:00"
+    },
+    "1006": {
+        "id": 1006,
+        "Fursmallpic": 13831,
+        "Maxlimit": 2,
+        "CloseTime": "2022-01-13 04:00:00",
+        "Sort": 1,
+        "Furbigpic": 13831,
+        "LimitType": 1,
+        "Upperlimit": 2,
+        "OpenTime": "2021-12-23 04:00:00"
+    },
+    "1007": {
+        "id": 1007,
+        "Fursmallpic": 14055,
+        "Maxlimit": 2,
+        "CloseTime": "2022-02-10 04:00:00",
+        "Sort": 8,
+        "Furbigpic": 14055,
+        "LimitType": 1,
+        "Upperlimit": 2,
+        "OpenTime": "2022-01-27 04:00:00"
+    }
+}

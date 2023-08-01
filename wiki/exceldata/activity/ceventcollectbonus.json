@@ -1,0 +1,32 @@
+{
+    "100": {
+        "titletxtid": 1900564,
+        "id": 100,
+        "collectitemid": 35024,
+        "difficultyid": 1,
+        "sloganextid": 1900565,
+        "eventid": 6001,
+        "endtime": "2022-08-12 04:00:00",
+        "opentime": "2022-06-24 04:00:00",
+        "exhibititemid": [
+            35001,
+            35001,
+            35001
+        ]
+    },
+    "101": {
+        "titletxtid": 1900564,
+        "id": 101,
+        "collectitemid": 35024,
+        "difficultyid": 1,
+        "sloganextid": 1900565,
+        "eventid": 47001,
+        "endtime": "2022-08-12 04:00:00",
+        "opentime": "2022-06-24 04:00:00",
+        "exhibititemid": [
+            35001,
+            35001,
+            35001
+        ]
+    }
+}

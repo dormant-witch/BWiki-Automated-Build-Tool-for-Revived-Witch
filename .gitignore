@@ -1,0 +1,13 @@
+# idea
+*.ipr
+*.iws
+*.iml
+.idea
+
+cache
+
+**/__pycache__
+
+
+lib/luadec.exe
+lib/luadec.pdb

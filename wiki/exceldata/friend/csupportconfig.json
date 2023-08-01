@@ -1,0 +1,10 @@
+[
+    {
+        "supportNum": 20,
+        "id": 1,
+        "supportPointFriend": 10,
+        "supportFriendNum": 10,
+        "dungeon": 8,
+        "supportPointStranger": 5
+    }
+]

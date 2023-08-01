@@ -1,0 +1,1530 @@
+{
+    "10047": {
+        "id": 10047,
+        "levelpicselect": 12993,
+        "levelinfo": 1901673,
+        "afterbattleplot": -1,
+        "sureDropItems": [
+            35070
+        ],
+        "spirit": 0,
+        "sureDropItemsNums": [
+            0
+        ],
+        "levelentrylocation": "710,487",
+        "levellinetarget": {},
+        "battlesceneid": 20033,
+        "mopupTime": 600,
+        "mayDropItemsNums": {},
+        "forebattleplot": -1,
+        "mayDropItems": {},
+        "levelpicgrey": 12994,
+        "unlockCondition": 10039,
+        "difficulty": 1,
+        "levelend": "2022-09-01 04:00:00",
+        "battleid": 11117,
+        "leveltitle": 1900757,
+        "firstItems": [
+            35008,
+            35068
+        ],
+        "monsterformid": 20163,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 1,
+        "bosslevelornot": 2,
+        "levelname": 1900538,
+        "eventid": 47001,
+        "plotdescribe": 1901681,
+        "suggestlevel": 250,
+        "firstItemNums": [
+            100,
+            1
+        ]
+    },
+    "10046": {
+        "id": 10046,
+        "levelpicselect": 12991,
+        "levelinfo": 1901672,
+        "afterbattleplot": -1,
+        "sureDropItems": [
+            35070
+        ],
+        "spirit": 40,
+        "sureDropItemsNums": [
+            80
+        ],
+        "levelentrylocation": "1516,617",
+        "levellinetarget": {},
+        "battlesceneid": 20034,
+        "mopupTime": 480,
+        "mayDropItemsNums": [
+            4,
+            2,
+            2
+        ],
+        "forebattleplot": -1,
+        "mayDropItems": [
+            74002,
+            74004,
+            74005
+        ],
+        "levelpicgrey": 12992,
+        "unlockCondition": 10047,
+        "difficulty": 2,
+        "levelend": "2022-09-01 04:00:00",
+        "battleid": 11115,
+        "leveltitle": 1900764,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20161,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 5,
+        "bosslevelornot": 0,
+        "levelname": 1900545,
+        "eventid": 47001,
+        "plotdescribe": 1901680,
+        "suggestlevel": 230,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10045": {
+        "id": 10045,
+        "levelpicselect": 12997,
+        "levelinfo": 1901671,
+        "afterbattleplot": -1,
+        "sureDropItems": [
+            35070
+        ],
+        "spirit": 40,
+        "sureDropItemsNums": [
+            80
+        ],
+        "levelentrylocation": "1111,565",
+        "levellinetarget": [
+            10046,
+            10047
+        ],
+        "battlesceneid": 20036,
+        "mopupTime": 480,
+        "mayDropItemsNums": [
+            2,
+            2,
+            2
+        ],
+        "forebattleplot": -1,
+        "mayDropItems": [
+            75017,
+            75018,
+            75019
+        ],
+        "levelpicgrey": 12998,
+        "unlockCondition": 10047,
+        "difficulty": 2,
+        "levelend": "2022-09-01 04:00:00",
+        "battleid": 11114,
+        "leveltitle": 1900763,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20161,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 7,
+        "bosslevelornot": 0,
+        "levelname": 1900544,
+        "eventid": 47001,
+        "plotdescribe": 1901679,
+        "suggestlevel": 220,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10044": {
+        "id": 10044,
+        "levelpicselect": 12995,
+        "levelinfo": 1901670,
+        "afterbattleplot": -1,
+        "sureDropItems": [
+            35070
+        ],
+        "spirit": 40,
+        "sureDropItemsNums": [
+            80
+        ],
+        "levelentrylocation": "1082,156",
+        "levellinetarget": [
+            10045
+        ],
+        "battlesceneid": 20034,
+        "mopupTime": 480,
+        "mayDropItemsNums": [
+            2,
+            2,
+            2
+        ],
+        "forebattleplot": -1,
+        "mayDropItems": [
+            75014,
+            75018,
+            75019
+        ],
+        "levelpicgrey": 12996,
+        "unlockCondition": 10047,
+        "difficulty": 2,
+        "levelend": "2022-09-01 04:00:00",
+        "battleid": 11113,
+        "leveltitle": 1900762,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20160,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 4,
+        "bosslevelornot": 0,
+        "levelname": 1900543,
+        "eventid": 47001,
+        "plotdescribe": 1901678,
+        "suggestlevel": 210,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10043": {
+        "id": 10043,
+        "levelpicselect": 12983,
+        "levelinfo": 1901669,
+        "afterbattleplot": -1,
+        "sureDropItems": [
+            35070
+        ],
+        "spirit": 40,
+        "sureDropItemsNums": [
+            80
+        ],
+        "levelentrylocation": "456,44",
+        "levellinetarget": {},
+        "battlesceneid": 20035,
+        "mopupTime": 480,
+        "mayDropItemsNums": [
+            2,
+            2,
+            2
+        ],
+        "forebattleplot": -1,
+        "mayDropItems": [
+            75011,
+            75018,
+            75019
+        ],
+        "levelpicgrey": 12984,
+        "unlockCondition": 10047,
+        "difficulty": 2,
+        "levelend": "2022-09-01 04:00:00",
+        "battleid": 11112,
+        "leveltitle": 1900761,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20162,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 6,
+        "bosslevelornot": 0,
+        "levelname": 1900542,
+        "eventid": 47001,
+        "plotdescribe": 1901677,
+        "suggestlevel": 200,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10042": {
+        "id": 10042,
+        "levelpicselect": 12989,
+        "levelinfo": 1901668,
+        "afterbattleplot": -1,
+        "sureDropItems": [
+            35070
+        ],
+        "spirit": 20,
+        "sureDropItemsNums": [
+            40
+        ],
+        "levelentrylocation": "93,195",
+        "levellinetarget": [
+            10043,
+            10047
+        ],
+        "battlesceneid": 20034,
+        "mopupTime": 360,
+        "mayDropItemsNums": [
+            1,
+            1,
+            1
+        ],
+        "forebattleplot": -1,
+        "mayDropItems": [
+            75008,
+            75018,
+            75019
+        ],
+        "levelpicgrey": 12990,
+        "unlockCondition": 10047,
+        "difficulty": 2,
+        "levelend": "2022-09-01 04:00:00",
+        "battleid": 11111,
+        "leveltitle": 1900760,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20158,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 2,
+        "bosslevelornot": 0,
+        "levelname": 1900541,
+        "eventid": 47001,
+        "plotdescribe": 1901676,
+        "suggestlevel": 190,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10041": {
+        "id": 10041,
+        "levelpicselect": 12985,
+        "levelinfo": 1901667,
+        "afterbattleplot": -1,
+        "sureDropItems": [
+            35070
+        ],
+        "spirit": 20,
+        "sureDropItemsNums": [
+            40
+        ],
+        "levelentrylocation": "315,510",
+        "levellinetarget": [
+            10042
+        ],
+        "battlesceneid": 20034,
+        "mopupTime": 360,
+        "mayDropItemsNums": [
+            1,
+            1,
+            1
+        ],
+        "forebattleplot": -1,
+        "mayDropItems": [
+            75005,
+            75018,
+            75019
+        ],
+        "levelpicgrey": 12986,
+        "unlockCondition": 10047,
+        "difficulty": 2,
+        "levelend": "2022-09-01 04:00:00",
+        "battleid": 11110,
+        "leveltitle": 1900759,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20159,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 3,
+        "bosslevelornot": 0,
+        "levelname": 1900540,
+        "eventid": 47001,
+        "plotdescribe": 1901675,
+        "suggestlevel": 180,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10040": {
+        "id": 10040,
+        "levelpicselect": 12987,
+        "levelinfo": 1901666,
+        "afterbattleplot": -1,
+        "sureDropItems": [
+            35070
+        ],
+        "spirit": 20,
+        "sureDropItemsNums": [
+            40
+        ],
+        "levelentrylocation": "-31,625",
+        "levellinetarget": [
+            10041
+        ],
+        "battlesceneid": 20034,
+        "mopupTime": 360,
+        "mayDropItemsNums": [
+            1,
+            1,
+            1
+        ],
+        "forebattleplot": -1,
+        "mayDropItems": [
+            75002,
+            75018,
+            75019
+        ],
+        "levelpicgrey": 12988,
+        "unlockCondition": 10047,
+        "difficulty": 2,
+        "levelend": "2022-09-01 04:00:00",
+        "battleid": 11109,
+        "leveltitle": 1900758,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20157,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 1,
+        "bosslevelornot": 0,
+        "levelname": 1900539,
+        "eventid": 47001,
+        "plotdescribe": 1901674,
+        "suggestlevel": 170,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10039": {
+        "id": 10039,
+        "levelpicselect": 12993,
+        "levelinfo": 1901673,
+        "afterbattleplot": 16,
+        "sureDropItems": [
+            35069,
+            70001,
+            70002
+        ],
+        "spirit": 30,
+        "sureDropItemsNums": [
+            100,
+            1,
+            1
+        ],
+        "levelentrylocation": "710,487",
+        "levellinetarget": {},
+        "battlesceneid": 20033,
+        "mopupTime": 600,
+        "mayDropItemsNums": [
+            1,
+            1
+        ],
+        "forebattleplot": 15,
+        "mayDropItems": [
+            70001,
+            70002
+        ],
+        "levelpicgrey": 12994,
+        "unlockCondition": 10038,
+        "difficulty": 1,
+        "levelend": "2022-09-01 04:00:00",
+        "battleid": 11108,
+        "leveltitle": 1900757,
+        "firstItems": [
+            35008,
+            35068
+        ],
+        "monsterformid": 20163,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 1,
+        "bosslevelornot": 1,
+        "levelname": 1900538,
+        "eventid": 47001,
+        "plotdescribe": 1901681,
+        "suggestlevel": 170,
+        "firstItemNums": [
+            100,
+            1
+        ]
+    },
+    "10038": {
+        "id": 10038,
+        "levelpicselect": 12991,
+        "levelinfo": 1901672,
+        "afterbattleplot": 14,
+        "sureDropItems": [
+            35069
+        ],
+        "spirit": 20,
+        "sureDropItemsNums": [
+            40
+        ],
+        "levelentrylocation": "1516,617",
+        "levellinetarget": {},
+        "battlesceneid": 20030,
+        "mopupTime": 360,
+        "mayDropItemsNums": [
+            4,
+            4
+        ],
+        "forebattleplot": 13,
+        "mayDropItems": [
+            74001,
+            74002
+        ],
+        "levelpicgrey": 12992,
+        "unlockCondition": 10037,
+        "difficulty": 1,
+        "levelend": "2022-09-01 04:00:00",
+        "battleid": 11107,
+        "leveltitle": 1900756,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20161,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 5,
+        "bosslevelornot": 0,
+        "levelname": 1900537,
+        "eventid": 47001,
+        "plotdescribe": 1901680,
+        "suggestlevel": 140,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10037": {
+        "id": 10037,
+        "levelpicselect": 12997,
+        "levelinfo": 1901671,
+        "afterbattleplot": 12,
+        "sureDropItems": [
+            35069
+        ],
+        "spirit": 20,
+        "sureDropItemsNums": [
+            40
+        ],
+        "levelentrylocation": "1111,565",
+        "levellinetarget": [
+            10038,
+            10039
+        ],
+        "battlesceneid": 20032,
+        "mopupTime": 360,
+        "mayDropItemsNums": [
+            2,
+            2
+        ],
+        "forebattleplot": 11,
+        "mayDropItems": [
+            75016,
+            75017
+        ],
+        "levelpicgrey": 12998,
+        "unlockCondition": 10036,
+        "difficulty": 1,
+        "levelend": "2022-09-01 04:00:00",
+        "battleid": 11106,
+        "leveltitle": 1900755,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20161,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 7,
+        "bosslevelornot": 0,
+        "levelname": 1900536,
+        "eventid": 47001,
+        "plotdescribe": 1901679,
+        "suggestlevel": 130,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10036": {
+        "id": 10036,
+        "levelpicselect": 12995,
+        "levelinfo": 1901670,
+        "afterbattleplot": 10,
+        "sureDropItems": [
+            35069
+        ],
+        "spirit": 20,
+        "sureDropItemsNums": [
+            40
+        ],
+        "levelentrylocation": "1082,156",
+        "levellinetarget": [
+            10037
+        ],
+        "battlesceneid": 20030,
+        "mopupTime": 360,
+        "mayDropItemsNums": [
+            2,
+            2
+        ],
+        "forebattleplot": 9,
+        "mayDropItems": [
+            75013,
+            75014
+        ],
+        "levelpicgrey": 12996,
+        "unlockCondition": 10035,
+        "difficulty": 1,
+        "levelend": "2022-09-01 04:00:00",
+        "battleid": 11105,
+        "leveltitle": 1900754,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20160,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 4,
+        "bosslevelornot": 0,
+        "levelname": 1900535,
+        "eventid": 47001,
+        "plotdescribe": 1901678,
+        "suggestlevel": 120,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10035": {
+        "id": 10035,
+        "levelpicselect": 12983,
+        "levelinfo": 1901669,
+        "afterbattleplot": 8,
+        "sureDropItems": [
+            35069
+        ],
+        "spirit": 20,
+        "sureDropItemsNums": [
+            40
+        ],
+        "levelentrylocation": "456,44",
+        "levellinetarget": {},
+        "battlesceneid": 20031,
+        "mopupTime": 360,
+        "mayDropItemsNums": [
+            2,
+            2
+        ],
+        "forebattleplot": 7,
+        "mayDropItems": [
+            75010,
+            75011
+        ],
+        "levelpicgrey": 12984,
+        "unlockCondition": 10034,
+        "difficulty": 1,
+        "levelend": "2022-09-01 04:00:00",
+        "battleid": 11104,
+        "leveltitle": 1900753,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20162,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 6,
+        "bosslevelornot": 0,
+        "levelname": 1900534,
+        "eventid": 47001,
+        "plotdescribe": 1901677,
+        "suggestlevel": 110,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10034": {
+        "id": 10034,
+        "levelpicselect": 12989,
+        "levelinfo": 1901668,
+        "afterbattleplot": 6,
+        "sureDropItems": [
+            35069
+        ],
+        "spirit": 10,
+        "sureDropItemsNums": [
+            20
+        ],
+        "levelentrylocation": "93,195",
+        "levellinetarget": [
+            10035
+        ],
+        "battlesceneid": 20030,
+        "mopupTime": 240,
+        "mayDropItemsNums": [
+            1,
+            1
+        ],
+        "forebattleplot": 5,
+        "mayDropItems": [
+            75007,
+            75008
+        ],
+        "levelpicgrey": 12990,
+        "unlockCondition": 10033,
+        "difficulty": 1,
+        "levelend": "2022-09-01 04:00:00",
+        "battleid": 11103,
+        "leveltitle": 1900752,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20158,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 2,
+        "bosslevelornot": 0,
+        "levelname": 1900533,
+        "eventid": 47001,
+        "plotdescribe": 1901676,
+        "suggestlevel": 100,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10033": {
+        "id": 10033,
+        "levelpicselect": 12985,
+        "levelinfo": 1901667,
+        "afterbattleplot": 4,
+        "sureDropItems": [
+            35069
+        ],
+        "spirit": 10,
+        "sureDropItemsNums": [
+            20
+        ],
+        "levelentrylocation": "315,510",
+        "levellinetarget": [
+            10034,
+            10039
+        ],
+        "battlesceneid": 20030,
+        "mopupTime": 240,
+        "mayDropItemsNums": [
+            1,
+            1
+        ],
+        "forebattleplot": 3,
+        "mayDropItems": [
+            75004,
+            75005
+        ],
+        "levelpicgrey": 12986,
+        "unlockCondition": 10032,
+        "difficulty": 1,
+        "levelend": "2022-09-01 04:00:00",
+        "battleid": 11102,
+        "leveltitle": 1900751,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20159,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 3,
+        "bosslevelornot": 0,
+        "levelname": 1900532,
+        "eventid": 47001,
+        "plotdescribe": 1901675,
+        "suggestlevel": 90,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10032": {
+        "id": 10032,
+        "levelpicselect": 12987,
+        "levelinfo": 1901666,
+        "afterbattleplot": 2,
+        "sureDropItems": [
+            35069
+        ],
+        "spirit": 10,
+        "sureDropItemsNums": [
+            20
+        ],
+        "levelentrylocation": "-31,625",
+        "levellinetarget": [
+            10033
+        ],
+        "battlesceneid": 20030,
+        "mopupTime": 240,
+        "mayDropItemsNums": [
+            1,
+            1
+        ],
+        "forebattleplot": 1,
+        "mayDropItems": [
+            75001,
+            75002
+        ],
+        "levelpicgrey": 12988,
+        "unlockCondition": 0,
+        "difficulty": 1,
+        "levelend": "2022-09-01 04:00:00",
+        "battleid": 11101,
+        "leveltitle": 1900750,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20157,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 1,
+        "bosslevelornot": 0,
+        "levelname": 1900531,
+        "eventid": 47001,
+        "plotdescribe": 1901674,
+        "suggestlevel": 80,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10000": {
+        "id": 10000,
+        "levelpicselect": 12987,
+        "levelinfo": 1900547,
+        "afterbattleplot": 2,
+        "sureDropItems": [
+            35024
+        ],
+        "spirit": 10,
+        "sureDropItemsNums": [
+            20
+        ],
+        "levelentrylocation": "-31,625",
+        "levellinetarget": [
+            10001
+        ],
+        "battlesceneid": 20030,
+        "mopupTime": 240,
+        "mayDropItemsNums": [
+            1,
+            1
+        ],
+        "forebattleplot": 1,
+        "mayDropItems": [
+            75000,
+            75001
+        ],
+        "levelpicgrey": 12988,
+        "unlockCondition": 0,
+        "difficulty": 1,
+        "levelend": "2022-08-09 04:00:00",
+        "battleid": 10001,
+        "leveltitle": 1900750,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20157,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 1,
+        "bosslevelornot": 0,
+        "levelname": 1900531,
+        "eventid": 6001,
+        "plotdescribe": 207583,
+        "suggestlevel": 80,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10001": {
+        "id": 10001,
+        "levelpicselect": 12985,
+        "levelinfo": 1900548,
+        "afterbattleplot": 4,
+        "sureDropItems": [
+            35024
+        ],
+        "spirit": 10,
+        "sureDropItemsNums": [
+            20
+        ],
+        "levelentrylocation": "315,510",
+        "levellinetarget": [
+            10002,
+            10007
+        ],
+        "battlesceneid": 20030,
+        "mopupTime": 240,
+        "mayDropItemsNums": [
+            1,
+            1
+        ],
+        "forebattleplot": 3,
+        "mayDropItems": [
+            75003,
+            75004
+        ],
+        "levelpicgrey": 12986,
+        "unlockCondition": 10000,
+        "difficulty": 1,
+        "levelend": "2022-08-09 04:00:00",
+        "battleid": 10002,
+        "leveltitle": 1900751,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20159,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 3,
+        "bosslevelornot": 0,
+        "levelname": 1900532,
+        "eventid": 6001,
+        "plotdescribe": 207585,
+        "suggestlevel": 90,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10002": {
+        "id": 10002,
+        "levelpicselect": 12989,
+        "levelinfo": 1900549,
+        "afterbattleplot": 6,
+        "sureDropItems": [
+            35024
+        ],
+        "spirit": 10,
+        "sureDropItemsNums": [
+            20
+        ],
+        "levelentrylocation": "93,195",
+        "levellinetarget": [
+            10003
+        ],
+        "battlesceneid": 20030,
+        "mopupTime": 360,
+        "mayDropItemsNums": [
+            1,
+            1
+        ],
+        "forebattleplot": 5,
+        "mayDropItems": [
+            75006,
+            75007
+        ],
+        "levelpicgrey": 12990,
+        "unlockCondition": 10001,
+        "difficulty": 1,
+        "levelend": "2022-08-09 04:00:00",
+        "battleid": 10003,
+        "leveltitle": 1900752,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20158,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 2,
+        "bosslevelornot": 0,
+        "levelname": 1900533,
+        "eventid": 6001,
+        "plotdescribe": 207587,
+        "suggestlevel": 100,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10003": {
+        "id": 10003,
+        "levelpicselect": 12983,
+        "levelinfo": 1900550,
+        "afterbattleplot": 8,
+        "sureDropItems": [
+            35024
+        ],
+        "spirit": 20,
+        "sureDropItemsNums": [
+            40
+        ],
+        "levelentrylocation": "456,44",
+        "levellinetarget": {},
+        "battlesceneid": 20031,
+        "mopupTime": 360,
+        "mayDropItemsNums": [
+            2,
+            2
+        ],
+        "forebattleplot": 7,
+        "mayDropItems": [
+            75009,
+            75010
+        ],
+        "levelpicgrey": 12984,
+        "unlockCondition": 10002,
+        "difficulty": 1,
+        "levelend": "2022-08-09 04:00:00",
+        "battleid": 10004,
+        "leveltitle": 1900753,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20162,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 6,
+        "bosslevelornot": 0,
+        "levelname": 1900534,
+        "eventid": 6001,
+        "plotdescribe": 207589,
+        "suggestlevel": 110,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10004": {
+        "id": 10004,
+        "levelpicselect": 12995,
+        "levelinfo": 1900551,
+        "afterbattleplot": 10,
+        "sureDropItems": [
+            35024
+        ],
+        "spirit": 20,
+        "sureDropItemsNums": [
+            40
+        ],
+        "levelentrylocation": "1082,156",
+        "levellinetarget": [
+            10005
+        ],
+        "battlesceneid": 20030,
+        "mopupTime": 480,
+        "mayDropItemsNums": [
+            2,
+            2
+        ],
+        "forebattleplot": 9,
+        "mayDropItems": [
+            75012,
+            75013
+        ],
+        "levelpicgrey": 12996,
+        "unlockCondition": 10003,
+        "difficulty": 1,
+        "levelend": "2022-08-09 04:00:00",
+        "battleid": 10005,
+        "leveltitle": 1900754,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20160,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 4,
+        "bosslevelornot": 0,
+        "levelname": 1900535,
+        "eventid": 6001,
+        "plotdescribe": 207591,
+        "suggestlevel": 120,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10005": {
+        "id": 10005,
+        "levelpicselect": 12997,
+        "levelinfo": 1900552,
+        "afterbattleplot": 12,
+        "sureDropItems": [
+            35024
+        ],
+        "spirit": 20,
+        "sureDropItemsNums": [
+            40
+        ],
+        "levelentrylocation": "1111,565",
+        "levellinetarget": [
+            10006,
+            10007
+        ],
+        "battlesceneid": 20032,
+        "mopupTime": 480,
+        "mayDropItemsNums": [
+            2,
+            2
+        ],
+        "forebattleplot": 11,
+        "mayDropItems": [
+            75015,
+            75016
+        ],
+        "levelpicgrey": 12998,
+        "unlockCondition": 10004,
+        "difficulty": 1,
+        "levelend": "2022-08-09 04:00:00",
+        "battleid": 10006,
+        "leveltitle": 1900755,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20161,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 7,
+        "bosslevelornot": 0,
+        "levelname": 1900536,
+        "eventid": 6001,
+        "plotdescribe": 207593,
+        "suggestlevel": 130,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10006": {
+        "id": 10006,
+        "levelpicselect": 12991,
+        "levelinfo": 1900553,
+        "afterbattleplot": 14,
+        "sureDropItems": [
+            35024
+        ],
+        "spirit": 20,
+        "sureDropItemsNums": [
+            40
+        ],
+        "levelentrylocation": "1516,617",
+        "levellinetarget": {},
+        "battlesceneid": 20030,
+        "mopupTime": 600,
+        "mayDropItemsNums": [
+            4,
+            4
+        ],
+        "forebattleplot": 13,
+        "mayDropItems": [
+            74000,
+            74001
+        ],
+        "levelpicgrey": 12992,
+        "unlockCondition": 10005,
+        "difficulty": 1,
+        "levelend": "2022-08-09 04:00:00",
+        "battleid": 10007,
+        "leveltitle": 1900756,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20161,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 5,
+        "bosslevelornot": 0,
+        "levelname": 1900537,
+        "eventid": 6001,
+        "plotdescribe": 207595,
+        "suggestlevel": 140,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10007": {
+        "id": 10007,
+        "levelpicselect": 12993,
+        "levelinfo": 1900554,
+        "afterbattleplot": 16,
+        "sureDropItems": [
+            35024
+        ],
+        "spirit": 0,
+        "sureDropItemsNums": [
+            0
+        ],
+        "levelentrylocation": "710,487",
+        "levellinetarget": {},
+        "battlesceneid": 20033,
+        "mopupTime": 600,
+        "mayDropItemsNums": {},
+        "forebattleplot": 15,
+        "mayDropItems": {},
+        "levelpicgrey": 12994,
+        "unlockCondition": 10006,
+        "difficulty": 1,
+        "levelend": "2022-08-09 04:00:00",
+        "battleid": 10008,
+        "leveltitle": 1900757,
+        "firstItems": [
+            35008,
+            80142
+        ],
+        "monsterformid": 20163,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 1,
+        "bosslevelornot": 2,
+        "levelname": 1900538,
+        "eventid": 6001,
+        "plotdescribe": 207597,
+        "suggestlevel": 170,
+        "firstItemNums": [
+            200,
+            1
+        ]
+    },
+    "10008": {
+        "id": 10008,
+        "levelpicselect": 12987,
+        "levelinfo": 1900555,
+        "afterbattleplot": -1,
+        "sureDropItems": [
+            35025
+        ],
+        "spirit": 10,
+        "sureDropItemsNums": [
+            20
+        ],
+        "levelentrylocation": "-31,625",
+        "levellinetarget": [
+            10009
+        ],
+        "battlesceneid": 20034,
+        "mopupTime": 240,
+        "mayDropItemsNums": [
+            1,
+            1
+        ],
+        "forebattleplot": -1,
+        "mayDropItems": [
+            75001,
+            75002
+        ],
+        "levelpicgrey": 12988,
+        "unlockCondition": 10006,
+        "difficulty": 2,
+        "levelend": "2022-08-09 04:00:00",
+        "battleid": 10009,
+        "leveltitle": 1900758,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20157,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 1,
+        "bosslevelornot": 0,
+        "levelname": 1900539,
+        "eventid": 6001,
+        "plotdescribe": 207583,
+        "suggestlevel": 110,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10009": {
+        "id": 10009,
+        "levelpicselect": 12985,
+        "levelinfo": 1900556,
+        "afterbattleplot": -1,
+        "sureDropItems": [
+            35025
+        ],
+        "spirit": 10,
+        "sureDropItemsNums": [
+            20
+        ],
+        "levelentrylocation": "315,510",
+        "levellinetarget": [
+            10010
+        ],
+        "battlesceneid": 20034,
+        "mopupTime": 240,
+        "mayDropItemsNums": [
+            1,
+            1
+        ],
+        "forebattleplot": -1,
+        "mayDropItems": [
+            75004,
+            75005
+        ],
+        "levelpicgrey": 12986,
+        "unlockCondition": 10006,
+        "difficulty": 2,
+        "levelend": "2022-08-09 04:00:00",
+        "battleid": 10010,
+        "leveltitle": 1900759,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20159,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 3,
+        "bosslevelornot": 0,
+        "levelname": 1900540,
+        "eventid": 6001,
+        "plotdescribe": 207585,
+        "suggestlevel": 120,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10010": {
+        "id": 10010,
+        "levelpicselect": 12989,
+        "levelinfo": 1900557,
+        "afterbattleplot": -1,
+        "sureDropItems": [
+            35025
+        ],
+        "spirit": 10,
+        "sureDropItemsNums": [
+            20
+        ],
+        "levelentrylocation": "93,195",
+        "levellinetarget": [
+            10011,
+            10015
+        ],
+        "battlesceneid": 20034,
+        "mopupTime": 360,
+        "mayDropItemsNums": [
+            1,
+            1
+        ],
+        "forebattleplot": -1,
+        "mayDropItems": [
+            75007,
+            75008
+        ],
+        "levelpicgrey": 12990,
+        "unlockCondition": 10006,
+        "difficulty": 2,
+        "levelend": "2022-08-09 04:00:00",
+        "battleid": 10011,
+        "leveltitle": 1900760,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20158,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 2,
+        "bosslevelornot": 0,
+        "levelname": 1900541,
+        "eventid": 6001,
+        "plotdescribe": 207587,
+        "suggestlevel": 130,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10011": {
+        "id": 10011,
+        "levelpicselect": 12983,
+        "levelinfo": 1900558,
+        "afterbattleplot": -1,
+        "sureDropItems": [
+            35025
+        ],
+        "spirit": 20,
+        "sureDropItemsNums": [
+            40
+        ],
+        "levelentrylocation": "456,44",
+        "levellinetarget": {},
+        "battlesceneid": 20035,
+        "mopupTime": 360,
+        "mayDropItemsNums": [
+            2,
+            2
+        ],
+        "forebattleplot": -1,
+        "mayDropItems": [
+            75010,
+            75011
+        ],
+        "levelpicgrey": 12984,
+        "unlockCondition": 10006,
+        "difficulty": 2,
+        "levelend": "2022-08-09 04:00:00",
+        "battleid": 10012,
+        "leveltitle": 1900761,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20162,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 6,
+        "bosslevelornot": 0,
+        "levelname": 1900542,
+        "eventid": 6001,
+        "plotdescribe": 207589,
+        "suggestlevel": 140,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10012": {
+        "id": 10012,
+        "levelpicselect": 12995,
+        "levelinfo": 1900559,
+        "afterbattleplot": -1,
+        "sureDropItems": [
+            35025
+        ],
+        "spirit": 20,
+        "sureDropItemsNums": [
+            40
+        ],
+        "levelentrylocation": "1082,156",
+        "levellinetarget": [
+            10013
+        ],
+        "battlesceneid": 20034,
+        "mopupTime": 480,
+        "mayDropItemsNums": [
+            2,
+            2
+        ],
+        "forebattleplot": -1,
+        "mayDropItems": [
+            75013,
+            75014
+        ],
+        "levelpicgrey": 12996,
+        "unlockCondition": 10006,
+        "difficulty": 2,
+        "levelend": "2022-08-09 04:00:00",
+        "battleid": 10013,
+        "leveltitle": 1900762,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20160,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 4,
+        "bosslevelornot": 0,
+        "levelname": 1900543,
+        "eventid": 6001,
+        "plotdescribe": 207591,
+        "suggestlevel": 150,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10013": {
+        "id": 10013,
+        "levelpicselect": 12997,
+        "levelinfo": 1900560,
+        "afterbattleplot": -1,
+        "sureDropItems": [
+            35025
+        ],
+        "spirit": 20,
+        "sureDropItemsNums": [
+            40
+        ],
+        "levelentrylocation": "1111,565",
+        "levellinetarget": [
+            10014,
+            10015
+        ],
+        "battlesceneid": 20036,
+        "mopupTime": 480,
+        "mayDropItemsNums": [
+            2,
+            2
+        ],
+        "forebattleplot": -1,
+        "mayDropItems": [
+            75016,
+            75017
+        ],
+        "levelpicgrey": 12998,
+        "unlockCondition": 10006,
+        "difficulty": 2,
+        "levelend": "2022-08-09 04:00:00",
+        "battleid": 10014,
+        "leveltitle": 1900763,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20161,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 7,
+        "bosslevelornot": 0,
+        "levelname": 1900544,
+        "eventid": 6001,
+        "plotdescribe": 207593,
+        "suggestlevel": 160,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10014": {
+        "id": 10014,
+        "levelpicselect": 12991,
+        "levelinfo": 1900561,
+        "afterbattleplot": -1,
+        "sureDropItems": [
+            35025
+        ],
+        "spirit": 20,
+        "sureDropItemsNums": [
+            40
+        ],
+        "levelentrylocation": "1516,617",
+        "levellinetarget": {},
+        "battlesceneid": 20034,
+        "mopupTime": 600,
+        "mayDropItemsNums": [
+            4,
+            4
+        ],
+        "forebattleplot": -1,
+        "mayDropItems": [
+            74001,
+            74002
+        ],
+        "levelpicgrey": 12992,
+        "unlockCondition": 10006,
+        "difficulty": 2,
+        "levelend": "2022-08-09 04:00:00",
+        "battleid": 10015,
+        "leveltitle": 1900764,
+        "firstItems": [
+            35008
+        ],
+        "monsterformid": 20161,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 5,
+        "bosslevelornot": 0,
+        "levelname": 1900545,
+        "eventid": 6001,
+        "plotdescribe": 207595,
+        "suggestlevel": 170,
+        "firstItemNums": [
+            50
+        ]
+    },
+    "10015": {
+        "id": 10015,
+        "levelpicselect": 12993,
+        "levelinfo": 1900562,
+        "afterbattleplot": -1,
+        "sureDropItems": [
+            35025
+        ],
+        "spirit": 0,
+        "sureDropItemsNums": [
+            0
+        ],
+        "levelentrylocation": "710,487",
+        "levellinetarget": {},
+        "battlesceneid": 20037,
+        "mopupTime": 600,
+        "mayDropItemsNums": {},
+        "forebattleplot": -1,
+        "mayDropItems": {},
+        "levelpicgrey": 12994,
+        "unlockCondition": 10006,
+        "difficulty": 2,
+        "levelend": "2022-08-09 04:00:00",
+        "battleid": 10016,
+        "leveltitle": 1900765,
+        "firstItems": [
+            35008,
+            80144
+        ],
+        "monsterformid": 20163,
+        "levelstart": "2022-06-24 04:00:00",
+        "levelanim": 1,
+        "bosslevelornot": 2,
+        "levelname": 1900546,
+        "eventid": 6001,
+        "plotdescribe": 207597,
+        "suggestlevel": 200,
+        "firstItemNums": [
+            200,
+            1
+        ]
+    }
+}

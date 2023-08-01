@@ -1,0 +1,17 @@
+{
+    "101": {
+        "id": 101,
+        "assetname": "Map_base",
+        "assetbundle": "scenes\/tower.assetbundle"
+    },
+    "301": {
+        "id": 301,
+        "assetname": "Map_snow",
+        "assetbundle": "scenes\/tower.assetbundle"
+    },
+    "201": {
+        "id": 201,
+        "assetname": "Map_grass",
+        "assetbundle": "scenes\/tower.assetbundle"
+    }
+}

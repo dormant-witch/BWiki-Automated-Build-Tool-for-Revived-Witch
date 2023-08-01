@@ -1,0 +1,32 @@
+[
+    {
+        "startDialogID": 1,
+        "id": 1,
+        "returnType": 1,
+        "playCondition": 1
+    },
+    {
+        "startDialogID": 3,
+        "id": 2,
+        "returnType": 1,
+        "playCondition": 2
+    },
+    {
+        "startDialogID": 3,
+        "id": 3,
+        "returnType": 2,
+        "playCondition": 1
+    },
+    {
+        "startDialogID": 3,
+        "id": 4,
+        "returnType": 3,
+        "playCondition": 1
+    },
+    {
+        "startDialogID": 5,
+        "id": 5,
+        "returnType": 1,
+        "playCondition": 101
+    }
+]

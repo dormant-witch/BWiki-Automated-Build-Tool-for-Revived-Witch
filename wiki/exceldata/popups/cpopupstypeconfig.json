@@ -1,0 +1,50 @@
+{
+    "1": {
+        "path": "login.createroledialog",
+        "id": 1
+    },
+    "2": {
+        "path": "messagetip.stick",
+        "id": 2
+    },
+    "4": {
+        "path": "messagetip.getitemdialog",
+        "id": 4
+    },
+    "5": {
+        "path": "messagetip.branddialog",
+        "id": 5
+    },
+    "6": {
+        "path": "messagetip.endingdialog",
+        "id": 6
+    },
+    "7": {
+        "path": "timeline.timelinecoverdialog",
+        "id": 7
+    },
+    "8": {
+        "path": "timeline.timelinewhitedialog",
+        "id": 8
+    },
+    "9": {
+        "path": "timeline.timelineblackdialog",
+        "id": 9
+    },
+    "10": {
+        "path": "dungeon.hint.dungeonhintdialog",
+        "id": 10
+    },
+    "11": {
+        "path": "dungeon.dungeondeathwhitescreen",
+        "id": 11
+    },
+    "12": {
+        "path": "tunnelvideoskipdialog",
+        "id": 12
+    },
+    "13": {
+        "path": "messagetip.getpuzzledialog",
+        "id": 13
+    }
+}

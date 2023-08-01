@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "showItem": 35026,
+        "passedPoints": 9,
+        "ItemNum": 50,
+        "awardID": 3227
+    },
+    {
+        "id": 2,
+        "showItem": 35026,
+        "passedPoints": 18,
+        "ItemNum": 50,
+        "awardID": 3227
+    },
+    {
+        "id": 3,
+        "showItem": 35026,
+        "passedPoints": 27,
+        "ItemNum": 50,
+        "awardID": 3227
+    },
+    {
+        "id": 4,
+        "showItem": 35026,
+        "passedPoints": 36,
+        "ItemNum": 50,
+        "awardID": 3227
+    },
+    {
+        "id": 5,
+        "showItem": 35026,
+        "passedPoints": 45,
+        "ItemNum": 80,
+        "awardID": 3228
+    },
+    {
+        "id": 6,
+        "showItem": 35026,
+        "passedPoints": 54,
+        "ItemNum": 80,
+        "awardID": 3228
+    },
+    {
+        "id": 7,
+        "showItem": 35026,
+        "passedPoints": 63,
+        "ItemNum": 80,
+        "awardID": 3228
+    },
+    {
+        "id": 8,
+        "showItem": 35026,
+        "passedPoints": 72,
+        "ItemNum": 80,
+        "awardID": 3228
+    },
+    {
+        "id": 9,
+        "showItem": 35026,
+        "passedPoints": 81,
+        "ItemNum": 120,
+        "awardID": 3229
+    },
+    {
+        "id": 10,
+        "showItem": 35026,
+        "passedPoints": 90,
+        "ItemNum": 120,
+        "awardID": 3229
+    },
+    {
+        "id": 11,
+        "showItem": 35026,
+        "passedPoints": 99,
+        "ItemNum": 120,
+        "awardID": 3229
+    },
+    {
+        "id": 12,
+        "showItem": 35026,
+        "passedPoints": 108,
+        "ItemNum": 120,
+        "awardID": 3229
+    }
+]

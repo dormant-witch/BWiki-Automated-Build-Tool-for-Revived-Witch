@@ -1,0 +1,26 @@
+{
+    "31460": {
+        "physicalLimitations": -1,
+        "id": 31460,
+        "numLimitations": 3,
+        "relationid": 31464
+    },
+    "31457": {
+        "physicalLimitations": 240,
+        "id": 31457,
+        "numLimitations": -1,
+        "relationid": 31461
+    },
+    "31458": {
+        "physicalLimitations": 1200,
+        "id": 31458,
+        "numLimitations": -1,
+        "relationid": 31462
+    },
+    "31459": {
+        "physicalLimitations": -1,
+        "id": 31459,
+        "numLimitations": 1,
+        "relationid": 31463
+    }
+}

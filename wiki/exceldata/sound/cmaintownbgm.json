@@ -1,0 +1,16 @@
+[
+    {
+        "soundid": 136,
+        "id": 1,
+        "endTime": "",
+        "chapterLimit": -1,
+        "startTime": ""
+    },
+    {
+        "soundid": 1358,
+        "id": 2,
+        "endTime": "2022-02-10 03:59:59",
+        "chapterLimit": 6,
+        "startTime": "2022-01-20 04:00:00"
+    }
+]

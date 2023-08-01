@@ -1,0 +1,35 @@
+[
+    {
+        "image": 10958,
+        "id": 1,
+        "treeconstanteffect": 1111,
+        "light1Lv": 1,
+        "roleNum": 0,
+        "light2Lv": 1,
+        "treeevolveeffect": 0,
+        "lvUpNum": 100,
+        "light3Lv": 0
+    },
+    {
+        "image": 10959,
+        "id": 2,
+        "treeconstanteffect": 1112,
+        "light1Lv": 2,
+        "roleNum": 0,
+        "light2Lv": 2,
+        "treeevolveeffect": 1109,
+        "lvUpNum": 100,
+        "light3Lv": 0
+    },
+    {
+        "image": 10960,
+        "id": 3,
+        "treeconstanteffect": 1113,
+        "light1Lv": 3,
+        "roleNum": 0,
+        "light2Lv": 3,
+        "treeevolveeffect": 1110,
+        "lvUpNum": 100,
+        "light3Lv": 1
+    }
+]

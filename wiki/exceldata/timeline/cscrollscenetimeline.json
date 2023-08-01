@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "sceneID": 30012,
+        "transTargetID": 2,
+        "timelineObj": "W3_Hill_01_UpStair1",
+        "isRepeat": 1,
+        "triggerID": 1
+    },
+    {
+        "id": 2,
+        "sceneID": 30012,
+        "transTargetID": 1,
+        "timelineObj": "W3_Hill_01_DownStair1",
+        "isRepeat": 1,
+        "triggerID": 2
+    },
+    {
+        "id": 3,
+        "sceneID": 30012,
+        "transTargetID": 4,
+        "timelineObj": "W3_Hill_01_UpStair2",
+        "isRepeat": 1,
+        "triggerID": 3
+    },
+    {
+        "id": 4,
+        "sceneID": 30012,
+        "transTargetID": 3,
+        "timelineObj": "W3_Hill_01_DownStair2",
+        "isRepeat": 1,
+        "triggerID": 4
+    },
+    {
+        "id": 5,
+        "sceneID": 30012,
+        "transTargetID": 0,
+        "timelineObj": "W3_Hill_01_Exit",
+        "isRepeat": 1,
+        "triggerID": 5
+    },
+    {
+        "id": 6,
+        "sceneID": 30012,
+        "transTargetID": 0,
+        "timelineObj": "W3_Hill_01_Timeline1",
+        "isRepeat": 0,
+        "triggerID": 6
+    }
+]

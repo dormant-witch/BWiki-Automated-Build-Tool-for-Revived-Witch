@@ -1,0 +1,1222 @@
+[
+    {
+        "Dialogid": 1,
+        "id": 1,
+        "Roleid": 76,
+        "SkipTime": 3,
+        "Textid": 203288,
+        "Sceneid": 10004,
+        "Zone": "20,22,5,1",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 1,
+        "id": 2,
+        "Roleid": 16,
+        "SkipTime": 6,
+        "Textid": 203289,
+        "Sceneid": 10004,
+        "Zone": "20,22,5,1",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 1,
+        "id": 3,
+        "Roleid": 76,
+        "SkipTime": 6,
+        "Textid": 203290,
+        "Sceneid": 10004,
+        "Zone": "20,22,5,1",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 1,
+        "id": 4,
+        "Roleid": 16,
+        "SkipTime": 4,
+        "Textid": 203291,
+        "Sceneid": 10004,
+        "Zone": "20,22,5,1",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 2,
+        "id": 5,
+        "Roleid": -1,
+        "SkipTime": 5,
+        "Textid": 203292,
+        "Sceneid": 10010,
+        "Zone": "9,7,1,4",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 3,
+        "id": 6,
+        "Roleid": -1,
+        "SkipTime": 3,
+        "Textid": 203293,
+        "Sceneid": -1,
+        "Zone": "-1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 4,
+        "id": 7,
+        "Roleid": -1,
+        "SkipTime": 3,
+        "Textid": 203294,
+        "Sceneid": -1,
+        "Zone": "-1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 5,
+        "id": 8,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 203295,
+        "Sceneid": 10009,
+        "Zone": "3,15,4,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 5,
+        "id": 9,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 203296,
+        "Sceneid": 10009,
+        "Zone": "3,15,4,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 5,
+        "id": 10,
+        "Roleid": -1,
+        "SkipTime": 6,
+        "Textid": 203297,
+        "Sceneid": 10009,
+        "Zone": "3,15,4,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 6,
+        "id": 11,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 203298,
+        "Sceneid": -1,
+        "Zone": "-1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 7,
+        "id": 12,
+        "Roleid": -1,
+        "SkipTime": 4,
+        "Textid": 203314,
+        "Sceneid": 12004,
+        "Zone": "10,22,1,3",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 7,
+        "id": 13,
+        "Roleid": -1,
+        "SkipTime": 3,
+        "Textid": 203315,
+        "Sceneid": 12004,
+        "Zone": "10,22,1,3",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 8,
+        "id": 14,
+        "Roleid": -1,
+        "SkipTime": 1,
+        "Textid": 203316,
+        "Sceneid": 12008,
+        "Zone": "10,22,5,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 8,
+        "id": 15,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 203317,
+        "Sceneid": 12008,
+        "Zone": "10,22,5,1",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 8,
+        "id": 16,
+        "Roleid": -1,
+        "SkipTime": 3,
+        "Textid": 203318,
+        "Sceneid": 12008,
+        "Zone": "10,22,5,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 8,
+        "id": 17,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 203319,
+        "Sceneid": 12008,
+        "Zone": "10,22,5,1",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 9,
+        "id": 18,
+        "Roleid": -1,
+        "SkipTime": 4,
+        "Textid": 203339,
+        "Sceneid": 12010,
+        "Zone": "7,24,4,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 9,
+        "id": 19,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 203340,
+        "Sceneid": 12010,
+        "Zone": "7,24,4,1",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 9,
+        "id": 20,
+        "Roleid": -1,
+        "SkipTime": 6,
+        "Textid": 203341,
+        "Sceneid": 12010,
+        "Zone": "7,24,4,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 9,
+        "id": 21,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 203342,
+        "Sceneid": 12010,
+        "Zone": "7,24,4,1",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 10,
+        "id": 22,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 203361,
+        "Sceneid": 12015,
+        "Zone": "2,22,3,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 10,
+        "id": 23,
+        "Roleid": -2,
+        "SkipTime": 2,
+        "Textid": 203362,
+        "Sceneid": 12015,
+        "Zone": "2,22,3,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 10,
+        "id": 24,
+        "Roleid": -1,
+        "SkipTime": 3,
+        "Textid": 203363,
+        "Sceneid": 12015,
+        "Zone": "2,22,3,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 10,
+        "id": 25,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 203364,
+        "Sceneid": 12015,
+        "Zone": "2,22,3,1",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 10,
+        "id": 26,
+        "Roleid": -1,
+        "SkipTime": 3,
+        "Textid": 203365,
+        "Sceneid": 12015,
+        "Zone": "2,22,3,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 10,
+        "id": 27,
+        "Roleid": -2,
+        "SkipTime": 2,
+        "Textid": 203366,
+        "Sceneid": 12015,
+        "Zone": "2,22,3,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 11,
+        "id": 28,
+        "Roleid": -1,
+        "SkipTime": 3,
+        "Textid": 203379,
+        "Sceneid": 12016,
+        "Zone": "6,20,3,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 12,
+        "id": 29,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 203392,
+        "Sceneid": 12018,
+        "Zone": "9,12,1,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 12,
+        "id": 30,
+        "Roleid": -2,
+        "SkipTime": 3,
+        "Textid": 203393,
+        "Sceneid": 12018,
+        "Zone": "9,12,1,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 13,
+        "id": 31,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 203410,
+        "Sceneid": 12021,
+        "Zone": "5,2,1,4",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 13,
+        "id": 32,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 203411,
+        "Sceneid": 12021,
+        "Zone": "5,2,1,4",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 13,
+        "id": 33,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 203412,
+        "Sceneid": 12021,
+        "Zone": "5,2,1,4",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 13,
+        "id": 34,
+        "Roleid": -2,
+        "SkipTime": 2,
+        "Textid": 203413,
+        "Sceneid": 12021,
+        "Zone": "5,2,1,4",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 13,
+        "id": 35,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 203414,
+        "Sceneid": 12021,
+        "Zone": "5,2,1,4",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 13,
+        "id": 36,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 203415,
+        "Sceneid": 12021,
+        "Zone": "5,2,1,4",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 14,
+        "id": 37,
+        "Roleid": -1,
+        "SkipTime": 3,
+        "Textid": 203416,
+        "Sceneid": 12022,
+        "Zone": "12,7,4,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 14,
+        "id": 38,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 203417,
+        "Sceneid": 12022,
+        "Zone": "12,7,4,1",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 14,
+        "id": 39,
+        "Roleid": -1,
+        "SkipTime": 4,
+        "Textid": 203418,
+        "Sceneid": 12022,
+        "Zone": "12,7,4,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 15,
+        "id": 40,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 203438,
+        "Sceneid": 10011,
+        "Zone": "13,24,1,4",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 15,
+        "id": 41,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 203439,
+        "Sceneid": 10011,
+        "Zone": "13,24,1,4",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 15,
+        "id": 42,
+        "Roleid": -1,
+        "SkipTime": 3,
+        "Textid": 203440,
+        "Sceneid": 10011,
+        "Zone": "13,24,1,4",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 16,
+        "id": 43,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 203441,
+        "Sceneid": 10012,
+        "Zone": "23,14,3,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 16,
+        "id": 44,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 203442,
+        "Sceneid": 10012,
+        "Zone": "23,14,3,1",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 16,
+        "id": 45,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 203443,
+        "Sceneid": 10012,
+        "Zone": "23,14,3,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 17,
+        "id": 46,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 203447,
+        "Sceneid": 10014,
+        "Zone": "8,23,3,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 17,
+        "id": 47,
+        "Roleid": -2,
+        "SkipTime": 3,
+        "Textid": 203448,
+        "Sceneid": 10014,
+        "Zone": "8,23,3,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 17,
+        "id": 48,
+        "Roleid": -1,
+        "SkipTime": 4,
+        "Textid": 203449,
+        "Sceneid": 10014,
+        "Zone": "8,23,3,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 18,
+        "id": 49,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 203450,
+        "Sceneid": 10015,
+        "Zone": "15,17,3,3",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 18,
+        "id": 50,
+        "Roleid": -1,
+        "SkipTime": 4,
+        "Textid": 203451,
+        "Sceneid": 10015,
+        "Zone": "15,17,3,3",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 19,
+        "id": 51,
+        "Roleid": -1,
+        "SkipTime": 1,
+        "Textid": 203452,
+        "Sceneid": 10017,
+        "Zone": "3,19,2,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 19,
+        "id": 52,
+        "Roleid": -2,
+        "SkipTime": 3,
+        "Textid": 203453,
+        "Sceneid": 10017,
+        "Zone": "3,19,2,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 19,
+        "id": 53,
+        "Roleid": -1,
+        "SkipTime": 1,
+        "Textid": 203454,
+        "Sceneid": 10017,
+        "Zone": "3,19,2,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 19,
+        "id": 54,
+        "Roleid": -2,
+        "SkipTime": 2,
+        "Textid": 203455,
+        "Sceneid": 10017,
+        "Zone": "3,19,2,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 19,
+        "id": 55,
+        "Roleid": -1,
+        "SkipTime": 1,
+        "Textid": 203456,
+        "Sceneid": 10017,
+        "Zone": "3,19,2,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 20,
+        "id": 56,
+        "Roleid": -1,
+        "SkipTime": 1,
+        "Textid": 203478,
+        "Sceneid": 13001,
+        "Zone": "15,10,4,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 20,
+        "id": 57,
+        "Roleid": -1,
+        "SkipTime": 1,
+        "Textid": 203479,
+        "Sceneid": 13001,
+        "Zone": "15,10,4,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 20,
+        "id": 58,
+        "Roleid": -2,
+        "SkipTime": 3,
+        "Textid": 203480,
+        "Sceneid": 13001,
+        "Zone": "15,10,4,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 21,
+        "id": 59,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 203481,
+        "Sceneid": 13003,
+        "Zone": "18,21,1,5",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 21,
+        "id": 60,
+        "Roleid": -1,
+        "SkipTime": 1,
+        "Textid": 203482,
+        "Sceneid": 13003,
+        "Zone": "18,21,1,5",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 21,
+        "id": 61,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 203483,
+        "Sceneid": 13003,
+        "Zone": "18,21,1,5",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 22,
+        "id": 62,
+        "Roleid": -1,
+        "SkipTime": 4,
+        "Textid": 203484,
+        "Sceneid": 13005,
+        "Zone": "11,18,11,3",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 23,
+        "id": 63,
+        "Roleid": -1,
+        "SkipTime": 4,
+        "Textid": 203493,
+        "Sceneid": 13006,
+        "Zone": "29,16,5,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 23,
+        "id": 64,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 203494,
+        "Sceneid": 13006,
+        "Zone": "29,16,5,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 23,
+        "id": 65,
+        "Roleid": -2,
+        "SkipTime": 2,
+        "Textid": 203495,
+        "Sceneid": 13006,
+        "Zone": "29,16,5,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 23,
+        "id": 66,
+        "Roleid": -1,
+        "SkipTime": 4,
+        "Textid": 203496,
+        "Sceneid": 13006,
+        "Zone": "29,16,5,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 24,
+        "id": 67,
+        "Roleid": -1,
+        "SkipTime": 4,
+        "Textid": 204214,
+        "Sceneid": 13009,
+        "Zone": "15,10,4,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 24,
+        "id": 68,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 204215,
+        "Sceneid": 13009,
+        "Zone": "15,10,4,2",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 24,
+        "id": 69,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 204216,
+        "Sceneid": 13009,
+        "Zone": "15,10,4,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 24,
+        "id": 70,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 204217,
+        "Sceneid": 13009,
+        "Zone": "15,10,4,2",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 24,
+        "id": 71,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 204218,
+        "Sceneid": 13009,
+        "Zone": "15,10,4,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 24,
+        "id": 72,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 204219,
+        "Sceneid": 13009,
+        "Zone": "15,10,4,2",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 24,
+        "id": 73,
+        "Roleid": -1,
+        "SkipTime": 5,
+        "Textid": 204220,
+        "Sceneid": 13009,
+        "Zone": "15,10,4,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 25,
+        "id": 74,
+        "Roleid": -1,
+        "SkipTime": 4,
+        "Textid": 204221,
+        "Sceneid": 13010,
+        "Zone": "10,2,1,6",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 25,
+        "id": 75,
+        "Roleid": -2,
+        "SkipTime": 2,
+        "Textid": 204222,
+        "Sceneid": 13010,
+        "Zone": "10,2,1,6",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 25,
+        "id": 76,
+        "Roleid": -1,
+        "SkipTime": 4,
+        "Textid": 204223,
+        "Sceneid": 13010,
+        "Zone": "10,2,1,6",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 25,
+        "id": 77,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 204224,
+        "Sceneid": 13010,
+        "Zone": "10,2,1,6",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 25,
+        "id": 78,
+        "Roleid": -1,
+        "SkipTime": 4,
+        "Textid": 204225,
+        "Sceneid": 13010,
+        "Zone": "10,2,1,6",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 26,
+        "id": 79,
+        "Roleid": -1,
+        "SkipTime": 3,
+        "Textid": 204226,
+        "Sceneid": 13014,
+        "Zone": "17,12,4,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 26,
+        "id": 80,
+        "Roleid": -1,
+        "SkipTime": 4,
+        "Textid": 204227,
+        "Sceneid": 13014,
+        "Zone": "17,12,4,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 26,
+        "id": 81,
+        "Roleid": -1,
+        "SkipTime": 3,
+        "Textid": 204228,
+        "Sceneid": 13014,
+        "Zone": "17,12,4,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 26,
+        "id": 82,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 204229,
+        "Sceneid": 13014,
+        "Zone": "17,12,4,2",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 27,
+        "id": 83,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 204230,
+        "Sceneid": 13015,
+        "Zone": "4,13,4,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 27,
+        "id": 84,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 204231,
+        "Sceneid": 13015,
+        "Zone": "4,13,4,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 28,
+        "id": 85,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 204232,
+        "Sceneid": 13020,
+        "Zone": "21,11,5,3",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 28,
+        "id": 86,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 204233,
+        "Sceneid": 13020,
+        "Zone": "21,11,5,3",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 28,
+        "id": 87,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 204234,
+        "Sceneid": 13020,
+        "Zone": "21,11,5,3",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 29,
+        "id": 88,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 204235,
+        "Sceneid": 13022,
+        "Zone": "6,11,6,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 29,
+        "id": 89,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 204236,
+        "Sceneid": 13022,
+        "Zone": "6,11,6,2",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 29,
+        "id": 90,
+        "Roleid": -1,
+        "SkipTime": 4,
+        "Textid": 204237,
+        "Sceneid": 13022,
+        "Zone": "6,11,6,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 30,
+        "id": 91,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 204264,
+        "Sceneid": 13027,
+        "Zone": "8,28,7,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 30,
+        "id": 92,
+        "Roleid": -1,
+        "SkipTime": 5,
+        "Textid": 204265,
+        "Sceneid": 13027,
+        "Zone": "8,28,7,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 31,
+        "id": 93,
+        "Roleid": -1,
+        "SkipTime": 3,
+        "Textid": 204273,
+        "Sceneid": 10026,
+        "Zone": "22,11,1,4",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 31,
+        "id": 94,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 204274,
+        "Sceneid": 10026,
+        "Zone": "22,11,1,4",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 31,
+        "id": 95,
+        "Roleid": -1,
+        "SkipTime": 5,
+        "Textid": 204275,
+        "Sceneid": 10026,
+        "Zone": "22,11,1,4",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 32,
+        "id": 96,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 204276,
+        "Sceneid": 14003,
+        "Zone": "18,13,3,3",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 32,
+        "id": 97,
+        "Roleid": -1,
+        "SkipTime": 4,
+        "Textid": 204277,
+        "Sceneid": 14003,
+        "Zone": "18,13,3,3",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 32,
+        "id": 98,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 204278,
+        "Sceneid": 14003,
+        "Zone": "18,13,3,3",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 32,
+        "id": 99,
+        "Roleid": -1,
+        "SkipTime": 4,
+        "Textid": 204279,
+        "Sceneid": 14003,
+        "Zone": "18,13,3,3",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 33,
+        "id": 100,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 204280,
+        "Sceneid": 14006,
+        "Zone": "2,25,4,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 33,
+        "id": 101,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 204281,
+        "Sceneid": 14006,
+        "Zone": "2,25,4,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 34,
+        "id": 102,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 204282,
+        "Sceneid": 14008,
+        "Zone": "4,20,4,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 34,
+        "id": 103,
+        "Roleid": -1,
+        "SkipTime": 3,
+        "Textid": 204283,
+        "Sceneid": 14008,
+        "Zone": "4,20,4,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 34,
+        "id": 104,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 204284,
+        "Sceneid": 14008,
+        "Zone": "4,20,4,2",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 35,
+        "id": 105,
+        "Roleid": -1,
+        "SkipTime": 3,
+        "Textid": 204285,
+        "Sceneid": 14010,
+        "Zone": "14,30,4,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 36,
+        "id": 106,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 204286,
+        "Sceneid": 14016,
+        "Zone": "9,13,4,3",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 36,
+        "id": 107,
+        "Roleid": -1,
+        "SkipTime": 3,
+        "Textid": 204287,
+        "Sceneid": 14016,
+        "Zone": "9,13,4,3",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 36,
+        "id": 108,
+        "Roleid": -1,
+        "SkipTime": 4,
+        "Textid": 204288,
+        "Sceneid": 14016,
+        "Zone": "9,13,4,3",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 37,
+        "id": 109,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 204289,
+        "Sceneid": 14020,
+        "Zone": "14,24,4,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 37,
+        "id": 110,
+        "Roleid": -2,
+        "SkipTime": 3,
+        "Textid": 204290,
+        "Sceneid": 14020,
+        "Zone": "14,24,4,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 37,
+        "id": 111,
+        "Roleid": -1,
+        "SkipTime": 4,
+        "Textid": 204291,
+        "Sceneid": 14020,
+        "Zone": "14,24,4,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 37,
+        "id": 112,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 204292,
+        "Sceneid": 14020,
+        "Zone": "14,24,4,1",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 37,
+        "id": 113,
+        "Roleid": -1,
+        "SkipTime": 4,
+        "Textid": 204293,
+        "Sceneid": 14020,
+        "Zone": "14,24,4,1",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 38,
+        "id": 114,
+        "Roleid": -1,
+        "SkipTime": 4,
+        "Textid": 204294,
+        "Sceneid": 14021,
+        "Zone": "13,24,1,4",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 38,
+        "id": 115,
+        "Roleid": -2,
+        "SkipTime": 4,
+        "Textid": 204295,
+        "Sceneid": 14021,
+        "Zone": "13,24,1,4",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 39,
+        "id": 116,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 204296,
+        "Sceneid": 14022,
+        "Zone": "11,17,5,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 39,
+        "id": 117,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 204297,
+        "Sceneid": 14022,
+        "Zone": "11,17,5,2",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 39,
+        "id": 118,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 204298,
+        "Sceneid": 14022,
+        "Zone": "11,17,5,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 39,
+        "id": 119,
+        "Roleid": 1,
+        "SkipTime": 2,
+        "Textid": 204299,
+        "Sceneid": 14022,
+        "Zone": "11,17,5,2",
+        "isRandom": 0
+    },
+    {
+        "Dialogid": 40,
+        "id": 120,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 204478,
+        "Sceneid": 10034,
+        "Zone": "10,7,2,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 40,
+        "id": 121,
+        "Roleid": -1,
+        "SkipTime": 2,
+        "Textid": 204479,
+        "Sceneid": 10034,
+        "Zone": "10,7,2,2",
+        "isRandom": 1
+    },
+    {
+        "Dialogid": 41,
+        "id": 122,
+        "Roleid": -1,
+        "SkipTime": 3,
+        "Textid": 204480,
+        "Sceneid": 10037,
+        "Zone": "18,20,3,2",
+        "isRandom": 1
+    }
+]

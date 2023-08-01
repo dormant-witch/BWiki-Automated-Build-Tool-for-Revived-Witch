@@ -1,0 +1,2282 @@
+{
+    "18001408": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001408,
+        "type": 4,
+        "battleID": 18008,
+        "buffID": "0",
+        "tagType": 6,
+        "condition": 18001407,
+        "difficulty": 4,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001409": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001409,
+        "type": 4,
+        "battleID": 18009,
+        "buffID": "0",
+        "tagType": 7,
+        "condition": 18001109,
+        "difficulty": 1,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001410": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001410,
+        "type": 4,
+        "battleID": 18010,
+        "buffID": "0",
+        "tagType": 7,
+        "condition": 18001409,
+        "difficulty": 2,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001411": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001411,
+        "type": 4,
+        "battleID": 18011,
+        "buffID": "0",
+        "tagType": 7,
+        "condition": 18001410,
+        "difficulty": 3,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001412": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001412,
+        "type": 4,
+        "battleID": 18012,
+        "buffID": "0",
+        "tagType": 7,
+        "condition": 18001411,
+        "difficulty": 4,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001413": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001413,
+        "type": 4,
+        "battleID": 18013,
+        "buffID": "0",
+        "tagType": 5,
+        "condition": 18001103,
+        "difficulty": 1,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001414": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001414,
+        "type": 4,
+        "battleID": 18014,
+        "buffID": "0",
+        "tagType": 5,
+        "condition": 18001413,
+        "difficulty": 2,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001415": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001415,
+        "type": 4,
+        "battleID": 18015,
+        "buffID": "0",
+        "tagType": 5,
+        "condition": 18001414,
+        "difficulty": 3,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001416": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001416,
+        "type": 4,
+        "battleID": 18016,
+        "buffID": "0",
+        "tagType": 5,
+        "condition": 18001415,
+        "difficulty": 4,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001417": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001417,
+        "type": 4,
+        "battleID": 18017,
+        "buffID": "0",
+        "tagType": 6,
+        "condition": 18001106,
+        "difficulty": 1,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001418": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001418,
+        "type": 4,
+        "battleID": 18018,
+        "buffID": "0",
+        "tagType": 6,
+        "condition": 18001417,
+        "difficulty": 2,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001419": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001419,
+        "type": 4,
+        "battleID": 18019,
+        "buffID": "0",
+        "tagType": 6,
+        "condition": 18001418,
+        "difficulty": 3,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001420": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001420,
+        "type": 4,
+        "battleID": 18020,
+        "buffID": "0",
+        "tagType": 6,
+        "condition": 18001419,
+        "difficulty": 4,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001421": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001421,
+        "type": 4,
+        "battleID": 18021,
+        "buffID": "0",
+        "tagType": 7,
+        "condition": 18001109,
+        "difficulty": 1,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001422": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001422,
+        "type": 4,
+        "battleID": 18022,
+        "buffID": "0",
+        "tagType": 7,
+        "condition": 18001421,
+        "difficulty": 2,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001423": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001423,
+        "type": 4,
+        "battleID": 18023,
+        "buffID": "0",
+        "tagType": 7,
+        "condition": 18001422,
+        "difficulty": 3,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001424": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001424,
+        "type": 4,
+        "battleID": 18024,
+        "buffID": "0",
+        "tagType": 7,
+        "condition": 18001423,
+        "difficulty": 4,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001425": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001425,
+        "type": 4,
+        "battleID": 18025,
+        "buffID": "0",
+        "tagType": 5,
+        "condition": 18001103,
+        "difficulty": 1,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001426": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001426,
+        "type": 4,
+        "battleID": 18026,
+        "buffID": "0",
+        "tagType": 5,
+        "condition": 18001425,
+        "difficulty": 2,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001427": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001427,
+        "type": 4,
+        "battleID": 18027,
+        "buffID": "0",
+        "tagType": 5,
+        "condition": 18001426,
+        "difficulty": 3,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001428": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001428,
+        "type": 4,
+        "battleID": 18028,
+        "buffID": "0",
+        "tagType": 5,
+        "condition": 18001427,
+        "difficulty": 4,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001301": {
+        "itemID": [
+            35038,
+            35002
+        ],
+        "id": 18001301,
+        "type": 3,
+        "battleID": 0,
+        "buffID": "31227;31228;31229",
+        "tagType": 1,
+        "condition": 18001207,
+        "difficulty": 0,
+        "itemNum": [
+            100,
+            1000
+        ],
+        "sectionID": 101,
+        "tagName": 1901384
+    },
+    "18001302": {
+        "itemID": [
+            35039,
+            35002
+        ],
+        "id": 18001302,
+        "type": 3,
+        "battleID": 0,
+        "buffID": "31230;31231;31232",
+        "tagType": 1,
+        "condition": 18001207,
+        "difficulty": 0,
+        "itemNum": [
+            100,
+            1000
+        ],
+        "sectionID": 105,
+        "tagName": 1901386
+    },
+    "18001303": {
+        "itemID": [
+            35040,
+            35002
+        ],
+        "id": 18001303,
+        "type": 3,
+        "battleID": 0,
+        "buffID": "31233;31234;31235",
+        "tagType": 1,
+        "condition": 18001207,
+        "difficulty": 0,
+        "itemNum": [
+            100,
+            1000
+        ],
+        "sectionID": 109,
+        "tagName": 1901385
+    },
+    "18001432": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001432,
+        "type": 4,
+        "battleID": 18032,
+        "buffID": "0",
+        "tagType": 6,
+        "condition": 18001431,
+        "difficulty": 4,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001433": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001433,
+        "type": 4,
+        "battleID": 18033,
+        "buffID": "0",
+        "tagType": 7,
+        "condition": 18001109,
+        "difficulty": 1,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001434": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001434,
+        "type": 4,
+        "battleID": 18034,
+        "buffID": "0",
+        "tagType": 7,
+        "condition": 18001433,
+        "difficulty": 2,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001435": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001435,
+        "type": 4,
+        "battleID": 18035,
+        "buffID": "0",
+        "tagType": 7,
+        "condition": 18001434,
+        "difficulty": 3,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001436": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001436,
+        "type": 4,
+        "battleID": 18036,
+        "buffID": "0",
+        "tagType": 7,
+        "condition": 18001435,
+        "difficulty": 4,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001701": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001701,
+        "type": 7,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": -1,
+        "condition": 18001104,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 701472
+    },
+    "180011302": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011302,
+        "type": 13,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": 1,
+        "condition": 18001207,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011303": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011303,
+        "type": 13,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": 1,
+        "condition": 18001207,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011304": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011304,
+        "type": 13,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": 1,
+        "condition": 180011301,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011305": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011305,
+        "type": 13,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": 1,
+        "condition": 180011302,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011306": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011306,
+        "type": 13,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": 1,
+        "condition": 180011303,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "1800111401": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 1800111401,
+        "type": 14,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": -1,
+        "condition": 18001212,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 1901216
+    },
+    "180011301": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011301,
+        "type": 13,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": 1,
+        "condition": 18001207,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011201": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011201,
+        "type": 12,
+        "battleID": 18120,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 18001212,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 1901215
+    },
+    "180011101": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011101,
+        "type": 11,
+        "battleID": 18119,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 18001211,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 1901214
+    },
+    "180011035": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011035,
+        "type": 10,
+        "battleID": 18235,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011034,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011034": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011034,
+        "type": 10,
+        "battleID": 18234,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011033,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001201": {
+        "itemID": [
+            35008,
+            35002
+        ],
+        "id": 18001201,
+        "type": 2,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": 1,
+        "condition": 0,
+        "difficulty": 0,
+        "itemNum": [
+            50,
+            1000
+        ],
+        "sectionID": 13,
+        "tagName": 1901218
+    },
+    "18001202": {
+        "itemID": [
+            35008,
+            35002
+        ],
+        "id": 18001202,
+        "type": 2,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": 1,
+        "condition": 18001102,
+        "difficulty": 0,
+        "itemNum": [
+            50,
+            1000
+        ],
+        "sectionID": 14,
+        "tagName": 1901222
+    },
+    "18001203": {
+        "itemID": [
+            35008,
+            35002
+        ],
+        "id": 18001203,
+        "type": 2,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": 1,
+        "condition": 18001103,
+        "difficulty": 0,
+        "itemNum": [
+            50,
+            1000
+        ],
+        "sectionID": 15,
+        "tagName": 1901224
+    },
+    "18001204": {
+        "itemID": [
+            35008,
+            35002
+        ],
+        "id": 18001204,
+        "type": 2,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": 1,
+        "condition": 18001104,
+        "difficulty": 0,
+        "itemNum": [
+            50,
+            1000
+        ],
+        "sectionID": 16,
+        "tagName": 1901226
+    },
+    "18001205": {
+        "itemID": [
+            35008,
+            35002
+        ],
+        "id": 18001205,
+        "type": 2,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": 1,
+        "condition": 18001106,
+        "difficulty": 0,
+        "itemNum": [
+            50,
+            1000
+        ],
+        "sectionID": 17,
+        "tagName": 1901230
+    },
+    "18001206": {
+        "itemID": [
+            35008,
+            35002
+        ],
+        "id": 18001206,
+        "type": 2,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": 1,
+        "condition": 18001107,
+        "difficulty": 0,
+        "itemNum": [
+            50,
+            1000
+        ],
+        "sectionID": 18,
+        "tagName": 1901232
+    },
+    "18001207": {
+        "itemID": [
+            35008,
+            35002
+        ],
+        "id": 18001207,
+        "type": 2,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": 1,
+        "condition": 18001109,
+        "difficulty": 0,
+        "itemNum": [
+            50,
+            1000
+        ],
+        "sectionID": 19,
+        "tagName": 1901235
+    },
+    "18001208": {
+        "itemID": [
+            35008,
+            35002
+        ],
+        "id": 18001208,
+        "type": 2,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": 1,
+        "condition": 18001207,
+        "difficulty": 0,
+        "itemNum": [
+            50,
+            1000
+        ],
+        "sectionID": 20,
+        "tagName": 1901239
+    },
+    "18001209": {
+        "itemID": [
+            35008,
+            35002
+        ],
+        "id": 18001209,
+        "type": 2,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": 1,
+        "condition": 18001112,
+        "difficulty": 0,
+        "itemNum": [
+            50,
+            1000
+        ],
+        "sectionID": 21,
+        "tagName": 1901243
+    },
+    "18001210": {
+        "itemID": [
+            35008,
+            35002
+        ],
+        "id": 18001210,
+        "type": 2,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": 1,
+        "condition": 18001115,
+        "difficulty": 0,
+        "itemNum": [
+            50,
+            1000
+        ],
+        "sectionID": 22,
+        "tagName": 1901247
+    },
+    "18001211": {
+        "itemID": [
+            35008,
+            35002
+        ],
+        "id": 18001211,
+        "type": 2,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": 1,
+        "condition": 18001118,
+        "difficulty": 0,
+        "itemNum": [
+            50,
+            1000
+        ],
+        "sectionID": 23,
+        "tagName": 1901249
+    },
+    "18001212": {
+        "itemID": [
+            35008,
+            35002
+        ],
+        "id": 18001212,
+        "type": 2,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": 1,
+        "condition": 180011101,
+        "difficulty": 0,
+        "itemNum": [
+            50,
+            1000
+        ],
+        "sectionID": 24,
+        "tagName": 1901250
+    },
+    "18001213": {
+        "itemID": [
+            35008,
+            35002
+        ],
+        "id": 18001213,
+        "type": 2,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": 1,
+        "condition": 18001108,
+        "difficulty": 0,
+        "itemNum": [
+            50,
+            1000
+        ],
+        "sectionID": 25,
+        "tagName": 1901328
+    },
+    "180011033": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011033,
+        "type": 10,
+        "battleID": 18233,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011032,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011032": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011032,
+        "type": 10,
+        "battleID": 18232,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011031,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011031": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011031,
+        "type": 10,
+        "battleID": 18231,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011030,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001601": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001601,
+        "type": 6,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": 4,
+        "condition": 18001207,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 1901212
+    },
+    "18001602": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001602,
+        "type": 6,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": 4,
+        "condition": 18001207,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 1901212
+    },
+    "180011030": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011030,
+        "type": 10,
+        "battleID": 18230,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011029,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011029": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011029,
+        "type": 10,
+        "battleID": 18229,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011028,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011028": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011028,
+        "type": 10,
+        "battleID": 18228,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011027,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011027": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011027,
+        "type": 10,
+        "battleID": 18227,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011026,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011026": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011026,
+        "type": 10,
+        "battleID": 18226,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011025,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011025": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011025,
+        "type": 10,
+        "battleID": 18225,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011024,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011024": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011024,
+        "type": 10,
+        "battleID": 18224,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011023,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011023": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011023,
+        "type": 10,
+        "battleID": 18223,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011022,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011022": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011022,
+        "type": 10,
+        "battleID": 18222,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011021,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011021": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011021,
+        "type": 10,
+        "battleID": 18221,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011020,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001101": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001101,
+        "type": 1,
+        "battleID": 18101,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 18001201,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 1901219
+    },
+    "18001102": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001102,
+        "type": 1,
+        "battleID": 18102,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 18001101,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 1901220
+    },
+    "18001103": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001103,
+        "type": 1,
+        "battleID": 18103,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 18001202,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 1901223
+    },
+    "18001104": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001104,
+        "type": 1,
+        "battleID": 18104,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 18001203,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 1901225
+    },
+    "18001105": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001105,
+        "type": 1,
+        "battleID": 18105,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 18001204,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 1901227
+    },
+    "18001106": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001106,
+        "type": 1,
+        "battleID": 18106,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 18001105,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 1901228
+    },
+    "18001107": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001107,
+        "type": 1,
+        "battleID": 18107,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 18001205,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 1901231
+    },
+    "18001108": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001108,
+        "type": 1,
+        "battleID": 18108,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 18001206,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 1901233
+    },
+    "18001109": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001109,
+        "type": 1,
+        "battleID": 18109,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 18001213,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 1901234
+    },
+    "18001110": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001110,
+        "type": 1,
+        "battleID": 18110,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 18001208,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 1901237
+    },
+    "18001111": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001111,
+        "type": 1,
+        "battleID": 18111,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 18001110,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 1901238
+    },
+    "18001112": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001112,
+        "type": 1,
+        "battleID": 18112,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 18001111,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 1901239
+    },
+    "18001113": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001113,
+        "type": 1,
+        "battleID": 18113,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 18001209,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 1901241
+    },
+    "18001114": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001114,
+        "type": 1,
+        "battleID": 18114,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 18001113,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 1901242
+    },
+    "18001115": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001115,
+        "type": 1,
+        "battleID": 18115,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 18001114,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 1901243
+    },
+    "18001116": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001116,
+        "type": 1,
+        "battleID": 18116,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 18001210,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 1901245
+    },
+    "18001117": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001117,
+        "type": 1,
+        "battleID": 18117,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 18001116,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 1901246
+    },
+    "18001118": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001118,
+        "type": 1,
+        "battleID": 18118,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 18001117,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 1901247
+    },
+    "180011020": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011020,
+        "type": 10,
+        "battleID": 18220,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011019,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011019": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011019,
+        "type": 10,
+        "battleID": 18219,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011018,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011018": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011018,
+        "type": 10,
+        "battleID": 18218,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011017,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011017": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011017,
+        "type": 10,
+        "battleID": 18217,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011016,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011016": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011016,
+        "type": 10,
+        "battleID": 18216,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011015,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011015": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011015,
+        "type": 10,
+        "battleID": 18215,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011014,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011014": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011014,
+        "type": 10,
+        "battleID": 18214,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011013,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011013": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011013,
+        "type": 10,
+        "battleID": 18213,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011012,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011012": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011012,
+        "type": 10,
+        "battleID": 18212,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011011,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011011": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011011,
+        "type": 10,
+        "battleID": 18211,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011010,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011010": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011010,
+        "type": 10,
+        "battleID": 18210,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011009,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011009": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011009,
+        "type": 10,
+        "battleID": 18209,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011008,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011008": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011008,
+        "type": 10,
+        "battleID": 18208,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011007,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011007": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011007,
+        "type": 10,
+        "battleID": 18207,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011006,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001901": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001901,
+        "type": 9,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": -1,
+        "condition": 18001104,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 701472
+    },
+    "180011006": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011006,
+        "type": 10,
+        "battleID": 18206,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011005,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011005": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011005,
+        "type": 10,
+        "battleID": 18205,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011004,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011004": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011004,
+        "type": 10,
+        "battleID": 18204,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011003,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011003": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011003,
+        "type": 10,
+        "battleID": 18203,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011002,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011002": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011002,
+        "type": 10,
+        "battleID": 18202,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 180011001,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "180011001": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 180011001,
+        "type": 10,
+        "battleID": 18201,
+        "buffID": "0",
+        "tagType": 2,
+        "condition": 18001118,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001801": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001801,
+        "type": 8,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": -1,
+        "condition": 18001104,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 701467
+    },
+    "18001501": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001501,
+        "type": 5,
+        "battleID": 0,
+        "buffID": "0",
+        "tagType": 3,
+        "condition": 18001104,
+        "difficulty": 0,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 701468
+    },
+    "18001431": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001431,
+        "type": 4,
+        "battleID": 18031,
+        "buffID": "0",
+        "tagType": 6,
+        "condition": 18001430,
+        "difficulty": 3,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001430": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001430,
+        "type": 4,
+        "battleID": 18030,
+        "buffID": "0",
+        "tagType": 6,
+        "condition": 18001429,
+        "difficulty": 2,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001429": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001429,
+        "type": 4,
+        "battleID": 18029,
+        "buffID": "0",
+        "tagType": 6,
+        "condition": 18001106,
+        "difficulty": 1,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001401": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001401,
+        "type": 4,
+        "battleID": 18001,
+        "buffID": "0",
+        "tagType": 5,
+        "condition": 18001103,
+        "difficulty": 1,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001402": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001402,
+        "type": 4,
+        "battleID": 18002,
+        "buffID": "0",
+        "tagType": 5,
+        "condition": 18001401,
+        "difficulty": 2,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001403": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001403,
+        "type": 4,
+        "battleID": 18003,
+        "buffID": "0",
+        "tagType": 5,
+        "condition": 18001402,
+        "difficulty": 3,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001404": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001404,
+        "type": 4,
+        "battleID": 18004,
+        "buffID": "0",
+        "tagType": 5,
+        "condition": 18001403,
+        "difficulty": 4,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001405": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001405,
+        "type": 4,
+        "battleID": 18005,
+        "buffID": "0",
+        "tagType": 6,
+        "condition": 18001106,
+        "difficulty": 1,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001406": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001406,
+        "type": 4,
+        "battleID": 18006,
+        "buffID": "0",
+        "tagType": 6,
+        "condition": 18001405,
+        "difficulty": 2,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    },
+    "18001407": {
+        "itemID": [
+            0,
+            0
+        ],
+        "id": 18001407,
+        "type": 4,
+        "battleID": 18007,
+        "buffID": "0",
+        "tagType": 6,
+        "condition": 18001406,
+        "difficulty": 3,
+        "itemNum": [
+            0,
+            0
+        ],
+        "sectionID": 0,
+        "tagName": 0
+    }
+}

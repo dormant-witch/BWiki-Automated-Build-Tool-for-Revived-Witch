@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "com_m_cloud01",
+        "assetBundle": "sceneobjects\/common.prefabs.assetbundle"
+    },
+    {
+        "id": 2,
+        "name": "com_m_cloud02",
+        "assetBundle": "sceneobjects\/common.prefabs.assetbundle"
+    },
+    {
+        "id": 3,
+        "name": "com_m_cloud03",
+        "assetBundle": "sceneobjects\/common.prefabs.assetbundle"
+    }
+]

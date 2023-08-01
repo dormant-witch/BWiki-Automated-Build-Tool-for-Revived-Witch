@@ -1,0 +1,794 @@
+[
+    {
+        "Textid": 203285,
+        "id": 1,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 203286,
+        "id": 2,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 203287,
+        "id": 3,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 203285,
+        "id": 4,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 203286,
+        "id": 5,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204410,
+        "id": 6,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204317,
+        "id": 7,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204318,
+        "id": 8,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204319,
+        "id": 9,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204320,
+        "id": 10,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204321,
+        "id": 11,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204322,
+        "id": 12,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204323,
+        "id": 13,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204324,
+        "id": 14,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204325,
+        "id": 15,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204326,
+        "id": 16,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204327,
+        "id": 17,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204328,
+        "id": 18,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204329,
+        "id": 19,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204330,
+        "id": 20,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204331,
+        "id": 21,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204332,
+        "id": 22,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204333,
+        "id": 23,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204334,
+        "id": 24,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204335,
+        "id": 25,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204336,
+        "id": 26,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204337,
+        "id": 27,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204338,
+        "id": 28,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204339,
+        "id": 29,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204340,
+        "id": 30,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204341,
+        "id": 31,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204342,
+        "id": 32,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204343,
+        "id": 33,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204344,
+        "id": 34,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204345,
+        "id": 35,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204346,
+        "id": 36,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204347,
+        "id": 37,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204348,
+        "id": 38,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204349,
+        "id": 39,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204350,
+        "id": 40,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204351,
+        "id": 41,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204352,
+        "id": 42,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204353,
+        "id": 43,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204354,
+        "id": 44,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204355,
+        "id": 45,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204356,
+        "id": 46,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204357,
+        "id": 47,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204358,
+        "id": 48,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204359,
+        "id": 49,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204360,
+        "id": 50,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204361,
+        "id": 51,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204362,
+        "id": 52,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204363,
+        "id": 53,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204364,
+        "id": 54,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204365,
+        "id": 55,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204366,
+        "id": 56,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204367,
+        "id": 57,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204368,
+        "id": 58,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204369,
+        "id": 59,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204370,
+        "id": 60,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204371,
+        "id": 61,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204372,
+        "id": 62,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204373,
+        "id": 63,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204374,
+        "id": 64,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204375,
+        "id": 65,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204376,
+        "id": 66,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204377,
+        "id": 67,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204378,
+        "id": 68,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204379,
+        "id": 69,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204380,
+        "id": 70,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204381,
+        "id": 71,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204382,
+        "id": 72,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204383,
+        "id": 73,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204384,
+        "id": 74,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204385,
+        "id": 75,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204386,
+        "id": 76,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204387,
+        "id": 77,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204388,
+        "id": 78,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204389,
+        "id": 79,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204390,
+        "id": 80,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204391,
+        "id": 81,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204392,
+        "id": 82,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204393,
+        "id": 83,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204394,
+        "id": 84,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204395,
+        "id": 85,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204396,
+        "id": 86,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204397,
+        "id": 87,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204398,
+        "id": 88,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204399,
+        "id": 89,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204400,
+        "id": 90,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204401,
+        "id": 91,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204402,
+        "id": 92,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204403,
+        "id": 93,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204404,
+        "id": 94,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204405,
+        "id": 95,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204406,
+        "id": 96,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204407,
+        "id": 97,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204408,
+        "id": 98,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204409,
+        "id": 99,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204410,
+        "id": 100,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204411,
+        "id": 101,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204412,
+        "id": 102,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204413,
+        "id": 103,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204414,
+        "id": 104,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204415,
+        "id": 105,
+        "SkipTime": 3,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204416,
+        "id": 106,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204417,
+        "id": 107,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204418,
+        "id": 108,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204419,
+        "id": 109,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204420,
+        "id": 110,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204421,
+        "id": 111,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204422,
+        "id": 112,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204423,
+        "id": 113,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204424,
+        "id": 114,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204425,
+        "id": 115,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204426,
+        "id": 116,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204427,
+        "id": 117,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204428,
+        "id": 118,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204429,
+        "id": 119,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204430,
+        "id": 120,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204431,
+        "id": 121,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204432,
+        "id": 122,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204433,
+        "id": 123,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204434,
+        "id": 124,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204435,
+        "id": 125,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204436,
+        "id": 126,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204437,
+        "id": 127,
+        "SkipTime": 2,
+        "ChatType": 1
+    },
+    {
+        "Textid": 204438,
+        "id": 128,
+        "SkipTime": 3,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204449,
+        "id": 129,
+        "SkipTime": 3,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204450,
+        "id": 130,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204451,
+        "id": 131,
+        "SkipTime": 2,
+        "ChatType": 2
+    },
+    {
+        "Textid": 204452,
+        "id": 132,
+        "SkipTime": 2,
+        "ChatType": 2
+    }
+]

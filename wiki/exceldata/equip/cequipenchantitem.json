@@ -1,0 +1,34 @@
+{
+    "70004": {
+        "id": 70004,
+        "sort": 4,
+        "Luck": 4,
+        "needMana": 200,
+        "itemText": 1500082,
+        "show": 0
+    },
+    "70001": {
+        "id": 70001,
+        "sort": 1,
+        "Luck": 2,
+        "needMana": 100,
+        "itemText": 1500063,
+        "show": 1
+    },
+    "70002": {
+        "id": 70002,
+        "sort": 2,
+        "Luck": 3,
+        "needMana": 200,
+        "itemText": 1500064,
+        "show": 1
+    },
+    "70003": {
+        "id": 70003,
+        "sort": 3,
+        "Luck": 4,
+        "needMana": 200,
+        "itemText": 1500065,
+        "show": 1
+    }
+}

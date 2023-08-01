@@ -1,0 +1,422 @@
+[
+    {
+        "runesImg": 14695,
+        "id": 1,
+        "runesType": 1,
+        "runesName": 502928,
+        "heraldryAttributeUP": 0,
+        "runesSkillTxt": 0,
+        "runeslv": 0,
+        "unlockRunesSkill": 0
+    },
+    {
+        "runesImg": 14695,
+        "id": 2,
+        "runesType": 1,
+        "runesName": 502928,
+        "heraldryAttributeUP": 40,
+        "runesSkillTxt": 2100127,
+        "runeslv": 1,
+        "unlockRunesSkill": 31001
+    },
+    {
+        "runesImg": 14695,
+        "id": 3,
+        "runesType": 1,
+        "runesName": 502928,
+        "heraldryAttributeUP": 60,
+        "runesSkillTxt": 0,
+        "runeslv": 2,
+        "unlockRunesSkill": 0
+    },
+    {
+        "runesImg": 14695,
+        "id": 4,
+        "runesType": 1,
+        "runesName": 502928,
+        "heraldryAttributeUP": 80,
+        "runesSkillTxt": 2100128,
+        "runeslv": 3,
+        "unlockRunesSkill": 31002
+    },
+    {
+        "runesImg": 14695,
+        "id": 5,
+        "runesType": 1,
+        "runesName": 502928,
+        "heraldryAttributeUP": 90,
+        "runesSkillTxt": 0,
+        "runeslv": 4,
+        "unlockRunesSkill": 0
+    },
+    {
+        "runesImg": 14695,
+        "id": 6,
+        "runesType": 1,
+        "runesName": 502928,
+        "heraldryAttributeUP": 100,
+        "runesSkillTxt": 2100129,
+        "runeslv": 5,
+        "unlockRunesSkill": 31003
+    },
+    {
+        "runesImg": 14699,
+        "id": 7,
+        "runesType": 2,
+        "runesName": 502929,
+        "heraldryAttributeUP": 0,
+        "runesSkillTxt": 0,
+        "runeslv": 0,
+        "unlockRunesSkill": 0
+    },
+    {
+        "runesImg": 14699,
+        "id": 8,
+        "runesType": 2,
+        "runesName": 502929,
+        "heraldryAttributeUP": 40,
+        "runesSkillTxt": 2100130,
+        "runeslv": 1,
+        "unlockRunesSkill": 32001
+    },
+    {
+        "runesImg": 14699,
+        "id": 9,
+        "runesType": 2,
+        "runesName": 502929,
+        "heraldryAttributeUP": 60,
+        "runesSkillTxt": 0,
+        "runeslv": 2,
+        "unlockRunesSkill": 0
+    },
+    {
+        "runesImg": 14699,
+        "id": 10,
+        "runesType": 2,
+        "runesName": 502929,
+        "heraldryAttributeUP": 80,
+        "runesSkillTxt": 2100131,
+        "runeslv": 3,
+        "unlockRunesSkill": 32002
+    },
+    {
+        "runesImg": 14699,
+        "id": 11,
+        "runesType": 2,
+        "runesName": 502929,
+        "heraldryAttributeUP": 90,
+        "runesSkillTxt": 0,
+        "runeslv": 4,
+        "unlockRunesSkill": 0
+    },
+    {
+        "runesImg": 14699,
+        "id": 12,
+        "runesType": 2,
+        "runesName": 502929,
+        "heraldryAttributeUP": 100,
+        "runesSkillTxt": 2100132,
+        "runeslv": 5,
+        "unlockRunesSkill": 32003
+    },
+    {
+        "runesImg": 14697,
+        "id": 13,
+        "runesType": 3,
+        "runesName": 502930,
+        "heraldryAttributeUP": 0,
+        "runesSkillTxt": 0,
+        "runeslv": 0,
+        "unlockRunesSkill": 0
+    },
+    {
+        "runesImg": 14697,
+        "id": 14,
+        "runesType": 3,
+        "runesName": 502930,
+        "heraldryAttributeUP": 40,
+        "runesSkillTxt": 2100133,
+        "runeslv": 1,
+        "unlockRunesSkill": 33001
+    },
+    {
+        "runesImg": 14697,
+        "id": 15,
+        "runesType": 3,
+        "runesName": 502930,
+        "heraldryAttributeUP": 60,
+        "runesSkillTxt": 0,
+        "runeslv": 2,
+        "unlockRunesSkill": 0
+    },
+    {
+        "runesImg": 14697,
+        "id": 16,
+        "runesType": 3,
+        "runesName": 502930,
+        "heraldryAttributeUP": 80,
+        "runesSkillTxt": 2100134,
+        "runeslv": 3,
+        "unlockRunesSkill": 33002
+    },
+    {
+        "runesImg": 14697,
+        "id": 17,
+        "runesType": 3,
+        "runesName": 502930,
+        "heraldryAttributeUP": 90,
+        "runesSkillTxt": 0,
+        "runeslv": 4,
+        "unlockRunesSkill": 0
+    },
+    {
+        "runesImg": 14697,
+        "id": 18,
+        "runesType": 3,
+        "runesName": 502930,
+        "heraldryAttributeUP": 100,
+        "runesSkillTxt": 2100135,
+        "runeslv": 5,
+        "unlockRunesSkill": 33003
+    },
+    {
+        "runesImg": 14698,
+        "id": 19,
+        "runesType": 4,
+        "runesName": 502931,
+        "heraldryAttributeUP": 0,
+        "runesSkillTxt": 0,
+        "runeslv": 0,
+        "unlockRunesSkill": 0
+    },
+    {
+        "runesImg": 14698,
+        "id": 20,
+        "runesType": 4,
+        "runesName": 502931,
+        "heraldryAttributeUP": 40,
+        "runesSkillTxt": 2100136,
+        "runeslv": 1,
+        "unlockRunesSkill": 34001
+    },
+    {
+        "runesImg": 14698,
+        "id": 21,
+        "runesType": 4,
+        "runesName": 502931,
+        "heraldryAttributeUP": 60,
+        "runesSkillTxt": 0,
+        "runeslv": 2,
+        "unlockRunesSkill": 0
+    },
+    {
+        "runesImg": 14698,
+        "id": 22,
+        "runesType": 4,
+        "runesName": 502931,
+        "heraldryAttributeUP": 80,
+        "runesSkillTxt": 2100137,
+        "runeslv": 3,
+        "unlockRunesSkill": 34002
+    },
+    {
+        "runesImg": 14698,
+        "id": 23,
+        "runesType": 4,
+        "runesName": 502931,
+        "heraldryAttributeUP": 90,
+        "runesSkillTxt": 0,
+        "runeslv": 4,
+        "unlockRunesSkill": 0
+    },
+    {
+        "runesImg": 14698,
+        "id": 24,
+        "runesType": 4,
+        "runesName": 502931,
+        "heraldryAttributeUP": 100,
+        "runesSkillTxt": 2100138,
+        "runeslv": 5,
+        "unlockRunesSkill": 34003
+    },
+    {
+        "runesImg": 14694,
+        "id": 25,
+        "runesType": 5,
+        "runesName": 502932,
+        "heraldryAttributeUP": 0,
+        "runesSkillTxt": 0,
+        "runeslv": 0,
+        "unlockRunesSkill": 0
+    },
+    {
+        "runesImg": 14694,
+        "id": 26,
+        "runesType": 5,
+        "runesName": 502932,
+        "heraldryAttributeUP": 40,
+        "runesSkillTxt": 2100139,
+        "runeslv": 1,
+        "unlockRunesSkill": 35001
+    },
+    {
+        "runesImg": 14694,
+        "id": 27,
+        "runesType": 5,
+        "runesName": 502932,
+        "heraldryAttributeUP": 60,
+        "runesSkillTxt": 0,
+        "runeslv": 2,
+        "unlockRunesSkill": 0
+    },
+    {
+        "runesImg": 14694,
+        "id": 28,
+        "runesType": 5,
+        "runesName": 502932,
+        "heraldryAttributeUP": 80,
+        "runesSkillTxt": 2100140,
+        "runeslv": 3,
+        "unlockRunesSkill": 35002
+    },
+    {
+        "runesImg": 14694,
+        "id": 29,
+        "runesType": 5,
+        "runesName": 502932,
+        "heraldryAttributeUP": 90,
+        "runesSkillTxt": 0,
+        "runeslv": 4,
+        "unlockRunesSkill": 0
+    },
+    {
+        "runesImg": 14694,
+        "id": 30,
+        "runesType": 5,
+        "runesName": 502932,
+        "heraldryAttributeUP": 100,
+        "runesSkillTxt": 2100141,
+        "runeslv": 5,
+        "unlockRunesSkill": 35003
+    },
+    {
+        "runesImg": 14693,
+        "id": 31,
+        "runesType": 6,
+        "runesName": 502933,
+        "heraldryAttributeUP": 0,
+        "runesSkillTxt": 0,
+        "runeslv": 0,
+        "unlockRunesSkill": 0
+    },
+    {
+        "runesImg": 14693,
+        "id": 32,
+        "runesType": 6,
+        "runesName": 502933,
+        "heraldryAttributeUP": 40,
+        "runesSkillTxt": 2100142,
+        "runeslv": 1,
+        "unlockRunesSkill": 36001
+    },
+    {
+        "runesImg": 14693,
+        "id": 33,
+        "runesType": 6,
+        "runesName": 502933,
+        "heraldryAttributeUP": 60,
+        "runesSkillTxt": 0,
+        "runeslv": 2,
+        "unlockRunesSkill": 0
+    },
+    {
+        "runesImg": 14693,
+        "id": 34,
+        "runesType": 6,
+        "runesName": 502933,
+        "heraldryAttributeUP": 80,
+        "runesSkillTxt": 2100143,
+        "runeslv": 3,
+        "unlockRunesSkill": 36002
+    },
+    {
+        "runesImg": 14693,
+        "id": 35,
+        "runesType": 6,
+        "runesName": 502933,
+        "heraldryAttributeUP": 90,
+        "runesSkillTxt": 0,
+        "runeslv": 4,
+        "unlockRunesSkill": 0
+    },
+    {
+        "runesImg": 14693,
+        "id": 36,
+        "runesType": 6,
+        "runesName": 502933,
+        "heraldryAttributeUP": 100,
+        "runesSkillTxt": 2100144,
+        "runeslv": 5,
+        "unlockRunesSkill": 36003
+    },
+    {
+        "runesImg": 14696,
+        "id": 37,
+        "runesType": 7,
+        "runesName": 502934,
+        "heraldryAttributeUP": 0,
+        "runesSkillTxt": 0,
+        "runeslv": 0,
+        "unlockRunesSkill": 0
+    },
+    {
+        "runesImg": 14696,
+        "id": 38,
+        "runesType": 7,
+        "runesName": 502934,
+        "heraldryAttributeUP": 40,
+        "runesSkillTxt": 2100124,
+        "runeslv": 1,
+        "unlockRunesSkill": 37001
+    },
+    {
+        "runesImg": 14696,
+        "id": 39,
+        "runesType": 7,
+        "runesName": 502934,
+        "heraldryAttributeUP": 60,
+        "runesSkillTxt": 0,
+        "runeslv": 2,
+        "unlockRunesSkill": 0
+    },
+    {
+        "runesImg": 14696,
+        "id": 40,
+        "runesType": 7,
+        "runesName": 502934,
+        "heraldryAttributeUP": 80,
+        "runesSkillTxt": 2100143,
+        "runeslv": 3,
+        "unlockRunesSkill": 37002
+    },
+    {
+        "runesImg": 14696,
+        "id": 41,
+        "runesType": 7,
+        "runesName": 502934,
+        "heraldryAttributeUP": 90,
+        "runesSkillTxt": 0,
+        "runeslv": 4,
+        "unlockRunesSkill": 0
+    },
+    {
+        "runesImg": 14696,
+        "id": 42,
+        "runesType": 7,
+        "runesName": 502934,
+        "heraldryAttributeUP": 100,
+        "runesSkillTxt": 2100126,
+        "runeslv": 5,
+        "unlockRunesSkill": 37003
+    }
+]

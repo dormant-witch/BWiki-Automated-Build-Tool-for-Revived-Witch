@@ -1,0 +1,642 @@
+{
+    "1": {
+        "respawnTime": 5,
+        "id": 1,
+        "sceneID": 12002,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "17,13"
+    },
+    "2": {
+        "respawnTime": 5,
+        "id": 2,
+        "sceneID": 10012,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "13,11"
+    },
+    "3": {
+        "respawnTime": 5,
+        "id": 3,
+        "sceneID": 10015,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "10,18"
+    },
+    "4": {
+        "respawnTime": 5,
+        "id": 4,
+        "sceneID": 10016,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "8,18"
+    },
+    "5": {
+        "respawnTime": 5,
+        "id": 5,
+        "sceneID": 10016,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "21,16"
+    },
+    "6": {
+        "respawnTime": 5,
+        "id": 6,
+        "sceneID": 10017,
+        "typeID": 2,
+        "lifeTime": 5,
+        "position": "13,11"
+    },
+    "8": {
+        "respawnTime": 5,
+        "id": 8,
+        "sceneID": 10018,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "15,21"
+    },
+    "9": {
+        "respawnTime": 5,
+        "id": 9,
+        "sceneID": 10019,
+        "typeID": 2,
+        "lifeTime": 5,
+        "position": "17,17"
+    },
+    "10": {
+        "respawnTime": 5,
+        "id": 10,
+        "sceneID": 10020,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "20,17"
+    },
+    "11": {
+        "respawnTime": 5,
+        "id": 11,
+        "sceneID": 10022,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "20,15"
+    },
+    "12": {
+        "respawnTime": 5,
+        "id": 12,
+        "sceneID": 10023,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "12,12"
+    },
+    "13": {
+        "respawnTime": 5,
+        "id": 13,
+        "sceneID": 10024,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "7,18"
+    },
+    "14": {
+        "respawnTime": 5,
+        "id": 14,
+        "sceneID": 10024,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "14,18"
+    },
+    "15": {
+        "respawnTime": 5,
+        "id": 15,
+        "sceneID": 10025,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "20,15"
+    },
+    "16": {
+        "respawnTime": 5,
+        "id": 16,
+        "sceneID": 10029,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "17,20"
+    },
+    "17": {
+        "respawnTime": 5,
+        "id": 17,
+        "sceneID": 10034,
+        "typeID": 2,
+        "lifeTime": 5,
+        "position": "18,18"
+    },
+    "18": {
+        "respawnTime": 5,
+        "id": 18,
+        "sceneID": 10034,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "21,13"
+    },
+    "19": {
+        "respawnTime": 5,
+        "id": 19,
+        "sceneID": 10035,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "12,3"
+    },
+    "20": {
+        "respawnTime": 5,
+        "id": 20,
+        "sceneID": 10037,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "9,24"
+    },
+    "21": {
+        "respawnTime": 5,
+        "id": 21,
+        "sceneID": 10038,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "17,14"
+    },
+    "24": {
+        "respawnTime": 5,
+        "id": 24,
+        "sceneID": 12005,
+        "typeID": 2,
+        "lifeTime": 5,
+        "position": "27,29"
+    },
+    "26": {
+        "respawnTime": 5,
+        "id": 26,
+        "sceneID": 12006,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "15,19"
+    },
+    "27": {
+        "respawnTime": 5,
+        "id": 27,
+        "sceneID": 12007,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "25,31"
+    },
+    "31": {
+        "respawnTime": 5,
+        "id": 31,
+        "sceneID": 12011,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "9,16"
+    },
+    "32": {
+        "respawnTime": 5,
+        "id": 32,
+        "sceneID": 12012,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "15,17"
+    },
+    "33": {
+        "respawnTime": 5,
+        "id": 33,
+        "sceneID": 12015,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "3,8"
+    },
+    "35": {
+        "respawnTime": 5,
+        "id": 35,
+        "sceneID": 12016,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "13,15"
+    },
+    "37": {
+        "respawnTime": 5,
+        "id": 37,
+        "sceneID": 12017,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "13,25"
+    },
+    "38": {
+        "respawnTime": 5,
+        "id": 38,
+        "sceneID": 12018,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "18,8"
+    },
+    "40": {
+        "respawnTime": 5,
+        "id": 40,
+        "sceneID": 12019,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "10,15"
+    },
+    "42": {
+        "respawnTime": 5,
+        "id": 42,
+        "sceneID": 12022,
+        "typeID": 2,
+        "lifeTime": 5,
+        "position": "3,16"
+    },
+    "44": {
+        "respawnTime": 5,
+        "id": 44,
+        "sceneID": 13002,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "26,28"
+    },
+    "45": {
+        "respawnTime": 5,
+        "id": 45,
+        "sceneID": 13003,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "8,19"
+    },
+    "46": {
+        "respawnTime": 5,
+        "id": 46,
+        "sceneID": 13004,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "13,31"
+    },
+    "47": {
+        "respawnTime": 5,
+        "id": 47,
+        "sceneID": 13005,
+        "typeID": 2,
+        "lifeTime": 5,
+        "position": "20,23"
+    },
+    "48": {
+        "respawnTime": 5,
+        "id": 48,
+        "sceneID": 13008,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "18,27"
+    },
+    "49": {
+        "respawnTime": 5,
+        "id": 49,
+        "sceneID": 13012,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "16,5"
+    },
+    "50": {
+        "respawnTime": 5,
+        "id": 50,
+        "sceneID": 13013,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "21,27"
+    },
+    "51": {
+        "respawnTime": 5,
+        "id": 51,
+        "sceneID": 13019,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "16,30"
+    },
+    "52": {
+        "respawnTime": 5,
+        "id": 52,
+        "sceneID": 13020,
+        "typeID": 2,
+        "lifeTime": 5,
+        "position": "19,11"
+    },
+    "53": {
+        "respawnTime": 5,
+        "id": 53,
+        "sceneID": 13023,
+        "typeID": 2,
+        "lifeTime": 5,
+        "position": "10,16"
+    },
+    "54": {
+        "respawnTime": 5,
+        "id": 54,
+        "sceneID": 13028,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "5,14"
+    },
+    "55": {
+        "respawnTime": 5,
+        "id": 55,
+        "sceneID": 13002,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "14,16"
+    },
+    "58": {
+        "respawnTime": 5,
+        "id": 58,
+        "sceneID": 13002,
+        "typeID": 2,
+        "lifeTime": 5,
+        "position": "19,15"
+    },
+    "59": {
+        "respawnTime": 5,
+        "id": 59,
+        "sceneID": 14004,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "13,30"
+    },
+    "60": {
+        "respawnTime": 5,
+        "id": 60,
+        "sceneID": 14006,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "14,10"
+    },
+    "61": {
+        "respawnTime": 5,
+        "id": 61,
+        "sceneID": 14007,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "9,8"
+    },
+    "62": {
+        "respawnTime": 5,
+        "id": 62,
+        "sceneID": 14008,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "11,33"
+    },
+    "63": {
+        "respawnTime": 5,
+        "id": 63,
+        "sceneID": 14010,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "6,32"
+    },
+    "64": {
+        "respawnTime": 5,
+        "id": 64,
+        "sceneID": 14015,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "12,16"
+    },
+    "65": {
+        "respawnTime": 5,
+        "id": 65,
+        "sceneID": 14021,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "27,10"
+    },
+    "66": {
+        "respawnTime": 5,
+        "id": 66,
+        "sceneID": 14029,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "20,33"
+    },
+    "67": {
+        "respawnTime": 5,
+        "id": 67,
+        "sceneID": 14030,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "12,28"
+    },
+    "69": {
+        "respawnTime": 5,
+        "id": 69,
+        "sceneID": 15001,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "26,32"
+    },
+    "70": {
+        "respawnTime": 5,
+        "id": 70,
+        "sceneID": 15005,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "36,10"
+    },
+    "71": {
+        "respawnTime": 5,
+        "id": 71,
+        "sceneID": 15006,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "11,15"
+    },
+    "72": {
+        "respawnTime": 5,
+        "id": 72,
+        "sceneID": 15008,
+        "typeID": 2,
+        "lifeTime": 5,
+        "position": "16,21"
+    },
+    "73": {
+        "respawnTime": 5,
+        "id": 73,
+        "sceneID": 15011,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "4,24"
+    },
+    "74": {
+        "respawnTime": 5,
+        "id": 74,
+        "sceneID": 15013,
+        "typeID": 2,
+        "lifeTime": 5,
+        "position": "18,17"
+    },
+    "75": {
+        "respawnTime": 5,
+        "id": 75,
+        "sceneID": 15014,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "6,22"
+    },
+    "76": {
+        "respawnTime": 5,
+        "id": 76,
+        "sceneID": 15016,
+        "typeID": 2,
+        "lifeTime": 5,
+        "position": "10,19"
+    },
+    "77": {
+        "respawnTime": 5,
+        "id": 77,
+        "sceneID": 15016,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "22,25"
+    },
+    "78": {
+        "respawnTime": 5,
+        "id": 78,
+        "sceneID": 15019,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "16,25"
+    },
+    "79": {
+        "respawnTime": 5,
+        "id": 79,
+        "sceneID": 15019,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "14,12"
+    },
+    "80": {
+        "respawnTime": 5,
+        "id": 80,
+        "sceneID": 15020,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "6,12"
+    },
+    "81": {
+        "respawnTime": 5,
+        "id": 81,
+        "sceneID": 15020,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "24,26"
+    },
+    "82": {
+        "respawnTime": 5,
+        "id": 82,
+        "sceneID": 15021,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "27,21"
+    },
+    "83": {
+        "respawnTime": 5,
+        "id": 83,
+        "sceneID": 15021,
+        "typeID": 2,
+        "lifeTime": 5,
+        "position": "8,12"
+    },
+    "84": {
+        "respawnTime": 5,
+        "id": 84,
+        "sceneID": 15024,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "7,28"
+    },
+    "85": {
+        "respawnTime": 5,
+        "id": 85,
+        "sceneID": 15024,
+        "typeID": 2,
+        "lifeTime": 5,
+        "position": "6,17"
+    },
+    "86": {
+        "respawnTime": 5,
+        "id": 86,
+        "sceneID": 15024,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "12,17"
+    },
+    "87": {
+        "respawnTime": 5,
+        "id": 87,
+        "sceneID": 15026,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "18,26"
+    },
+    "88": {
+        "respawnTime": 5,
+        "id": 88,
+        "sceneID": 15027,
+        "typeID": 2,
+        "lifeTime": 5,
+        "position": "17,24"
+    },
+    "89": {
+        "respawnTime": 5,
+        "id": 89,
+        "sceneID": 15029,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "5,15"
+    },
+    "90": {
+        "respawnTime": 5,
+        "id": 90,
+        "sceneID": 15030,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "14,27"
+    },
+    "91": {
+        "respawnTime": 5,
+        "id": 91,
+        "sceneID": 15031,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "17,30"
+    },
+    "93": {
+        "respawnTime": 5,
+        "id": 93,
+        "sceneID": 15033,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "24,19"
+    },
+    "94": {
+        "respawnTime": 5,
+        "id": 94,
+        "sceneID": 15034,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "11,30"
+    },
+    "95": {
+        "respawnTime": 5,
+        "id": 95,
+        "sceneID": 15034,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "28,29"
+    },
+    "96": {
+        "respawnTime": 5,
+        "id": 96,
+        "sceneID": 12003,
+        "typeID": 1,
+        "lifeTime": 5,
+        "position": "34,31"
+    }
+}

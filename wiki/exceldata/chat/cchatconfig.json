@@ -1,0 +1,15 @@
+[
+    {
+        "channelmin": 1,
+        "id": 1,
+        "waiting": 60,
+        "repeattime": 60,
+        "repeatmax": 2,
+        "period": 5,
+        "chatpoptime": 10,
+        "channelmaxnum": 700,
+        "channelautonum": 500,
+        "charactermax": 200,
+        "channelmax": 30
+    }
+]

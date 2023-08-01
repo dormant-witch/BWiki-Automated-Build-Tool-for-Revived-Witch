@@ -1,0 +1,452 @@
+{
+    "1": {
+        "nextDialog": 0,
+        "id": 1,
+        "skipTime": -1,
+        "bgImage": 13360,
+        "destribeTextID": 204494,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 204510,
+        "dialogList": "1-6"
+    },
+    "2": {
+        "nextDialog": 0,
+        "id": 2,
+        "skipTime": -1,
+        "bgImage": 13360,
+        "destribeTextID": 204495,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 204511,
+        "dialogList": "7-15"
+    },
+    "3": {
+        "nextDialog": 0,
+        "id": 3,
+        "skipTime": -1,
+        "bgImage": 13361,
+        "destribeTextID": 204496,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 204512,
+        "dialogList": "16-24"
+    },
+    "4": {
+        "nextDialog": 0,
+        "id": 4,
+        "skipTime": -1,
+        "bgImage": 13360,
+        "destribeTextID": 204497,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 204513,
+        "dialogList": "25-36"
+    },
+    "5": {
+        "nextDialog": 0,
+        "id": 5,
+        "skipTime": -1,
+        "bgImage": 13360,
+        "destribeTextID": 204498,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 204514,
+        "dialogList": "37-47,274,48-49"
+    },
+    "6": {
+        "nextDialog": 0,
+        "id": 6,
+        "skipTime": -1,
+        "bgImage": 13360,
+        "destribeTextID": 204499,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 204515,
+        "dialogList": "50-62"
+    },
+    "7": {
+        "nextDialog": 0,
+        "id": 7,
+        "skipTime": -1,
+        "bgImage": 13360,
+        "destribeTextID": 204500,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 204516,
+        "dialogList": "63-67"
+    },
+    "8": {
+        "nextDialog": 0,
+        "id": 8,
+        "skipTime": -1,
+        "bgImage": 13361,
+        "destribeTextID": 204501,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 204517,
+        "dialogList": "68-74"
+    },
+    "9": {
+        "nextDialog": 0,
+        "id": 9,
+        "skipTime": -1,
+        "bgImage": 13361,
+        "destribeTextID": 204502,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 204518,
+        "dialogList": "75-83"
+    },
+    "10": {
+        "nextDialog": 0,
+        "id": 10,
+        "skipTime": -1,
+        "bgImage": 13360,
+        "destribeTextID": 204503,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 204519,
+        "dialogList": "84-97"
+    },
+    "11": {
+        "nextDialog": 0,
+        "id": 11,
+        "skipTime": -1,
+        "bgImage": 13360,
+        "destribeTextID": 204504,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 204520,
+        "dialogList": "98-110"
+    },
+    "12": {
+        "nextDialog": 0,
+        "id": 12,
+        "skipTime": -1,
+        "bgImage": 13360,
+        "destribeTextID": 204505,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 204521,
+        "dialogList": "111-123"
+    },
+    "13": {
+        "nextDialog": 0,
+        "id": 13,
+        "skipTime": -1,
+        "bgImage": 13361,
+        "destribeTextID": 204506,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 204522,
+        "dialogList": "124-132"
+    },
+    "14": {
+        "nextDialog": 0,
+        "id": 14,
+        "skipTime": -1,
+        "bgImage": 13360,
+        "destribeTextID": 204507,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 204523,
+        "dialogList": "160-181"
+    },
+    "15": {
+        "nextDialog": 0,
+        "id": 15,
+        "skipTime": -1,
+        "bgImage": 13361,
+        "destribeTextID": 204508,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 204524,
+        "dialogList": "182-198"
+    },
+    "16": {
+        "nextDialog": 0,
+        "id": 16,
+        "skipTime": -1,
+        "bgImage": 13360,
+        "destribeTextID": 204509,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 204525,
+        "dialogList": "199-222"
+    },
+    "17": {
+        "nextDialog": 0,
+        "id": 17,
+        "skipTime": -1,
+        "bgImage": 13361,
+        "destribeTextID": 204571,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 204538,
+        "dialogList": "223-229"
+    },
+    "18": {
+        "nextDialog": 0,
+        "id": 18,
+        "skipTime": -1,
+        "bgImage": 13360,
+        "destribeTextID": 204572,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 204539,
+        "dialogList": "230-242"
+    },
+    "19": {
+        "nextDialog": 0,
+        "id": 19,
+        "skipTime": -1,
+        "bgImage": 13362,
+        "destribeTextID": 204573,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 204541,
+        "dialogList": "243-259"
+    },
+    "106": {
+        "nextDialog": 0,
+        "id": 106,
+        "skipTime": -1,
+        "bgImage": 13361,
+        "destribeTextID": 204579,
+        "canSkip": 1,
+        "itemID": [
+            35008,
+            0
+        ],
+        "itemNum": [
+            50,
+            0
+        ],
+        "nameTextID": 204693,
+        "dialogList": "266-273"
+    },
+    "105": {
+        "nextDialog": 0,
+        "id": 105,
+        "skipTime": -1,
+        "bgImage": 13361,
+        "destribeTextID": 204578,
+        "canSkip": 1,
+        "itemID": [
+            35008,
+            0
+        ],
+        "itemNum": [
+            50,
+            0
+        ],
+        "nameTextID": 204692,
+        "dialogList": "260-265"
+    },
+    "104": {
+        "nextDialog": 0,
+        "id": 104,
+        "skipTime": -1,
+        "bgImage": 13360,
+        "destribeTextID": 204577,
+        "canSkip": 1,
+        "itemID": [
+            35008,
+            0
+        ],
+        "itemNum": [
+            50,
+            0
+        ],
+        "nameTextID": 204691,
+        "dialogList": "155-159"
+    },
+    "103": {
+        "nextDialog": 0,
+        "id": 103,
+        "skipTime": -1,
+        "bgImage": 13360,
+        "destribeTextID": 204576,
+        "canSkip": 1,
+        "itemID": [
+            35008,
+            0
+        ],
+        "itemNum": [
+            50,
+            0
+        ],
+        "nameTextID": 204690,
+        "dialogList": "149-154"
+    },
+    "102": {
+        "nextDialog": 0,
+        "id": 102,
+        "skipTime": -1,
+        "bgImage": 13360,
+        "destribeTextID": 204575,
+        "canSkip": 1,
+        "itemID": [
+            35008,
+            0
+        ],
+        "itemNum": [
+            50,
+            0
+        ],
+        "nameTextID": 204689,
+        "dialogList": "142-148"
+    },
+    "101": {
+        "nextDialog": 0,
+        "id": 101,
+        "skipTime": -1,
+        "bgImage": 13360,
+        "destribeTextID": 204574,
+        "canSkip": 1,
+        "itemID": [
+            35008,
+            0
+        ],
+        "itemNum": [
+            50,
+            0
+        ],
+        "nameTextID": 204688,
+        "dialogList": "133-141"
+    }
+}

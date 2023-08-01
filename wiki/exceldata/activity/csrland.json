@@ -1,0 +1,5546 @@
+{
+    "256": {
+        "image": 0,
+        "id": 256,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "4,7",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "257": {
+        "image": 0,
+        "id": 257,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "11,-1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "2": {
+        "image": 13271,
+        "id": 2,
+        "functionList": "",
+        "prefabName": "Beach_12",
+        "name": 702277,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "11,-7",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 702277,
+        "timeCondition": ""
+    },
+    "3": {
+        "image": 13271,
+        "id": 3,
+        "functionList": "",
+        "prefabName": "Beach_11",
+        "name": 702278,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "17,-4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 702278,
+        "timeCondition": ""
+    },
+    "4": {
+        "image": 13271,
+        "id": 4,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "14,-5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "5": {
+        "image": 13271,
+        "id": 5,
+        "functionList": "",
+        "prefabName": "Beach_Plane04",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-2,5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "6": {
+        "image": 13271,
+        "id": 6,
+        "functionList": "",
+        "prefabName": "Beach_12",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-1,9",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "263": {
+        "image": 0,
+        "id": 263,
+        "functionList": "46001108",
+        "prefabName": "Beach_Plane03",
+        "name": 702283,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "18,-3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 702481,
+        "timeCondition": ""
+    },
+    "264": {
+        "image": 0,
+        "id": 264,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "19,-3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "265": {
+        "image": 0,
+        "id": 265,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "18,-2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "266": {
+        "image": 0,
+        "id": 266,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "17,-2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "267": {
+        "image": 0,
+        "id": 267,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "16,-2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "12": {
+        "image": 13273,
+        "id": 12,
+        "functionList": "46001501",
+        "prefabName": "Beach02_01",
+        "name": 702295,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-1,4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 702295,
+        "timeCondition": ""
+    },
+    "269": {
+        "image": 0,
+        "id": 269,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "16,-1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "270": {
+        "image": 0,
+        "id": 270,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "12,0",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "15": {
+        "image": 13273,
+        "id": 15,
+        "functionList": "46001306,46001307,46001308,46001309,46001310",
+        "prefabName": "Beach02_04",
+        "name": 702293,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            -50,
+            23
+        ],
+        "shapeType": 1,
+        "landCoordinate": "20,-2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 702473,
+        "timeCondition": "2022-09-15 04:00:00"
+    },
+    "272": {
+        "image": 0,
+        "id": 272,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "11,0",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "17": {
+        "image": 13270,
+        "id": 17,
+        "functionList": "46001401,46001402",
+        "prefabName": "Beach02_06",
+        "name": 702294,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            -105
+        ],
+        "shapeType": 1,
+        "landCoordinate": "4,-2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 702294,
+        "timeCondition": ""
+    },
+    "18": {
+        "image": 13270,
+        "id": 18,
+        "functionList": "46001601",
+        "prefabName": "Beach02_07",
+        "name": 702296,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            145
+        ],
+        "shapeType": 1,
+        "landCoordinate": "15,-8",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 702296,
+        "timeCondition": "2022-09-15 04:00:00"
+    },
+    "275": {
+        "image": 0,
+        "id": 275,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "20,-1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "276": {
+        "image": 0,
+        "id": 276,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "21,-2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "21": {
+        "image": 0,
+        "id": 21,
+        "functionList": "46001301,46001302,46001303,46001304,46001305",
+        "prefabName": "Beach02_10",
+        "name": 702292,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            248,
+            146
+        ],
+        "shapeType": 1,
+        "landCoordinate": "6,-2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 702472,
+        "timeCondition": ""
+    },
+    "22": {
+        "image": 0,
+        "id": 22,
+        "functionList": "",
+        "prefabName": "Beach_13",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "11,5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "279": {
+        "image": 0,
+        "id": 279,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "22,-3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "24": {
+        "image": 0,
+        "id": 24,
+        "functionList": "",
+        "prefabName": "Beach_13",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "2,5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "281": {
+        "image": 0,
+        "id": 281,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "21,-4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "26": {
+        "image": 0,
+        "id": 26,
+        "functionList": "",
+        "prefabName": "Beach_13",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "9,6",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "27": {
+        "image": 0,
+        "id": 27,
+        "functionList": "",
+        "prefabName": "Beach_13",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "10,4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "28": {
+        "image": 0,
+        "id": 28,
+        "functionList": "",
+        "prefabName": "Beach_15",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "6,-9",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "29": {
+        "image": 0,
+        "id": 29,
+        "functionList": "",
+        "prefabName": "Beach_15",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "7,6",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "30": {
+        "image": 0,
+        "id": 30,
+        "functionList": "",
+        "prefabName": "Beach_15",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "5,-8",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "31": {
+        "image": 0,
+        "id": 31,
+        "functionList": "",
+        "prefabName": "Beach_15",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "11,6",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "32": {
+        "image": 0,
+        "id": 32,
+        "functionList": "",
+        "prefabName": "Beach_15",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "5,5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "33": {
+        "image": 0,
+        "id": 33,
+        "functionList": "",
+        "prefabName": "Beach_15",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-1,1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "34": {
+        "image": 0,
+        "id": 34,
+        "functionList": "",
+        "prefabName": "Beach_15",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "6,7",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "35": {
+        "image": 0,
+        "id": 35,
+        "functionList": "",
+        "prefabName": "Beach_15",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "4,5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "36": {
+        "image": 0,
+        "id": 36,
+        "functionList": "",
+        "prefabName": "Beach_14",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "12,5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "37": {
+        "image": 0,
+        "id": 37,
+        "functionList": "",
+        "prefabName": "Beach_14",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-5,5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "38": {
+        "image": 0,
+        "id": 38,
+        "functionList": "",
+        "prefabName": "Beach_14",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "8,5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "39": {
+        "image": 0,
+        "id": 39,
+        "functionList": "",
+        "prefabName": "Beach_14",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "0,10",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "40": {
+        "image": 0,
+        "id": 40,
+        "functionList": "",
+        "prefabName": "Beach_14",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "4,7",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "41": {
+        "image": 0,
+        "id": 41,
+        "functionList": "",
+        "prefabName": "Beach_14",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "6,6",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "42": {
+        "image": 0,
+        "id": 42,
+        "functionList": "",
+        "prefabName": "Beach_14",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "5,7",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "43": {
+        "image": 0,
+        "id": 43,
+        "functionList": "",
+        "prefabName": "Beach_14",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "10,5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "44": {
+        "image": 0,
+        "id": 44,
+        "functionList": "46001107",
+        "prefabName": "Beach_Plane03",
+        "name": 702282,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "14,-3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 702480,
+        "timeCondition": ""
+    },
+    "45": {
+        "image": 0,
+        "id": 45,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "5,-4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "46": {
+        "image": 0,
+        "id": 46,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "13,-3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "47": {
+        "image": 0,
+        "id": 47,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "10,-5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "48": {
+        "image": 0,
+        "id": 48,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "14,-4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "49": {
+        "image": 0,
+        "id": 49,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "2,-4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "50": {
+        "image": 0,
+        "id": 50,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "11,-2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "51": {
+        "image": 0,
+        "id": 51,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "9,-4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "52": {
+        "image": 0,
+        "id": 52,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "11,-3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "53": {
+        "image": 0,
+        "id": 53,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "1,-2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "54": {
+        "image": 0,
+        "id": 54,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "4,-5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "55": {
+        "image": 0,
+        "id": 55,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "9,-3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "56": {
+        "image": 0,
+        "id": 56,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "9,-5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "57": {
+        "image": 0,
+        "id": 57,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "5,-5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "58": {
+        "image": 0,
+        "id": 58,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "2,-2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "59": {
+        "image": 0,
+        "id": 59,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "1,-1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "60": {
+        "image": 0,
+        "id": 60,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "16,-4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "61": {
+        "image": 0,
+        "id": 61,
+        "functionList": "46001203",
+        "prefabName": "Beach_Plane03",
+        "name": 702286,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "3,-3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 702466,
+        "timeCondition": ""
+    },
+    "62": {
+        "image": 0,
+        "id": 62,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "13,-7",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "63": {
+        "image": 0,
+        "id": 63,
+        "functionList": "46001204",
+        "prefabName": "Beach_Plane03",
+        "name": 702287,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "10,-4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 702467,
+        "timeCondition": ""
+    },
+    "64": {
+        "image": 0,
+        "id": 64,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "2,-3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "65": {
+        "image": 0,
+        "id": 65,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "4,-3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "66": {
+        "image": 0,
+        "id": 66,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "12,-6",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "67": {
+        "image": 0,
+        "id": 67,
+        "functionList": "46001206",
+        "prefabName": "Beach_Plane03",
+        "name": 702289,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "14,-2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 702469,
+        "timeCondition": ""
+    },
+    "68": {
+        "image": 0,
+        "id": 68,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "15,-3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "69": {
+        "image": 0,
+        "id": 69,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "11,-6",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "70": {
+        "image": 0,
+        "id": 70,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "13,-4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "71": {
+        "image": 0,
+        "id": 71,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "22,-2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "72": {
+        "image": 0,
+        "id": 72,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "15,-4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "73": {
+        "image": 0,
+        "id": 73,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "8,-4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "74": {
+        "image": 0,
+        "id": 74,
+        "functionList": "",
+        "prefabName": "Beach_Plane02",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "2,3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "75": {
+        "image": 0,
+        "id": 75,
+        "functionList": "",
+        "prefabName": "Beach_Plane02",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "1,4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "76": {
+        "image": 0,
+        "id": 76,
+        "functionList": "",
+        "prefabName": "Beach_Plane02",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "0,-2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "77": {
+        "image": 0,
+        "id": 77,
+        "functionList": "",
+        "prefabName": "Beach_Plane02",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "2,1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "78": {
+        "image": 0,
+        "id": 78,
+        "functionList": "",
+        "prefabName": "Beach_Plane02",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "8,-5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "79": {
+        "image": 0,
+        "id": 79,
+        "functionList": "",
+        "prefabName": "Beach_Plane02",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "18,1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "80": {
+        "image": 0,
+        "id": 80,
+        "functionList": "46001104",
+        "prefabName": "Beach_Plane02",
+        "name": 702279,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "7,-4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 702477,
+        "timeCondition": ""
+    },
+    "81": {
+        "image": 0,
+        "id": 81,
+        "functionList": "46001103",
+        "prefabName": "Beach_Plane02",
+        "name": 702278,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "0,-1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 702476,
+        "timeCondition": ""
+    },
+    "82": {
+        "image": 0,
+        "id": 82,
+        "functionList": "",
+        "prefabName": "Beach_Plane01",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "16,1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "83": {
+        "image": 0,
+        "id": 83,
+        "functionList": "",
+        "prefabName": "Beach_Plane01",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-1,-1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "84": {
+        "image": 0,
+        "id": 84,
+        "functionList": "",
+        "prefabName": "Beach_Plane01",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "0,0",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "85": {
+        "image": 0,
+        "id": 85,
+        "functionList": "",
+        "prefabName": "Beach_Plane01",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "14,0",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "86": {
+        "image": 0,
+        "id": 86,
+        "functionList": "",
+        "prefabName": "Beach_Plane01",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "17,1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "87": {
+        "image": 0,
+        "id": 87,
+        "functionList": "",
+        "prefabName": "Beach_Plane04",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "6,-8",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "88": {
+        "image": 0,
+        "id": 88,
+        "functionList": "",
+        "prefabName": "Beach_Plane07",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "3,0",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "90": {
+        "image": 0,
+        "id": 90,
+        "functionList": "",
+        "prefabName": "Beach_Plane07",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-1,3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "91": {
+        "image": 0,
+        "id": 91,
+        "functionList": "46001201",
+        "prefabName": "Beach_Plane07",
+        "name": 702284,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-1,7",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 702482,
+        "timeCondition": ""
+    },
+    "93": {
+        "image": 0,
+        "id": 93,
+        "functionList": "",
+        "prefabName": "Beach_Plane06",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "10,6",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "94": {
+        "image": 0,
+        "id": 94,
+        "functionList": "",
+        "prefabName": "Beach_Plane06",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "19,2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "95": {
+        "image": 0,
+        "id": 95,
+        "functionList": "",
+        "prefabName": "Beach_Plane06",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "7,5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "96": {
+        "image": 0,
+        "id": 96,
+        "functionList": "",
+        "prefabName": "Beach_Plane06",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-6,6",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "98": {
+        "image": 0,
+        "id": 98,
+        "functionList": "",
+        "prefabName": "Beach_Plane05",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-2,2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "99": {
+        "image": 0,
+        "id": 99,
+        "functionList": "",
+        "prefabName": "Beach_Plane05",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "15,7",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "100": {
+        "image": 0,
+        "id": 100,
+        "functionList": "",
+        "prefabName": "Beach_Plane05",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "4,6",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "101": {
+        "image": 0,
+        "id": 101,
+        "functionList": "",
+        "prefabName": "Beach_Plane05",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "3,6",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "102": {
+        "image": 0,
+        "id": 102,
+        "functionList": "",
+        "prefabName": "Beach_Plane05",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "7,-9",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "103": {
+        "image": 0,
+        "id": 103,
+        "functionList": "",
+        "prefabName": "Beach_11",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "1,-3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "104": {
+        "image": 0,
+        "id": 104,
+        "functionList": "",
+        "prefabName": "Beach_11",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "23,-11",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "105": {
+        "image": 0,
+        "id": 105,
+        "functionList": "",
+        "prefabName": "Beach_13",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "20,1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "106": {
+        "image": 0,
+        "id": 106,
+        "functionList": "",
+        "prefabName": "Beach_13",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "16,2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "107": {
+        "image": 0,
+        "id": 107,
+        "functionList": "",
+        "prefabName": "Beach_13",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "12,4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "108": {
+        "image": 0,
+        "id": 108,
+        "functionList": "",
+        "prefabName": "Beach_13",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "13,7",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "109": {
+        "image": 0,
+        "id": 109,
+        "functionList": "",
+        "prefabName": "Beach_13",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-3,3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "110": {
+        "image": 0,
+        "id": 110,
+        "functionList": "",
+        "prefabName": "Beach_13",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "16,3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "111": {
+        "image": 0,
+        "id": 111,
+        "functionList": "",
+        "prefabName": "Beach_13",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-1,0",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "112": {
+        "image": 0,
+        "id": 112,
+        "functionList": "",
+        "prefabName": "Beach_13",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "13,8",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "113": {
+        "image": 0,
+        "id": 113,
+        "functionList": "",
+        "prefabName": "Beach_13",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "12,3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "114": {
+        "image": 0,
+        "id": 114,
+        "functionList": "",
+        "prefabName": "Beach_13",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-2,7",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "116": {
+        "image": 0,
+        "id": 116,
+        "functionList": "",
+        "prefabName": "Beach_13",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "21,0",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "117": {
+        "image": 0,
+        "id": 117,
+        "functionList": "",
+        "prefabName": "Beach_13",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "6,5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "292": {
+        "image": 0,
+        "id": 292,
+        "functionList": "",
+        "prefabName": "Beach_Plane00_none",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "10,0",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "119": {
+        "image": 0,
+        "id": 119,
+        "functionList": "",
+        "prefabName": "Beach_13",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "9,5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "120": {
+        "image": 0,
+        "id": 120,
+        "functionList": "",
+        "prefabName": "Beach_15",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "14,9",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "121": {
+        "image": 0,
+        "id": 121,
+        "functionList": "",
+        "prefabName": "Beach_15",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-2,0",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "291": {
+        "image": 0,
+        "id": 291,
+        "functionList": "",
+        "prefabName": "Beach_Plane00_none",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "8,0",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "123": {
+        "image": 0,
+        "id": 123,
+        "functionList": "",
+        "prefabName": "Beach_15",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "12,8",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "290": {
+        "image": 0,
+        "id": 290,
+        "functionList": "",
+        "prefabName": "Beach_Plane00_none",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "6,0",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "289": {
+        "image": 0,
+        "id": 289,
+        "functionList": "",
+        "prefabName": "Beach_Plane00_none",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "8,2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "288": {
+        "image": 0,
+        "id": 288,
+        "functionList": "",
+        "prefabName": "Beach_Plane00_none",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "6,2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "127": {
+        "image": 0,
+        "id": 127,
+        "functionList": "",
+        "prefabName": "Beach_15",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "15,1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "128": {
+        "image": 0,
+        "id": 128,
+        "functionList": "",
+        "prefabName": "Beach_14",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "17,3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "129": {
+        "image": 0,
+        "id": 129,
+        "functionList": "",
+        "prefabName": "Beach_14",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-2,1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "130": {
+        "image": 0,
+        "id": 130,
+        "functionList": "",
+        "prefabName": "Beach_14",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "12,9",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "131": {
+        "image": 0,
+        "id": 131,
+        "functionList": "",
+        "prefabName": "Beach_14",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-3,6",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "132": {
+        "image": 0,
+        "id": 132,
+        "functionList": "",
+        "prefabName": "Beach_14",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "2,6",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "287": {
+        "image": 0,
+        "id": 287,
+        "functionList": "",
+        "prefabName": "Beach_Plane00_none",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "4,2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "134": {
+        "image": 0,
+        "id": 134,
+        "functionList": "",
+        "prefabName": "Beach_14",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-3,8",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "135": {
+        "image": 0,
+        "id": 135,
+        "functionList": "",
+        "prefabName": "Beach_14",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-2,8",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "136": {
+        "image": 0,
+        "id": 136,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "16,-5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "137": {
+        "image": 0,
+        "id": 137,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "5,-9",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "138": {
+        "image": 0,
+        "id": 138,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "11,1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "139": {
+        "image": 0,
+        "id": 139,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "4,-8",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "140": {
+        "image": 0,
+        "id": 140,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "2,-1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "141": {
+        "image": 0,
+        "id": 141,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "22,-11",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "286": {
+        "image": 0,
+        "id": 286,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "20,-5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "143": {
+        "image": 0,
+        "id": 143,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "18,-1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "144": {
+        "image": 0,
+        "id": 144,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "18,0",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "145": {
+        "image": 0,
+        "id": 145,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "12,-7",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "146": {
+        "image": 0,
+        "id": 146,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "10,-3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "147": {
+        "image": 0,
+        "id": 147,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "8,-3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "148": {
+        "image": 0,
+        "id": 148,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "12,-5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "149": {
+        "image": 0,
+        "id": 149,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "14,-8",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "150": {
+        "image": 0,
+        "id": 150,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "12,-3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "151": {
+        "image": 0,
+        "id": 151,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "3,-4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "152": {
+        "image": 0,
+        "id": 152,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "10,2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "153": {
+        "image": 0,
+        "id": 153,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "11,-4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "154": {
+        "image": 0,
+        "id": 154,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "12,-4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "155": {
+        "image": 0,
+        "id": 155,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "13,-5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "156": {
+        "image": 0,
+        "id": 156,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "4,-4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "157": {
+        "image": 0,
+        "id": 157,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "13,-6",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "158": {
+        "image": 0,
+        "id": 158,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "1,0",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "285": {
+        "image": 0,
+        "id": 285,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "22,-5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "160": {
+        "image": 0,
+        "id": 160,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "3,-2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "161": {
+        "image": 0,
+        "id": 161,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "17,0",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "162": {
+        "image": 0,
+        "id": 162,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "7,-3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "163": {
+        "image": 0,
+        "id": 163,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "11,-5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "284": {
+        "image": 0,
+        "id": 284,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "21,-5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "165": {
+        "image": 0,
+        "id": 165,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "15,-5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "166": {
+        "image": 0,
+        "id": 166,
+        "functionList": "",
+        "prefabName": "Beach_Plane02",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "17,-6",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "167": {
+        "image": 0,
+        "id": 167,
+        "functionList": "",
+        "prefabName": "Beach_Plane02",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "20,0",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "168": {
+        "image": 0,
+        "id": 168,
+        "functionList": "",
+        "prefabName": "Beach_Plane02",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "22,-10",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "169": {
+        "image": 0,
+        "id": 169,
+        "functionList": "",
+        "prefabName": "Beach_Plane02",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "6,-10",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "170": {
+        "image": 0,
+        "id": 170,
+        "functionList": "",
+        "prefabName": "Beach_Plane02",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "9,3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "171": {
+        "image": 0,
+        "id": 171,
+        "functionList": "46001207",
+        "prefabName": "Beach_Plane02",
+        "name": 702290,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "17,-5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 702470,
+        "timeCondition": ""
+    },
+    "172": {
+        "image": 0,
+        "id": 172,
+        "functionList": "",
+        "prefabName": "Beach_Plane02",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "10,3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "173": {
+        "image": 0,
+        "id": 173,
+        "functionList": "",
+        "prefabName": "Beach_Plane02",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "18,-4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "174": {
+        "image": 0,
+        "id": 174,
+        "functionList": "46001205",
+        "prefabName": "Beach_Plane01",
+        "name": 702288,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "11,3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 702468,
+        "timeCondition": ""
+    },
+    "175": {
+        "image": 0,
+        "id": 175,
+        "functionList": "",
+        "prefabName": "Beach_Plane01",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "7,-10",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "176": {
+        "image": 0,
+        "id": 176,
+        "functionList": "",
+        "prefabName": "Beach_Plane01",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "0,1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "177": {
+        "image": 0,
+        "id": 177,
+        "functionList": "",
+        "prefabName": "Beach_Plane01",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "12,1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "178": {
+        "image": 0,
+        "id": 178,
+        "functionList": "",
+        "prefabName": "Beach_Plane01",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "21,-11",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "179": {
+        "image": 0,
+        "id": 179,
+        "functionList": "",
+        "prefabName": "Beach_Plane04",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "17,2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "180": {
+        "image": 0,
+        "id": 180,
+        "functionList": "46001105",
+        "prefabName": "Beach_Plane07",
+        "name": 702280,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "9,4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 702478,
+        "timeCondition": ""
+    },
+    "283": {
+        "image": 0,
+        "id": 283,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "19,-4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "182": {
+        "image": 0,
+        "id": 182,
+        "functionList": "",
+        "prefabName": "Beach_Plane07",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "13,1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "183": {
+        "image": 0,
+        "id": 183,
+        "functionList": "",
+        "prefabName": "Beach_Plane07",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "12,2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "184": {
+        "image": 0,
+        "id": 184,
+        "functionList": "",
+        "prefabName": "Beach_Plane07",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "15,0",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "185": {
+        "image": 0,
+        "id": 185,
+        "functionList": "",
+        "prefabName": "Beach_Plane06",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-5,6",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "186": {
+        "image": 0,
+        "id": 186,
+        "functionList": "",
+        "prefabName": "Beach_Plane06",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "14,1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "187": {
+        "image": 0,
+        "id": 187,
+        "functionList": "",
+        "prefabName": "Beach_Plane06",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "8,4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "188": {
+        "image": 0,
+        "id": 188,
+        "functionList": "",
+        "prefabName": "Beach_Plane06",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "7,7",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "189": {
+        "image": 0,
+        "id": 189,
+        "functionList": "",
+        "prefabName": "Beach_Plane06",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "0,3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "190": {
+        "image": 0,
+        "id": 190,
+        "functionList": "",
+        "prefabName": "Beach_Plane05",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "8,6",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "191": {
+        "image": 0,
+        "id": 191,
+        "functionList": "",
+        "prefabName": "Beach_Plane05",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "13,3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "192": {
+        "image": 0,
+        "id": 192,
+        "functionList": "",
+        "prefabName": "Beach_Plane05",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "9,7",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "193": {
+        "image": 0,
+        "id": 193,
+        "functionList": "",
+        "prefabName": "Beach_Plane05",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "18,2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "194": {
+        "image": 0,
+        "id": 194,
+        "functionList": "",
+        "prefabName": "Beach_Plane05",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "1,6",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "195": {
+        "image": 0,
+        "id": 195,
+        "functionList": "46001101",
+        "prefabName": "Beach_Plane05",
+        "name": 702276,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-3,7",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 702474,
+        "timeCondition": ""
+    },
+    "196": {
+        "image": 0,
+        "id": 196,
+        "functionList": "",
+        "prefabName": "Beach_Plane05",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "0,9",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "197": {
+        "image": 0,
+        "id": 197,
+        "functionList": "",
+        "prefabName": "Beach_Plane05",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-2,4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "198": {
+        "image": 0,
+        "id": 198,
+        "functionList": "",
+        "prefabName": "Beach_Plane05",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-6,7",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "199": {
+        "image": 0,
+        "id": 199,
+        "functionList": "",
+        "prefabName": "Beach_Plane05",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "11,9",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "200": {
+        "image": 0,
+        "id": 200,
+        "functionList": "",
+        "prefabName": "Beach_Plane05",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "13,2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "201": {
+        "image": 0,
+        "id": 201,
+        "functionList": "",
+        "prefabName": "Beach_Plane05",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "1,9",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "202": {
+        "image": 0,
+        "id": 202,
+        "functionList": "",
+        "prefabName": "Beach_Plane05",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "1,11",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "203": {
+        "image": 0,
+        "id": 203,
+        "functionList": "",
+        "prefabName": "Beach_Plane05",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "13,9",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "204": {
+        "image": 0,
+        "id": 204,
+        "functionList": "",
+        "prefabName": "Beach_Plane05",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "1,10",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "205": {
+        "image": 0,
+        "id": 205,
+        "functionList": "",
+        "prefabName": "Beach_14",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "3,5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "206": {
+        "image": 0,
+        "id": 206,
+        "functionList": "",
+        "prefabName": "Beach_14",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "8,7",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "207": {
+        "image": 0,
+        "id": 207,
+        "functionList": "",
+        "prefabName": "Beach_14",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "0,7",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "208": {
+        "image": 0,
+        "id": 208,
+        "functionList": "",
+        "prefabName": "Beach_14",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-5,4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "209": {
+        "image": 0,
+        "id": 209,
+        "functionList": "",
+        "prefabName": "Beach_14",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "12,10",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "210": {
+        "image": 0,
+        "id": 210,
+        "functionList": "",
+        "prefabName": "Beach_Plane01",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-1,10",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "211": {
+        "image": 0,
+        "id": 211,
+        "functionList": "",
+        "prefabName": "Beach_Plane01",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-1,6",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "282": {
+        "image": 0,
+        "id": 282,
+        "functionList": "46001208",
+        "prefabName": "Beach_Plane03",
+        "name": 702291,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "20,-4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 702471,
+        "timeCondition": ""
+    },
+    "280": {
+        "image": 0,
+        "id": 280,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "22,-4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "278": {
+        "image": 0,
+        "id": 278,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "19,0",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "215": {
+        "image": 0,
+        "id": 215,
+        "functionList": "",
+        "prefabName": "Beach_Plane01",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "13,0",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "216": {
+        "image": 0,
+        "id": 216,
+        "functionList": "",
+        "prefabName": "Beach_Plane01",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "4,-9",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "217": {
+        "image": 0,
+        "id": 217,
+        "functionList": "",
+        "prefabName": "Beach_Plane01",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "19,1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "218": {
+        "image": 0,
+        "id": 218,
+        "functionList": "",
+        "prefabName": "Beach_Plane01",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "2,0",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "219": {
+        "image": 0,
+        "id": 219,
+        "functionList": "",
+        "prefabName": "Beach_Plane01",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "0,2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "220": {
+        "image": 0,
+        "id": 220,
+        "functionList": "",
+        "prefabName": "Beach_Plane02",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "11,2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "221": {
+        "image": 0,
+        "id": 221,
+        "functionList": "",
+        "prefabName": "Beach_Plane02",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "6,-4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "222": {
+        "image": 0,
+        "id": 222,
+        "functionList": "",
+        "prefabName": "Beach_Plane02",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "21,-1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "223": {
+        "image": 0,
+        "id": 223,
+        "functionList": "",
+        "prefabName": "Beach_Plane02",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "15,-1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "277": {
+        "image": 0,
+        "id": 277,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "19,-1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "225": {
+        "image": 0,
+        "id": 225,
+        "functionList": "",
+        "prefabName": "Beach_Plane06",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-7,7",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "274": {
+        "image": 0,
+        "id": 274,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "14,-1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "227": {
+        "image": 0,
+        "id": 227,
+        "functionList": "",
+        "prefabName": "Beach_Plane06",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "0,11",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "273": {
+        "image": 0,
+        "id": 273,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "13,-1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "229": {
+        "image": 0,
+        "id": 229,
+        "functionList": "",
+        "prefabName": "Beach_Plane06",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "14,7",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "230": {
+        "image": 0,
+        "id": 230,
+        "functionList": "",
+        "prefabName": "Beach_Plane06",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "14,8",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "271": {
+        "image": 0,
+        "id": 271,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "15,-2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "268": {
+        "image": 0,
+        "id": 268,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "17,-1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "262": {
+        "image": 0,
+        "id": 262,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "17,-3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "261": {
+        "image": 0,
+        "id": 261,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "16,-3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "235": {
+        "image": 0,
+        "id": 235,
+        "functionList": "",
+        "prefabName": "Beach_Plane07",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "11,4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "236": {
+        "image": 0,
+        "id": 236,
+        "functionList": "",
+        "prefabName": "Beach_Plane07",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "2,4",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "237": {
+        "image": 0,
+        "id": 237,
+        "functionList": "",
+        "prefabName": "Beach_Plane07",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "0,6",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "238": {
+        "image": 0,
+        "id": 238,
+        "functionList": "",
+        "prefabName": "Beach_Plane07",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "1,5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "239": {
+        "image": 0,
+        "id": 239,
+        "functionList": "",
+        "prefabName": "Beach_Plane07",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "14,6",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "260": {
+        "image": 0,
+        "id": 260,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "13,-2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "241": {
+        "image": 0,
+        "id": 241,
+        "functionList": "",
+        "prefabName": "Beach_Plane07",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "5,6",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "242": {
+        "image": 0,
+        "id": 242,
+        "functionList": "",
+        "prefabName": "Beach_Plane07",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "5,-3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "243": {
+        "image": 0,
+        "id": 243,
+        "functionList": "",
+        "prefabName": "Beach_Plane07",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-2,3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "244": {
+        "image": 0,
+        "id": 244,
+        "functionList": "",
+        "prefabName": "Beach_Plane02",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "6,-3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "245": {
+        "image": 0,
+        "id": 245,
+        "functionList": "",
+        "prefabName": "Beach_Plane02",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "1,3",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "246": {
+        "image": 0,
+        "id": 246,
+        "functionList": "",
+        "prefabName": "Beach_Plane02",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "1,1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "247": {
+        "image": 0,
+        "id": 247,
+        "functionList": "46001202",
+        "prefabName": "Beach_Plane02",
+        "name": 702285,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "1,2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 702465,
+        "timeCondition": ""
+    },
+    "248": {
+        "image": 0,
+        "id": 248,
+        "functionList": "",
+        "prefabName": "Beach_Plane02",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "2,2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "249": {
+        "image": 0,
+        "id": 249,
+        "functionList": "",
+        "prefabName": "Beach_Plane02",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "16,0",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "250": {
+        "image": 0,
+        "id": 250,
+        "functionList": "46001102",
+        "prefabName": "Beach_Plane07",
+        "name": 702277,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-1,2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 702475,
+        "timeCondition": ""
+    },
+    "251": {
+        "image": 0,
+        "id": 251,
+        "functionList": "",
+        "prefabName": "Beach_Plane07",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "-2,6",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "259": {
+        "image": 0,
+        "id": 259,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "Sence_TX_beach2_2",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "12,-2",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "effects\/particles.prefabs.assetbundle",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "258": {
+        "image": 0,
+        "id": 258,
+        "functionList": "46001106",
+        "prefabName": "Beach_Plane03",
+        "name": 702281,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "12,-1",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 702479,
+        "timeCondition": ""
+    },
+    "254": {
+        "image": 0,
+        "id": 254,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "4,5",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    },
+    "255": {
+        "image": 0,
+        "id": 255,
+        "functionList": "",
+        "prefabName": "Beach_Plane03",
+        "name": 0,
+        "assetBundle": "sceneobjects\/beach_area.prefabs.assetbundle",
+        "fogPrefabName": "",
+        "titleOffset": [
+            0,
+            1
+        ],
+        "shapeType": 1,
+        "landCoordinate": "4,6",
+        "fogOffset": [
+            0,
+            -5
+        ],
+        "fogAssetBundle": "",
+        "destribe": 0,
+        "timeCondition": ""
+    }
+}

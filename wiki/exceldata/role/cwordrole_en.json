@@ -1,0 +1,2338 @@
+{
+    "501760": {
+        "text": "Accuracy",
+        "id": 501760
+    },
+    "501761": {
+        "text": "Order Energy",
+        "id": 501761
+    },
+    "501762": {
+        "text": "Chaos Energy",
+        "id": 501762
+    },
+    "501763": {
+        "text": "Skill Damage Bonus",
+        "id": 501763
+    },
+    "501764": {
+        "text": "Healing & Damage Skills",
+        "id": 501764
+    },
+    "501765": {
+        "text": "Single Skill Damage",
+        "id": 501765
+    },
+    "501766": {
+        "text": "Consume Order Energy",
+        "id": 501766
+    },
+    "501767": {
+        "text": "Consume Chaos Energy",
+        "id": 501767
+    },
+    "501768": {
+        "text": "Buffs Dispelled",
+        "id": 501768
+    },
+    "501769": {
+        "text": "Monster Category",
+        "id": 501769
+    },
+    "501770": {
+        "text": "Shield",
+        "id": 501770
+    },
+    "501771": {
+        "text": "Combos",
+        "id": 501771
+    },
+    "501772": {
+        "text": "Cooldown Reduction",
+        "id": 501772
+    },
+    "501773": {
+        "text": "Passive Skill Activated",
+        "id": 501773
+    },
+    "501774": {
+        "text": "Debuff Status",
+        "id": 501774
+    },
+    "501775": {
+        "text": "Order Energy Consumption Reduction",
+        "id": 501775
+    },
+    "501776": {
+        "text": "Chaos Energy Consumption Reduction",
+        "id": 501776
+    },
+    "501777": {
+        "text": "Boss Combos",
+        "id": 501777
+    },
+    "501778": {
+        "text": "Crit Level",
+        "id": 501778
+    },
+    "501779": {
+        "text": "Crit DMG Level",
+        "id": 501779
+    },
+    "501780": {
+        "text": "Buff Stacks",
+        "id": 501780
+    },
+    "501781": {
+        "text": "Healing Effect",
+        "id": 501781
+    },
+    "501782": {
+        "text": "Order Energy Restoring Speed",
+        "id": 501782
+    },
+    "501783": {
+        "text": "Attack Rate",
+        "id": 501783
+    },
+    "501784": {
+        "text": "Physical DEF Rate",
+        "id": 501784
+    },
+    "501785": {
+        "text": "Magic DEF Rate",
+        "id": 501785
+    },
+    "501786": {
+        "text": "Health Rate",
+        "id": 501786
+    },
+    "501787": {
+        "text": "Health Growth",
+        "id": 501787
+    },
+    "501788": {
+        "text": "Attack Growth",
+        "id": 501788
+    },
+    "501789": {
+        "text": "Physical DEF Growth",
+        "id": 501789
+    },
+    "501790": {
+        "text": "Magic DEF Growth",
+        "id": 501790
+    },
+    "501791": {
+        "text": "Disrupt",
+        "id": 501791
+    },
+    "501792": {
+        "text": "Dispel",
+        "id": 501792
+    },
+    "501793": {
+        "text": "Cleansing",
+        "id": 501793
+    },
+    "501794": {
+        "text": "Restore Energy",
+        "id": 501794
+    },
+    "501795": {
+        "text": "Revive",
+        "id": 501795
+    },
+    "501796": {
+        "text": "Boost",
+        "id": 501796
+    },
+    "501797": {
+        "text": "Damage Reduction",
+        "id": 501797
+    },
+    "501798": {
+        "text": "Assassin",
+        "id": 501798
+    },
+    "501799": {
+        "text": "Physical Single Target",
+        "id": 501799
+    },
+    "501800": {
+        "text": "Physical AOE",
+        "id": 501800
+    },
+    "501801": {
+        "text": "Physical Defense",
+        "id": 501801
+    },
+    "501802": {
+        "text": "Magic Single Target",
+        "id": 501802
+    },
+    "501803": {
+        "text": "Magic AOE",
+        "id": 501803
+    },
+    "501804": {
+        "text": "Magic Defense",
+        "id": 501804
+    },
+    "501805": {
+        "text": "Guardian",
+        "id": 501805
+    },
+    "501806": {
+        "text": "Destroyer",
+        "id": 501806
+    },
+    "501807": {
+        "text": "Assassin",
+        "id": 501807
+    },
+    "501808": {
+        "text": "Compeller",
+        "id": 501808
+    },
+    "501809": {
+        "text": "Healer",
+        "id": 501809
+    },
+    "501810": {
+        "text": "Mage",
+        "id": 501810
+    },
+    "501811": {
+        "text": "Witch",
+        "id": 501811
+    },
+    "501812": {
+        "text": "Dolls with excellent survival ability.",
+        "id": 501812
+    },
+    "501813": {
+        "text": "Dolls that excel at striking the enemy directly.",
+        "id": 501813
+    },
+    "501814": {
+        "text": "Dolls with versatile attacks.",
+        "id": 501814
+    },
+    "501815": {
+        "text": "Dolls that inflict all sorts of buffs or debuffs.",
+        "id": 501815
+    },
+    "501816": {
+        "text": "Dolls with excellent healing ability.",
+        "id": 501816
+    },
+    "501817": {
+        "text": "Dolls that master various spells.",
+        "id": 501817
+    },
+    "501818": {
+        "text": "A myth who wields unknown magic.",
+        "id": 501818
+    },
+    "501819": {
+        "text": "0",
+        "id": 501819
+    },
+    "501820": {
+        "text": "0",
+        "id": 501820
+    },
+    "501821": {
+        "text": "0",
+        "id": 501821
+    },
+    "501822": {
+        "text": "0",
+        "id": 501822
+    },
+    "501823": {
+        "text": "0",
+        "id": 501823
+    },
+    "501824": {
+        "text": "0",
+        "id": 501824
+    },
+    "501825": {
+        "text": "0",
+        "id": 501825
+    },
+    "501826": {
+        "text": "0",
+        "id": 501826
+    },
+    "501827": {
+        "text": "Level",
+        "id": 501827
+    },
+    "501828": {
+        "text": "Rarity",
+        "id": 501828
+    },
+    "501829": {
+        "text": "Acquisition",
+        "id": 501829
+    },
+    "501830": {
+        "text": "Health",
+        "id": 501830
+    },
+    "501831": {
+        "text": "SSR",
+        "id": 501831
+    },
+    "501832": {
+        "text": "SR",
+        "id": 501832
+    },
+    "501833": {
+        "text": "R",
+        "id": 501833
+    },
+    "501834": {
+        "text": "UR",
+        "id": 501834
+    },
+    "501835": {
+        "text": "Physical Dodge Chance",
+        "id": 501835
+    },
+    "501836": {
+        "text": "Rarity:",
+        "id": 501836
+    },
+    "501837": {
+        "text": "Class:",
+        "id": 501837
+    },
+    "501838": {
+        "text": "Skill Type:",
+        "id": 501838
+    },
+    "501839": {
+        "text": "Magic DMG Skill",
+        "id": 501839
+    },
+    "501840": {
+        "text": "Physical DMG Skill",
+        "id": 501840
+    },
+    "501841": {
+        "text": "Healing Skill",
+        "id": 501841
+    },
+    "501842": {
+        "text": "Support Skill",
+        "id": 501842
+    },
+    "501843": {
+        "text": "0",
+        "id": 501843
+    },
+    "501844": {
+        "text": "0",
+        "id": 501844
+    },
+    "501845": {
+        "text": "0",
+        "id": 501845
+    },
+    "501846": {
+        "text": "0",
+        "id": 501846
+    },
+    "501847": {
+        "text": "0",
+        "id": 501847
+    },
+    "501848": {
+        "text": "0",
+        "id": 501848
+    },
+    "501849": {
+        "text": "0",
+        "id": 501849
+    },
+    "501850": {
+        "text": "0",
+        "id": 501850
+    },
+    "501851": {
+        "text": "0",
+        "id": 501851
+    },
+    "501852": {
+        "text": "Maximum Physical DMG Taken",
+        "id": 501852
+    },
+    "501853": {
+        "text": "Magical Instinct Boosted",
+        "id": 501853
+    },
+    "501854": {
+        "text": "Survival Reinforce Boosted",
+        "id": 501854
+    },
+    "501855": {
+        "text": "Phase Shifting Boosted",
+        "id": 501855
+    },
+    "501856": {
+        "text": "Attack Reinforce Boosted",
+        "id": 501856
+    },
+    "501857": {
+        "text": "Defense Reinforce Boosted",
+        "id": 501857
+    },
+    "501858": {
+        "text": "Dark Deed Boosted",
+        "id": 501858
+    },
+    "501859": {
+        "text": "Magic DEF Reinforce Boosted",
+        "id": 501859
+    },
+    "501860": {
+        "text": "Healing Reinforce Boosted",
+        "id": 501860
+    },
+    "501861": {
+        "text": "0",
+        "id": 501861
+    },
+    "501862": {
+        "text": "0",
+        "id": 501862
+    },
+    "501863": {
+        "text": "0",
+        "id": 501863
+    },
+    "501864": {
+        "text": "Speed Reinforce Boosted",
+        "id": 501864
+    },
+    "501865": {
+        "text": "Holiness: Glow Boosted",
+        "id": 501865
+    },
+    "501866": {
+        "text": "Confuse Boosted",
+        "id": 501866
+    },
+    "501867": {
+        "text": "Blessing of the Realm Boosted",
+        "id": 501867
+    },
+    "501868": {
+        "text": "Flower Dress Boosted",
+        "id": 501868
+    },
+    "501869": {
+        "text": "Prelude Boosted",
+        "id": 501869
+    },
+    "501870": {
+        "text": "Cheerful Chord Boosted",
+        "id": 501870
+    },
+    "501871": {
+        "text": "String Music Boosted",
+        "id": 501871
+    },
+    "501872": {
+        "text": "Raised Morale Boosted",
+        "id": 501872
+    },
+    "501873": {
+        "text": "Mythic Beast: Halo Boosted",
+        "id": 501873
+    },
+    "501874": {
+        "text": "Mythic Beast: Strengthen Boosted",
+        "id": 501874
+    },
+    "501875": {
+        "text": "Soul Mark 3 Boosted",
+        "id": 501875
+    },
+    "501876": {
+        "text": "Insight Boosted",
+        "id": 501876
+    },
+    "501877": {
+        "text": "Blessing of Stars Boosted",
+        "id": 501877
+    },
+    "501878": {
+        "text": "Field of Swords Boosted",
+        "id": 501878
+    },
+    "501879": {
+        "text": "Assassination Skill Boosted",
+        "id": 501879
+    },
+    "501880": {
+        "text": "Frozen Body Boosted",
+        "id": 501880
+    },
+    "501881": {
+        "text": "0",
+        "id": 501881
+    },
+    "501882": {
+        "text": "Raging Dragon Boosted",
+        "id": 501882
+    },
+    "501883": {
+        "text": "Dragon Scale Boosted",
+        "id": 501883
+    },
+    "501884": {
+        "text": "Soring Dragon Boosted",
+        "id": 501884
+    },
+    "501885": {
+        "text": "Separation Boosted",
+        "id": 501885
+    },
+    "501886": {
+        "text": "Physical DEF Boosted",
+        "id": 501886
+    },
+    "501887": {
+        "text": "Hollow Dream Boosted",
+        "id": 501887
+    },
+    "501888": {
+        "text": "Soulbound Boosted",
+        "id": 501888
+    },
+    "501889": {
+        "text": "Desperation Boosted",
+        "id": 501889
+    },
+    "501890": {
+        "text": "Demon Force Boosted",
+        "id": 501890
+    },
+    "501891": {
+        "text": "Calling of the Hell Boosted",
+        "id": 501891
+    },
+    "501892": {
+        "text": "Eternal Light Boosted",
+        "id": 501892
+    },
+    "501893": {
+        "text": "Wordsmaster Boosted",
+        "id": 501893
+    },
+    "501894": {
+        "text": "Fair and Square Boosted",
+        "id": 501894
+    },
+    "501895": {
+        "text": "Ruthless Boosted",
+        "id": 501895
+    },
+    "501896": {
+        "text": "Scarlet Dance Boosted",
+        "id": 501896
+    },
+    "501897": {
+        "text": "Self Healing Boosted",
+        "id": 501897
+    },
+    "501898": {
+        "text": "Rebuild Boosted",
+        "id": 501898
+    },
+    "501899": {
+        "text": "Dashing Arrows Boosted",
+        "id": 501899
+    },
+    "501900": {
+        "text": "Spot Weakness Boosted",
+        "id": 501900
+    },
+    "501901": {
+        "text": "Wind of the Court Boosted",
+        "id": 501901
+    },
+    "501902": {
+        "text": "Foresight Boosted",
+        "id": 501902
+    },
+    "501903": {
+        "text": "Presage Boosted",
+        "id": 501903
+    },
+    "501904": {
+        "text": "Hunting Instinct Boosted",
+        "id": 501904
+    },
+    "501905": {
+        "text": "Joy of Agony Boosted",
+        "id": 501905
+    },
+    "501906": {
+        "text": "Awakening Boosted",
+        "id": 501906
+    },
+    "501907": {
+        "text": "Thirst Boosted",
+        "id": 501907
+    },
+    "501908": {
+        "text": "Fetish Boosted",
+        "id": 501908
+    },
+    "501909": {
+        "text": "Colorful Boosted",
+        "id": 501909
+    },
+    "501910": {
+        "text": "Symphony Boosted",
+        "id": 501910
+    },
+    "501911": {
+        "text": "Dazzling Boosted",
+        "id": 501911
+    },
+    "501912": {
+        "text": "Mask of Melancholy Boosted",
+        "id": 501912
+    },
+    "501913": {
+        "text": "Mask of Souls Boosted",
+        "id": 501913
+    },
+    "501914": {
+        "text": "Requiem Boosted",
+        "id": 501914
+    },
+    "501915": {
+        "text": "Paralyze Boosted",
+        "id": 501915
+    },
+    "501916": {
+        "text": "Poison Boosted",
+        "id": 501916
+    },
+    "501917": {
+        "text": "Feast of Darkness Boosted",
+        "id": 501917
+    },
+    "501918": {
+        "text": "Aria Boosted",
+        "id": 501918
+    },
+    "501919": {
+        "text": "Blessing of Ovate Boosted",
+        "id": 501919
+    },
+    "501920": {
+        "text": "Holy Heart Boosted",
+        "id": 501920
+    },
+    "501921": {
+        "text": "Magical DEF Boosted",
+        "id": 501921
+    },
+    "501922": {
+        "text": "0",
+        "id": 501922
+    },
+    "501923": {
+        "text": "Earth's Blessing Boosted",
+        "id": 501923
+    },
+    "501924": {
+        "text": "Curse of Night Boosted",
+        "id": 501924
+    },
+    "501925": {
+        "text": "Power of Underworld Boosted",
+        "id": 501925
+    },
+    "501926": {
+        "text": "Restless Boosted",
+        "id": 501926
+    },
+    "501927": {
+        "text": "Corrosion Boosted",
+        "id": 501927
+    },
+    "501928": {
+        "text": "0",
+        "id": 501928
+    },
+    "501929": {
+        "text": "Equal Healing Boosted",
+        "id": 501929
+    },
+    "501930": {
+        "text": "Night Clan Boosted",
+        "id": 501930
+    },
+    "501931": {
+        "text": "Child of Taboo Boosted",
+        "id": 501931
+    },
+    "501932": {
+        "text": "Heart of Healer Boosted",
+        "id": 501932
+    },
+    "501933": {
+        "text": "Neptune's Blessing Boosted",
+        "id": 501933
+    },
+    "501934": {
+        "text": "Dream Searching Boosted",
+        "id": 501934
+    },
+    "501935": {
+        "text": "Ebb And Flow Boosted",
+        "id": 501935
+    },
+    "501936": {
+        "text": "Celestial Music Boosted",
+        "id": 501936
+    },
+    "501937": {
+        "text": "Echo Boosted",
+        "id": 501937
+    },
+    "501938": {
+        "text": "God's Promise Boosted",
+        "id": 501938
+    },
+    "501939": {
+        "text": "Meditation Boosted",
+        "id": 501939
+    },
+    "501940": {
+        "text": "Descendant of the Sun Boosted",
+        "id": 501940
+    },
+    "501941": {
+        "text": "Soulflame Boosted",
+        "id": 501941
+    },
+    "501942": {
+        "text": "Rebirth Boosted",
+        "id": 501942
+    },
+    "501943": {
+        "text": "Pearl Shower Boosted",
+        "id": 501943
+    },
+    "501944": {
+        "text": "Tear of Pearl Boosted",
+        "id": 501944
+    },
+    "501945": {
+        "text": "Blessing of the Forest Boosted",
+        "id": 501945
+    },
+    "501946": {
+        "text": "Natural Law Boosted",
+        "id": 501946
+    },
+    "501947": {
+        "text": "Single Target Healing",
+        "id": 501947
+    },
+    "501948": {
+        "text": "AOE Healing",
+        "id": 501948
+    },
+    "501949": {
+        "text": "Weaken",
+        "id": 501949
+    },
+    "501950": {
+        "text": "Health Enhancement I   Max. Base Health +2%",
+        "id": 501950
+    },
+    "501951": {
+        "text": "Health Enhancement II   Max. Base Health +3%",
+        "id": 501951
+    },
+    "501952": {
+        "text": "ATK Enhancement I   Basic ATK +2%",
+        "id": 501952
+    },
+    "501953": {
+        "text": "ATK Enhancement II   Basic ATK +3%",
+        "id": 501953
+    },
+    "501954": {
+        "text": "Physical DEF Enhancement I   Base Physical DEF +2%",
+        "id": 501954
+    },
+    "501955": {
+        "text": "Physical DEF Enhancement II   Base Physical DEF +3%",
+        "id": 501955
+    },
+    "501956": {
+        "text": "Magical DEF Enhancement I   Base Magical DEF +2%",
+        "id": 501956
+    },
+    "501957": {
+        "text": "Magical DEF Enhancement II   Base Magical DEF +3%",
+        "id": 501957
+    },
+    "502377": {
+        "text": "Outbreak",
+        "id": 502377
+    },
+    "502378": {
+        "text": "Max. Magic DMG Taken",
+        "id": 502378
+    },
+    "502379": {
+        "text": "Chance of Triggering Max. DMG Taken",
+        "id": 502379
+    },
+    "502380": {
+        "text": "Primary",
+        "id": 502380
+    },
+    "502381": {
+        "text": "Memory of the School",
+        "id": 502381
+    },
+    "502382": {
+        "text": "Blessed Dinner",
+        "id": 502382
+    },
+    "502383": {
+        "text": "Blue Ocean",
+        "id": 502383
+    },
+    "502384": {
+        "text": "Holiday by the Beach",
+        "id": 502384
+    },
+    "502795": {
+        "text": "",
+        "id": 502795
+    },
+    "502794": {
+        "text": "",
+        "id": 502794
+    },
+    "502793": {
+        "text": "",
+        "id": 502793
+    },
+    "502792": {
+        "text": "",
+        "id": 502792
+    },
+    "502791": {
+        "text": "",
+        "id": 502791
+    },
+    "502790": {
+        "text": "",
+        "id": 502790
+    },
+    "502789": {
+        "text": "",
+        "id": 502789
+    },
+    "502788": {
+        "text": "",
+        "id": 502788
+    },
+    "502787": {
+        "text": "",
+        "id": 502787
+    },
+    "502786": {
+        "text": "",
+        "id": 502786
+    },
+    "502785": {
+        "text": "",
+        "id": 502785
+    },
+    "502784": {
+        "text": "",
+        "id": 502784
+    },
+    "502783": {
+        "text": "",
+        "id": 502783
+    },
+    "502782": {
+        "text": "",
+        "id": 502782
+    },
+    "502781": {
+        "text": "",
+        "id": 502781
+    },
+    "502780": {
+        "text": "",
+        "id": 502780
+    },
+    "502779": {
+        "text": "",
+        "id": 502779
+    },
+    "502778": {
+        "text": "",
+        "id": 502778
+    },
+    "502777": {
+        "text": "",
+        "id": 502777
+    },
+    "502776": {
+        "text": "",
+        "id": 502776
+    },
+    "502775": {
+        "text": "",
+        "id": 502775
+    },
+    "502774": {
+        "text": "",
+        "id": 502774
+    },
+    "502773": {
+        "text": "",
+        "id": 502773
+    },
+    "502772": {
+        "text": "",
+        "id": 502772
+    },
+    "502771": {
+        "text": "",
+        "id": 502771
+    },
+    "502770": {
+        "text": "",
+        "id": 502770
+    },
+    "502769": {
+        "text": "Rose Boosted",
+        "id": 502769
+    },
+    "502768": {
+        "text": "Attack Reinforce Boosted",
+        "id": 502768
+    },
+    "502767": {
+        "text": "Survival Reinforce Boosted",
+        "id": 502767
+    },
+    "502766": {
+        "text": "Mana Dreamland 6",
+        "id": 502766
+    },
+    "502765": {
+        "text": "Doll Lv.65",
+        "id": 502765
+    },
+    "502764": {
+        "text": "Mana Dreamland 5",
+        "id": 502764
+    },
+    "502763": {
+        "text": "Doll Lv.55",
+        "id": 502763
+    },
+    "502762": {
+        "text": "Doll Lv.45",
+        "id": 502762
+    },
+    "502761": {
+        "text": "Doll Lv.35",
+        "id": 502761
+    },
+    "502760": {
+        "text": "Main Story 5-12",
+        "id": 502760
+    },
+    "502759": {
+        "text": "Main Story 4.5-6",
+        "id": 502759
+    },
+    "502758": {
+        "text": "Main Story 4-18",
+        "id": 502758
+    },
+    "502757": {
+        "text": "Main Story 4-4",
+        "id": 502757
+    },
+    "502756": {
+        "text": "Mana Dreamland 4",
+        "id": 502756
+    },
+    "502755": {
+        "text": "Main Story 3-11",
+        "id": 502755
+    },
+    "502754": {
+        "text": "Mana Dreamland 3",
+        "id": 502754
+    },
+    "502753": {
+        "text": "Chapter 2 Intermission",
+        "id": 502753
+    },
+    "502752": {
+        "text": "Mana Dreamland 2",
+        "id": 502752
+    },
+    "502751": {
+        "text": "Spearcraft Boosted",
+        "id": 502751
+    },
+    "502750": {
+        "text": "Magical DEF Breaking Boosted",
+        "id": 502750
+    },
+    "502749": {
+        "text": "Only for You",
+        "id": 502749
+    },
+    "502748": {
+        "text": "Winter Love Story",
+        "id": 502748
+    },
+    "502747": {
+        "text": "Noble Bloodline",
+        "id": 502747
+    },
+    "502746": {
+        "text": "Early Snow",
+        "id": 502746
+    },
+    "502745": {
+        "text": "Festival",
+        "id": 502745
+    },
+    "502744": {
+        "text": "Only one spectator is enough. Singing the Song of Love for you and only you.",
+        "id": 502744
+    },
+    "502458": {
+        "text": "Default Model of the Doll.",
+        "id": 502458
+    },
+    "502459": {
+        "text": "Miku is enjoying her youthful time on campus after training.",
+        "id": 502459
+    },
+    "502743": {
+        "text": "Caledonia put on stylish clothes, and invited someone she had a crush on to soar in the sky on a sacred beast.",
+        "id": 502743
+    },
+    "502461": {
+        "text": "After a full day of busywork, Arcana comes to the tavern she enjoys, and has a drink.",
+        "id": 502461
+    },
+    "502742": {
+        "text": "Ella realized that her behavior was not in keeping with her noble status and decided to change.",
+        "id": 502742
+    },
+    "502741": {
+        "text": "Seeing the snowflake falling from the sky for the first time, Ardisia is having a lot of fun without worrying about the cold weather.",
+        "id": 502741
+    },
+    "502740": {
+        "text": "Dressed up for the ritual of the year, Celanya plans to enjoy the festival.",
+        "id": 502740
+    },
+    "502739": {
+        "text": "Blessing of the Moon Boosted",
+        "id": 502739
+    },
+    "502738": {
+        "text": "Waxing Moon Boosted",
+        "id": 502738
+    },
+    "502737": {
+        "text": "Lunar Ritual Boosted",
+        "id": 502737
+    },
+    "502736": {
+        "text": "Power of Void Boosted",
+        "id": 502736
+    },
+    "502469": {
+        "text": "Dived into the ocean, Shuffle is playing with fish.",
+        "id": 502469
+    },
+    "502735": {
+        "text": "Curse of Blood Boosted",
+        "id": 502735
+    },
+    "502471": {
+        "text": "After skipping an important ritual, Yothaya is playing with her friends on the beach.",
+        "id": 502471
+    },
+    "502734": {
+        "text": "Voice",
+        "id": 502734
+    },
+    "502733": {
+        "text": "Backstory",
+        "id": 502733
+    },
+    "502732": {
+        "text": "Info",
+        "id": 502732
+    },
+    "502731": {
+        "text": "Designer",
+        "id": 502731
+    },
+    "502730": {
+        "text": "CV",
+        "id": 502730
+    },
+    "502729": {
+        "text": "Hobby",
+        "id": 502729
+    },
+    "502728": {
+        "text": "Hometown",
+        "id": 502728
+    },
+    "502727": {
+        "text": "Birthday",
+        "id": 502727
+    },
+    "502726": {
+        "text": "Race",
+        "id": 502726
+    },
+    "502725": {
+        "text": "Height",
+        "id": 502725
+    },
+    "502724": {
+        "text": "Age",
+        "id": 502724
+    },
+    "502723": {
+        "text": "Gender",
+        "id": 502723
+    },
+    "502722": {
+        "text": "Gift from $parameter1$",
+        "id": 502722
+    },
+    "502721": {
+        "text": "Unlock at Intimacy Lv.$parameter1$",
+        "id": 502721
+    },
+    "502720": {
+        "text": "Story IV",
+        "id": 502720
+    },
+    "502719": {
+        "text": "Story III",
+        "id": 502719
+    },
+    "502718": {
+        "text": "Story II",
+        "id": 502718
+    },
+    "502717": {
+        "text": "Story I",
+        "id": 502717
+    },
+    "502715": {
+        "text": "First Top-up Reward",
+        "id": 502715
+    },
+    "502714": {
+        "text": "The witch wearing sunglasses.",
+        "id": 502714
+    },
+    "502713": {
+        "text": "Dashing Sunglasses",
+        "id": 502713
+    },
+    "502712": {
+        "text": "Unlock Intimacy Chat IV",
+        "id": 502712
+    },
+    "502711": {
+        "text": "Unlock Intimacy Chat III",
+        "id": 502711
+    },
+    "502710": {
+        "text": "Unlock Intimacy Chat II",
+        "id": 502710
+    },
+    "502709": {
+        "text": "Unlock Intimacy Chat I",
+        "id": 502709
+    },
+    "502708": {
+        "text": "Unlock Backstory IV",
+        "id": 502708
+    },
+    "502707": {
+        "text": "Unlock Backstory III",
+        "id": 502707
+    },
+    "502706": {
+        "text": "Unlock Backstory II",
+        "id": 502706
+    },
+    "502705": {
+        "text": "Unlock Backstory I",
+        "id": 502705
+    },
+    "502704": {
+        "text": "Max. Magic DMG Dealt",
+        "id": 502704
+    },
+    "502703": {
+        "text": "Max. Physical DMG Dealt",
+        "id": 502703
+    },
+    "502700": {
+        "text": "Skill 2 Synergy Chance",
+        "id": 502700
+    },
+    "502699": {
+        "text": "Skill 1 Synergy Chance",
+        "id": 502699
+    },
+    "502685": {
+        "text": "Physical DEF Enhancement II   Base Physical DEF +3%",
+        "id": 502685
+    },
+    "502684": {
+        "text": "Health Enhancement II   Max. Base Health +3%",
+        "id": 502684
+    },
+    "502683": {
+        "text": "Physical DEF Enhancement I   Base Physical DEF +2%",
+        "id": 502683
+    },
+    "502682": {
+        "text": "Health Enhancement I   Max. Base Health +2%",
+        "id": 502682
+    },
+    "502681": {
+        "text": "Magic DEF Enhancement II   Base Magic DEF +3%",
+        "id": 502681
+    },
+    "502680": {
+        "text": "Health Enhancement II   Max. Base Health +3%",
+        "id": 502680
+    },
+    "502679": {
+        "text": "Magic DEF Enhancement I   Base Magic DEF +2%",
+        "id": 502679
+    },
+    "502678": {
+        "text": "Health Enhancement I   Max. Base Health +2%",
+        "id": 502678
+    },
+    "502677": {
+        "text": "ATK Enhancement II   Basic ATK +3%",
+        "id": 502677
+    },
+    "502676": {
+        "text": "Health Enhancement II   Max. Base Health +3%",
+        "id": 502676
+    },
+    "502675": {
+        "text": "ATK Enhancement I   Basic ATK +2%",
+        "id": 502675
+    },
+    "502674": {
+        "text": "Health Enhancement I   Max. Base Health +2%",
+        "id": 502674
+    },
+    "502673": {
+        "text": "ATK Enhancement II   Basic ATK +3%",
+        "id": 502673
+    },
+    "502672": {
+        "text": "Health Enhancement II   Max. Base Health +3%",
+        "id": 502672
+    },
+    "502671": {
+        "text": "ATK Enhancement I   Basic ATK +2%",
+        "id": 502671
+    },
+    "502670": {
+        "text": "Health Enhancement I   Max. Base Health +2%",
+        "id": 502670
+    },
+    "502669": {
+        "text": "Magic DEF Enhancement II   Base Magic DEF +3%",
+        "id": 502669
+    },
+    "502668": {
+        "text": "Health Enhancement II   Max. Base Health +3%",
+        "id": 502668
+    },
+    "502667": {
+        "text": "Magic DEF Enhancement I   Base Magic DEF +2%",
+        "id": 502667
+    },
+    "502666": {
+        "text": "Health Enhancement I   Max. Base Health +2%",
+        "id": 502666
+    },
+    "502647": {
+        "text": "0",
+        "id": 502647
+    },
+    "502646": {
+        "text": "0",
+        "id": 502646
+    },
+    "502645": {
+        "text": "0",
+        "id": 502645
+    },
+    "502644": {
+        "text": "0",
+        "id": 502644
+    },
+    "502643": {
+        "text": "0",
+        "id": 502643
+    },
+    "502642": {
+        "text": "0",
+        "id": 502642
+    },
+    "502641": {
+        "text": "0",
+        "id": 502641
+    },
+    "502640": {
+        "text": "0",
+        "id": 502640
+    },
+    "502639": {
+        "text": "0",
+        "id": 502639
+    },
+    "502638": {
+        "text": "0",
+        "id": 502638
+    },
+    "502637": {
+        "text": "0",
+        "id": 502637
+    },
+    "502536": {
+        "text": "不可燃物",
+        "id": 502536
+    },
+    "502537": {
+        "text": "彩阳",
+        "id": 502537
+    },
+    "502538": {
+        "text": "幻象黑兔",
+        "id": 502538
+    },
+    "502539": {
+        "text": "welchino",
+        "id": 502539
+    },
+    "502636": {
+        "text": "0",
+        "id": 502636
+    },
+    "502635": {
+        "text": "0",
+        "id": 502635
+    },
+    "502542": {
+        "text": "影法师",
+        "id": 502542
+    },
+    "502634": {
+        "text": "0",
+        "id": 502634
+    },
+    "502544": {
+        "text": "渡辺明夫",
+        "id": 502544
+    },
+    "502545": {
+        "text": "小吃_chill",
+        "id": 502545
+    },
+    "502633": {
+        "text": "Unlock at Ascension 4",
+        "id": 502633
+    },
+    "502547": {
+        "text": "幻象黑兔",
+        "id": 502547
+    },
+    "502548": {
+        "text": "snow_is",
+        "id": 502548
+    },
+    "502630": {
+        "text": "Ascension Model of the Doll.",
+        "id": 502630
+    },
+    "502629": {
+        "text": "Ascension",
+        "id": 502629
+    },
+    "502551": {
+        "text": "PHI",
+        "id": 502551
+    },
+    "502552": {
+        "text": "戏言咸咸",
+        "id": 502552
+    },
+    "502628": {
+        "text": "Event",
+        "id": 502628
+    },
+    "502554": {
+        "text": "剑风",
+        "id": 502554
+    },
+    "502627": {
+        "text": "Shop",
+        "id": 502627
+    },
+    "502556": {
+        "text": "amatou",
+        "id": 502556
+    },
+    "502624": {
+        "text": "Matveiffe",
+        "id": 502624
+    },
+    "502558": {
+        "text": "るび様",
+        "id": 502558
+    },
+    "502623": {
+        "text": "Mortimer",
+        "id": 502623
+    },
+    "502622": {
+        "text": "Fey",
+        "id": 502622
+    },
+    "502561": {
+        "text": "mitha",
+        "id": 502561
+    },
+    "502562": {
+        "text": "观月诗乃",
+        "id": 502562
+    },
+    "502621": {
+        "text": "Hilda",
+        "id": 502621
+    },
+    "502564": {
+        "text": "?",
+        "id": 502564
+    },
+    "502620": {
+        "text": "Ruda",
+        "id": 502620
+    },
+    "502566": {
+        "text": "姬乃",
+        "id": 502566
+    },
+    "502619": {
+        "text": "Blue Shift Watcher",
+        "id": 502619
+    },
+    "502618": {
+        "text": "Heart of Rose",
+        "id": 502618
+    },
+    "502617": {
+        "text": "Penetrating Spear",
+        "id": 502617
+    },
+    "502616": {
+        "text": "The Royal Sword",
+        "id": 502616
+    },
+    "502615": {
+        "text": "Starlight Collector",
+        "id": 502615
+    },
+    "502614": {
+        "text": "EX",
+        "id": 502614
+    },
+    "502611": {
+        "text": "ささきむつみ",
+        "id": 502611
+    },
+    "502607": {
+        "text": "Alov",
+        "id": 502607
+    },
+    "502575": {
+        "text": "nano",
+        "id": 502575
+    },
+    "502600": {
+        "text": "狗神煌",
+        "id": 502600
+    },
+    "502577": {
+        "text": "猫锅仓",
+        "id": 502577
+    },
+    "502596": {
+        "text": "弯弯向东流",
+        "id": 502596
+    },
+    "502595": {
+        "text": "lunacle",
+        "id": 502595
+    },
+    "502580": {
+        "text": "nennen",
+        "id": 502580
+    },
+    "502589": {
+        "text": "hakusai",
+        "id": 502589
+    },
+    "502582": {
+        "text": "feng",
+        "id": 502582
+    },
+    "502585": {
+        "text": "AIKO",
+        "id": 502585
+    },
+    "502584": {
+        "text": "Sola",
+        "id": 502584
+    },
+    "501561": {
+        "text": "Health Enhancement I   Health +50",
+        "id": 501561
+    },
+    "501562": {
+        "text": "Health Enhancement II   Health +100",
+        "id": 501562
+    },
+    "501563": {
+        "text": "Health Enhancement III   Health +150",
+        "id": 501563
+    },
+    "501564": {
+        "text": "Health Enhancement IV   Health +200",
+        "id": 501564
+    },
+    "501565": {
+        "text": "ATK Enhancement I   ATK +10",
+        "id": 501565
+    },
+    "501566": {
+        "text": "ATK Enhancement II   ATK +20",
+        "id": 501566
+    },
+    "501567": {
+        "text": "ATK Enhancement III   ATK +30",
+        "id": 501567
+    },
+    "501568": {
+        "text": "ATK Enhancement IV   ATK +50",
+        "id": 501568
+    },
+    "501569": {
+        "text": "Physical DEF Enhancement I   Physical DEF +20",
+        "id": 501569
+    },
+    "501570": {
+        "text": "Physical DEF Enhancement II   Physical DEF +40",
+        "id": 501570
+    },
+    "501571": {
+        "text": "Physical DEF Enhancement III   Physical DEF +60",
+        "id": 501571
+    },
+    "501572": {
+        "text": "Physical DEF Enhancement IV   Physical DEF +100",
+        "id": 501572
+    },
+    "501573": {
+        "text": "Magic DEF Enhancement I   Magic DEF +20",
+        "id": 501573
+    },
+    "501574": {
+        "text": "Magic DEF Enhancement II   Magic DEF +40",
+        "id": 501574
+    },
+    "501575": {
+        "text": "Magic DEF Enhancement III   Magic DEF +60",
+        "id": 501575
+    },
+    "501576": {
+        "text": "Magic DEF Enhancement IV   Magic DEF +100",
+        "id": 501576
+    },
+    "501577": {
+        "text": "Crit Enhancement I   Crit Level +400",
+        "id": 501577
+    },
+    "501578": {
+        "text": "Crit Enhancement II   Crit Level +800",
+        "id": 501578
+    },
+    "501579": {
+        "text": "Crit Enhancement III   Crit Level +1,200",
+        "id": 501579
+    },
+    "501580": {
+        "text": "Crit Enhancement IV   Crit Level +1,600",
+        "id": 501580
+    },
+    "501581": {
+        "text": "Soul Mark 1 Boosted",
+        "id": 501581
+    },
+    "501582": {
+        "text": "Soul Mark 2 Boosted",
+        "id": 501582
+    },
+    "501583": {
+        "text": "Soul Mark 3 Boosted",
+        "id": 501583
+    },
+    "501584": {
+        "text": "$heroine$",
+        "id": 501584
+    },
+    "501585": {
+        "text": "Croche",
+        "id": 501585
+    },
+    "501586": {
+        "text": "Miku",
+        "id": 501586
+    },
+    "501587": {
+        "text": "Eulalia",
+        "id": 501587
+    },
+    "501588": {
+        "text": "Utu",
+        "id": 501588
+    },
+    "501589": {
+        "text": "Vedare",
+        "id": 501589
+    },
+    "501590": {
+        "text": "Valorf",
+        "id": 501590
+    },
+    "501591": {
+        "text": "Afallen",
+        "id": 501591
+    },
+    "501592": {
+        "text": "Primula",
+        "id": 501592
+    },
+    "501593": {
+        "text": "Flora",
+        "id": 501593
+    },
+    "501594": {
+        "text": "Caledonia",
+        "id": 501594
+    },
+    "501595": {
+        "text": "Anemone",
+        "id": 501595
+    },
+    "501596": {
+        "text": "Akasha",
+        "id": 501596
+    },
+    "501597": {
+        "text": "Nemesi",
+        "id": 501597
+    },
+    "501598": {
+        "text": "Pakane",
+        "id": 501598
+    },
+    "501599": {
+        "text": "Octavia",
+        "id": 501599
+    },
+    "501600": {
+        "text": "Ella",
+        "id": 501600
+    },
+    "501601": {
+        "text": "Jade",
+        "id": 501601
+    },
+    "501602": {
+        "text": "Mikoto",
+        "id": 501602
+    },
+    "501603": {
+        "text": "Hadal",
+        "id": 501603
+    },
+    "501604": {
+        "text": "Svalbard",
+        "id": 501604
+    },
+    "501605": {
+        "text": "Goorveig",
+        "id": 501605
+    },
+    "501606": {
+        "text": "Catherine",
+        "id": 501606
+    },
+    "501607": {
+        "text": "Czerni",
+        "id": 501607
+    },
+    "501608": {
+        "text": "Datheios",
+        "id": 501608
+    },
+    "501609": {
+        "text": "Lucia",
+        "id": 501609
+    },
+    "501610": {
+        "text": "Cetess",
+        "id": 501610
+    },
+    "501611": {
+        "text": "Viola",
+        "id": 501611
+    },
+    "501612": {
+        "text": "Celanya",
+        "id": 501612
+    },
+    "501613": {
+        "text": "Arcana",
+        "id": 501613
+    },
+    "501614": {
+        "text": "Parfait",
+        "id": 501614
+    },
+    "501615": {
+        "text": "Elis",
+        "id": 501615
+    },
+    "501616": {
+        "text": "Cynetia",
+        "id": 501616
+    },
+    "501617": {
+        "text": "Shuffle",
+        "id": 501617
+    },
+    "501618": {
+        "text": "Lilia",
+        "id": 501618
+    },
+    "501619": {
+        "text": "Cuspidata",
+        "id": 501619
+    },
+    "501620": {
+        "text": "Lusonia",
+        "id": 501620
+    },
+    "501621": {
+        "text": "Metamorphoses",
+        "id": 501621
+    },
+    "501622": {
+        "text": "Raphan",
+        "id": 501622
+    },
+    "501623": {
+        "text": "Marina",
+        "id": 501623
+    },
+    "501624": {
+        "text": "Ushpia",
+        "id": 501624
+    },
+    "501625": {
+        "text": "Acheronte",
+        "id": 501625
+    },
+    "501626": {
+        "text": "Norn",
+        "id": 501626
+    },
+    "501627": {
+        "text": "Parme",
+        "id": 501627
+    },
+    "501628": {
+        "text": "Coritaro",
+        "id": 501628
+    },
+    "501629": {
+        "text": "Dana",
+        "id": 501629
+    },
+    "501630": {
+        "text": "Nocturna",
+        "id": 501630
+    },
+    "501631": {
+        "text": "Kyphon",
+        "id": 501631
+    },
+    "501632": {
+        "text": "Yurugu",
+        "id": 501632
+    },
+    "501633": {
+        "text": "Avil",
+        "id": 501633
+    },
+    "501634": {
+        "text": "Tuonel",
+        "id": 501634
+    },
+    "501635": {
+        "text": "Yothaya",
+        "id": 501635
+    },
+    "501636": {
+        "text": "Ardisia",
+        "id": 501636
+    },
+    "501637": {
+        "text": "Garditis",
+        "id": 501637
+    },
+    "501638": {
+        "text": "Inn & Lou",
+        "id": 501638
+    },
+    "501639": {
+        "text": "Talhae",
+        "id": 501639
+    },
+    "501640": {
+        "text": "Cortana",
+        "id": 501640
+    },
+    "501641": {
+        "text": "Belar",
+        "id": 501641
+    },
+    "501642": {
+        "text": "Luan",
+        "id": 501642
+    },
+    "501643": {
+        "text": "Kamui",
+        "id": 501643
+    },
+    "501644": {
+        "text": "Yui",
+        "id": 501644
+    },
+    "501645": {
+        "text": "Nasha",
+        "id": 501645
+    },
+    "501646": {
+        "text": "Nannar",
+        "id": 501646
+    },
+    "501647": {
+        "text": "Isabella",
+        "id": 501647
+    },
+    "501648": {
+        "text": "La Crima",
+        "id": 501648
+    },
+    "501649": {
+        "text": "Hauen",
+        "id": 501649
+    },
+    "501650": {
+        "text": "Ashkelor",
+        "id": 501650
+    },
+    "501651": {
+        "text": "Curius",
+        "id": 501651
+    },
+    "501652": {
+        "text": "Mayahuel",
+        "id": 501652
+    },
+    "501653": {
+        "text": "Mineer",
+        "id": 501653
+    },
+    "501654": {
+        "text": "Gracin",
+        "id": 501654
+    },
+    "501655": {
+        "text": "Sher",
+        "id": 501655
+    },
+    "501656": {
+        "text": "Witch of the Void",
+        "id": 501656
+    },
+    "501657": {
+        "text": "Maid of the Belfry",
+        "id": 501657
+    },
+    "501658": {
+        "text": "Spell-breaking Spear",
+        "id": 501658
+    },
+    "501659": {
+        "text": "Saintess of Lunia",
+        "id": 501659
+    },
+    "501660": {
+        "text": "Fiend of Vanity",
+        "id": 501660
+    },
+    "501661": {
+        "text": "Dance of Passion",
+        "id": 501661
+    },
+    "501662": {
+        "text": "Werewolf under the Moon",
+        "id": 501662
+    },
+    "501663": {
+        "text": "Defender of Holiness",
+        "id": 501663
+    },
+    "501664": {
+        "text": "Floral Apothecary",
+        "id": 501664
+    },
+    "501665": {
+        "text": "Melody of the Lake",
+        "id": 501665
+    },
+    "501666": {
+        "text": "Cloistered Princess",
+        "id": 501666
+    },
+    "501667": {
+        "text": "Elementalist of Vitality",
+        "id": 501667
+    },
+    "501668": {
+        "text": "Sword Maiden of Shooting Stars",
+        "id": 501668
+    },
+    "501669": {
+        "text": "Deathbringer",
+        "id": 501669
+    },
+    "501670": {
+        "text": "Frost Witch",
+        "id": 501670
+    },
+    "501671": {
+        "text": "Swordswoman of Squall",
+        "id": 501671
+    },
+    "501672": {
+        "text": "Dragon Lass",
+        "id": 501672
+    },
+    "501673": {
+        "text": "Will of the God",
+        "id": 501673
+    },
+    "501674": {
+        "text": "Coming soon",
+        "id": 501674
+    },
+    "501675": {
+        "text": "Follower of Destiny",
+        "id": 501675
+    },
+    "501676": {
+        "text": "Flower of the Battlefield",
+        "id": 501676
+    },
+    "501677": {
+        "text": "The Revenger",
+        "id": 501677
+    },
+    "501678": {
+        "text": "Sacrifice to the Abyss",
+        "id": 501678
+    },
+    "501679": {
+        "text": "The Miracle",
+        "id": 501679
+    },
+    "501680": {
+        "text": "Angel of Deception",
+        "id": 501680
+    },
+    "501681": {
+        "text": "Balance Enforcer",
+        "id": 501681
+    },
+    "501682": {
+        "text": "Scarlet Maid",
+        "id": 501682
+    },
+    "501683": {
+        "text": "Crimson Maiden of War",
+        "id": 501683
+    },
+    "501684": {
+        "text": "Clockwork-Doll",
+        "id": 501684
+    },
+    "501685": {
+        "text": "Azure Archer of Wind",
+        "id": 501685
+    },
+    "501686": {
+        "text": "Fortune Teller",
+        "id": 501686
+    },
+    "501687": {
+        "text": "Punisher of Holiness",
+        "id": 501687
+    },
+    "501688": {
+        "text": "Queen of the Forest",
+        "id": 501688
+    },
+    "501689": {
+        "text": "Warped Hymn",
+        "id": 501689
+    },
+    "501690": {
+        "text": "Annihilator of Existence",
+        "id": 501690
+    },
+    "501691": {
+        "text": "Princess of Aurora",
+        "id": 501691
+    },
+    "501692": {
+        "text": "Red Pupils of Madness",
+        "id": 501692
+    },
+    "501693": {
+        "text": "Guard of Talon",
+        "id": 501693
+    },
+    "501694": {
+        "text": "Dominator of Souls",
+        "id": 501694
+    },
+    "501695": {
+        "text": "Claw of Destiny",
+        "id": 501695
+    },
+    "501696": {
+        "text": "Doll Master",
+        "id": 501696
+    },
+    "501697": {
+        "text": "Queen of the Desert",
+        "id": 501697
+    },
+    "501698": {
+        "text": "Bard of the Deceased",
+        "id": 501698
+    },
+    "501699": {
+        "text": "Immortal Ovate",
+        "id": 501699
+    },
+    "501700": {
+        "text": "Truth Seeker",
+        "id": 501700
+    },
+    "501701": {
+        "text": "Earth's Blessing",
+        "id": 501701
+    },
+    "501702": {
+        "text": "Goddess of Kaamos",
+        "id": 501702
+    },
+    "501703": {
+        "text": "Scarlet Moon",
+        "id": 501703
+    },
+    "501704": {
+        "text": "Deliverer of the Underworld",
+        "id": 501704
+    },
+    "501705": {
+        "text": "Coffin of Voidness",
+        "id": 501705
+    },
+    "501706": {
+        "text": "Guard of the Royal Capital",
+        "id": 501706
+    },
+    "501707": {
+        "text": "Hybrid Healer",
+        "id": 501707
+    },
+    "501708": {
+        "text": "Petite Healer",
+        "id": 501708
+    },
+    "501709": {
+        "text": "Beach Rambler",
+        "id": 501709
+    },
+    "501710": {
+        "text": "Poet of Paradise",
+        "id": 501710
+    },
+    "501711": {
+        "text": "Twin Strangler",
+        "id": 501711
+    },
+    "501712": {
+        "text": "Princess of the Sun",
+        "id": 501712
+    },
+    "501713": {
+        "text": "Justice Bringer",
+        "id": 501713
+    },
+    "501714": {
+        "text": "Deacon of Darkness",
+        "id": 501714
+    },
+    "501715": {
+        "text": "Vermilion Phoenix",
+        "id": 501715
+    },
+    "501716": {
+        "text": "Son of the True Day",
+        "id": 501716
+    },
+    "501717": {
+        "text": "Demonsbane Spear",
+        "id": 501717
+    },
+    "501718": {
+        "text": "Scarce Mage",
+        "id": 501718
+    },
+    "501719": {
+        "text": "Guard of the Mirror",
+        "id": 501719
+    },
+    "501720": {
+        "text": "Executor of God's Grace",
+        "id": 501720
+    },
+    "501721": {
+        "text": "Tear of Gems",
+        "id": 501721
+    },
+    "501722": {
+        "text": "Rabbit of Fairyland",
+        "id": 501722
+    },
+    "501723": {
+        "text": "Ghost Executioner",
+        "id": 501723
+    },
+    "501724": {
+        "text": "Herald of God",
+        "id": 501724
+    },
+    "501725": {
+        "text": "Forest Blessing",
+        "id": 501725
+    },
+    "501726": {
+        "text": "Blessing of the Night",
+        "id": 501726
+    },
+    "501727": {
+        "text": "Plague Doctor",
+        "id": 501727
+    },
+    "501728": {
+        "text": "Wanderer of Fate",
+        "id": 501728
+    },
+    "501729": {
+        "text": "Current Health",
+        "id": 501729
+    },
+    "501730": {
+        "text": "Health",
+        "id": 501730
+    },
+    "501731": {
+        "text": "Attack",
+        "id": 501731
+    },
+    "501732": {
+        "text": "Attack",
+        "id": 501732
+    },
+    "501733": {
+        "text": "Physical DEF",
+        "id": 501733
+    },
+    "501734": {
+        "text": "Magical DEF",
+        "id": 501734
+    },
+    "501735": {
+        "text": "Speed",
+        "id": 501735
+    },
+    "501736": {
+        "text": "Damage Dealt",
+        "id": 501736
+    },
+    "501737": {
+        "text": "Physical Damage Bonus",
+        "id": 501737
+    },
+    "501738": {
+        "text": "Physical Damage Reduction",
+        "id": 501738
+    },
+    "501739": {
+        "text": "Magical Damage Bonus",
+        "id": 501739
+    },
+    "501740": {
+        "text": "Magical Damage Reduction",
+        "id": 501740
+    },
+    "501741": {
+        "text": "Crit Chance",
+        "id": 501741
+    },
+    "501742": {
+        "text": "Crit Ratio",
+        "id": 501742
+    },
+    "501743": {
+        "text": "0",
+        "id": 501743
+    },
+    "501744": {
+        "text": "0",
+        "id": 501744
+    },
+    "501745": {
+        "text": "Attack Speed",
+        "id": 501745
+    },
+    "501746": {
+        "text": "Dodge Chance",
+        "id": 501746
+    },
+    "501747": {
+        "text": "Physical Life Steal",
+        "id": 501747
+    },
+    "501748": {
+        "text": "Magical Life Steal",
+        "id": 501748
+    },
+    "501749": {
+        "text": "Physical Block",
+        "id": 501749
+    },
+    "501750": {
+        "text": "Magic Block",
+        "id": 501750
+    },
+    "501751": {
+        "text": "Damage Taken",
+        "id": 501751
+    },
+    "501752": {
+        "text": "Magic Dodge Chance",
+        "id": 501752
+    },
+    "501753": {
+        "text": "Physical Penetration",
+        "id": 501753
+    },
+    "501754": {
+        "text": "Magic Penetration",
+        "id": 501754
+    },
+    "501755": {
+        "text": "Crit Resistance",
+        "id": 501755
+    },
+    "501756": {
+        "text": "0",
+        "id": 501756
+    },
+    "501757": {
+        "text": "Bonus Physical DMG",
+        "id": 501757
+    },
+    "501758": {
+        "text": "Bonus Magic DMG",
+        "id": 501758
+    },
+    "501759": {
+        "text": "Healing Bonus",
+        "id": 501759
+    }
+}

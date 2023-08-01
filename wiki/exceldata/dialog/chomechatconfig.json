@@ -1,0 +1,462 @@
+[
+    {
+        "nextDialog": 0,
+        "id": 1,
+        "character": 1,
+        "effectRange": "1",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "1"
+    },
+    {
+        "nextDialog": 0,
+        "id": 2,
+        "character": 1,
+        "effectRange": "1",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "2"
+    },
+    {
+        "nextDialog": 0,
+        "id": 3,
+        "character": 1,
+        "effectRange": "2",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "3"
+    },
+    {
+        "nextDialog": 0,
+        "id": 4,
+        "character": 1,
+        "effectRange": "2",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "6"
+    },
+    {
+        "nextDialog": 0,
+        "id": 5,
+        "character": 1,
+        "effectRange": "3",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "7"
+    },
+    {
+        "nextDialog": 0,
+        "id": 6,
+        "character": 1,
+        "effectRange": "4,6",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "9"
+    },
+    {
+        "nextDialog": 0,
+        "id": 7,
+        "character": 1,
+        "effectRange": "7,8",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "11"
+    },
+    {
+        "nextDialog": 0,
+        "id": 8,
+        "character": 1,
+        "effectRange": "9,10",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "14"
+    },
+    {
+        "nextDialog": 0,
+        "id": 9,
+        "character": 1,
+        "effectRange": "9,10",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "16"
+    },
+    {
+        "nextDialog": 0,
+        "id": 10,
+        "character": 1,
+        "effectRange": "11,12",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "19"
+    },
+    {
+        "nextDialog": 0,
+        "id": 11,
+        "character": 1,
+        "effectRange": "11,12",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "21"
+    },
+    {
+        "nextDialog": 0,
+        "id": 12,
+        "character": 1,
+        "effectRange": "13",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "23"
+    },
+    {
+        "nextDialog": 0,
+        "id": 13,
+        "character": 1,
+        "effectRange": "14",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "25"
+    },
+    {
+        "nextDialog": 0,
+        "id": 14,
+        "character": 1,
+        "effectRange": "15",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "27"
+    },
+    {
+        "nextDialog": 0,
+        "id": 15,
+        "character": 1,
+        "effectRange": "16",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "28"
+    },
+    {
+        "nextDialog": 0,
+        "id": 16,
+        "character": 1,
+        "effectRange": "17",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "31"
+    },
+    {
+        "nextDialog": 0,
+        "id": 17,
+        "character": 1,
+        "effectRange": "18,20",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "32"
+    },
+    {
+        "nextDialog": 0,
+        "id": 18,
+        "character": 1,
+        "effectRange": "21,23",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "33"
+    },
+    {
+        "nextDialog": 0,
+        "id": 19,
+        "character": 1,
+        "effectRange": "24,25",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "36"
+    },
+    {
+        "nextDialog": 0,
+        "id": 20,
+        "character": 1,
+        "effectRange": "26,28",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "43"
+    },
+    {
+        "nextDialog": 0,
+        "id": 21,
+        "character": 1,
+        "effectRange": "26,28",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "48"
+    },
+    {
+        "nextDialog": 0,
+        "id": 22,
+        "character": 1,
+        "effectRange": "29,31",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "51"
+    },
+    {
+        "nextDialog": 0,
+        "id": 23,
+        "character": 1,
+        "effectRange": "32,33",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "56"
+    },
+    {
+        "nextDialog": 0,
+        "id": 24,
+        "character": 1,
+        "effectRange": "32,33",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "60"
+    },
+    {
+        "nextDialog": 0,
+        "id": 25,
+        "character": 1,
+        "effectRange": "34,36",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "61"
+    },
+    {
+        "nextDialog": 0,
+        "id": 26,
+        "character": 1,
+        "effectRange": "37,38",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "64"
+    },
+    {
+        "nextDialog": 0,
+        "id": 27,
+        "character": 1,
+        "effectRange": "39,40",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "66"
+    },
+    {
+        "nextDialog": 0,
+        "id": 28,
+        "character": 1,
+        "effectRange": "41",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "67"
+    },
+    {
+        "nextDialog": 0,
+        "id": 29,
+        "character": 1,
+        "effectRange": "41",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "68"
+    },
+    {
+        "nextDialog": 0,
+        "id": 30,
+        "character": 1,
+        "effectRange": "41",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "69"
+    },
+    {
+        "nextDialog": 0,
+        "id": 31,
+        "character": 1,
+        "effectRange": "41",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "70"
+    },
+    {
+        "nextDialog": 0,
+        "id": 32,
+        "character": 1,
+        "effectRange": "6,91",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "71"
+    },
+    {
+        "nextDialog": 0,
+        "id": 33,
+        "character": 2,
+        "effectRange": "-1",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "talk",
+        "dialogList": "72"
+    },
+    {
+        "nextDialog": 0,
+        "id": 34,
+        "character": 2,
+        "effectRange": "-1",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "laugh",
+        "dialogList": "73"
+    },
+    {
+        "nextDialog": 0,
+        "id": 35,
+        "character": 1,
+        "effectRange": "-1",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "74"
+    },
+    {
+        "nextDialog": 0,
+        "id": 36,
+        "character": 1,
+        "effectRange": "48,55",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "75"
+    },
+    {
+        "nextDialog": 0,
+        "id": 37,
+        "character": 1,
+        "effectRange": "56,61",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "77"
+    },
+    {
+        "nextDialog": 0,
+        "id": 38,
+        "character": 1,
+        "effectRange": "62,67",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "79"
+    },
+    {
+        "nextDialog": 0,
+        "id": 39,
+        "character": 1,
+        "effectRange": "58,73",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "80"
+    },
+    {
+        "nextDialog": 0,
+        "id": 40,
+        "character": 1,
+        "effectRange": "74,78",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "83"
+    },
+    {
+        "nextDialog": 0,
+        "id": 41,
+        "character": 1,
+        "effectRange": "79,84",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "85"
+    },
+    {
+        "nextDialog": 0,
+        "id": 42,
+        "character": 1,
+        "effectRange": "85,87",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "86"
+    },
+    {
+        "nextDialog": 0,
+        "id": 43,
+        "character": 1,
+        "effectRange": "88",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "87"
+    },
+    {
+        "nextDialog": 0,
+        "id": 44,
+        "character": 1,
+        "effectRange": "89,90",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "88"
+    },
+    {
+        "nextDialog": 0,
+        "id": 45,
+        "character": 1,
+        "effectRange": "89,90",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "89"
+    },
+    {
+        "nextDialog": 0,
+        "id": 46,
+        "character": 1,
+        "effectRange": "89,90",
+        "weight": 1,
+        "wetherOnlyOnce": 0,
+        "animation": "0",
+        "dialogList": "90"
+    }
+]

@@ -1,0 +1,1780 @@
+{
+    "256": {
+        "effectName": "BOSS_TX_W6_02_shouhuzhedeweiyan_zishen",
+        "id": 256,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_w6_2.assetbundle"
+    },
+    "1": {
+        "effectName": "BOSS_TX_t1_02_wudi_1",
+        "id": 1,
+        "socket": "ShootPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_t1_02.assetbundle"
+    },
+    "2": {
+        "effectName": "BOSS_TX_t1_02_wudi_2",
+        "id": 2,
+        "socket": "ShootPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_t1_02.assetbundle"
+    },
+    "3": {
+        "effectName": "Mon_TX_T1_07_meihuo_buff",
+        "id": 3,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_t1_07.assetbundle"
+    },
+    "4": {
+        "effectName": "Mon_TX_W1_47_hunshui_buff",
+        "id": 4,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w1_47.assetbundle"
+    },
+    "5": {
+        "effectName": "TX_Prefab_rouguang_buff",
+        "id": 5,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.common.assetbundle"
+    },
+    "6": {
+        "effectName": "TX_tongyong_yun",
+        "id": 6,
+        "socket": "HitPoint_Head",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.common.assetbundle"
+    },
+    "7": {
+        "effectName": "Char_006_TX_Prefab_TianShi_buff",
+        "id": 7,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_006.assetbundle"
+    },
+    "8": {
+        "effectName": "Char_014_TX_Prefab_yingwuxianshen",
+        "id": 8,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_014.assetbundle"
+    },
+    "9": {
+        "effectName": "Char_014_TX_Prefab_yingwuxiaoshi",
+        "id": 9,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_014.assetbundle"
+    },
+    "10": {
+        "effectName": "Char_014_TX_Prefab_yingwuxianshen",
+        "id": 10,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_014.assetbundle"
+    },
+    "11": {
+        "effectName": "Char_014_TX_Prefab_yingwuxiaoshi",
+        "id": 11,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_014.assetbundle"
+    },
+    "12": {
+        "effectName": "Char_003_TX_Prefab_QingReZhiWu_buff",
+        "id": 12,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_003.assetbundle"
+    },
+    "13": {
+        "effectName": "Char_002_TX_LeiJian",
+        "id": 13,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_002.assetbundle"
+    },
+    "270": {
+        "effectName": "Char_098_m2_dun_hp",
+        "id": 270,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_098.assetbundle"
+    },
+    "15": {
+        "effectName": "Char_002_TX_xuanfengzhan_loop",
+        "id": 15,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_002.assetbundle"
+    },
+    "17": {
+        "effectName": "Char_002_TX_xuanfengzhan_lighting_loop",
+        "id": 17,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_002.assetbundle"
+    },
+    "19": {
+        "effectName": "BOSS_TX_w1_02_tengman_chanyao",
+        "id": 19,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_w1_02.assetbundle"
+    },
+    "271": {
+        "effectName": "Char_103_v1_TX_Prefab_YaoJingZhuFu_hudun",
+        "id": 271,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_103_v1.assetbundle"
+    },
+    "21": {
+        "effectName": "Char_019_TX_Prefab_ChuiXue_XiaoShi",
+        "id": 21,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_019.assetbundle"
+    },
+    "22": {
+        "effectName": "Char_018_TX_Prefab_PingZhang",
+        "id": 22,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_018.assetbundle"
+    },
+    "23": {
+        "effectName": "Char_018_TX_Prefab_PingZhang_hit",
+        "id": 23,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_018.assetbundle"
+    },
+    "24": {
+        "effectName": "Char_018_TX_Prefab_ShouHu",
+        "id": 24,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_018.assetbundle"
+    },
+    "25": {
+        "effectName": "Char_014_TX_Prefab_yinji",
+        "id": 25,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_014.assetbundle"
+    },
+    "26": {
+        "effectName": "Char_019_TX_Prefab_ChuiXue_JianSu",
+        "id": 26,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_019.assetbundle"
+    },
+    "269": {
+        "effectName": "Char_109_Dun_B",
+        "id": 269,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_109.assetbundle"
+    },
+    "28": {
+        "effectName": "Char_019_TX_Prefab_BingFeng",
+        "id": 28,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_019.assetbundle"
+    },
+    "29": {
+        "effectName": "BOSS_TX_t1_02_ShiZhiJinGu_zouni",
+        "id": 29,
+        "socket": "HitPoint",
+        "isInEffectSocket": "1",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_t1_02.assetbundle"
+    },
+    "30": {
+        "effectName": "BOSS_TX_t1_02_ShiZhiJinGu_huilai",
+        "id": 30,
+        "socket": "HitPoint",
+        "isInEffectSocket": "1",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_t1_02.assetbundle"
+    },
+    "31": {
+        "effectName": "Char_015_TX_Prefab_ShenShouDeJiaHu",
+        "id": 31,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_015.assetbundle"
+    },
+    "32": {
+        "effectName": "Mon_TX_W1_48_suijia_buff",
+        "id": 32,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w1_48.assetbundle"
+    },
+    "33": {
+        "effectName": "Mon_TX_W1_49_kuanghua_Buff",
+        "id": 33,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w1_49.assetbundle"
+    },
+    "34": {
+        "effectName": "Mon_TX_W1_49_kuanghua",
+        "id": 34,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w1_49.assetbundle"
+    },
+    "35": {
+        "effectName": "Char_016_TX_Prefab_QinYinHuTi",
+        "id": 35,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_016.assetbundle"
+    },
+    "36": {
+        "effectName": "Mon_TX_T1_27_kuanghua",
+        "id": 36,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_t1_27.assetbundle"
+    },
+    "37": {
+        "effectName": "BOSS_TX_w1_02_baozi_buff",
+        "id": 37,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_w1_02.assetbundle"
+    },
+    "38": {
+        "effectName": "Char_019_TX_Prefab_BingFeng_dimian",
+        "id": 38,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_019.assetbundle"
+    },
+    "39": {
+        "effectName": "Char_019_TX_Prefab_BingFeng_suilie",
+        "id": 39,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_019.assetbundle"
+    },
+    "40": {
+        "effectName": "Char_021_TX_Prefab_XingHongFengBao_huifu",
+        "id": 40,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_021.assetbundle"
+    },
+    "41": {
+        "effectName": "Char_027_TX_Prefab_GouTong",
+        "id": 41,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_027.assetbundle"
+    },
+    "42": {
+        "effectName": "Char_027_TX_Prefab_SuMing_buff",
+        "id": 42,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_027.assetbundle"
+    },
+    "43": {
+        "effectName": "Char_003_TX_HuoLiZhiWu_jianshang",
+        "id": 43,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_003.assetbundle"
+    },
+    "268": {
+        "effectName": "Char_032_v1_shenzhibiyou_buff_B",
+        "id": 268,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_032_v1.assetbundle"
+    },
+    "45": {
+        "effectName": "Char_027_TX_Prefab_SuMing",
+        "id": 45,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_027.assetbundle"
+    },
+    "46": {
+        "effectName": "Char_031_TX_Prefab_lianjie_buff",
+        "id": 46,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_031.assetbundle"
+    },
+    "267": {
+        "effectName": "Char_032_v1_RongYaoZhiQi_hudun",
+        "id": 267,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_032_v1.assetbundle"
+    },
+    "266": {
+        "effectName": "Char_043_v1_ZhiMingDuWu_buff",
+        "id": 266,
+        "socket": "HitPoint_Head",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_043.assetbundle"
+    },
+    "49": {
+        "effectName": "Char_026_TX_debuff",
+        "id": 49,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_026.assetbundle"
+    },
+    "50": {
+        "effectName": "Char_030_TX_ChiSeLiuXing",
+        "id": 50,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_030.assetbundle"
+    },
+    "51": {
+        "effectName": "Char_042_TX_DiZhiBiYou_att",
+        "id": 51,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_042.assetbundle"
+    },
+    "52": {
+        "effectName": "Char_030_TX_ZhuHongZhan_hudun",
+        "id": 52,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_030.assetbundle"
+    },
+    "53": {
+        "effectName": "Char_007_TX_LangHao_Buff",
+        "id": 53,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_007.assetbundle"
+    },
+    "54": {
+        "effectName": "Char_007_TX_SiYao_jiaxue",
+        "id": 54,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_007.assetbundle"
+    },
+    "55": {
+        "effectName": "Char_034_TX_GuanZhiBi_buff",
+        "id": 55,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_034.assetbundle"
+    },
+    "56": {
+        "effectName": "Char_035_TX_CangQiongZhiFeng_shun",
+        "id": 56,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_035.assetbundle"
+    },
+    "57": {
+        "effectName": "Char_035_TX_CangQiongZhiFeng_ni",
+        "id": 57,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_035.assetbundle"
+    },
+    "58": {
+        "effectName": "Char_029_TX_XuLiYiJi",
+        "id": 58,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_029.assetbundle"
+    },
+    "59": {
+        "effectName": "N001_TX_ZhuoShao_Buff",
+        "id": 59,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.n001.assetbundle"
+    },
+    "60": {
+        "effectName": "BOSS_TX_w2_01_bingtuxi_buff",
+        "id": 60,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_w2_01.assetbundle"
+    },
+    "61": {
+        "effectName": "Mon_TX_T2_06_ShiJianSuoDing_zouni",
+        "id": 61,
+        "socket": "HitPoint",
+        "isInEffectSocket": "1",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_t2_06.assetbundle"
+    },
+    "62": {
+        "effectName": "Mon_TX_T2_06_ShiJianSuoDing_huilai",
+        "id": 62,
+        "socket": "HitPoint",
+        "isInEffectSocket": "1",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_t2_06.assetbundle"
+    },
+    "63": {
+        "effectName": "TX_Prefab_fanrong_buff",
+        "id": 63,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_001.assetbundle"
+    },
+    "64": {
+        "effectName": "TX_Prefab_ZhenJie_buff",
+        "id": 64,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.common.assetbundle"
+    },
+    "65": {
+        "effectName": "Char_039_TX_MengPu0_smoke",
+        "id": 65,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_039.assetbundle"
+    },
+    "66": {
+        "effectName": "Char_039_TX_MengPu0_disappear",
+        "id": 66,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_039.assetbundle"
+    },
+    "67": {
+        "effectName": "Char_039_TX_SiSui0_line",
+        "id": 67,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_039.assetbundle"
+    },
+    "68": {
+        "effectName": "Char_039_TX_SiSui0_disappear",
+        "id": 68,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_039.assetbundle"
+    },
+    "69": {
+        "effectName": "Char_007_TX_Prefab_chuxian",
+        "id": 69,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_007.assetbundle"
+    },
+    "70": {
+        "effectName": "Mon_TX_W2_13_biaoji_buff",
+        "id": 70,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w2_13.assetbundle"
+    },
+    "71": {
+        "effectName": "Mon_TX_W2_14_haoling_buff",
+        "id": 71,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w2_14.assetbundle"
+    },
+    "72": {
+        "effectName": "Mon_TX_W2_08_minruici_buff",
+        "id": 72,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w2_08.assetbundle"
+    },
+    "73": {
+        "effectName": "BOSS_TX_w2_02_baofengxue_01",
+        "id": 73,
+        "socket": "HitPoint_Bottom2",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_w2_02.assetbundle"
+    },
+    "74": {
+        "effectName": "TX_tongyong_pugong_gongjian",
+        "id": 74,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.common.assetbundle"
+    },
+    "75": {
+        "effectName": "BOSS_TX_w2_02_xulijiaxue_xuli",
+        "id": 75,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_w2_02.assetbundle"
+    },
+    "76": {
+        "effectName": "Char_043_TX_ZhiMingDuWu_buff",
+        "id": 76,
+        "socket": "HitPoint_Head",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_043.assetbundle"
+    },
+    "77": {
+        "effectName": "Char_037_TX_Prefab_ZhanBu_XieLou",
+        "id": 77,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_037.assetbundle"
+    },
+    "78": {
+        "effectName": "Char_049_TX_BDXL_buff",
+        "id": 78,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_049.assetbundle"
+    },
+    "79": {
+        "effectName": "Char_037_TX_Prefab_ZhanBu_loop",
+        "id": 79,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_037.assetbundle"
+    },
+    "80": {
+        "effectName": "Char_037_TX_Prefab_ZhanBu_end",
+        "id": 80,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_037.assetbundle"
+    },
+    "81": {
+        "effectName": "Char_052_TX_TSZX_zishen_buff",
+        "id": 81,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_052.assetbundle"
+    },
+    "82": {
+        "effectName": "Char_052_TX_TSZX_hudun_buff",
+        "id": 82,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_052.assetbundle"
+    },
+    "83": {
+        "effectName": "Char_037_TX_Prefab_XieLou_gaoji",
+        "id": 83,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_037.assetbundle"
+    },
+    "261": {
+        "effectName": "Char_052_v1_TX_TSZX_hudun_buff",
+        "id": 261,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_052_v1.assetbundle"
+    },
+    "85": {
+        "effectName": "Char_040_TX_jiguang_B",
+        "id": 85,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_040.assetbundle"
+    },
+    "86": {
+        "effectName": "Char_060_TX_CYZY_buff_B",
+        "id": 86,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_060.assetbundle"
+    },
+    "87": {
+        "effectName": "Char_060_TX_FHH_buff_Head",
+        "id": 87,
+        "socket": "HitPoint_Head",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_060.assetbundle"
+    },
+    "88": {
+        "effectName": "Char_060_TX_NiePan_buff_H",
+        "id": 88,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_060.assetbundle"
+    },
+    "89": {
+        "effectName": "Char_058_TX_Prefab_RiZhiZhou_buff",
+        "id": 89,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_058.assetbundle"
+    },
+    "90": {
+        "effectName": "Char_036_TX_Prefab_ShouHuLing_H",
+        "id": 90,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_036.assetbundle"
+    },
+    "91": {
+        "effectName": "Char_036_TX_Prefab_ShouHuLing_att_H",
+        "id": 91,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_036.assetbundle"
+    },
+    "92": {
+        "effectName": "Char_036_TX_Prefab_ShouHuLing_02_H",
+        "id": 92,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_036.assetbundle"
+    },
+    "93": {
+        "effectName": "Char_053_TX_ZhiYuZhiShou_H",
+        "id": 93,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_053.assetbundle"
+    },
+    "94": {
+        "effectName": "Char_053_TX_ZhiYuZhiShou_B",
+        "id": 94,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_053.assetbundle"
+    },
+    "95": {
+        "effectName": "Char_053_TX_AnFu_H",
+        "id": 95,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_053.assetbundle"
+    },
+    "96": {
+        "effectName": "Char_027_TX_YingHuaYu_buff_B",
+        "id": 96,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_027.assetbundle"
+    },
+    "97": {
+        "effectName": "Char_001_TX_ShiJianHuiSu_buff",
+        "id": 97,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_001.assetbundle"
+    },
+    "98": {
+        "effectName": "Char_051_TX_ChiTong",
+        "id": 98,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_051.assetbundle"
+    },
+    "99": {
+        "effectName": "Char_051_TX_ChiTong_att",
+        "id": 99,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_051.assetbundle"
+    },
+    "260": {
+        "effectName": "Char_052_v1_TX_TSZX_zishen_buff_B",
+        "id": 260,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_052_v1.assetbundle"
+    },
+    "101": {
+        "effectName": "Char_054_TX_Prefab_ZhiYuHaiLang_hudun",
+        "id": 101,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_054.assetbundle"
+    },
+    "102": {
+        "effectName": "Char_027_TX_XueSeHuaLian_B",
+        "id": 102,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_027.assetbundle"
+    },
+    "103": {
+        "effectName": "Char_027_TX_Dun_HP",
+        "id": 103,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_027.assetbundle"
+    },
+    "259": {
+        "effectName": "Char_120_TX_beidong",
+        "id": 259,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_120.assetbundle"
+    },
+    "258": {
+        "effectName": "Char_112_Dun_loop_B",
+        "id": 258,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_112.assetbundle"
+    },
+    "106": {
+        "effectName": "Mon_TX_T1_27_kuanghua",
+        "id": 106,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_t1_27.assetbundle"
+    },
+    "107": {
+        "effectName": "Mon_TX_T1_27_kuanghua",
+        "id": 107,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_t1_27.assetbundle"
+    },
+    "108": {
+        "effectName": "Mon_TX_T1_27_kuanghua",
+        "id": 108,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_t1_27.assetbundle"
+    },
+    "109": {
+        "effectName": "Mon_TX_T1_27_kuanghua",
+        "id": 109,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_t1_27.assetbundle"
+    },
+    "110": {
+        "effectName": "Mon_TX_T1_27_kuanghua",
+        "id": 110,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_t1_27.assetbundle"
+    },
+    "111": {
+        "effectName": "Mon_TX_T1_27_kuanghua",
+        "id": 111,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_t1_27.assetbundle"
+    },
+    "112": {
+        "effectName": "Mon_TX_T1_27_kuanghua",
+        "id": 112,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_t1_27.assetbundle"
+    },
+    "113": {
+        "effectName": "Mon_TX_T1_27_kuanghua",
+        "id": 113,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_t1_27.assetbundle"
+    },
+    "114": {
+        "effectName": "Mon_TX_T1_27_YuanLing_buff",
+        "id": 114,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_t1_27.assetbundle"
+    },
+    "115": {
+        "effectName": "Mon_TX_W1_47_LinPianHuDun",
+        "id": 115,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w1_47.assetbundle"
+    },
+    "116": {
+        "effectName": "Char_062_TX_GuangHui_att_HP",
+        "id": 116,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_062.assetbundle"
+    },
+    "117": {
+        "effectName": "Char_062_TX_BaoShiPingZhang_HP",
+        "id": 117,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_062.assetbundle"
+    },
+    "257": {
+        "effectName": "Char_088_ShenXing_buff",
+        "id": 257,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_088.assetbundle"
+    },
+    "119": {
+        "effectName": "Mon_TX_T2_13_FuShe_buff",
+        "id": 119,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_t2_13.assetbundle"
+    },
+    "120": {
+        "effectName": "Char_017_TX_LCZhen_hei_HP",
+        "id": 120,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_017.assetbundle"
+    },
+    "121": {
+        "effectName": "Char_005_TX_QingReZhiWu_buff_B",
+        "id": 121,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_005.assetbundle"
+    },
+    "122": {
+        "effectName": "Char_005_TX_MeiHuoZhiWu_debuff",
+        "id": 122,
+        "socket": "HitPoint_Head",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_005.assetbundle"
+    },
+    "123": {
+        "effectName": "Char_072_ShenShengZhiLiao_Dun",
+        "id": 123,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_072.assetbundle"
+    },
+    "124": {
+        "effectName": "Char_072_QiDao_buff",
+        "id": 124,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_072.assetbundle"
+    },
+    "125": {
+        "effectName": "char_057_DunXunHuan",
+        "id": 125,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_057.assetbundle"
+    },
+    "126": {
+        "effectName": "Char_065_CiSha_lan",
+        "id": 126,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_065.assetbundle"
+    },
+    "127": {
+        "effectName": "Char_065_CiSha_red",
+        "id": 127,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_065.assetbundle"
+    },
+    "128": {
+        "effectName": "Char_076_jingjihujia_buff",
+        "id": 128,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_076.assetbundle"
+    },
+    "129": {
+        "effectName": "Char_032_RongYaoZhiQi_hudun",
+        "id": 129,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_032.assetbundle"
+    },
+    "130": {
+        "effectName": "Char_032_shenzhibiyou_buff_B",
+        "id": 130,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_032.assetbundle"
+    },
+    "131": {
+        "effectName": "Char_066_TX_HuanJingZhiYou_H",
+        "id": 131,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_066.assetbundle"
+    },
+    "132": {
+        "effectName": "char_073_XingLuo_XingNeng",
+        "id": 132,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_073.assetbundle"
+    },
+    "133": {
+        "effectName": "Mon_TX_W3_28_kuanghua",
+        "id": 133,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w3_28.assetbundle"
+    },
+    "134": {
+        "effectName": "Mon_TX_W3_26_att_debuff",
+        "id": 134,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w3_26.assetbundle"
+    },
+    "135": {
+        "effectName": "Char_070_TX_YueGuang_buff_B",
+        "id": 135,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_070.assetbundle"
+    },
+    "136": {
+        "effectName": "TX_Prefab_ZhuFu_buff",
+        "id": 136,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.common.assetbundle"
+    },
+    "137": {
+        "effectName": "TX_Prefab_TimeStop_end",
+        "id": 137,
+        "socket": "ShootPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.common.assetbundle"
+    },
+    "138": {
+        "effectName": "Char_070_TX_HuDun",
+        "id": 138,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_070.assetbundle"
+    },
+    "139": {
+        "effectName": "BOSS06shdow1_TX_Dun",
+        "id": 139,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_06shdow.assetbundle"
+    },
+    "140": {
+        "effectName": "BOSS07shdow02_TX_Dun",
+        "id": 140,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_06shdow.assetbundle"
+    },
+    "141": {
+        "effectName": "BOSS08shdow03_TX_Dun",
+        "id": 141,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_06shdow.assetbundle"
+    },
+    "142": {
+        "effectName": "BOSS09shdow04_TX_Dun",
+        "id": 142,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_06shdow.assetbundle"
+    },
+    "143": {
+        "effectName": "Mon_TX_W3_31_leiji_mabi",
+        "id": 143,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w3_31.assetbundle"
+    },
+    "144": {
+        "effectName": "Mon_TX_W3_31_leidianjixu",
+        "id": 144,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w3_31.assetbundle"
+    },
+    "145": {
+        "effectName": "Mon_TX_W3_01_duye_liuxue",
+        "id": 145,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w3_01.assetbundle"
+    },
+    "146": {
+        "effectName": "Mon_TX_W3_04_duye_fushi",
+        "id": 146,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w3_04.assetbundle"
+    },
+    "147": {
+        "effectName": "BOSS_05mana_TX_WeiYi_chuxian",
+        "id": 147,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_05mana.assetbundle"
+    },
+    "148": {
+        "effectName": "BOSS_05mana_TX_FeiE_buff",
+        "id": 148,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_05mana.assetbundle"
+    },
+    "149": {
+        "effectName": "BOSS08shdow3_TX_YinYing",
+        "id": 149,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_06shdow.assetbundle"
+    },
+    "150": {
+        "effectName": "Mon_w3_10_KuangHua_ZiShen",
+        "id": 150,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w3_10.assetbundle"
+    },
+    "151": {
+        "effectName": "Mon_w3_10_DuYeTuXi_KuangHua_att",
+        "id": 151,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w3_10.assetbundle"
+    },
+    "152": {
+        "effectName": "BOSS_05mana_TX_FenShen_appear",
+        "id": 152,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_05mana.assetbundle"
+    },
+    "153": {
+        "effectName": "Char_014_TX_Prefab_yingwuxianshen_nosound",
+        "id": 153,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_014.assetbundle"
+    },
+    "154": {
+        "effectName": "Char_014_TX_Prefab_yingwuxiaoshi_nosound",
+        "id": 154,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_014.assetbundle"
+    },
+    "155": {
+        "effectName": "Mon_TX_W3_35_du_debuff_B",
+        "id": 155,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w3_35.assetbundle"
+    },
+    "156": {
+        "effectName": "Mon_TX_W3_33__leidianzhuaji_buff",
+        "id": 156,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w3_33.assetbundle"
+    },
+    "157": {
+        "effectName": "Mon_TX_w3_32_kuanghua",
+        "id": 157,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w3_32.assetbundle"
+    },
+    "158": {
+        "effectName": "Mon_TX_w3_25_xieweiciji_chixudiaoxue",
+        "id": 158,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w3_25.assetbundle"
+    },
+    "159": {
+        "effectName": "Char_065_TX_Jushu_buff",
+        "id": 159,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_065.assetbundle"
+    },
+    "160": {
+        "effectName": "Char_065_TX_Jushu_sankai",
+        "id": 160,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_065.assetbundle"
+    },
+    "161": {
+        "effectName": "Char_065_TX_Fang_buff",
+        "id": 161,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_065.assetbundle"
+    },
+    "162": {
+        "effectName": "Char_065_TX_XuLi_fen_HP",
+        "id": 162,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_065.assetbundle"
+    },
+    "163": {
+        "effectName": "Char_065_TX_XuLi_lan_HP",
+        "id": 163,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_065.assetbundle"
+    },
+    "164": {
+        "effectName": "Mon_TX_W3_36_buff",
+        "id": 164,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w3_36.assetbundle"
+    },
+    "165": {
+        "effectName": "N007_AnHeiFuYin_buff_B",
+        "id": 165,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.n007.assetbundle"
+    },
+    "166": {
+        "effectName": "Mon_TX_W3_05_Linjia_dun",
+        "id": 166,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w3_05.assetbundle"
+    },
+    "167": {
+        "effectName": "BOSS06shdow1_TX_Dun_diss",
+        "id": 167,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_06shdow.assetbundle"
+    },
+    "168": {
+        "effectName": "BOSS07shdow2_TX_Dun_diss",
+        "id": 168,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_06shdow.assetbundle"
+    },
+    "169": {
+        "effectName": "BOSS08shdow3_TX_Dun_diss",
+        "id": 169,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_06shdow.assetbundle"
+    },
+    "170": {
+        "effectName": "BOSS09shdow4_TX_Dun_diss",
+        "id": 170,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_06shdow.assetbundle"
+    },
+    "171": {
+        "effectName": "Mon_TX_w3_32_kuanghua",
+        "id": 171,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w3_32.assetbundle"
+    },
+    "172": {
+        "effectName": "Mon_TX_base_boss01_MiShu_FaDiAn_QiangHua_Buff",
+        "id": 172,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_01mishu.assetbundle"
+    },
+    "173": {
+        "effectName": "Mon_TX_W3_37_dun_buff",
+        "id": 173,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w3_37.assetbundle"
+    },
+    "174": {
+        "effectName": "Mon_TX_W3_35_du_debuff_B",
+        "id": 174,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w3_35.assetbundle"
+    },
+    "175": {
+        "effectName": "Char_001_V1_TX_shikongzhuanyi_zouni",
+        "id": 175,
+        "socket": "HitPoint",
+        "isInEffectSocket": "1",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_001.assetbundle"
+    },
+    "176": {
+        "effectName": "Char_001_V1_TX_shikongzhuanyi_huilai",
+        "id": 176,
+        "socket": "HitPoint",
+        "isInEffectSocket": "1",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_001.assetbundle"
+    },
+    "177": {
+        "effectName": "Char_001_V1_TX_shijianjiasu",
+        "id": 177,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_001.assetbundle"
+    },
+    "178": {
+        "effectName": "Char_001_V1_TX_shijianjiasu_xiaoshi",
+        "id": 178,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_001.assetbundle"
+    },
+    "179": {
+        "effectName": "Mon_TX_base_boss01_XueQiBaiFa",
+        "id": 179,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_01mishu.assetbundle"
+    },
+    "180": {
+        "effectName": "Boss_TX_w3_03_TunShi_RenZou",
+        "id": 180,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "1",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_w3_03.assetbundle"
+    },
+    "181": {
+        "effectName": "Boss_TX_w3_03_TunShi_RenHui",
+        "id": 181,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "1",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_w3_03.assetbundle"
+    },
+    "182": {
+        "effectName": "BOSS02knight_TX_ZhuoShao_buff",
+        "id": 182,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_02knight.assetbundle"
+    },
+    "183": {
+        "effectName": "Mon_TX_W4_01_zibao_att",
+        "id": 183,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w4_01.assetbundle"
+    },
+    "184": {
+        "effectName": "Char_017_v1_dun",
+        "id": 184,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_017.assetbundle"
+    },
+    "185": {
+        "effectName": "Char_065_TX_XuLi_fen_HP",
+        "id": 185,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_065.assetbundle"
+    },
+    "186": {
+        "effectName": "Char_063_TX_jingzhishouhu_loop_B",
+        "id": 186,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_063.assetbundle"
+    },
+    "187": {
+        "effectName": "Char_048_TX_buff_lan_H",
+        "id": 187,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_048.assetbundle"
+    },
+    "188": {
+        "effectName": "Char_048_TX_buff_huang_H",
+        "id": 188,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_048.assetbundle"
+    },
+    "189": {
+        "effectName": "Char_048_TX_buff_red_H",
+        "id": 189,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_048.assetbundle"
+    },
+    "190": {
+        "effectName": "Char_012_buff_HP",
+        "id": 190,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_012.assetbundle"
+    },
+    "191": {
+        "effectName": "Char_058_TX_RiZhiZhou_buff_jin",
+        "id": 191,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_058.assetbundle"
+    },
+    "192": {
+        "effectName": "Mon_base_13_stand_B",
+        "id": 192,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_base_13.assetbundle"
+    },
+    "193": {
+        "effectName": "Mon_base_13_fumianqixi_buff_HP",
+        "id": 193,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_base_13.assetbundle"
+    },
+    "194": {
+        "effectName": "Mon_base_14_baonu_buff_B",
+        "id": 194,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_base_14.assetbundle"
+    },
+    "195": {
+        "effectName": "Mon_base_010_TanLan_ShiXue",
+        "id": 195,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_base_010.assetbundle"
+    },
+    "196": {
+        "effectName": "Char_001_V1_TX_shikongzhuanyi_zouni",
+        "id": 196,
+        "socket": "HitPoint",
+        "isInEffectSocket": "1",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_001.assetbundle"
+    },
+    "197": {
+        "effectName": "Char_001_V1_TX_shikongzhuanyi_huilai",
+        "id": 197,
+        "socket": "HitPoint",
+        "isInEffectSocket": "1",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_001.assetbundle"
+    },
+    "198": {
+        "effectName": "Mon_base_15_JingZhong_HP",
+        "id": 198,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_base_15.assetbundle"
+    },
+    "199": {
+        "effectName": "Mon_base_17_tunshi_HP",
+        "id": 199,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_base_17.assetbundle"
+    },
+    "200": {
+        "effectName": "Char_023_TX_Prefab_JunHeng",
+        "id": 200,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_023.assetbundle"
+    },
+    "201": {
+        "effectName": "Char_081_dun_B",
+        "id": 201,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_081.assetbundle"
+    },
+    "202": {
+        "effectName": "Char_081_ZhiYuZhiShou_B",
+        "id": 202,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_081.assetbundle"
+    },
+    "203": {
+        "effectName": "Mon_sum_02_LuanDa_HP",
+        "id": 203,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_sum_02.assetbundle"
+    },
+    "204": {
+        "effectName": "Char_078_TX_GeDang_HP",
+        "id": 204,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_078.assetbundle"
+    },
+    "205": {
+        "effectName": "Char_078_TX_GeDang_B_loop",
+        "id": 205,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_078.assetbundle"
+    },
+    "206": {
+        "effectName": "Char_078_TX_TingDun_HP_att",
+        "id": 206,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_078.assetbundle"
+    },
+    "207": {
+        "effectName": "Mon_sum_06_magic_HP",
+        "id": 207,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_sum_06.assetbundle"
+    },
+    "208": {
+        "effectName": "Char_079_Magic_Buff_HP",
+        "id": 208,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_079.assetbundle"
+    },
+    "209": {
+        "effectName": "Mon_sum_01_XuanWo_B",
+        "id": 209,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_sum_01.assetbundle"
+    },
+    "210": {
+        "effectName": "Mon_sum_03_LaoLong_B",
+        "id": 210,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_sum_03.assetbundle"
+    },
+    "211": {
+        "effectName": "Char_083_TX_debuff_HP",
+        "id": 211,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_083.assetbundle"
+    },
+    "212": {
+        "effectName": "Char_080_JinJiZhiShu_debuff_B",
+        "id": 212,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_080.assetbundle"
+    },
+    "213": {
+        "effectName": "Char_080_CiYuan_debuff_HP",
+        "id": 213,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_080.assetbundle"
+    },
+    "214": {
+        "effectName": "Char_110_maoshi_debuff_HP",
+        "id": 214,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_110.assetbundle"
+    },
+    "215": {
+        "effectName": "Char_108_Magic2_dun_B",
+        "id": 215,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_108.assetbundle"
+    },
+    "216": {
+        "effectName": "Char_110_yueyueyushi_dun_B",
+        "id": 216,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_110.assetbundle"
+    },
+    "217": {
+        "effectName": "Char_110_maoshi_debuff_HP",
+        "id": 217,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_110.assetbundle"
+    },
+    "218": {
+        "effectName": "Mon_chun01_yuansuhujia_zishen",
+        "id": 218,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_chun01.assetbundle"
+    },
+    "219": {
+        "effectName": "Mon_chun02_yuansuhujia_zishen",
+        "id": 219,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_chun01.assetbundle"
+    },
+    "220": {
+        "effectName": "Mon_chun03_yuansuhujia_zishen",
+        "id": 220,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_chun01.assetbundle"
+    },
+    "221": {
+        "effectName": "Char_100_magic2_dun",
+        "id": 221,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_100.assetbundle"
+    },
+    "222": {
+        "effectName": "Char_106_WuXinZhiShi_buff",
+        "id": 222,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_106.assetbundle"
+    },
+    "223": {
+        "effectName": "Char_049_v1_TX_BDXL_buff_HP",
+        "id": 223,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_049.assetbundle"
+    },
+    "224": {
+        "effectName": "Mon_vlt01_magic3_fly",
+        "id": 224,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_vlt01.assetbundle"
+    },
+    "225": {
+        "effectName": "Char_066_TX_HuanJingLiChang_buff",
+        "id": 225,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_066.assetbundle"
+    },
+    "226": {
+        "effectName": "Char_018_v1_TX_Prefab_PingZhang",
+        "id": 226,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_018.assetbundle"
+    },
+    "227": {
+        "effectName": "Char_018_v1_TX_Prefab_PingZhang_hit",
+        "id": 227,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_018.assetbundle"
+    },
+    "228": {
+        "effectName": "Char_018_v1_TX_Prefab_ShouHu",
+        "id": 228,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_018.assetbundle"
+    },
+    "229": {
+        "effectName": "Char_099_Stand_HP",
+        "id": 229,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_099.assetbundle"
+    },
+    "230": {
+        "effectName": "Char_099_yun_Head",
+        "id": 230,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_099.assetbundle"
+    },
+    "231": {
+        "effectName": "Char_046_TX_LangLingXueMai_buff",
+        "id": 231,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_046.assetbundle"
+    },
+    "232": {
+        "effectName": "Char_046_TX_LangLingZhenShe_hudun",
+        "id": 232,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_046.assetbundle"
+    },
+    "233": {
+        "effectName": "BOSS_TX_w6_4_jizhongdianliu_debuff",
+        "id": 233,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_w6_4.assetbundle"
+    },
+    "234": {
+        "effectName": "BOSS_TX_w6_4_nenglianghudun_zishen",
+        "id": 234,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_w6_4.assetbundle"
+    },
+    "235": {
+        "effectName": "BOSS_TX_w6_4_jizhongdianliu_debuff",
+        "id": 235,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_w6_4.assetbundle"
+    },
+    "236": {
+        "effectName": "Mon_TX_W3_m01_monengzhaohuan_att",
+        "id": 236,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.mon_w3_m01.assetbundle"
+    },
+    "237": {
+        "effectName": "Char_092_TX_ShanGuangDeAKaSha_buff",
+        "id": 237,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_092.assetbundle"
+    },
+    "238": {
+        "effectName": "Char_092_TX_XingGuangJiaShi_buff",
+        "id": 238,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_092.assetbundle"
+    },
+    "239": {
+        "effectName": "Char_103_TX_Prefab_YaoJingZhuFu_hudun",
+        "id": 239,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_103.assetbundle"
+    },
+    "240": {
+        "effectName": "Char_102_TX_Prefab_HongYeHe_hudun_loop",
+        "id": 240,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_102.assetbundle"
+    },
+    "241": {
+        "effectName": "Char_102_TX_Prefab_HongYeHe_hudun_end",
+        "id": 241,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_102.assetbundle"
+    },
+    "242": {
+        "effectName": "Char_102_TX_Prefab_HongYeHe_huixue",
+        "id": 242,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_102.assetbundle"
+    },
+    "243": {
+        "effectName": "Char_085_TX_Prefab_ZhiYuFenChen_buff",
+        "id": 243,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_085.assetbundle"
+    },
+    "244": {
+        "effectName": "BOSS_TX_w6_3_yunzhongmanbu_zishen",
+        "id": 244,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_w6_3.assetbundle"
+    },
+    "245": {
+        "effectName": "BOSS_TX_w6_3_feieranhuo_zishen",
+        "id": 245,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_w6_3.assetbundle"
+    },
+    "246": {
+        "effectName": "BOSS_TX_w6_3_yunqifanyong_penchu",
+        "id": 246,
+        "socket": "ShootPoint1",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_w6_3.assetbundle"
+    },
+    "247": {
+        "effectName": "Char_101_TX_Prefab_HaiZhiBiYou_buff",
+        "id": 247,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.char_101.assetbundle"
+    },
+    "248": {
+        "effectName": "BOSS_TX_kuangbao_M",
+        "id": 248,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.assetbundle"
+    },
+    "249": {
+        "effectName": "BOSS_TX_kuangbao_L",
+        "id": 249,
+        "socket": "HitPoint_Bottom",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.assetbundle"
+    },
+    "250": {
+        "effectName": "BOSS_TX_kuangbao_XL",
+        "id": 250,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.assetbundle"
+    },
+    "251": {
+        "effectName": "BOSS_TX_W6_01_nengliangxishou_hudun",
+        "id": 251,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_w6_1.assetbundle"
+    },
+    "252": {
+        "effectName": "BOSS_TX_W6_01_nengliangxishou_buff",
+        "id": 252,
+        "socket": "HitPoint",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_w6_1.assetbundle"
+    },
+    "253": {
+        "effectName": "BOSS_TX_W6_02_daiji",
+        "id": 253,
+        "socket": "HitPoint1",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_w6_2.assetbundle"
+    },
+    "254": {
+        "effectName": "BOSS_TX_W6_02_nengliangxishou_hudun",
+        "id": 254,
+        "socket": "HitPoint1",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_w6_2.assetbundle"
+    },
+    "255": {
+        "effectName": "BOSS_TX_W6_02_nengliangxishou_buff",
+        "id": 255,
+        "socket": "HitPoint1",
+        "isInEffectSocket": "0",
+        "packageName": "effects\/particles.prefabs.skilleffects.boss_w6_2.assetbundle"
+    }
+}

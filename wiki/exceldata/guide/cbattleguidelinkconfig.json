@@ -1,0 +1,225 @@
+[
+    {
+        "id": 1,
+        "parm": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "BattleId": 0,
+        "time": 1,
+        "limit": 1
+    },
+    {
+        "id": 2,
+        "parm": [
+            "5",
+            "6"
+        ],
+        "BattleId": 1187,
+        "time": 4,
+        "limit": 99
+    },
+    {
+        "id": 3,
+        "parm": {},
+        "BattleId": 1313,
+        "time": 1001,
+        "limit": 1
+    },
+    {
+        "id": 4,
+        "parm": [
+            "10",
+            "11",
+            "12"
+        ],
+        "BattleId": 0,
+        "time": 2,
+        "limit": 1
+    },
+    {
+        "id": 5,
+        "parm": [
+            "13"
+        ],
+        "BattleId": 0,
+        "time": 2,
+        "limit": 1
+    },
+    {
+        "id": 6,
+        "parm": [
+            "14"
+        ],
+        "BattleId": 0,
+        "time": 0,
+        "limit": 1
+    },
+    {
+        "id": 7,
+        "parm": [
+            "16"
+        ],
+        "BattleId": 0,
+        "time": 0,
+        "limit": -1
+    },
+    {
+        "id": 8,
+        "parm": [
+            "17"
+        ],
+        "BattleId": 0,
+        "time": 1,
+        "limit": 1
+    },
+    {
+        "id": 9,
+        "parm": [
+            "19",
+            "20",
+            "21"
+        ],
+        "BattleId": 0,
+        "time": 1,
+        "limit": 1
+    },
+    {
+        "id": 10,
+        "parm": [
+            "23"
+        ],
+        "BattleId": 0,
+        "time": 2,
+        "limit": 1
+    },
+    {
+        "id": 11,
+        "parm": {},
+        "BattleId": 1129,
+        "time": 1002,
+        "limit": 1
+    },
+    {
+        "id": 12,
+        "parm": {},
+        "BattleId": 1128,
+        "time": 1003,
+        "limit": 1
+    },
+    {
+        "id": 13,
+        "parm": [
+            "25",
+            "27",
+            "29"
+        ],
+        "BattleId": 0,
+        "time": 1004,
+        "limit": 1
+    },
+    {
+        "id": 14,
+        "parm": [
+            "30"
+        ],
+        "BattleId": 0,
+        "time": 1005,
+        "limit": 1
+    },
+    {
+        "id": 15,
+        "parm": [
+            "31"
+        ],
+        "BattleId": 0,
+        "time": 1005,
+        "limit": 1
+    },
+    {
+        "id": 16,
+        "parm": [
+            "32",
+            "33"
+        ],
+        "BattleId": 0,
+        "time": 1006,
+        "limit": 1
+    },
+    {
+        "id": 17,
+        "parm": [
+            "34",
+            "35",
+            "36"
+        ],
+        "BattleId": 0,
+        "time": 0,
+        "limit": 1
+    },
+    {
+        "id": 18,
+        "parm": [
+            "39",
+            "40"
+        ],
+        "BattleId": 0,
+        "time": 0,
+        "limit": 1
+    },
+    {
+        "id": 19,
+        "parm": [
+            "37",
+            "38"
+        ],
+        "BattleId": 0,
+        "time": 0,
+        "limit": 1
+    },
+    {
+        "id": 20,
+        "parm": [
+            "41",
+            "42"
+        ],
+        "BattleId": 0,
+        "time": 0,
+        "limit": 1
+    },
+    {
+        "id": 21,
+        "parm": [
+            "43",
+            "44",
+            "45"
+        ],
+        "BattleId": 0,
+        "time": 0,
+        "limit": 1
+    },
+    {
+        "id": 22,
+        "parm": [
+            "46",
+            "47",
+            "48"
+        ],
+        "BattleId": 0,
+        "time": 1012,
+        "limit": 1
+    },
+    {
+        "id": 23,
+        "parm": [
+            "49",
+            "50",
+            "51"
+        ],
+        "BattleId": 0,
+        "time": 0,
+        "limit": 1
+    }
+]

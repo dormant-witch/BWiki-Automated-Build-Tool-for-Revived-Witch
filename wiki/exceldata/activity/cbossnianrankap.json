@@ -1,0 +1,11 @@
+[
+    {
+        "rankRewardIconId": 13826,
+        "id": 1,
+        "rankForReward": 300000,
+        "PowerRecoverInterval": 480,
+        "getAwardWordId": 701663,
+        "actPowerLimit": 3,
+        "actPowerId": 35043
+    }
+]

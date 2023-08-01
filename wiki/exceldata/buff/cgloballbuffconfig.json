@@ -1,0 +1,1154 @@
+{
+    "21284": {
+        "buffattr": "time=999999",
+        "id": 21284,
+        "target": 2,
+        "limit": "",
+        "time": 900,
+        "system": 4
+    },
+    "21285": {
+        "buffattr": "time=999999",
+        "id": 21285,
+        "target": 2,
+        "limit": "",
+        "time": 2700,
+        "system": 4
+    },
+    "21286": {
+        "buffattr": "time=999999",
+        "id": 21286,
+        "target": 2,
+        "limit": "",
+        "time": 5400,
+        "system": 4
+    },
+    "21287": {
+        "buffattr": "time=999999;maxhp_value=-fixedpoint(\"0.15\")*maxhpa",
+        "id": 21287,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21288": {
+        "buffattr": "time=999999;maxhp_value=-fixedpoint(\"0.35\")*maxhpa",
+        "id": 21288,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21289": {
+        "buffattr": "time=999999;maxhp_value=-fixedpoint(\"0.6\")*maxhpa",
+        "id": 21289,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21290": {
+        "buffattr": "time=999999;physicalbonus_value=fixedpoint(\"0.2\");magicbonus_value=fixedpoint(\"0.2\")",
+        "id": 21290,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21291": {
+        "buffattr": "time=999999;physicalbonus_value=fixedpoint(\"0.4\");magicbonus_value=fixedpoint(\"0.4\")",
+        "id": 21291,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21292": {
+        "buffattr": "time=999999;physicalbonus_value=fixedpoint(\"0.6\");magicbonus_value=fixedpoint(\"0.8\")",
+        "id": 21292,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21293": {
+        "buffattr": "time=999999;defend_value=2000",
+        "id": 21293,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21294": {
+        "buffattr": "time=999999;defend_value=4000",
+        "id": 21294,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21295": {
+        "buffattr": "time=999999;defend_value=8000",
+        "id": 21295,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21296": {
+        "buffattr": "time=999999;magicdef_value=2000",
+        "id": 21296,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21297": {
+        "buffattr": "time=999999;magicdef_value=4000",
+        "id": 21297,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21298": {
+        "buffattr": "time=999999;magicdef_value=8000",
+        "id": 21298,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21299": {
+        "buffattr": "time=999999;maxhpscale_value=fixedpoint(\"0.25\")",
+        "id": 21299,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21300": {
+        "buffattr": "time=999999;maxhpscale_value=fixedpoint(\"0.5\")",
+        "id": 21300,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21301": {
+        "buffattr": "time=999999;maxhpscale_value=1",
+        "id": 21301,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "70201": {
+        "buffattr": "time=999999;critrate_value=fixedpoint(\"0.12\")",
+        "id": 70201,
+        "target": 1,
+        "limit": "1003",
+        "time": -1,
+        "system": 7
+    },
+    "70202": {
+        "buffattr": "time=999999;maxhp_value=fixedpoint(\"0.15\")*maxhpa",
+        "id": 70202,
+        "target": 1,
+        "limit": "3002;3003",
+        "time": -1,
+        "system": 7
+    },
+    "70203": {
+        "buffattr": "time=999999;critdegree_value=fixedpoint(\"1.0\")",
+        "id": 70203,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 7
+    },
+    "70211": {
+        "buffattr": "time=999999;magicbonus_value=fixedpoint(\"0.05\")",
+        "id": 70211,
+        "target": 1,
+        "limit": "1006",
+        "time": -1,
+        "system": 7
+    },
+    "70212": {
+        "buffattr": "time=999999;magicdef_value=-300",
+        "id": 70212,
+        "target": 2,
+        "limit": "2004",
+        "time": -1,
+        "system": 7
+    },
+    "70213": {
+        "buffattr": "time=999999;magicdefbreak_value=fixedpoint(\"0.25\")*staticattacka",
+        "id": 70213,
+        "target": 1,
+        "limit": "3001",
+        "time": -1,
+        "system": 7
+    },
+    "70214": {
+        "buffattr": "time=999999;timecell=270;chaospwr_value=1",
+        "id": 70214,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 7
+    },
+    "21333": {
+        "buffattr": "time=999999;enemyorderpwrgrow_value=-20",
+        "id": 21333,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21334": {
+        "buffattr": "time=999999;enemyorderpwrgrow_value=-40",
+        "id": 21334,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21335": {
+        "buffattr": "time=999999;enemyorderpwrgrow_value=-80",
+        "id": 21335,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21336": {
+        "buffattr": "time=999999;attack_value=-fixedpoint(\"0.2\")*staticattacka",
+        "id": 21336,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21337": {
+        "buffattr": "time=999999;attack_value=-fixedpoint(\"0.4\")*staticattacka",
+        "id": 21337,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21338": {
+        "buffattr": "time=999999;attack_value=-fixedpoint(\"0.8\")*staticattacka",
+        "id": 21338,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "71003": {
+        "buffattr": "time=999999;attack_value=1800",
+        "id": 71003,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "21340": {
+        "buffattr": "time=999999;attack_value=fixedpoint(\"0.1\")*staticattacka",
+        "id": 21340,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 5
+    },
+    "21341": {
+        "buffattr": "time=999999;attack_value=fixedpoint(\"0.2\")*staticattacka",
+        "id": 21341,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 5
+    },
+    "21342": {
+        "buffattr": "time=999999;attack_value=fixedpoint(\"0.3\")*staticattacka",
+        "id": 21342,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 5
+    },
+    "21343": {
+        "buffattr": "time=999999;attack_value=fixedpoint(\"0.4\")*staticattacka",
+        "id": 21343,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 5
+    },
+    "21344": {
+        "buffattr": "time=999999;maxhp_value=fixedpoint(\"0.1\")*maxhpa",
+        "id": 21344,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 5
+    },
+    "21345": {
+        "buffattr": "time=999999;maxhp_value=fixedpoint(\"0.2\")*maxhpa",
+        "id": 21345,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 5
+    },
+    "21346": {
+        "buffattr": "time=999999;maxhp_value=fixedpoint(\"0.3\")*maxhpa",
+        "id": 21346,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 5
+    },
+    "21347": {
+        "buffattr": "time=999999;maxhp_value=fixedpoint(\"0.4\")*maxhpa",
+        "id": 21347,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 5
+    },
+    "21348": {
+        "buffattr": "time=999999;maxhp_value=fixedpoint(\"0.5\")*maxhpa",
+        "id": 21348,
+        "target": 2,
+        "limit": "",
+        "time": 0,
+        "system": 5
+    },
+    "21349": {
+        "buffattr": "time=999999;maxhp_value=fixedpoint(\"1\")*maxhpa",
+        "id": 21349,
+        "target": 2,
+        "limit": "",
+        "time": 0,
+        "system": 5
+    },
+    "21350": {
+        "buffattr": "time=999999;attack_value=fixedpoint(\"0.5\")*staticattacka",
+        "id": 21350,
+        "target": 2,
+        "limit": "",
+        "time": 0,
+        "system": 5
+    },
+    "21351": {
+        "buffattr": "time=999999;attack_value=fixedpoint(\"1\")*staticattacka",
+        "id": 21351,
+        "target": 2,
+        "limit": "",
+        "time": 0,
+        "system": 5
+    },
+    "21354": {
+        "buffattr": "time=999999;curativeadd_value=-fixedpoint(\"0.2\")",
+        "id": 21354,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21355": {
+        "buffattr": "time=999999;curativeadd_value=-fixedpoint(\"0.4\")",
+        "id": 21355,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21356": {
+        "buffattr": "time=999999;curativeadd_value=-fixedpoint(\"0.8\")",
+        "id": 21356,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "70001": {
+        "buffattr": "time=999999;maxhp_value=3000",
+        "id": 70001,
+        "target": 1,
+        "limit": "1001",
+        "time": -1,
+        "system": 7
+    },
+    "70002": {
+        "buffattr": "time=999999;attack_value=250",
+        "id": 70002,
+        "target": 1,
+        "limit": "1005",
+        "time": -1,
+        "system": 7
+    },
+    "70003": {
+        "buffattr": "time=999999;defend_value=50;magicdef_value=50",
+        "id": 70003,
+        "target": 1,
+        "limit": "2004",
+        "time": -1,
+        "system": 7
+    },
+    "21115": {
+        "buffattr": "time=999999;maxhp_value=5*maxhpa",
+        "id": 21115,
+        "target": 3,
+        "limit": "",
+        "time": 0,
+        "system": 2
+    },
+    "21116": {
+        "buffattr": "time=999999;hp_value=-maxhpb",
+        "id": 21116,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 2
+    },
+    "21117": {
+        "buffattr": "time=999999;attack_value=fixedpoint(\"0.1\")*staticattacka",
+        "id": 21117,
+        "target": 2,
+        "limit": "",
+        "time": 0,
+        "system": 2
+    },
+    "21118": {
+        "buffattr": "time=999999;maxhp_value=fixedpoint(\"0.2\")*maxhpa",
+        "id": 21118,
+        "target": 2,
+        "limit": "",
+        "time": 0,
+        "system": 2
+    },
+    "21119": {
+        "buffattr": "time=999999;attack_value=fixedpoint(\"0.2\")*staticattacka;maxhp_value=fixedpoint(\"0.2\")*maxhpa",
+        "id": 21119,
+        "target": 2,
+        "limit": "",
+        "time": 0,
+        "system": 2
+    },
+    "21120": {
+        "buffattr": "time=999999;physicalbonus_value=fixedpoint(\"0.1\");curativeadd_value=-fixedpoint(\"0.1\")",
+        "id": 21120,
+        "target": 3,
+        "limit": "",
+        "time": 900,
+        "system": 2
+    },
+    "21121": {
+        "buffattr": "time=999999;physicalbonus_value=fixedpoint(\"0.2\");curativeadd_value=-fixedpoint(\"0.2\")",
+        "id": 21121,
+        "target": 3,
+        "limit": "",
+        "time": 1800,
+        "system": 2
+    },
+    "21122": {
+        "buffattr": "time=999999;physicalbonus_value=fixedpoint(\"0.5\");curativeadd_value=-fixedpoint(\"0.5\")",
+        "id": 21122,
+        "target": 3,
+        "limit": "",
+        "time": 2700,
+        "system": 2
+    },
+    "21123": {
+        "buffattr": "time=999999;physicalbonus_value=fixedpoint(\"1\");curativeadd_value=-fixedpoint(\"1\")",
+        "id": 21123,
+        "target": 3,
+        "limit": "",
+        "time": 3600,
+        "system": 2
+    },
+    "70021": {
+        "buffattr": "time=999999;critrate_value=fixedpoint(\"0.1\");critdegree_value=fixedpoint(\"0.1\")",
+        "id": 70021,
+        "target": 1,
+        "limit": "1003",
+        "time": -1,
+        "system": 7
+    },
+    "70022": {
+        "buffattr": "time=999999;magicdef_value=-fixedpoint(\"0.2\")*staticmagicdefb",
+        "id": 70022,
+        "target": 2,
+        "limit": "2006",
+        "time": -1,
+        "system": 7
+    },
+    "70023": {
+        "buffattr": "time=999999;physicalbonus_value=fixedpoint(\"0.05\")",
+        "id": 70023,
+        "target": 1,
+        "limit": "1002",
+        "time": -1,
+        "system": 7
+    },
+    "21386": {
+        "buffattr": "time=999999;physicalbonus_value=fixedpoint(\"0.2\");magicbonus_value=fixedpoint(\"0.2\")",
+        "id": 21386,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21387": {
+        "buffattr": "time=999999;physicalbonus_value=fixedpoint(\"0.4\");magicbonus_value=fixedpoint(\"0.4\")",
+        "id": 21387,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21388": {
+        "buffattr": "time=999999;physicalbonus_value=fixedpoint(\"0.8\");magicbonus_value=fixedpoint(\"0.8\")",
+        "id": 21388,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21389": {
+        "buffattr": "time=999999;attack_value=fixedpoint(\"0.2\")*staticattacka",
+        "id": 21389,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21390": {
+        "buffattr": "time=999999;attack_value=fixedpoint(\"0.4\")*staticattacka",
+        "id": 21390,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "21391": {
+        "buffattr": "time=999999;attack_value=fixedpoint(\"0.8\")*staticattacka",
+        "id": 21391,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 4
+    },
+    "70041": {
+        "buffattr": "time=999999;physicalreduce_value=fixedpoint(\"0.2\")",
+        "id": 70041,
+        "target": 1,
+        "limit": "3001",
+        "time": -1,
+        "system": 7
+    },
+    "70042": {
+        "buffattr": "time=999999;maxhp_value=fixedpoint(\"0.15\")*maxhpa",
+        "id": 70042,
+        "target": 1,
+        "limit": "3003",
+        "time": -1,
+        "system": 7
+    },
+    "70043": {
+        "buffattr": "time=999999;magicreduce_value=fixedpoint(\"0.2\")",
+        "id": 70043,
+        "target": 1,
+        "limit": "3002",
+        "time": -1,
+        "system": 7
+    },
+    "21157": {
+        "buffattr": "time=999999;attack_value=fixedpoint(\"0.05\")*staticattacka",
+        "id": 21157,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21158": {
+        "buffattr": "time=999999;attack_value=fixedpoint(\"0.1\")*staticattacka",
+        "id": 21158,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21159": {
+        "buffattr": "time=999999;critrate_value=fixedpoint(\"0.05\");critdegree_value=fixedpoint(\"0.15\")",
+        "id": 21159,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21160": {
+        "buffattr": "time=999999;critrate_value=fixedpoint(\"0.1\");critdegree_value=fixedpoint(\"0.3\")",
+        "id": 21160,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21161": {
+        "buffattr": "time=999999;monsterbonus=fixedpoint(\"0.3\")",
+        "id": 21161,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21162": {
+        "buffattr": "time=999999;bossbonus=fixedpoint(\"0.3\")",
+        "id": 21162,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21163": {
+        "buffattr": "time=999999",
+        "id": 21163,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21164": {
+        "buffattr": "time=999999;roundcd=300",
+        "id": 21164,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21165": {
+        "buffattr": "time=999999;orderpwrgrow_value=fixedpoint(\"0.2\")",
+        "id": 21165,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21166": {
+        "buffattr": "time=999999;defend_value=chaospwr*fixedpoint(\"0.03\");magicdef_value=chaospwr*fixedpoint(\"0.03\")",
+        "id": 21166,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21167": {
+        "buffattr": "time=999999;defend_value=orderpwr*fixedpoint(\"0.03\");magicdef_value=orderpwr*fixedpoint(\"0.03\")",
+        "id": 21167,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21168": {
+        "buffattr": "time=300;timecell=999;hp_value=-math.min(200000,fixedpoint(\"0.1\")*maxhpb)",
+        "id": 21168,
+        "target": 2,
+        "limit": "",
+        "time": 150,
+        "system": 3
+    },
+    "21169": {
+        "buffattr": "time=999999",
+        "id": 21169,
+        "target": 2,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21170": {
+        "buffattr": "time=999999;maxhp_value=fixedpoint(\"0.05\")*maxhpb",
+        "id": 21170,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21171": {
+        "buffattr": "time=999999;maxhp_value=fixedpoint(\"0.1\")*maxhpb",
+        "id": 21171,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21172": {
+        "buffattr": "time=999999;physicallifesteal_value=fixedpoint(\"0.05\");magiclifesteal_value=fixedpoint(\"0.05\")",
+        "id": 21172,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21173": {
+        "buffattr": "time=999999;physicallifesteal_value=fixedpoint(\"0.1\");magiclifesteal_value=fixedpoint(\"0.1\")",
+        "id": 21173,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21174": {
+        "buffattr": "time=999999;curativeadd_value=fixedpoint(\"0.15\")",
+        "id": 21174,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21175": {
+        "buffattr": "time=999999;curativeadd_value=fixedpoint(\"0.3\")",
+        "id": 21175,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21176": {
+        "buffattr": "time=999999;timecell=300;hp_value=f.hpheal(fixedpoint(\"0.1\"))",
+        "id": 21176,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21177": {
+        "buffattr": "time=999999",
+        "id": 21177,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21178": {
+        "buffattr": "time=999999;physicalreduce_value=fixedpoint(\"0.05\")",
+        "id": 21178,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21179": {
+        "buffattr": "time=999999;physicalreduce_value=fixedpoint(\"0.1\")",
+        "id": 21179,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21180": {
+        "buffattr": "time=999999;magicreduce_value=fixedpoint(\"0.05\")",
+        "id": 21180,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21181": {
+        "buffattr": "time=999999;magicreduce_value=fixedpoint(\"0.1\")",
+        "id": 21181,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21182": {
+        "buffattr": "time=999999;rate=10",
+        "id": 21182,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21183": {
+        "buffattr": "time=999999;effecttimes=1",
+        "id": 21183,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21184": {
+        "buffattr": "time=999999;physicalbonus_value=1;magicbonus_value=1",
+        "id": 21184,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21185": {
+        "buffattr": "time=999999;physicalbonus_value=fixedpoint(\"0.2\")*(1-hpb\/maxhpb);magicbonus_value=fixedpoint(\"0.2\")*(1-hpb\/maxhpb)",
+        "id": 21185,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21186": {
+        "buffattr": "time=999999;physicalbonus_value=fixedpoint(\"0.2\");magicbonus_value=fixedpoint(\"0.2\");physicalreduce_value=fixedpoint(\"0.1\");magicreduce_value=fixedpoint(\"0.1\")",
+        "id": 21186,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21187": {
+        "buffattr": "time=300",
+        "id": 21187,
+        "target": 2,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "71108": {
+        "buffattr": "time=999999;defend_value=4000",
+        "id": 71108,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "71109": {
+        "buffattr": "time=999999;defend_value=8000",
+        "id": 71109,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "71110": {
+        "buffattr": "time=999999;magicdef_value=-200",
+        "id": 71110,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "71111": {
+        "buffattr": "time=999999;magicdef_value=4000",
+        "id": 71111,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "71112": {
+        "buffattr": "time=999999;magicdef_value=8000",
+        "id": 71112,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "21193": {
+        "buffattr": "time=999999;healskilladd_value=fixedpoint(\"0.05\");dmgskilladd_value=fixedpoint(\"0.05\")",
+        "id": 21193,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "21194": {
+        "buffattr": "time=999999;healskilladd_value=fixedpoint(\"0.1\");dmgskilladd_value=fixedpoint(\"0.1\")",
+        "id": 21194,
+        "target": 1,
+        "limit": "",
+        "time": 0,
+        "system": 3
+    },
+    "71115": {
+        "buffattr": "time=999999;maxhpscale_value=1",
+        "id": 71115,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "71116": {
+        "buffattr": "time=999999;attack_value=fixedpoint(\"0.05\")*attacka",
+        "id": 71116,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "71117": {
+        "buffattr": "time=999999;attack_value=-fixedpoint(\"0.4\")*attacka",
+        "id": 71117,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "71118": {
+        "buffattr": "time=999999;attack_value=-fixedpoint(\"0.8\")*attacka",
+        "id": 71118,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "70101": {
+        "buffattr": "time=999999;physicalbonus_value=fixedpoint(\"0.3\")",
+        "id": 70101,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 7
+    },
+    "70102": {
+        "buffattr": "time=999999;magicbonus_value=fixedpoint(\"0.3\")",
+        "id": 70102,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 7
+    },
+    "71114": {
+        "buffattr": "time=999999;maxhpscale_value=fixedpoint(\"0.5\")",
+        "id": 71114,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "71113": {
+        "buffattr": "time=999999;maxhpscale_value=-fixedpoint(\"0.05\")",
+        "id": 71113,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "21477": {
+        "buffattr": "time=999999",
+        "id": 21477,
+        "target": 2,
+        "limit": "",
+        "time": 1800,
+        "system": 6
+    },
+    "71107": {
+        "buffattr": "time=999999;defend_value=-200",
+        "id": 71107,
+        "target": 2,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "71106": {
+        "buffattr": "time=999999;physicalreduce_value=-fixedpoint(\"0.8\");magicreduce_value=-fixedpoint(\"0.8\")",
+        "id": 71106,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "21480": {
+        "buffattr": "time=999999;elementype=1;elementdmg=fixedpoint(\"0.5\");elementnum=6",
+        "id": 21480,
+        "target": 2,
+        "limit": "",
+        "time": 0,
+        "system": 6
+    },
+    "21481": {
+        "buffattr": "time=999999;elementype=2;elementdmg=fixedpoint(\"0.5\");elementnum=6",
+        "id": 21481,
+        "target": 2,
+        "limit": "",
+        "time": 0,
+        "system": 6
+    },
+    "21482": {
+        "buffattr": "time=999999;elementype=3;elementdmg=fixedpoint(\"0.5\");elementnum=6",
+        "id": 21482,
+        "target": 2,
+        "limit": "",
+        "time": 0,
+        "system": 6
+    },
+    "71105": {
+        "buffattr": "time=999999;physicalreduce_value=-fixedpoint(\"0.4\");magicreduce_value=-fixedpoint(\"0.4\")",
+        "id": 71105,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "71104": {
+        "buffattr": "time=999999;physicalreduce_value=fixedpoint(\"0.05\");magicreduce_value=fixedpoint(\"0.05\")",
+        "id": 71104,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "71103": {
+        "buffattr": "time=999999;maxhp_value=-fixedpoint(\"0.6\")*maxhpa",
+        "id": 71103,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "71102": {
+        "buffattr": "time=999999;maxhp_value=-fixedpoint(\"0.35\")*maxhpa",
+        "id": 71102,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "71101": {
+        "buffattr": "time=999999;maxhp_value=fixedpoint(\"0.05\")*maxhpa",
+        "id": 71101,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "71012": {
+        "buffattr": "time=999999;maxhp_value=15000",
+        "id": 71012,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "71011": {
+        "buffattr": "time=999999;maxhp_value=10000",
+        "id": 71011,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "71010": {
+        "buffattr": "time=999999;maxhp_value=5000",
+        "id": 71010,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "71009": {
+        "buffattr": "time=999999;magicdefbreak_value=1200",
+        "id": 71009,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "71008": {
+        "buffattr": "time=999999;magicdefbreak_value=800",
+        "id": 71008,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "71007": {
+        "buffattr": "time=999999;magicdefbreak_value=400",
+        "id": 71007,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "71006": {
+        "buffattr": "time=999999;physicaldefbreak_value=1200",
+        "id": 71006,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "71005": {
+        "buffattr": "time=999999;physicaldefbreak_value=800",
+        "id": 71005,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "71004": {
+        "buffattr": "time=999999;physicaldefbreak_value=400",
+        "id": 71004,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "71002": {
+        "buffattr": "time=999999;attack_value=1200",
+        "id": 71002,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "71001": {
+        "buffattr": "time=999999;attack_value=600",
+        "id": 71001,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 5
+    },
+    "70082": {
+        "buffattr": "time=999999;orderpwrgrow_value=10",
+        "id": 70082,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 7
+    },
+    "70081": {
+        "buffattr": "time=999999",
+        "id": 70081,
+        "target": 1,
+        "limit": "",
+        "time": -1,
+        "system": 7
+    },
+    "70063": {
+        "buffattr": "time=999999;attack_value=fixedpoint(\"0.15\")*staticattacka",
+        "id": 70063,
+        "target": 1,
+        "limit": "3002",
+        "time": -1,
+        "system": 7
+    },
+    "70062": {
+        "buffattr": "time=999999;attack_value=fixedpoint(\"0.15\")*staticattacka",
+        "id": 70062,
+        "target": 1,
+        "limit": "3003",
+        "time": -1,
+        "system": 7
+    },
+    "70061": {
+        "buffattr": "time=999999;attack_value=fixedpoint(\"0.15\")*staticattacka",
+        "id": 70061,
+        "target": 1,
+        "limit": "3001",
+        "time": -1,
+        "system": 7
+    }
+}

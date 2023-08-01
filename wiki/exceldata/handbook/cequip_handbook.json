@@ -1,0 +1,4129 @@
+{
+    "46601": {
+        "rarity": 1,
+        "id": 46601,
+        "itemType": 299,
+        "abilityValue": [
+            45.9,
+            7.71
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10529,
+        "equipSuitid": 0,
+        "destribeTextID": 1800652,
+        "isShow": 1,
+        "randomAbility": {},
+        "equipNumber": "M-15",
+        "nameTextID": 1800372,
+        "initMagnify": 10
+    },
+    "46602": {
+        "rarity": 2,
+        "id": 46602,
+        "itemType": 299,
+        "abilityValue": [
+            48.6,
+            8.16
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10530,
+        "equipSuitid": 0,
+        "destribeTextID": 1800653,
+        "isShow": 1,
+        "randomAbility": [
+            21
+        ],
+        "equipNumber": "M-16",
+        "nameTextID": 1800373,
+        "initMagnify": 10
+    },
+    "46603": {
+        "rarity": 2,
+        "id": 46603,
+        "itemType": 299,
+        "abilityValue": [
+            49.82,
+            8.37
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10703,
+        "equipSuitid": 0,
+        "destribeTextID": 1800654,
+        "isShow": 0,
+        "randomAbility": [
+            21
+        ],
+        "equipNumber": "N-17",
+        "nameTextID": 1800374,
+        "initMagnify": 10
+    },
+    "46604": {
+        "rarity": 3,
+        "id": 46604,
+        "itemType": 299,
+        "abilityValue": [
+            51.3,
+            8.62
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10531,
+        "equipSuitid": 0,
+        "destribeTextID": 1800655,
+        "isShow": 1,
+        "randomAbility": [
+            22
+        ],
+        "equipNumber": "M-17",
+        "nameTextID": 1800375,
+        "initMagnify": 10
+    },
+    "46605": {
+        "rarity": 3,
+        "id": 46605,
+        "itemType": 299,
+        "abilityValue": [
+            52.58,
+            8.83
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11244,
+        "equipSuitid": 0,
+        "destribeTextID": 1800656,
+        "isShow": 0,
+        "randomAbility": [
+            22
+        ],
+        "equipNumber": "N-18",
+        "nameTextID": 1800376,
+        "initMagnify": 10
+    },
+    "46606": {
+        "rarity": 5,
+        "id": 46606,
+        "itemType": 299,
+        "abilityValue": [
+            55.35,
+            9.07
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11245,
+        "equipSuitid": 0,
+        "destribeTextID": 1800657,
+        "isShow": 1,
+        "randomAbility": [
+            23,
+            23
+        ],
+        "equipNumber": "M-18",
+        "nameTextID": 1800377,
+        "initMagnify": 10
+    },
+    "46607": {
+        "rarity": 5,
+        "id": 46607,
+        "itemType": 299,
+        "abilityValue": [
+            54,
+            9.3
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11246,
+        "equipSuitid": 0,
+        "destribeTextID": 1800658,
+        "isShow": 1,
+        "randomAbility": [
+            23,
+            23
+        ],
+        "equipNumber": "M-19",
+        "nameTextID": 1800378,
+        "initMagnify": 10
+    },
+    "46608": {
+        "rarity": 5,
+        "id": 46608,
+        "itemType": 299,
+        "abilityValue": [
+            59.4,
+            9.53
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11247,
+        "equipSuitid": 8,
+        "destribeTextID": 1800659,
+        "isShow": 1,
+        "randomAbility": [
+            23,
+            23
+        ],
+        "equipNumber": "M-20",
+        "nameTextID": 1800379,
+        "initMagnify": 10
+    },
+    "46609": {
+        "rarity": 5,
+        "id": 46609,
+        "itemType": 299,
+        "abilityValue": [
+            56.7,
+            9.98
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11248,
+        "equipSuitid": 11,
+        "destribeTextID": 1800660,
+        "isShow": 1,
+        "randomAbility": [
+            23,
+            23
+        ],
+        "equipNumber": "M-21",
+        "nameTextID": 1800380,
+        "initMagnify": 10
+    },
+    "48402": {
+        "rarity": 3,
+        "id": 48402,
+        "itemType": 299,
+        "abilityValue": [
+            27.03,
+            12.53
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 12852,
+        "equipSuitid": 7,
+        "destribeTextID": 1802386,
+        "isShow": 1,
+        "randomAbility": [
+            12
+        ],
+        "equipNumber": "P-53",
+        "nameTextID": 1802354,
+        "initMagnify": 10
+    },
+    "48403": {
+        "rarity": 3,
+        "id": 48403,
+        "itemType": 299,
+        "abilityValue": [
+            30.89,
+            10.32
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 12850,
+        "equipSuitid": 7,
+        "destribeTextID": 1802387,
+        "isShow": 1,
+        "randomAbility": [
+            12
+        ],
+        "equipNumber": "P-54",
+        "nameTextID": 1802355,
+        "initMagnify": 10
+    },
+    "48404": {
+        "rarity": 3,
+        "id": 48404,
+        "itemType": 299,
+        "abilityValue": [
+            38.61,
+            6.19
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 12855,
+        "equipSuitid": 7,
+        "destribeTextID": 1802388,
+        "isShow": 1,
+        "randomAbility": [
+            22
+        ],
+        "equipNumber": "M-52",
+        "nameTextID": 1802356,
+        "initMagnify": 10
+    },
+    "48405": {
+        "rarity": 3,
+        "id": 48405,
+        "itemType": 299,
+        "abilityValue": [
+            38.61,
+            6.19
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 12849,
+        "equipSuitid": 7,
+        "destribeTextID": 1802389,
+        "isShow": 1,
+        "randomAbility": [
+            82
+        ],
+        "equipNumber": "M-53",
+        "nameTextID": 1802357,
+        "initMagnify": 10
+    },
+    "48406": {
+        "rarity": 3,
+        "id": 48406,
+        "itemType": 299,
+        "abilityValue": [
+            19.31,
+            13.27
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 12854,
+        "equipSuitid": 7,
+        "destribeTextID": 1802390,
+        "isShow": 1,
+        "randomAbility": [
+            22
+        ],
+        "equipNumber": "M-54",
+        "nameTextID": 1802358,
+        "initMagnify": 10
+    },
+    "48407": {
+        "rarity": 3,
+        "id": 48407,
+        "itemType": 811,
+        "abilityValue": [
+            42.12,
+            6.46
+        ],
+        "abilityID": [
+            20,
+            60
+        ],
+        "icon": 12853,
+        "equipSuitid": 7,
+        "destribeTextID": 1802391,
+        "isShow": 1,
+        "randomAbility": [
+            42
+        ],
+        "equipNumber": "S-20",
+        "nameTextID": 1802359,
+        "initMagnify": 10
+    },
+    "45601": {
+        "rarity": 1,
+        "id": 45601,
+        "itemType": 299,
+        "abilityValue": [
+            32.13,
+            15.61
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10677,
+        "equipSuitid": 0,
+        "destribeTextID": 1800607,
+        "isShow": 1,
+        "randomAbility": {},
+        "equipNumber": "P-22",
+        "nameTextID": 1800327,
+        "initMagnify": 10
+    },
+    "45602": {
+        "rarity": 2,
+        "id": 45602,
+        "itemType": 299,
+        "abilityValue": [
+            34.02,
+            16.52
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10678,
+        "equipSuitid": 0,
+        "destribeTextID": 1800608,
+        "isShow": 1,
+        "randomAbility": [
+            11
+        ],
+        "equipNumber": "P-23",
+        "nameTextID": 1800328,
+        "initMagnify": 10
+    },
+    "45603": {
+        "rarity": 2,
+        "id": 45603,
+        "itemType": 299,
+        "abilityValue": [
+            34.87,
+            16.94
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10679,
+        "equipSuitid": 0,
+        "destribeTextID": 1800609,
+        "isShow": 0,
+        "randomAbility": [
+            11
+        ],
+        "equipNumber": "N-07",
+        "nameTextID": 1800329,
+        "initMagnify": 10
+    },
+    "45604": {
+        "rarity": 3,
+        "id": 45604,
+        "itemType": 299,
+        "abilityValue": [
+            35.91,
+            17.44
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10680,
+        "equipSuitid": 0,
+        "destribeTextID": 1800610,
+        "isShow": 1,
+        "randomAbility": [
+            12
+        ],
+        "equipNumber": "P-24",
+        "nameTextID": 1800330,
+        "initMagnify": 10
+    },
+    "45605": {
+        "rarity": 3,
+        "id": 45605,
+        "itemType": 299,
+        "abilityValue": [
+            36.81,
+            17.88
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11269,
+        "equipSuitid": 0,
+        "destribeTextID": 1800611,
+        "isShow": 0,
+        "randomAbility": [
+            12
+        ],
+        "equipNumber": "N-08",
+        "nameTextID": 1800331,
+        "initMagnify": 10
+    },
+    "45606": {
+        "rarity": 5,
+        "id": 45606,
+        "itemType": 299,
+        "abilityValue": [
+            38.75,
+            18.36
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11270,
+        "equipSuitid": 0,
+        "destribeTextID": 1800612,
+        "isShow": 1,
+        "randomAbility": [
+            13,
+            13
+        ],
+        "equipNumber": "P-25",
+        "nameTextID": 1800332,
+        "initMagnify": 10
+    },
+    "45607": {
+        "rarity": 5,
+        "id": 45607,
+        "itemType": 299,
+        "abilityValue": [
+            37.8,
+            18.82
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11271,
+        "equipSuitid": 0,
+        "destribeTextID": 1800613,
+        "isShow": 1,
+        "randomAbility": [
+            13,
+            13
+        ],
+        "equipNumber": "P-26",
+        "nameTextID": 1800333,
+        "initMagnify": 10
+    },
+    "45608": {
+        "rarity": 5,
+        "id": 45608,
+        "itemType": 299,
+        "abilityValue": [
+            41.58,
+            19.28
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11272,
+        "equipSuitid": 8,
+        "destribeTextID": 1800614,
+        "isShow": 1,
+        "randomAbility": [
+            13,
+            13
+        ],
+        "equipNumber": "P-27",
+        "nameTextID": 1800334,
+        "initMagnify": 10
+    },
+    "45609": {
+        "rarity": 5,
+        "id": 45609,
+        "itemType": 299,
+        "abilityValue": [
+            39.69,
+            20.2
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11273,
+        "equipSuitid": 11,
+        "destribeTextID": 1800615,
+        "isShow": 1,
+        "randomAbility": [
+            13,
+            13
+        ],
+        "equipNumber": "P-28",
+        "nameTextID": 1800335,
+        "initMagnify": 10
+    },
+    "47402": {
+        "rarity": 2,
+        "id": 47402,
+        "itemType": 811,
+        "abilityValue": [
+            58.32,
+            7.78
+        ],
+        "abilityID": [
+            20,
+            50
+        ],
+        "icon": 10721,
+        "equipSuitid": 0,
+        "destribeTextID": 1800689,
+        "isShow": 1,
+        "randomAbility": [
+            31
+        ],
+        "equipNumber": "S-02",
+        "nameTextID": 1800409,
+        "initMagnify": 10
+    },
+    "47403": {
+        "rarity": 2,
+        "id": 47403,
+        "itemType": 811,
+        "abilityValue": [
+            59.78,
+            7.97
+        ],
+        "abilityID": [
+            20,
+            50
+        ],
+        "icon": 10526,
+        "equipSuitid": 3,
+        "destribeTextID": 1800690,
+        "isShow": 1,
+        "randomAbility": [
+            31
+        ],
+        "equipNumber": "S-03",
+        "nameTextID": 1800410,
+        "initMagnify": 10
+    },
+    "47404": {
+        "rarity": 3,
+        "id": 47404,
+        "itemType": 811,
+        "abilityValue": [
+            61.56,
+            8.21
+        ],
+        "abilityID": [
+            20,
+            50
+        ],
+        "icon": 11289,
+        "equipSuitid": 0,
+        "destribeTextID": 1800691,
+        "isShow": 1,
+        "randomAbility": [
+            32
+        ],
+        "equipNumber": "S-04",
+        "nameTextID": 1800411,
+        "initMagnify": 10
+    },
+    "47405": {
+        "rarity": 3,
+        "id": 47405,
+        "itemType": 811,
+        "abilityValue": [
+            63.1,
+            8.41
+        ],
+        "abilityID": [
+            20,
+            50
+        ],
+        "icon": 11292,
+        "equipSuitid": 0,
+        "destribeTextID": 1800692,
+        "isShow": 0,
+        "randomAbility": [
+            32
+        ],
+        "equipNumber": "N-25",
+        "nameTextID": 1800412,
+        "initMagnify": 10
+    },
+    "47406": {
+        "rarity": 5,
+        "id": 47406,
+        "itemType": 811,
+        "abilityValue": [
+            66.42,
+            8.64
+        ],
+        "abilityID": [
+            20,
+            50
+        ],
+        "icon": 11290,
+        "equipSuitid": 0,
+        "destribeTextID": 1800693,
+        "isShow": 1,
+        "randomAbility": [
+            33,
+            33
+        ],
+        "equipNumber": "S-05",
+        "nameTextID": 1800413,
+        "initMagnify": 10
+    },
+    "47407": {
+        "rarity": 5,
+        "id": 47407,
+        "itemType": 811,
+        "abilityValue": [
+            64.8,
+            8.86
+        ],
+        "abilityID": [
+            20,
+            50
+        ],
+        "icon": 11291,
+        "equipSuitid": 0,
+        "destribeTextID": 1800694,
+        "isShow": 1,
+        "randomAbility": [
+            33,
+            33
+        ],
+        "equipNumber": "S-06",
+        "nameTextID": 1800414,
+        "initMagnify": 10
+    },
+    "47408": {
+        "rarity": 5,
+        "id": 47408,
+        "itemType": 811,
+        "abilityValue": [
+            71.28,
+            9.07
+        ],
+        "abilityID": [
+            20,
+            50
+        ],
+        "icon": 10525,
+        "equipSuitid": 9,
+        "destribeTextID": 1800695,
+        "isShow": 1,
+        "randomAbility": [
+            33,
+            33
+        ],
+        "equipNumber": "S-07",
+        "nameTextID": 1800415,
+        "initMagnify": 10
+    },
+    "47409": {
+        "rarity": 5,
+        "id": 47409,
+        "itemType": 811,
+        "abilityValue": [
+            68.04,
+            9.5
+        ],
+        "abilityID": [
+            20,
+            50
+        ],
+        "icon": 11293,
+        "equipSuitid": 12,
+        "destribeTextID": 1800696,
+        "isShow": 1,
+        "randomAbility": [
+            33,
+            33
+        ],
+        "equipNumber": "S-08",
+        "nameTextID": 1800416,
+        "initMagnify": 10
+    },
+    "46401": {
+        "rarity": 1,
+        "id": 46401,
+        "itemType": 299,
+        "abilityValue": [
+            27.54,
+            11.02
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10681,
+        "equipSuitid": 0,
+        "destribeTextID": 1800643,
+        "isShow": 1,
+        "randomAbility": {},
+        "equipNumber": "M-08",
+        "nameTextID": 1800363,
+        "initMagnify": 10
+    },
+    "46402": {
+        "rarity": 2,
+        "id": 46402,
+        "itemType": 299,
+        "abilityValue": [
+            29.16,
+            11.66
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10682,
+        "equipSuitid": 0,
+        "destribeTextID": 1800644,
+        "isShow": 1,
+        "randomAbility": [
+            81
+        ],
+        "equipNumber": "M-09",
+        "nameTextID": 1800364,
+        "initMagnify": 10
+    },
+    "46403": {
+        "rarity": 2,
+        "id": 46403,
+        "itemType": 299,
+        "abilityValue": [
+            29.89,
+            11.96
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10683,
+        "equipSuitid": 0,
+        "destribeTextID": 1800645,
+        "isShow": 0,
+        "randomAbility": [
+            81
+        ],
+        "equipNumber": "N-15",
+        "nameTextID": 1800365,
+        "initMagnify": 10
+    },
+    "46404": {
+        "rarity": 3,
+        "id": 46404,
+        "itemType": 299,
+        "abilityValue": [
+            30.78,
+            12.31
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10684,
+        "equipSuitid": 0,
+        "destribeTextID": 1800646,
+        "isShow": 1,
+        "randomAbility": [
+            82
+        ],
+        "equipNumber": "M-10",
+        "nameTextID": 1800366,
+        "initMagnify": 10
+    },
+    "46405": {
+        "rarity": 3,
+        "id": 46405,
+        "itemType": 299,
+        "abilityValue": [
+            31.55,
+            12.62
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11309,
+        "equipSuitid": 0,
+        "destribeTextID": 1800647,
+        "isShow": 0,
+        "randomAbility": [
+            82
+        ],
+        "equipNumber": "N-16",
+        "nameTextID": 1800367,
+        "initMagnify": 10
+    },
+    "46406": {
+        "rarity": 5,
+        "id": 46406,
+        "itemType": 299,
+        "abilityValue": [
+            33.21,
+            12.96
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11310,
+        "equipSuitid": 0,
+        "destribeTextID": 1800648,
+        "isShow": 1,
+        "randomAbility": [
+            83,
+            83
+        ],
+        "equipNumber": "M-11",
+        "nameTextID": 1800368,
+        "initMagnify": 10
+    },
+    "46407": {
+        "rarity": 5,
+        "id": 46407,
+        "itemType": 299,
+        "abilityValue": [
+            32.4,
+            13.28
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11311,
+        "equipSuitid": 0,
+        "destribeTextID": 1800649,
+        "isShow": 1,
+        "randomAbility": [
+            83,
+            83
+        ],
+        "equipNumber": "M-12",
+        "nameTextID": 1800369,
+        "initMagnify": 10
+    },
+    "46408": {
+        "rarity": 5,
+        "id": 46408,
+        "itemType": 299,
+        "abilityValue": [
+            35.64,
+            13.61
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11312,
+        "equipSuitid": 8,
+        "destribeTextID": 1800650,
+        "isShow": 1,
+        "randomAbility": [
+            83,
+            83
+        ],
+        "equipNumber": "M-13",
+        "nameTextID": 1800370,
+        "initMagnify": 10
+    },
+    "46409": {
+        "rarity": 5,
+        "id": 46409,
+        "itemType": 299,
+        "abilityValue": [
+            34.02,
+            14.26
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11313,
+        "equipSuitid": 11,
+        "destribeTextID": 1800651,
+        "isShow": 1,
+        "randomAbility": [
+            83,
+            83
+        ],
+        "equipNumber": "M-14",
+        "nameTextID": 1800371,
+        "initMagnify": 10
+    },
+    "48202": {
+        "rarity": 3,
+        "id": 48202,
+        "itemType": 299,
+        "abilityValue": [
+            56.51,
+            8.35
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 12930,
+        "equipSuitid": 5,
+        "destribeTextID": 1802370,
+        "isShow": 1,
+        "randomAbility": [
+            12
+        ],
+        "equipNumber": "P-47",
+        "nameTextID": 1802338,
+        "initMagnify": 10
+    },
+    "48203": {
+        "rarity": 3,
+        "id": 48203,
+        "itemType": 299,
+        "abilityValue": [
+            9.69,
+            14.04
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 12933,
+        "equipSuitid": 5,
+        "destribeTextID": 1802371,
+        "isShow": 1,
+        "randomAbility": [
+            12
+        ],
+        "equipNumber": "P-48",
+        "nameTextID": 1802339,
+        "initMagnify": 10
+    },
+    "48204": {
+        "rarity": 3,
+        "id": 48204,
+        "itemType": 299,
+        "abilityValue": [
+            24.22,
+            8.42
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 12935,
+        "equipSuitid": 5,
+        "destribeTextID": 1802372,
+        "isShow": 1,
+        "randomAbility": [
+            22
+        ],
+        "equipNumber": "M-46",
+        "nameTextID": 1802340,
+        "initMagnify": 10
+    },
+    "48205": {
+        "rarity": 3,
+        "id": 48205,
+        "itemType": 299,
+        "abilityValue": [
+            20.18,
+            8.42
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 12936,
+        "equipSuitid": 5,
+        "destribeTextID": 1802373,
+        "isShow": 1,
+        "randomAbility": [
+            82
+        ],
+        "equipNumber": "M-47",
+        "nameTextID": 1802341,
+        "initMagnify": 10
+    },
+    "48206": {
+        "rarity": 3,
+        "id": 48206,
+        "itemType": 299,
+        "abilityValue": [
+            40.37,
+            8.85
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 12932,
+        "equipSuitid": 5,
+        "destribeTextID": 1802374,
+        "isShow": 1,
+        "randomAbility": [
+            22
+        ],
+        "equipNumber": "M-48",
+        "nameTextID": 1802342,
+        "initMagnify": 10
+    },
+    "48207": {
+        "rarity": 3,
+        "id": 48207,
+        "itemType": 811,
+        "abilityValue": [
+            48.44,
+            5.62
+        ],
+        "abilityID": [
+            20,
+            60
+        ],
+        "icon": 12929,
+        "equipSuitid": 5,
+        "destribeTextID": 1802375,
+        "isShow": 1,
+        "randomAbility": [
+            42
+        ],
+        "equipNumber": "S-18",
+        "nameTextID": 1802343,
+        "initMagnify": 10
+    },
+    "48208": {
+        "rarity": 3,
+        "id": 48208,
+        "itemType": 555,
+        "abilityValue": [
+            10.3,
+            3.93
+        ],
+        "abilityID": [
+            30,
+            60
+        ],
+        "icon": 12934,
+        "equipSuitid": 5,
+        "destribeTextID": 1802376,
+        "isShow": 1,
+        "randomAbility": [
+            52
+        ],
+        "equipNumber": "A-18",
+        "nameTextID": 1802344,
+        "initMagnify": 10
+    },
+    "45401": {
+        "rarity": 1,
+        "id": 45401,
+        "itemType": 299,
+        "abilityValue": [
+            64.26,
+            10.92
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10532,
+        "equipSuitid": 0,
+        "destribeTextID": 1800598,
+        "isShow": 1,
+        "randomAbility": {},
+        "equipNumber": "P-15",
+        "nameTextID": 1800318,
+        "initMagnify": 10
+    },
+    "45402": {
+        "rarity": 2,
+        "id": 45402,
+        "itemType": 299,
+        "abilityValue": [
+            68.04,
+            11.57
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10533,
+        "equipSuitid": 0,
+        "destribeTextID": 1800599,
+        "isShow": 1,
+        "randomAbility": [
+            11
+        ],
+        "equipNumber": "P-16",
+        "nameTextID": 1800319,
+        "initMagnify": 10
+    },
+    "45403": {
+        "rarity": 2,
+        "id": 45403,
+        "itemType": 299,
+        "abilityValue": [
+            69.74,
+            11.86
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10534,
+        "equipSuitid": 0,
+        "destribeTextID": 1800600,
+        "isShow": 0,
+        "randomAbility": [
+            11
+        ],
+        "equipNumber": "N-05",
+        "nameTextID": 1800320,
+        "initMagnify": 10
+    },
+    "45404": {
+        "rarity": 3,
+        "id": 45404,
+        "itemType": 299,
+        "abilityValue": [
+            71.82,
+            12.21
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10726,
+        "equipSuitid": 0,
+        "destribeTextID": 1800601,
+        "isShow": 1,
+        "randomAbility": [
+            12
+        ],
+        "equipNumber": "P-17",
+        "nameTextID": 1800321,
+        "initMagnify": 10
+    },
+    "45405": {
+        "rarity": 3,
+        "id": 45405,
+        "itemType": 299,
+        "abilityValue": [
+            73.62,
+            12.51
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11279,
+        "equipSuitid": 0,
+        "destribeTextID": 1800602,
+        "isShow": 0,
+        "randomAbility": [
+            12
+        ],
+        "equipNumber": "N-06",
+        "nameTextID": 1800322,
+        "initMagnify": 10
+    },
+    "45406": {
+        "rarity": 5,
+        "id": 45406,
+        "itemType": 299,
+        "abilityValue": [
+            77.49,
+            12.85
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11280,
+        "equipSuitid": 0,
+        "destribeTextID": 1800603,
+        "isShow": 1,
+        "randomAbility": [
+            13,
+            13
+        ],
+        "equipNumber": "P-18",
+        "nameTextID": 1800323,
+        "initMagnify": 10
+    },
+    "45407": {
+        "rarity": 5,
+        "id": 45407,
+        "itemType": 299,
+        "abilityValue": [
+            75.6,
+            13.17
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11281,
+        "equipSuitid": 0,
+        "destribeTextID": 1800604,
+        "isShow": 1,
+        "randomAbility": [
+            13,
+            13
+        ],
+        "equipNumber": "P-19",
+        "nameTextID": 1800324,
+        "initMagnify": 10
+    },
+    "45408": {
+        "rarity": 5,
+        "id": 45408,
+        "itemType": 299,
+        "abilityValue": [
+            83.16,
+            13.49
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11282,
+        "equipSuitid": 8,
+        "destribeTextID": 1800605,
+        "isShow": 1,
+        "randomAbility": [
+            13,
+            13
+        ],
+        "equipNumber": "P-20",
+        "nameTextID": 1800325,
+        "initMagnify": 10
+    },
+    "45409": {
+        "rarity": 5,
+        "id": 45409,
+        "itemType": 299,
+        "abilityValue": [
+            79.38,
+            14.14
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11283,
+        "equipSuitid": 11,
+        "destribeTextID": 1800606,
+        "isShow": 1,
+        "randomAbility": [
+            13,
+            13
+        ],
+        "equipNumber": "P-21",
+        "nameTextID": 1800326,
+        "initMagnify": 10
+    },
+    "47202": {
+        "rarity": 2,
+        "id": 47202,
+        "itemType": 299,
+        "abilityValue": [
+            24.3,
+            17.5
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10718,
+        "equipSuitid": 0,
+        "destribeTextID": 1800680,
+        "isShow": 1,
+        "randomAbility": [
+            21
+        ],
+        "equipNumber": "M-37",
+        "nameTextID": 1800400,
+        "initMagnify": 10
+    },
+    "47203": {
+        "rarity": 2,
+        "id": 47203,
+        "itemType": 299,
+        "abilityValue": [
+            24.91,
+            17.93
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10719,
+        "equipSuitid": 0,
+        "destribeTextID": 1800681,
+        "isShow": 0,
+        "randomAbility": [
+            21
+        ],
+        "equipNumber": "N-23",
+        "nameTextID": 1800401,
+        "initMagnify": 10
+    },
+    "47204": {
+        "rarity": 3,
+        "id": 47204,
+        "itemType": 299,
+        "abilityValue": [
+            25.65,
+            18.47
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10720,
+        "equipSuitid": 0,
+        "destribeTextID": 1800682,
+        "isShow": 1,
+        "randomAbility": [
+            22
+        ],
+        "equipNumber": "M-38",
+        "nameTextID": 1800402,
+        "initMagnify": 10
+    },
+    "47205": {
+        "rarity": 3,
+        "id": 47205,
+        "itemType": 299,
+        "abilityValue": [
+            26.29,
+            18.93
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11294,
+        "equipSuitid": 0,
+        "destribeTextID": 1800683,
+        "isShow": 0,
+        "randomAbility": [
+            22
+        ],
+        "equipNumber": "N-24",
+        "nameTextID": 1800403,
+        "initMagnify": 10
+    },
+    "47206": {
+        "rarity": 5,
+        "id": 47206,
+        "itemType": 299,
+        "abilityValue": [
+            27.68,
+            19.44
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11295,
+        "equipSuitid": 0,
+        "destribeTextID": 1800684,
+        "isShow": 1,
+        "randomAbility": [
+            23,
+            23
+        ],
+        "equipNumber": "M-39",
+        "nameTextID": 1800404,
+        "initMagnify": 10
+    },
+    "47207": {
+        "rarity": 5,
+        "id": 47207,
+        "itemType": 299,
+        "abilityValue": [
+            27,
+            19.93
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11296,
+        "equipSuitid": 0,
+        "destribeTextID": 1800685,
+        "isShow": 1,
+        "randomAbility": [
+            23,
+            23
+        ],
+        "equipNumber": "M-40",
+        "nameTextID": 1800405,
+        "initMagnify": 10
+    },
+    "47208": {
+        "rarity": 5,
+        "id": 47208,
+        "itemType": 299,
+        "abilityValue": [
+            29.7,
+            20.41
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11297,
+        "equipSuitid": 8,
+        "destribeTextID": 1800686,
+        "isShow": 1,
+        "randomAbility": [
+            23,
+            23
+        ],
+        "equipNumber": "M-41",
+        "nameTextID": 1800406,
+        "initMagnify": 10
+    },
+    "47209": {
+        "rarity": 5,
+        "id": 47209,
+        "itemType": 299,
+        "abilityValue": [
+            28.35,
+            21.38
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11298,
+        "equipSuitid": 11,
+        "destribeTextID": 1800687,
+        "isShow": 1,
+        "randomAbility": [
+            23,
+            23
+        ],
+        "equipNumber": "M-42",
+        "nameTextID": 1800407,
+        "initMagnify": 10
+    },
+    "46201": {
+        "rarity": 1,
+        "id": 46201,
+        "itemType": 299,
+        "abilityValue": [
+            45.9,
+            7.71
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10520,
+        "equipSuitid": 0,
+        "destribeTextID": 1800634,
+        "isShow": 1,
+        "randomAbility": {},
+        "equipNumber": "M-01",
+        "nameTextID": 1800354,
+        "initMagnify": 10
+    },
+    "46202": {
+        "rarity": 2,
+        "id": 46202,
+        "itemType": 299,
+        "abilityValue": [
+            48.6,
+            8.16
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10669,
+        "equipSuitid": 0,
+        "destribeTextID": 1800635,
+        "isShow": 1,
+        "randomAbility": [
+            81
+        ],
+        "equipNumber": "M-02",
+        "nameTextID": 1800355,
+        "initMagnify": 10
+    },
+    "46203": {
+        "rarity": 2,
+        "id": 46203,
+        "itemType": 299,
+        "abilityValue": [
+            49.82,
+            8.37
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10519,
+        "equipSuitid": 0,
+        "destribeTextID": 1800636,
+        "isShow": 0,
+        "randomAbility": [
+            81
+        ],
+        "equipNumber": "N-13",
+        "nameTextID": 1800356,
+        "initMagnify": 10
+    },
+    "46204": {
+        "rarity": 3,
+        "id": 46204,
+        "itemType": 299,
+        "abilityValue": [
+            51.3,
+            8.62
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10518,
+        "equipSuitid": 0,
+        "destribeTextID": 1800637,
+        "isShow": 1,
+        "randomAbility": [
+            82
+        ],
+        "equipNumber": "M-03",
+        "nameTextID": 1800357,
+        "initMagnify": 10
+    },
+    "46205": {
+        "rarity": 3,
+        "id": 46205,
+        "itemType": 299,
+        "abilityValue": [
+            52.58,
+            8.83
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11304,
+        "equipSuitid": 0,
+        "destribeTextID": 1800638,
+        "isShow": 0,
+        "randomAbility": [
+            82
+        ],
+        "equipNumber": "N-14",
+        "nameTextID": 1800358,
+        "initMagnify": 10
+    },
+    "46206": {
+        "rarity": 5,
+        "id": 46206,
+        "itemType": 299,
+        "abilityValue": [
+            55.35,
+            9.07
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11305,
+        "equipSuitid": 0,
+        "destribeTextID": 1800639,
+        "isShow": 1,
+        "randomAbility": [
+            83,
+            83
+        ],
+        "equipNumber": "M-04",
+        "nameTextID": 1800359,
+        "initMagnify": 10
+    },
+    "46207": {
+        "rarity": 5,
+        "id": 46207,
+        "itemType": 299,
+        "abilityValue": [
+            54,
+            9.3
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11306,
+        "equipSuitid": 0,
+        "destribeTextID": 1800640,
+        "isShow": 1,
+        "randomAbility": [
+            83,
+            83
+        ],
+        "equipNumber": "M-05",
+        "nameTextID": 1800360,
+        "initMagnify": 10
+    },
+    "46208": {
+        "rarity": 5,
+        "id": 46208,
+        "itemType": 299,
+        "abilityValue": [
+            59.4,
+            9.53
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11307,
+        "equipSuitid": 8,
+        "destribeTextID": 1800641,
+        "isShow": 1,
+        "randomAbility": [
+            83,
+            83
+        ],
+        "equipNumber": "M-06",
+        "nameTextID": 1800361,
+        "initMagnify": 10
+    },
+    "46209": {
+        "rarity": 5,
+        "id": 46209,
+        "itemType": 299,
+        "abilityValue": [
+            56.7,
+            9.98
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11308,
+        "equipSuitid": 11,
+        "destribeTextID": 1800642,
+        "isShow": 1,
+        "randomAbility": [
+            83,
+            83
+        ],
+        "equipNumber": "M-07",
+        "nameTextID": 1800362,
+        "initMagnify": 10
+    },
+    "48002": {
+        "rarity": 2,
+        "id": 48002,
+        "itemType": 555,
+        "abilityValue": [
+            38.88,
+            5.18
+        ],
+        "abilityID": [
+            20,
+            50
+        ],
+        "icon": 10723,
+        "equipSuitid": 0,
+        "destribeTextID": 1800716,
+        "isShow": 1,
+        "randomAbility": [
+            61
+        ],
+        "equipNumber": "A-10",
+        "nameTextID": 1800436,
+        "initMagnify": 10
+    },
+    "48003": {
+        "rarity": 2,
+        "id": 48003,
+        "itemType": 555,
+        "abilityValue": [
+            38.88,
+            5.18
+        ],
+        "abilityID": [
+            20,
+            60
+        ],
+        "icon": 10724,
+        "equipSuitid": 2,
+        "destribeTextID": 1800717,
+        "isShow": 1,
+        "randomAbility": [
+            61
+        ],
+        "equipNumber": "A-11",
+        "nameTextID": 1800437,
+        "initMagnify": 10
+    },
+    "48004": {
+        "rarity": 3,
+        "id": 48004,
+        "itemType": 555,
+        "abilityValue": [
+            41.04,
+            5.47
+        ],
+        "abilityID": [
+            20,
+            50
+        ],
+        "icon": 10725,
+        "equipSuitid": 0,
+        "destribeTextID": 1800718,
+        "isShow": 1,
+        "randomAbility": [
+            62
+        ],
+        "equipNumber": "A-12",
+        "nameTextID": 1800438,
+        "initMagnify": 10
+    },
+    "48005": {
+        "rarity": 3,
+        "id": 48005,
+        "itemType": 555,
+        "abilityValue": [
+            41.04,
+            5.47
+        ],
+        "abilityID": [
+            20,
+            60
+        ],
+        "icon": 11314,
+        "equipSuitid": 0,
+        "destribeTextID": 1800719,
+        "isShow": 0,
+        "randomAbility": [
+            62
+        ],
+        "equipNumber": "N-28",
+        "nameTextID": 1800439,
+        "initMagnify": 10
+    },
+    "48006": {
+        "rarity": 5,
+        "id": 48006,
+        "itemType": 555,
+        "abilityValue": [
+            43.2,
+            5.76
+        ],
+        "abilityID": [
+            20,
+            50
+        ],
+        "icon": 11315,
+        "equipSuitid": 0,
+        "destribeTextID": 1800720,
+        "isShow": 1,
+        "randomAbility": [
+            63,
+            63
+        ],
+        "equipNumber": "A-13",
+        "nameTextID": 1800440,
+        "initMagnify": 10
+    },
+    "48007": {
+        "rarity": 5,
+        "id": 48007,
+        "itemType": 555,
+        "abilityValue": [
+            43.2,
+            5.76
+        ],
+        "abilityID": [
+            20,
+            60
+        ],
+        "icon": 11316,
+        "equipSuitid": 0,
+        "destribeTextID": 1800721,
+        "isShow": 1,
+        "randomAbility": [
+            63,
+            63
+        ],
+        "equipNumber": "A-14",
+        "nameTextID": 1800441,
+        "initMagnify": 10
+    },
+    "48008": {
+        "rarity": 5,
+        "id": 48008,
+        "itemType": 555,
+        "abilityValue": [
+            47.52,
+            6.05
+        ],
+        "abilityID": [
+            20,
+            50
+        ],
+        "icon": 11317,
+        "equipSuitid": 10,
+        "destribeTextID": 1800722,
+        "isShow": 1,
+        "randomAbility": [
+            63,
+            63
+        ],
+        "equipNumber": "A-15",
+        "nameTextID": 1800442,
+        "initMagnify": 10
+    },
+    "48009": {
+        "rarity": 5,
+        "id": 48009,
+        "itemType": 555,
+        "abilityValue": [
+            47.52,
+            6.05
+        ],
+        "abilityID": [
+            20,
+            60
+        ],
+        "icon": 11318,
+        "equipSuitid": 13,
+        "destribeTextID": 1800723,
+        "isShow": 1,
+        "randomAbility": [
+            63,
+            63
+        ],
+        "equipNumber": "A-16",
+        "nameTextID": 1800443,
+        "initMagnify": 10
+    },
+    "45201": {
+        "rarity": 1,
+        "id": 45201,
+        "itemType": 299,
+        "abilityValue": [
+            64.26,
+            7.34
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10673,
+        "equipSuitid": 0,
+        "destribeTextID": 1800589,
+        "isShow": 1,
+        "randomAbility": {},
+        "equipNumber": "P-08",
+        "nameTextID": 1800309,
+        "initMagnify": 10
+    },
+    "45202": {
+        "rarity": 2,
+        "id": 45202,
+        "itemType": 299,
+        "abilityValue": [
+            68.04,
+            7.78
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10674,
+        "equipSuitid": 0,
+        "destribeTextID": 1800590,
+        "isShow": 1,
+        "randomAbility": [
+            71
+        ],
+        "equipNumber": "P-09",
+        "nameTextID": 1800310,
+        "initMagnify": 10
+    },
+    "45203": {
+        "rarity": 2,
+        "id": 45203,
+        "itemType": 299,
+        "abilityValue": [
+            69.74,
+            7.97
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10675,
+        "equipSuitid": 0,
+        "destribeTextID": 1800591,
+        "isShow": 0,
+        "randomAbility": [
+            71
+        ],
+        "equipNumber": "N-03",
+        "nameTextID": 1800311,
+        "initMagnify": 10
+    },
+    "45204": {
+        "rarity": 3,
+        "id": 45204,
+        "itemType": 299,
+        "abilityValue": [
+            71.82,
+            8.21
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10676,
+        "equipSuitid": 0,
+        "destribeTextID": 1800592,
+        "isShow": 1,
+        "randomAbility": [
+            72
+        ],
+        "equipNumber": "P-10",
+        "nameTextID": 1800312,
+        "initMagnify": 10
+    },
+    "45205": {
+        "rarity": 3,
+        "id": 45205,
+        "itemType": 299,
+        "abilityValue": [
+            73.62,
+            8.41
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11254,
+        "equipSuitid": 0,
+        "destribeTextID": 1800593,
+        "isShow": 0,
+        "randomAbility": [
+            72
+        ],
+        "equipNumber": "N-04",
+        "nameTextID": 1800313,
+        "initMagnify": 10
+    },
+    "45206": {
+        "rarity": 5,
+        "id": 45206,
+        "itemType": 299,
+        "abilityValue": [
+            77.49,
+            8.64
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11255,
+        "equipSuitid": 0,
+        "destribeTextID": 1800594,
+        "isShow": 1,
+        "randomAbility": [
+            73,
+            73
+        ],
+        "equipNumber": "P-11",
+        "nameTextID": 1800314,
+        "initMagnify": 10
+    },
+    "45207": {
+        "rarity": 5,
+        "id": 45207,
+        "itemType": 299,
+        "abilityValue": [
+            75.6,
+            8.86
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11256,
+        "equipSuitid": 0,
+        "destribeTextID": 1800595,
+        "isShow": 1,
+        "randomAbility": [
+            73,
+            73
+        ],
+        "equipNumber": "P-12",
+        "nameTextID": 1800315,
+        "initMagnify": 10
+    },
+    "45208": {
+        "rarity": 5,
+        "id": 45208,
+        "itemType": 299,
+        "abilityValue": [
+            83.16,
+            9.07
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11257,
+        "equipSuitid": 8,
+        "destribeTextID": 1800596,
+        "isShow": 1,
+        "randomAbility": [
+            73,
+            73
+        ],
+        "equipNumber": "P-13",
+        "nameTextID": 1800316,
+        "initMagnify": 10
+    },
+    "45209": {
+        "rarity": 5,
+        "id": 45209,
+        "itemType": 299,
+        "abilityValue": [
+            79.38,
+            9.5
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11258,
+        "equipSuitid": 11,
+        "destribeTextID": 1800597,
+        "isShow": 1,
+        "randomAbility": [
+            73,
+            73
+        ],
+        "equipNumber": "P-14",
+        "nameTextID": 1800317,
+        "initMagnify": 10
+    },
+    "47002": {
+        "rarity": 2,
+        "id": 47002,
+        "itemType": 299,
+        "abilityValue": [
+            48.6,
+            12.25
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10539,
+        "equipSuitid": 0,
+        "destribeTextID": 1800671,
+        "isShow": 1,
+        "randomAbility": [
+            21
+        ],
+        "equipNumber": "M-30",
+        "nameTextID": 1800391,
+        "initMagnify": 10
+    },
+    "47003": {
+        "rarity": 2,
+        "id": 47003,
+        "itemType": 299,
+        "abilityValue": [
+            49.82,
+            12.55
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10671,
+        "equipSuitid": 0,
+        "destribeTextID": 1800672,
+        "isShow": 0,
+        "randomAbility": [
+            21
+        ],
+        "equipNumber": "N-21",
+        "nameTextID": 1800392,
+        "initMagnify": 10
+    },
+    "47004": {
+        "rarity": 3,
+        "id": 47004,
+        "itemType": 299,
+        "abilityValue": [
+            51.3,
+            12.93
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10672,
+        "equipSuitid": 0,
+        "destribeTextID": 1800673,
+        "isShow": 1,
+        "randomAbility": [
+            22
+        ],
+        "equipNumber": "M-31",
+        "nameTextID": 1800393,
+        "initMagnify": 10
+    },
+    "47005": {
+        "rarity": 3,
+        "id": 47005,
+        "itemType": 299,
+        "abilityValue": [
+            52.58,
+            13.25
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11264,
+        "equipSuitid": 0,
+        "destribeTextID": 1800674,
+        "isShow": 0,
+        "randomAbility": [
+            22
+        ],
+        "equipNumber": "N-22",
+        "nameTextID": 1800394,
+        "initMagnify": 10
+    },
+    "47006": {
+        "rarity": 5,
+        "id": 47006,
+        "itemType": 299,
+        "abilityValue": [
+            55.35,
+            13.61
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11265,
+        "equipSuitid": 0,
+        "destribeTextID": 1800675,
+        "isShow": 1,
+        "randomAbility": [
+            23,
+            23
+        ],
+        "equipNumber": "M-32",
+        "nameTextID": 1800395,
+        "initMagnify": 10
+    },
+    "47007": {
+        "rarity": 5,
+        "id": 47007,
+        "itemType": 299,
+        "abilityValue": [
+            54,
+            13.95
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11266,
+        "equipSuitid": 0,
+        "destribeTextID": 1800676,
+        "isShow": 1,
+        "randomAbility": [
+            23,
+            23
+        ],
+        "equipNumber": "M-33",
+        "nameTextID": 1800396,
+        "initMagnify": 10
+    },
+    "47008": {
+        "rarity": 5,
+        "id": 47008,
+        "itemType": 299,
+        "abilityValue": [
+            59.4,
+            14.29
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11267,
+        "equipSuitid": 8,
+        "destribeTextID": 1800677,
+        "isShow": 1,
+        "randomAbility": [
+            23,
+            23
+        ],
+        "equipNumber": "M-34",
+        "nameTextID": 1800397,
+        "initMagnify": 10
+    },
+    "47009": {
+        "rarity": 5,
+        "id": 47009,
+        "itemType": 299,
+        "abilityValue": [
+            56.7,
+            14.97
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11268,
+        "equipSuitid": 11,
+        "destribeTextID": 1800678,
+        "isShow": 1,
+        "randomAbility": [
+            23,
+            23
+        ],
+        "equipNumber": "M-35",
+        "nameTextID": 1800398,
+        "initMagnify": 10
+    },
+    "48301": {
+        "rarity": 3,
+        "id": 48301,
+        "itemType": 299,
+        "abilityValue": [
+            77.22,
+            3.54
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 12858,
+        "equipSuitid": 6,
+        "destribeTextID": 1802377,
+        "isShow": 1,
+        "randomAbility": [
+            72
+        ],
+        "equipNumber": "P-49",
+        "nameTextID": 1802345,
+        "initMagnify": 10
+    },
+    "48302": {
+        "rarity": 3,
+        "id": 48302,
+        "itemType": 299,
+        "abilityValue": [
+            54.05,
+            8.77
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 12857,
+        "equipSuitid": 6,
+        "destribeTextID": 1802378,
+        "isShow": 1,
+        "randomAbility": [
+            12
+        ],
+        "equipNumber": "P-50",
+        "nameTextID": 1802346,
+        "initMagnify": 10
+    },
+    "48303": {
+        "rarity": 3,
+        "id": 48303,
+        "itemType": 299,
+        "abilityValue": [
+            9.27,
+            14.74
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 12860,
+        "equipSuitid": 6,
+        "destribeTextID": 1802379,
+        "isShow": 1,
+        "randomAbility": [
+            12
+        ],
+        "equipNumber": "P-51",
+        "nameTextID": 1802347,
+        "initMagnify": 10
+    },
+    "48304": {
+        "rarity": 3,
+        "id": 48304,
+        "itemType": 299,
+        "abilityValue": [
+            23.17,
+            8.85
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 12862,
+        "equipSuitid": 6,
+        "destribeTextID": 1802380,
+        "isShow": 1,
+        "randomAbility": [
+            22
+        ],
+        "equipNumber": "M-49",
+        "nameTextID": 1802348,
+        "initMagnify": 10
+    },
+    "46001": {
+        "rarity": 1,
+        "id": 46001,
+        "itemType": 299,
+        "abilityValue": [
+            11.02,
+            18.36
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10705,
+        "equipSuitid": 0,
+        "destribeTextID": 1800625,
+        "isShow": 1,
+        "randomAbility": {},
+        "equipNumber": "P-36",
+        "nameTextID": 1800345,
+        "initMagnify": 10
+    },
+    "46002": {
+        "rarity": 2,
+        "id": 46002,
+        "itemType": 299,
+        "abilityValue": [
+            11.66,
+            19.44
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10706,
+        "equipSuitid": 0,
+        "destribeTextID": 1800626,
+        "isShow": 1,
+        "randomAbility": [
+            11
+        ],
+        "equipNumber": "P-37",
+        "nameTextID": 1800346,
+        "initMagnify": 10
+    },
+    "46003": {
+        "rarity": 2,
+        "id": 46003,
+        "itemType": 299,
+        "abilityValue": [
+            11.96,
+            19.93
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10707,
+        "equipSuitid": 0,
+        "destribeTextID": 1800627,
+        "isShow": 0,
+        "randomAbility": [
+            11
+        ],
+        "equipNumber": "N-11",
+        "nameTextID": 1800347,
+        "initMagnify": 10
+    },
+    "46004": {
+        "rarity": 3,
+        "id": 46004,
+        "itemType": 299,
+        "abilityValue": [
+            12.31,
+            20.52
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10708,
+        "equipSuitid": 0,
+        "destribeTextID": 1800628,
+        "isShow": 1,
+        "randomAbility": [
+            12
+        ],
+        "equipNumber": "P-38",
+        "nameTextID": 1800348,
+        "initMagnify": 10
+    },
+    "46005": {
+        "rarity": 3,
+        "id": 46005,
+        "itemType": 299,
+        "abilityValue": [
+            12.62,
+            21.03
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11274,
+        "equipSuitid": 0,
+        "destribeTextID": 1800629,
+        "isShow": 0,
+        "randomAbility": [
+            12
+        ],
+        "equipNumber": "N-12",
+        "nameTextID": 1800349,
+        "initMagnify": 10
+    },
+    "46006": {
+        "rarity": 5,
+        "id": 46006,
+        "itemType": 299,
+        "abilityValue": [
+            13.28,
+            21.6
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11275,
+        "equipSuitid": 0,
+        "destribeTextID": 1800630,
+        "isShow": 1,
+        "randomAbility": [
+            13,
+            13
+        ],
+        "equipNumber": "P-39",
+        "nameTextID": 1800350,
+        "initMagnify": 10
+    },
+    "46007": {
+        "rarity": 5,
+        "id": 46007,
+        "itemType": 299,
+        "abilityValue": [
+            12.96,
+            22.14
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11276,
+        "equipSuitid": 0,
+        "destribeTextID": 1800631,
+        "isShow": 1,
+        "randomAbility": [
+            13,
+            13
+        ],
+        "equipNumber": "P-40",
+        "nameTextID": 1800351,
+        "initMagnify": 10
+    },
+    "46008": {
+        "rarity": 5,
+        "id": 46008,
+        "itemType": 299,
+        "abilityValue": [
+            14.26,
+            22.68
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11277,
+        "equipSuitid": 8,
+        "destribeTextID": 1800632,
+        "isShow": 1,
+        "randomAbility": [
+            13,
+            13
+        ],
+        "equipNumber": "P-41",
+        "nameTextID": 1800352,
+        "initMagnify": 10
+    },
+    "46009": {
+        "rarity": 5,
+        "id": 46009,
+        "itemType": 299,
+        "abilityValue": [
+            13.61,
+            23.76
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11278,
+        "equipSuitid": 11,
+        "destribeTextID": 1800633,
+        "isShow": 1,
+        "randomAbility": [
+            13,
+            13
+        ],
+        "equipNumber": "P-42",
+        "nameTextID": 1800353,
+        "initMagnify": 10
+    },
+    "47802": {
+        "rarity": 2,
+        "id": 47802,
+        "itemType": 555,
+        "abilityValue": [
+            12.96,
+            5.18
+        ],
+        "abilityID": [
+            30,
+            50
+        ],
+        "icon": 10702,
+        "equipSuitid": 0,
+        "destribeTextID": 1800707,
+        "isShow": 1,
+        "randomAbility": [
+            51
+        ],
+        "equipNumber": "A-02",
+        "nameTextID": 1800427,
+        "initMagnify": 10
+    },
+    "47803": {
+        "rarity": 2,
+        "id": 47803,
+        "itemType": 555,
+        "abilityValue": [
+            12.96,
+            5.18
+        ],
+        "abilityID": [
+            30,
+            60
+        ],
+        "icon": 10699,
+        "equipSuitid": 1,
+        "destribeTextID": 1800708,
+        "isShow": 1,
+        "randomAbility": [
+            51
+        ],
+        "equipNumber": "A-03",
+        "nameTextID": 1800428,
+        "initMagnify": 10
+    },
+    "47804": {
+        "rarity": 3,
+        "id": 47804,
+        "itemType": 555,
+        "abilityValue": [
+            13.68,
+            5.47
+        ],
+        "abilityID": [
+            30,
+            50
+        ],
+        "icon": 10700,
+        "equipSuitid": 0,
+        "destribeTextID": 1800709,
+        "isShow": 1,
+        "randomAbility": [
+            52
+        ],
+        "equipNumber": "A-04",
+        "nameTextID": 1800429,
+        "initMagnify": 10
+    },
+    "47805": {
+        "rarity": 3,
+        "id": 47805,
+        "itemType": 555,
+        "abilityValue": [
+            13.68,
+            5.47
+        ],
+        "abilityID": [
+            30,
+            60
+        ],
+        "icon": 11284,
+        "equipSuitid": 0,
+        "destribeTextID": 1800710,
+        "isShow": 0,
+        "randomAbility": [
+            52
+        ],
+        "equipNumber": "N-27",
+        "nameTextID": 1800430,
+        "initMagnify": 10
+    },
+    "47806": {
+        "rarity": 5,
+        "id": 47806,
+        "itemType": 555,
+        "abilityValue": [
+            14.4,
+            5.76
+        ],
+        "abilityID": [
+            30,
+            50
+        ],
+        "icon": 11285,
+        "equipSuitid": 0,
+        "destribeTextID": 1800711,
+        "isShow": 1,
+        "randomAbility": [
+            53,
+            53
+        ],
+        "equipNumber": "A-05",
+        "nameTextID": 1800431,
+        "initMagnify": 10
+    },
+    "47807": {
+        "rarity": 5,
+        "id": 47807,
+        "itemType": 555,
+        "abilityValue": [
+            14.4,
+            5.76
+        ],
+        "abilityID": [
+            30,
+            60
+        ],
+        "icon": 11286,
+        "equipSuitid": 0,
+        "destribeTextID": 1800712,
+        "isShow": 1,
+        "randomAbility": [
+            53,
+            53
+        ],
+        "equipNumber": "A-06",
+        "nameTextID": 1800432,
+        "initMagnify": 10
+    },
+    "47808": {
+        "rarity": 5,
+        "id": 47808,
+        "itemType": 555,
+        "abilityValue": [
+            15.84,
+            6.05
+        ],
+        "abilityID": [
+            30,
+            50
+        ],
+        "icon": 11287,
+        "equipSuitid": 10,
+        "destribeTextID": 1800713,
+        "isShow": 1,
+        "randomAbility": [
+            53,
+            53
+        ],
+        "equipNumber": "A-07",
+        "nameTextID": 1800433,
+        "initMagnify": 10
+    },
+    "47809": {
+        "rarity": 5,
+        "id": 47809,
+        "itemType": 555,
+        "abilityValue": [
+            15.84,
+            6.05
+        ],
+        "abilityID": [
+            30,
+            60
+        ],
+        "icon": 11288,
+        "equipSuitid": 13,
+        "destribeTextID": 1800714,
+        "isShow": 1,
+        "randomAbility": [
+            53,
+            53
+        ],
+        "equipNumber": "A-08",
+        "nameTextID": 1800434,
+        "initMagnify": 10
+    },
+    "49902": {
+        "rarity": 3,
+        "id": 49902,
+        "itemType": 555,
+        "abilityValue": [
+            5.94,
+            5.94
+        ],
+        "abilityID": [
+            50,
+            60
+        ],
+        "icon": 13839,
+        "equipSuitid": 0,
+        "destribeTextID": 1803144,
+        "isShow": 1,
+        "randomAbility": [
+            62
+        ],
+        "equipNumber": "EX-2",
+        "nameTextID": 1803142,
+        "initMagnify": 10
+    },
+    "49901": {
+        "rarity": 5,
+        "id": 49901,
+        "itemType": 299,
+        "abilityValue": [
+            82.03,
+            13.94
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 13840,
+        "equipSuitid": 0,
+        "destribeTextID": 1803143,
+        "isShow": 1,
+        "randomAbility": [
+            13,
+            13
+        ],
+        "equipNumber": "EX-1",
+        "nameTextID": 1803141,
+        "initMagnify": 10
+    },
+    "48508": {
+        "rarity": 3,
+        "id": 48508,
+        "itemType": 555,
+        "abilityValue": [
+            28.08,
+            4.31
+        ],
+        "abilityID": [
+            20,
+            60
+        ],
+        "icon": 12856,
+        "equipSuitid": 7,
+        "destribeTextID": 1802392,
+        "isShow": 1,
+        "randomAbility": [
+            62
+        ],
+        "equipNumber": "A-20",
+        "nameTextID": 1802360,
+        "initMagnify": 10
+    },
+    "45001": {
+        "rarity": 1,
+        "id": 45001,
+        "itemType": 299,
+        "abilityValue": [
+            91.8,
+            4.41
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10670,
+        "equipSuitid": 0,
+        "destribeTextID": 1800580,
+        "isShow": 1,
+        "randomAbility": {},
+        "equipNumber": "P-01",
+        "nameTextID": 1800300,
+        "initMagnify": 10
+    },
+    "45002": {
+        "rarity": 2,
+        "id": 45002,
+        "itemType": 299,
+        "abilityValue": [
+            97.2,
+            4.67
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10524,
+        "equipSuitid": 0,
+        "destribeTextID": 1800581,
+        "isShow": 1,
+        "randomAbility": [
+            71
+        ],
+        "equipNumber": "P-02",
+        "nameTextID": 1800301,
+        "initMagnify": 10
+    },
+    "45003": {
+        "rarity": 2,
+        "id": 45003,
+        "itemType": 299,
+        "abilityValue": [
+            99.63,
+            4.78
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10523,
+        "equipSuitid": 0,
+        "destribeTextID": 1800582,
+        "isShow": 0,
+        "randomAbility": [
+            71
+        ],
+        "equipNumber": "N-01",
+        "nameTextID": 1800302,
+        "initMagnify": 10
+    },
+    "45004": {
+        "rarity": 3,
+        "id": 45004,
+        "itemType": 299,
+        "abilityValue": [
+            102.6,
+            4.92
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10522,
+        "equipSuitid": 0,
+        "destribeTextID": 1800583,
+        "isShow": 1,
+        "randomAbility": [
+            72
+        ],
+        "equipNumber": "P-03",
+        "nameTextID": 1800303,
+        "initMagnify": 10
+    },
+    "45005": {
+        "rarity": 3,
+        "id": 45005,
+        "itemType": 299,
+        "abilityValue": [
+            105.17,
+            5.05
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11259,
+        "equipSuitid": 0,
+        "destribeTextID": 1800584,
+        "isShow": 0,
+        "randomAbility": [
+            72
+        ],
+        "equipNumber": "N-02",
+        "nameTextID": 1800304,
+        "initMagnify": 10
+    },
+    "45006": {
+        "rarity": 5,
+        "id": 45006,
+        "itemType": 299,
+        "abilityValue": [
+            110.7,
+            5.18
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11260,
+        "equipSuitid": 0,
+        "destribeTextID": 1800585,
+        "isShow": 1,
+        "randomAbility": [
+            73,
+            73
+        ],
+        "equipNumber": "P-04",
+        "nameTextID": 1800305,
+        "initMagnify": 10
+    },
+    "45007": {
+        "rarity": 5,
+        "id": 45007,
+        "itemType": 299,
+        "abilityValue": [
+            108,
+            5.31
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11261,
+        "equipSuitid": 0,
+        "destribeTextID": 1800586,
+        "isShow": 1,
+        "randomAbility": [
+            73,
+            73
+        ],
+        "equipNumber": "P-05",
+        "nameTextID": 1800306,
+        "initMagnify": 10
+    },
+    "45008": {
+        "rarity": 5,
+        "id": 45008,
+        "itemType": 299,
+        "abilityValue": [
+            118.8,
+            5.44
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11262,
+        "equipSuitid": 8,
+        "destribeTextID": 1800587,
+        "isShow": 1,
+        "randomAbility": [
+            73,
+            73
+        ],
+        "equipNumber": "P-06",
+        "nameTextID": 1800307,
+        "initMagnify": 10
+    },
+    "45009": {
+        "rarity": 5,
+        "id": 45009,
+        "itemType": 299,
+        "abilityValue": [
+            113.4,
+            5.7
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11263,
+        "equipSuitid": 11,
+        "destribeTextID": 1800588,
+        "isShow": 1,
+        "randomAbility": [
+            73,
+            73
+        ],
+        "equipNumber": "P-07",
+        "nameTextID": 1800308,
+        "initMagnify": 10
+    },
+    "46802": {
+        "rarity": 2,
+        "id": 46802,
+        "itemType": 299,
+        "abilityValue": [
+            24.3,
+            11.66
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10715,
+        "equipSuitid": 0,
+        "destribeTextID": 1800662,
+        "isShow": 1,
+        "randomAbility": [
+            21
+        ],
+        "equipNumber": "M-23",
+        "nameTextID": 1800382,
+        "initMagnify": 10
+    },
+    "46803": {
+        "rarity": 2,
+        "id": 46803,
+        "itemType": 299,
+        "abilityValue": [
+            24.91,
+            11.96
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10727,
+        "equipSuitid": 0,
+        "destribeTextID": 1800663,
+        "isShow": 0,
+        "randomAbility": [
+            21
+        ],
+        "equipNumber": "N-19",
+        "nameTextID": 1800383,
+        "initMagnify": 10
+    },
+    "46804": {
+        "rarity": 3,
+        "id": 46804,
+        "itemType": 299,
+        "abilityValue": [
+            25.65,
+            12.31
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10728,
+        "equipSuitid": 0,
+        "destribeTextID": 1800664,
+        "isShow": 1,
+        "randomAbility": [
+            22
+        ],
+        "equipNumber": "M-24",
+        "nameTextID": 1800384,
+        "initMagnify": 10
+    },
+    "46805": {
+        "rarity": 3,
+        "id": 46805,
+        "itemType": 299,
+        "abilityValue": [
+            26.29,
+            12.62
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11299,
+        "equipSuitid": 0,
+        "destribeTextID": 1800665,
+        "isShow": 0,
+        "randomAbility": [
+            22
+        ],
+        "equipNumber": "N-20",
+        "nameTextID": 1800385,
+        "initMagnify": 10
+    },
+    "46806": {
+        "rarity": 5,
+        "id": 46806,
+        "itemType": 299,
+        "abilityValue": [
+            27.68,
+            12.96
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11300,
+        "equipSuitid": 0,
+        "destribeTextID": 1800666,
+        "isShow": 1,
+        "randomAbility": [
+            23,
+            23
+        ],
+        "equipNumber": "M-25",
+        "nameTextID": 1800386,
+        "initMagnify": 10
+    },
+    "46807": {
+        "rarity": 5,
+        "id": 46807,
+        "itemType": 299,
+        "abilityValue": [
+            27,
+            13.28
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11301,
+        "equipSuitid": 0,
+        "destribeTextID": 1800667,
+        "isShow": 1,
+        "randomAbility": [
+            23,
+            23
+        ],
+        "equipNumber": "M-26",
+        "nameTextID": 1800387,
+        "initMagnify": 10
+    },
+    "46808": {
+        "rarity": 5,
+        "id": 46808,
+        "itemType": 299,
+        "abilityValue": [
+            29.7,
+            13.61
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11302,
+        "equipSuitid": 8,
+        "destribeTextID": 1800668,
+        "isShow": 1,
+        "randomAbility": [
+            23,
+            23
+        ],
+        "equipNumber": "M-27",
+        "nameTextID": 1800388,
+        "initMagnify": 10
+    },
+    "46809": {
+        "rarity": 5,
+        "id": 46809,
+        "itemType": 299,
+        "abilityValue": [
+            28.35,
+            14.26
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11303,
+        "equipSuitid": 11,
+        "destribeTextID": 1800669,
+        "isShow": 1,
+        "randomAbility": [
+            23,
+            23
+        ],
+        "equipNumber": "M-28",
+        "nameTextID": 1800389,
+        "initMagnify": 10
+    },
+    "48401": {
+        "rarity": 3,
+        "id": 48401,
+        "itemType": 299,
+        "abilityValue": [
+            54.05,
+            5.9
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 12851,
+        "equipSuitid": 7,
+        "destribeTextID": 1802385,
+        "isShow": 1,
+        "randomAbility": [
+            72
+        ],
+        "equipNumber": "P-52",
+        "nameTextID": 1802353,
+        "initMagnify": 10
+    },
+    "48308": {
+        "rarity": 3,
+        "id": 48308,
+        "itemType": 555,
+        "abilityValue": [
+            28.08,
+            4.31
+        ],
+        "abilityID": [
+            20,
+            50
+        ],
+        "icon": 12864,
+        "equipSuitid": 6,
+        "destribeTextID": 1802384,
+        "isShow": 1,
+        "randomAbility": [
+            62
+        ],
+        "equipNumber": "A-19",
+        "nameTextID": 1802352,
+        "initMagnify": 10
+    },
+    "48307": {
+        "rarity": 3,
+        "id": 48307,
+        "itemType": 811,
+        "abilityValue": [
+            42.12,
+            6.46
+        ],
+        "abilityID": [
+            20,
+            50
+        ],
+        "icon": 12861,
+        "equipSuitid": 6,
+        "destribeTextID": 1802383,
+        "isShow": 1,
+        "randomAbility": [
+            32
+        ],
+        "equipNumber": "S-19",
+        "nameTextID": 1802351,
+        "initMagnify": 10
+    },
+    "48306": {
+        "rarity": 3,
+        "id": 48306,
+        "itemType": 299,
+        "abilityValue": [
+            38.61,
+            9.29
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 12859,
+        "equipSuitid": 6,
+        "destribeTextID": 1802382,
+        "isShow": 1,
+        "randomAbility": [
+            22
+        ],
+        "equipNumber": "M-51",
+        "nameTextID": 1802350,
+        "initMagnify": 10
+    },
+    "48305": {
+        "rarity": 3,
+        "id": 48305,
+        "itemType": 299,
+        "abilityValue": [
+            19.31,
+            8.85
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 12863,
+        "equipSuitid": 6,
+        "destribeTextID": 1802381,
+        "isShow": 1,
+        "randomAbility": [
+            82
+        ],
+        "equipNumber": "M-50",
+        "nameTextID": 1802349,
+        "initMagnify": 10
+    },
+    "48201": {
+        "rarity": 3,
+        "id": 48201,
+        "itemType": 299,
+        "abilityValue": [
+            80.73,
+            3.37
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 12931,
+        "equipSuitid": 5,
+        "destribeTextID": 1802369,
+        "isShow": 1,
+        "randomAbility": [
+            72
+        ],
+        "equipNumber": "P-46",
+        "nameTextID": 1802337,
+        "initMagnify": 10
+    },
+    "48108": {
+        "rarity": 3,
+        "id": 48108,
+        "itemType": 555,
+        "abilityValue": [
+            10.76,
+            3.74
+        ],
+        "abilityID": [
+            30,
+            50
+        ],
+        "icon": 12973,
+        "equipSuitid": 4,
+        "destribeTextID": 1802368,
+        "isShow": 1,
+        "randomAbility": [
+            52
+        ],
+        "equipNumber": "A-17",
+        "nameTextID": 1802336,
+        "initMagnify": 10
+    },
+    "48107": {
+        "rarity": 3,
+        "id": 48107,
+        "itemType": 811,
+        "abilityValue": [
+            48.44,
+            5.62
+        ],
+        "abilityID": [
+            20,
+            50
+        ],
+        "icon": 12979,
+        "equipSuitid": 4,
+        "destribeTextID": 1802367,
+        "isShow": 1,
+        "randomAbility": [
+            32
+        ],
+        "equipNumber": "S-17",
+        "nameTextID": 1802335,
+        "initMagnify": 10
+    },
+    "48106": {
+        "rarity": 3,
+        "id": 48106,
+        "itemType": 299,
+        "abilityValue": [
+            17.55,
+            14.53
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 12976,
+        "equipSuitid": 4,
+        "destribeTextID": 1802366,
+        "isShow": 1,
+        "randomAbility": [
+            22
+        ],
+        "equipNumber": "M-45",
+        "nameTextID": 1802334,
+        "initMagnify": 10
+    },
+    "48105": {
+        "rarity": 3,
+        "id": 48105,
+        "itemType": 299,
+        "abilityValue": [
+            35.1,
+            6.78
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 12974,
+        "equipSuitid": 4,
+        "destribeTextID": 1802365,
+        "isShow": 1,
+        "randomAbility": [
+            82
+        ],
+        "equipNumber": "M-44",
+        "nameTextID": 1802333,
+        "initMagnify": 10
+    },
+    "48001": {
+        "rarity": 1,
+        "id": 48001,
+        "itemType": 555,
+        "abilityValue": [
+            36.72,
+            4.9
+        ],
+        "abilityID": [
+            20,
+            50
+        ],
+        "icon": 10722,
+        "equipSuitid": 0,
+        "destribeTextID": 1800715,
+        "isShow": 1,
+        "randomAbility": {},
+        "equipNumber": "A-09",
+        "nameTextID": 1800435,
+        "initMagnify": 10
+    },
+    "48101": {
+        "rarity": 3,
+        "id": 48101,
+        "itemType": 299,
+        "abilityValue": [
+            49.14,
+            6.46
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 12975,
+        "equipSuitid": 4,
+        "destribeTextID": 1802361,
+        "isShow": 1,
+        "randomAbility": [
+            72
+        ],
+        "equipNumber": "P-43",
+        "nameTextID": 1802329,
+        "initMagnify": 10
+    },
+    "48102": {
+        "rarity": 3,
+        "id": 48102,
+        "itemType": 299,
+        "abilityValue": [
+            24.57,
+            13.72
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 12977,
+        "equipSuitid": 4,
+        "destribeTextID": 1802362,
+        "isShow": 1,
+        "randomAbility": [
+            12
+        ],
+        "equipNumber": "P-44",
+        "nameTextID": 1802330,
+        "initMagnify": 10
+    },
+    "48103": {
+        "rarity": 3,
+        "id": 48103,
+        "itemType": 299,
+        "abilityValue": [
+            28.08,
+            11.3
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 12978,
+        "equipSuitid": 4,
+        "destribeTextID": 1802363,
+        "isShow": 1,
+        "randomAbility": [
+            12
+        ],
+        "equipNumber": "P-45",
+        "nameTextID": 1802331,
+        "initMagnify": 10
+    },
+    "48104": {
+        "rarity": 3,
+        "id": 48104,
+        "itemType": 299,
+        "abilityValue": [
+            35.1,
+            6.78
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 12980,
+        "equipSuitid": 4,
+        "destribeTextID": 1802364,
+        "isShow": 1,
+        "randomAbility": [
+            22
+        ],
+        "equipNumber": "M-43",
+        "nameTextID": 1802332,
+        "initMagnify": 10
+    },
+    "45801": {
+        "rarity": 1,
+        "id": 45801,
+        "itemType": 299,
+        "abilityValue": [
+            36.72,
+            12.85
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10517,
+        "equipSuitid": 0,
+        "destribeTextID": 1800616,
+        "isShow": 1,
+        "randomAbility": {},
+        "equipNumber": "P-29",
+        "nameTextID": 1800336,
+        "initMagnify": 10
+    },
+    "45802": {
+        "rarity": 2,
+        "id": 45802,
+        "itemType": 299,
+        "abilityValue": [
+            38.88,
+            13.61
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10516,
+        "equipSuitid": 0,
+        "destribeTextID": 1800617,
+        "isShow": 1,
+        "randomAbility": [
+            11
+        ],
+        "equipNumber": "P-30",
+        "nameTextID": 1800337,
+        "initMagnify": 10
+    },
+    "45803": {
+        "rarity": 2,
+        "id": 45803,
+        "itemType": 299,
+        "abilityValue": [
+            39.85,
+            13.95
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10515,
+        "equipSuitid": 0,
+        "destribeTextID": 1800618,
+        "isShow": 0,
+        "randomAbility": [
+            11
+        ],
+        "equipNumber": "N-09",
+        "nameTextID": 1800338,
+        "initMagnify": 10
+    },
+    "45804": {
+        "rarity": 3,
+        "id": 45804,
+        "itemType": 299,
+        "abilityValue": [
+            41.04,
+            14.36
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10668,
+        "equipSuitid": 0,
+        "destribeTextID": 1800619,
+        "isShow": 1,
+        "randomAbility": [
+            12
+        ],
+        "equipNumber": "P-31",
+        "nameTextID": 1800339,
+        "initMagnify": 10
+    },
+    "45805": {
+        "rarity": 3,
+        "id": 45805,
+        "itemType": 299,
+        "abilityValue": [
+            42.07,
+            14.72
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11249,
+        "equipSuitid": 0,
+        "destribeTextID": 1800620,
+        "isShow": 0,
+        "randomAbility": [
+            12
+        ],
+        "equipNumber": "N-10",
+        "nameTextID": 1800340,
+        "initMagnify": 10
+    },
+    "45806": {
+        "rarity": 5,
+        "id": 45806,
+        "itemType": 299,
+        "abilityValue": [
+            44.28,
+            15.12
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11250,
+        "equipSuitid": 0,
+        "destribeTextID": 1800621,
+        "isShow": 1,
+        "randomAbility": [
+            13,
+            13
+        ],
+        "equipNumber": "P-32",
+        "nameTextID": 1800341,
+        "initMagnify": 10
+    },
+    "45807": {
+        "rarity": 5,
+        "id": 45807,
+        "itemType": 299,
+        "abilityValue": [
+            43.2,
+            15.5
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11251,
+        "equipSuitid": 0,
+        "destribeTextID": 1800622,
+        "isShow": 1,
+        "randomAbility": [
+            13,
+            13
+        ],
+        "equipNumber": "P-33",
+        "nameTextID": 1800342,
+        "initMagnify": 10
+    },
+    "45808": {
+        "rarity": 5,
+        "id": 45808,
+        "itemType": 299,
+        "abilityValue": [
+            47.52,
+            15.88
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11252,
+        "equipSuitid": 8,
+        "destribeTextID": 1800623,
+        "isShow": 1,
+        "randomAbility": [
+            13,
+            13
+        ],
+        "equipNumber": "P-34",
+        "nameTextID": 1800343,
+        "initMagnify": 10
+    },
+    "45809": {
+        "rarity": 5,
+        "id": 45809,
+        "itemType": 299,
+        "abilityValue": [
+            45.36,
+            16.63
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 11253,
+        "equipSuitid": 11,
+        "destribeTextID": 1800624,
+        "isShow": 1,
+        "randomAbility": [
+            13,
+            13
+        ],
+        "equipNumber": "P-35",
+        "nameTextID": 1800344,
+        "initMagnify": 10
+    },
+    "47602": {
+        "rarity": 2,
+        "id": 47602,
+        "itemType": 811,
+        "abilityValue": [
+            58.32,
+            7.78
+        ],
+        "abilityID": [
+            20,
+            60
+        ],
+        "icon": 11236,
+        "equipSuitid": 0,
+        "destribeTextID": 1800698,
+        "isShow": 1,
+        "randomAbility": [
+            41
+        ],
+        "equipNumber": "S-10",
+        "nameTextID": 1800418,
+        "initMagnify": 10
+    },
+    "47603": {
+        "rarity": 2,
+        "id": 47603,
+        "itemType": 811,
+        "abilityValue": [
+            59.78,
+            7.97
+        ],
+        "abilityID": [
+            20,
+            60
+        ],
+        "icon": 11237,
+        "equipSuitid": 3,
+        "destribeTextID": 1800699,
+        "isShow": 1,
+        "randomAbility": [
+            41
+        ],
+        "equipNumber": "S-11",
+        "nameTextID": 1800419,
+        "initMagnify": 10
+    },
+    "47604": {
+        "rarity": 3,
+        "id": 47604,
+        "itemType": 811,
+        "abilityValue": [
+            61.56,
+            8.21
+        ],
+        "abilityID": [
+            20,
+            60
+        ],
+        "icon": 11238,
+        "equipSuitid": 0,
+        "destribeTextID": 1800700,
+        "isShow": 1,
+        "randomAbility": [
+            42
+        ],
+        "equipNumber": "S-12",
+        "nameTextID": 1800420,
+        "initMagnify": 10
+    },
+    "47605": {
+        "rarity": 3,
+        "id": 47605,
+        "itemType": 811,
+        "abilityValue": [
+            63.1,
+            8.41
+        ],
+        "abilityID": [
+            20,
+            60
+        ],
+        "icon": 11239,
+        "equipSuitid": 0,
+        "destribeTextID": 1800701,
+        "isShow": 0,
+        "randomAbility": [
+            42
+        ],
+        "equipNumber": "N-26",
+        "nameTextID": 1800421,
+        "initMagnify": 10
+    },
+    "47606": {
+        "rarity": 5,
+        "id": 47606,
+        "itemType": 811,
+        "abilityValue": [
+            66.42,
+            8.64
+        ],
+        "abilityID": [
+            20,
+            60
+        ],
+        "icon": 11240,
+        "equipSuitid": 0,
+        "destribeTextID": 1800702,
+        "isShow": 1,
+        "randomAbility": [
+            43,
+            43
+        ],
+        "equipNumber": "S-13",
+        "nameTextID": 1800422,
+        "initMagnify": 10
+    },
+    "47607": {
+        "rarity": 5,
+        "id": 47607,
+        "itemType": 811,
+        "abilityValue": [
+            64.8,
+            8.86
+        ],
+        "abilityID": [
+            20,
+            60
+        ],
+        "icon": 11241,
+        "equipSuitid": 0,
+        "destribeTextID": 1800703,
+        "isShow": 1,
+        "randomAbility": [
+            43,
+            43
+        ],
+        "equipNumber": "S-14",
+        "nameTextID": 1800423,
+        "initMagnify": 10
+    },
+    "47608": {
+        "rarity": 5,
+        "id": 47608,
+        "itemType": 811,
+        "abilityValue": [
+            71.28,
+            9.07
+        ],
+        "abilityID": [
+            20,
+            60
+        ],
+        "icon": 11242,
+        "equipSuitid": 9,
+        "destribeTextID": 1800704,
+        "isShow": 1,
+        "randomAbility": [
+            43,
+            43
+        ],
+        "equipNumber": "S-15",
+        "nameTextID": 1800424,
+        "initMagnify": 10
+    },
+    "47609": {
+        "rarity": 5,
+        "id": 47609,
+        "itemType": 811,
+        "abilityValue": [
+            68.04,
+            9.5
+        ],
+        "abilityID": [
+            20,
+            60
+        ],
+        "icon": 11243,
+        "equipSuitid": 12,
+        "destribeTextID": 1800705,
+        "isShow": 1,
+        "randomAbility": [
+            43,
+            43
+        ],
+        "equipNumber": "S-16",
+        "nameTextID": 1800425,
+        "initMagnify": 10
+    },
+    "47801": {
+        "rarity": 1,
+        "id": 47801,
+        "itemType": 555,
+        "abilityValue": [
+            12.24,
+            4.9
+        ],
+        "abilityID": [
+            30,
+            50
+        ],
+        "icon": 10698,
+        "equipSuitid": 0,
+        "destribeTextID": 1800706,
+        "isShow": 1,
+        "randomAbility": {},
+        "equipNumber": "A-01",
+        "nameTextID": 1800426,
+        "initMagnify": 10
+    },
+    "47601": {
+        "rarity": 1,
+        "id": 47601,
+        "itemType": 811,
+        "abilityValue": [
+            55.08,
+            7.34
+        ],
+        "abilityID": [
+            20,
+            60
+        ],
+        "icon": 11235,
+        "equipSuitid": 0,
+        "destribeTextID": 1800697,
+        "isShow": 1,
+        "randomAbility": {},
+        "equipNumber": "S-09",
+        "nameTextID": 1800417,
+        "initMagnify": 10
+    },
+    "47401": {
+        "rarity": 1,
+        "id": 47401,
+        "itemType": 811,
+        "abilityValue": [
+            55.08,
+            7.34
+        ],
+        "abilityID": [
+            20,
+            50
+        ],
+        "icon": 10527,
+        "equipSuitid": 0,
+        "destribeTextID": 1800688,
+        "isShow": 1,
+        "randomAbility": {},
+        "equipNumber": "S-01",
+        "nameTextID": 1800408,
+        "initMagnify": 10
+    },
+    "47201": {
+        "rarity": 1,
+        "id": 47201,
+        "itemType": 299,
+        "abilityValue": [
+            22.95,
+            16.52
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10717,
+        "equipSuitid": 0,
+        "destribeTextID": 1800679,
+        "isShow": 1,
+        "randomAbility": {},
+        "equipNumber": "M-36",
+        "nameTextID": 1800399,
+        "initMagnify": 10
+    },
+    "47001": {
+        "rarity": 1,
+        "id": 47001,
+        "itemType": 299,
+        "abilityValue": [
+            45.9,
+            11.57
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10521,
+        "equipSuitid": 0,
+        "destribeTextID": 1800670,
+        "isShow": 1,
+        "randomAbility": {},
+        "equipNumber": "M-29",
+        "nameTextID": 1800390,
+        "initMagnify": 10
+    },
+    "46801": {
+        "rarity": 1,
+        "id": 46801,
+        "itemType": 299,
+        "abilityValue": [
+            22.95,
+            11.02
+        ],
+        "abilityID": [
+            20,
+            30
+        ],
+        "icon": 10714,
+        "equipSuitid": 0,
+        "destribeTextID": 1800661,
+        "isShow": 1,
+        "randomAbility": {},
+        "equipNumber": "M-22",
+        "nameTextID": 1800381,
+        "initMagnify": 10
+    }
+}

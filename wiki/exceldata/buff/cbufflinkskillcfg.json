@@ -1,0 +1,3374 @@
+{
+    "20483": {
+        "skillid": "500807",
+        "id": 20483,
+        "skillgroupid": "",
+        "conditionid": "103"
+    },
+    "20484": {
+        "skillid": "500808",
+        "id": 20484,
+        "skillgroupid": "",
+        "conditionid": "103"
+    },
+    "21509": {
+        "skillid": "304212",
+        "id": 21509,
+        "skillgroupid": "",
+        "conditionid": "268"
+    },
+    "20486": {
+        "skillid": "500809",
+        "id": 20486,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "20487": {
+        "skillid": "500810",
+        "id": 20487,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "20490": {
+        "skillid": "502809",
+        "id": 20490,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "20494": {
+        "skillid": "",
+        "id": 20494,
+        "skillgroupid": "60291",
+        "conditionid": "2"
+    },
+    "20496": {
+        "skillid": "503007",
+        "id": 20496,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "20499": {
+        "skillid": "503307",
+        "id": 20499,
+        "skillgroupid": "",
+        "conditionid": "105"
+    },
+    "20501": {
+        "skillid": "503309",
+        "id": 20501,
+        "skillgroupid": "",
+        "conditionid": "104"
+    },
+    "21526": {
+        "skillid": "510803",
+        "id": 21526,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "20503": {
+        "skillid": "503308",
+        "id": 20503,
+        "skillgroupid": "",
+        "conditionid": "105"
+    },
+    "20504": {
+        "skillid": "503310",
+        "id": 20504,
+        "skillgroupid": "",
+        "conditionid": "104"
+    },
+    "20505": {
+        "skillid": "503407",
+        "id": 20505,
+        "skillgroupid": "",
+        "conditionid": "127;128;129;130;131;132;133;134;135;136"
+    },
+    "20506": {
+        "skillid": "503408",
+        "id": 20506,
+        "skillgroupid": "",
+        "conditionid": "127;128;129;130;131;132;133;134;135;136"
+    },
+    "20508": {
+        "skillid": "503409",
+        "id": 20508,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "20509": {
+        "skillid": "503410",
+        "id": 20509,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "20511": {
+        "skillid": "503507",
+        "id": 20511,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "20512": {
+        "skillid": "503509",
+        "id": 20512,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "20513": {
+        "skillid": "503510",
+        "id": 20513,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "20514": {
+        "skillid": "503508",
+        "id": 20514,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "21539": {
+        "skillid": "510603",
+        "id": 21539,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21540": {
+        "skillid": "510604",
+        "id": 21540,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21543": {
+        "skillid": "601081012",
+        "id": 21543,
+        "skillgroupid": "",
+        "conditionid": "16"
+    },
+    "21544": {
+        "skillid": "601081013",
+        "id": 21544,
+        "skillgroupid": "",
+        "conditionid": "16"
+    },
+    "21545": {
+        "skillid": "601081014",
+        "id": 21545,
+        "skillgroupid": "",
+        "conditionid": "16"
+    },
+    "20522": {
+        "skillid": "504507",
+        "id": 20522,
+        "skillgroupid": "",
+        "conditionid": "137;138;139;140;141"
+    },
+    "20523": {
+        "skillid": "504508",
+        "id": 20523,
+        "skillgroupid": "",
+        "conditionid": "142;143;144;145;146"
+    },
+    "21549": {
+        "skillid": "302311",
+        "id": 21549,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21551": {
+        "skillid": "307211",
+        "id": 21551,
+        "skillgroupid": "",
+        "conditionid": "324;325;326;327;328"
+    },
+    "20528": {
+        "skillid": "505207",
+        "id": 20528,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21553": {
+        "skillid": "307212",
+        "id": 21553,
+        "skillgroupid": "",
+        "conditionid": "315"
+    },
+    "21554": {
+        "skillid": "302511",
+        "id": 21554,
+        "skillgroupid": "",
+        "conditionid": "329;330;331;332;333"
+    },
+    "21555": {
+        "skillid": "306511",
+        "id": 21555,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20532": {
+        "skillid": "505408",
+        "id": 20532,
+        "skillgroupid": "",
+        "conditionid": "147;148;149;150;151"
+    },
+    "20533": {
+        "skillid": "505409",
+        "id": 20533,
+        "skillgroupid": "",
+        "conditionid": "147;148;149;150;151"
+    },
+    "20534": {
+        "skillid": "505609",
+        "id": 20534,
+        "skillgroupid": "",
+        "conditionid": "153;154;155;156;157"
+    },
+    "20535": {
+        "skillid": "505610",
+        "id": 20535,
+        "skillgroupid": "",
+        "conditionid": "153;154;155;156;157"
+    },
+    "21560": {
+        "skillid": "601102021",
+        "id": 21560,
+        "skillgroupid": "",
+        "conditionid": "315"
+    },
+    "21561": {
+        "skillid": "601102022",
+        "id": 21561,
+        "skillgroupid": "",
+        "conditionid": "315"
+    },
+    "21562": {
+        "skillid": "601102023",
+        "id": 21562,
+        "skillgroupid": "",
+        "conditionid": "315"
+    },
+    "20539": {
+        "skillid": "505603",
+        "id": 20539,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20540": {
+        "skillid": "505604",
+        "id": 20540,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20543": {
+        "skillid": "",
+        "id": 20543,
+        "skillgroupid": "60593",
+        "conditionid": "4"
+    },
+    "20544": {
+        "skillid": "506507",
+        "id": 20544,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "21569": {
+        "skillid": "506703",
+        "id": 21569,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "20546": {
+        "skillid": "506907",
+        "id": 20546,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20547": {
+        "skillid": "506908",
+        "id": 20547,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20552": {
+        "skillid": "504209",
+        "id": 20552,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "20553": {
+        "skillid": "504210",
+        "id": 20553,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "20555": {
+        "skillid": "504308",
+        "id": 20555,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "20556": {
+        "skillid": "504309",
+        "id": 20556,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "20557": {
+        "skillid": "504809",
+        "id": 20557,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "20558": {
+        "skillid": "504810",
+        "id": 20558,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "20559": {
+        "skillid": "505607",
+        "id": 20559,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "20560": {
+        "skillid": "505608",
+        "id": 20560,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "20561": {
+        "skillid": "506508",
+        "id": 20561,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "20562": {
+        "skillid": "506509",
+        "id": 20562,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "20563": {
+        "skillid": "506909",
+        "id": 20563,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "20564": {
+        "skillid": "506910",
+        "id": 20564,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "21591": {
+        "skillid": "309912",
+        "id": 21591,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20569": {
+        "skillid": "201370",
+        "id": 20569,
+        "skillgroupid": "",
+        "conditionid": "6"
+    },
+    "20570": {
+        "skillid": "201371",
+        "id": 20570,
+        "skillgroupid": "",
+        "conditionid": "6"
+    },
+    "20575": {
+        "skillid": "201372",
+        "id": 20575,
+        "skillgroupid": "",
+        "conditionid": "6"
+    },
+    "21601": {
+        "skillid": "6039106",
+        "id": 21601,
+        "skillgroupid": "",
+        "conditionid": "334;335;336;337;338"
+    },
+    "20580": {
+        "skillid": "503008",
+        "id": 20580,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "20581": {
+        "skillid": "505611",
+        "id": 20581,
+        "skillgroupid": "",
+        "conditionid": "158;159;160;161;162"
+    },
+    "20582": {
+        "skillid": "505612",
+        "id": 20582,
+        "skillgroupid": "",
+        "conditionid": "158;159;160;161;162"
+    },
+    "21608": {
+        "skillid": "503909",
+        "id": 21608,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "21609": {
+        "skillid": "503910",
+        "id": 21609,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20590": {
+        "skillid": "",
+        "id": 20590,
+        "skillgroupid": "60381",
+        "conditionid": "254"
+    },
+    "20591": {
+        "skillid": "",
+        "id": 20591,
+        "skillgroupid": "60383",
+        "conditionid": "255"
+    },
+    "20592": {
+        "skillid": "",
+        "id": 20592,
+        "skillgroupid": "60385",
+        "conditionid": "256"
+    },
+    "20598": {
+        "skillid": "201367",
+        "id": 20598,
+        "skillgroupid": "",
+        "conditionid": "6"
+    },
+    "20599": {
+        "skillid": "201377",
+        "id": 20599,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "20600": {
+        "skillid": "201378",
+        "id": 20600,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "21625": {
+        "skillid": "308911",
+        "id": 21625,
+        "skillgroupid": "",
+        "conditionid": "344"
+    },
+    "21626": {
+        "skillid": "308912",
+        "id": 21626,
+        "skillgroupid": "",
+        "conditionid": "345"
+    },
+    "21628": {
+        "skillid": "",
+        "id": 21628,
+        "skillgroupid": "60911",
+        "conditionid": "2"
+    },
+    "21630": {
+        "skillid": "309111",
+        "id": 21630,
+        "skillgroupid": "",
+        "conditionid": "315"
+    },
+    "20607": {
+        "skillid": "502207",
+        "id": 20607,
+        "skillgroupid": "",
+        "conditionid": "163"
+    },
+    "20608": {
+        "skillid": "502208",
+        "id": 20608,
+        "skillgroupid": "",
+        "conditionid": "163"
+    },
+    "21634": {
+        "skillid": "509205",
+        "id": 21634,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20613": {
+        "skillid": "201386",
+        "id": 20613,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20614": {
+        "skillid": "201387",
+        "id": 20614,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20615": {
+        "skillid": "201235",
+        "id": 20615,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20617": {
+        "skillid": "60391011",
+        "id": 20617,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "20618": {
+        "skillid": "60391012",
+        "id": 20618,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "20619": {
+        "skillid": "60391013",
+        "id": 20619,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "20620": {
+        "skillid": "60391014",
+        "id": 20620,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "20621": {
+        "skillid": "60391015",
+        "id": 20621,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "21647": {
+        "skillid": "6092301",
+        "id": 21647,
+        "skillgroupid": "",
+        "conditionid": "348;349;350;351;352"
+    },
+    "21648": {
+        "skillid": "309211",
+        "id": 21648,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21651": {
+        "skillid": "509207",
+        "id": 21651,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21652": {
+        "skillid": "509208",
+        "id": 21652,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21653": {
+        "skillid": "309011",
+        "id": 21653,
+        "skillgroupid": "",
+        "conditionid": "315"
+    },
+    "21661": {
+        "skillid": "",
+        "id": 21661,
+        "skillgroupid": "61023,61021",
+        "conditionid": "22"
+    },
+    "21663": {
+        "skillid": "510203",
+        "id": 21663,
+        "skillgroupid": "",
+        "conditionid": "353;354;355;356;357"
+    },
+    "21665": {
+        "skillid": "510204",
+        "id": 21665,
+        "skillgroupid": "",
+        "conditionid": "353;354;355;356;357"
+    },
+    "20642": {
+        "skillid": "507209",
+        "id": 20642,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20643": {
+        "skillid": "507210",
+        "id": 20643,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20645": {
+        "skillid": "507207",
+        "id": 20645,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "20646": {
+        "skillid": "507208",
+        "id": 20646,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "21671": {
+        "skillid": "32004",
+        "id": 21671,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21672": {
+        "skillid": "33004",
+        "id": 21672,
+        "skillgroupid": "",
+        "conditionid": "358"
+    },
+    "20649": {
+        "skillid": "",
+        "id": 20649,
+        "skillgroupid": "60721",
+        "conditionid": "164"
+    },
+    "20650": {
+        "skillid": "",
+        "id": 20650,
+        "skillgroupid": "60721",
+        "conditionid": "164"
+    },
+    "20651": {
+        "skillid": "6073401",
+        "id": 20651,
+        "skillgroupid": "",
+        "conditionid": "165;166"
+    },
+    "21676": {
+        "skillid": "37004",
+        "id": 21676,
+        "skillgroupid": "",
+        "conditionid": "315"
+    },
+    "20653": {
+        "skillid": "6073401",
+        "id": 20653,
+        "skillgroupid": "",
+        "conditionid": "165;166"
+    },
+    "20656": {
+        "skillid": "6057301",
+        "id": 20656,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "20657": {
+        "skillid": "6057302",
+        "id": 20657,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "20658": {
+        "skillid": "6057303",
+        "id": 20658,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "20659": {
+        "skillid": "6057304",
+        "id": 20659,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "20660": {
+        "skillid": "6057305",
+        "id": 20660,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "20675": {
+        "skillid": "6055501",
+        "id": 20675,
+        "skillgroupid": "",
+        "conditionid": "2"
+    },
+    "20676": {
+        "skillid": "6055501",
+        "id": 20676,
+        "skillgroupid": "",
+        "conditionid": "2"
+    },
+    "20679": {
+        "skillid": "6061401",
+        "id": 20679,
+        "skillgroupid": "",
+        "conditionid": "13"
+    },
+    "21706": {
+        "skillid": "307111",
+        "id": 21706,
+        "skillgroupid": "",
+        "conditionid": "360"
+    },
+    "21707": {
+        "skillid": "307112",
+        "id": 21707,
+        "skillgroupid": "",
+        "conditionid": "359"
+    },
+    "21710": {
+        "skillid": "201793",
+        "id": 21710,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21713": {
+        "skillid": "508511",
+        "id": 21713,
+        "skillgroupid": "",
+        "conditionid": "361"
+    },
+    "20690": {
+        "skillid": "507507",
+        "id": 20690,
+        "skillgroupid": "",
+        "conditionid": "13"
+    },
+    "20691": {
+        "skillid": "507508",
+        "id": 20691,
+        "skillgroupid": "",
+        "conditionid": "13"
+    },
+    "21716": {
+        "skillid": "508514",
+        "id": 21716,
+        "skillgroupid": "",
+        "conditionid": "362"
+    },
+    "20695": {
+        "skillid": "6061402",
+        "id": 20695,
+        "skillgroupid": "",
+        "conditionid": "13"
+    },
+    "21720": {
+        "skillid": "6084112",
+        "id": 21720,
+        "skillgroupid": "",
+        "conditionid": "373"
+    },
+    "21721": {
+        "skillid": "6084212",
+        "id": 21721,
+        "skillgroupid": "",
+        "conditionid": "374"
+    },
+    "20701": {
+        "skillid": "500307",
+        "id": 20701,
+        "skillgroupid": "",
+        "conditionid": "13"
+    },
+    "20702": {
+        "skillid": "500308",
+        "id": 20702,
+        "skillgroupid": "",
+        "conditionid": "13"
+    },
+    "21727": {
+        "skillid": "6084113",
+        "id": 21727,
+        "skillgroupid": "",
+        "conditionid": "375"
+    },
+    "20704": {
+        "skillid": "",
+        "id": 20704,
+        "skillgroupid": "60034",
+        "conditionid": "167"
+    },
+    "20705": {
+        "skillid": "",
+        "id": 20705,
+        "skillgroupid": "60034",
+        "conditionid": "168"
+    },
+    "21730": {
+        "skillid": "6084211",
+        "id": 21730,
+        "skillgroupid": "",
+        "conditionid": "378"
+    },
+    "20707": {
+        "skillid": "500309",
+        "id": 20707,
+        "skillgroupid": "",
+        "conditionid": "2"
+    },
+    "21732": {
+        "skillid": "6085121",
+        "id": 21732,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20709": {
+        "skillid": "500310",
+        "id": 20709,
+        "skillgroupid": "",
+        "conditionid": "2"
+    },
+    "20711": {
+        "skillid": "",
+        "id": 20711,
+        "skillgroupid": "60761",
+        "conditionid": "169"
+    },
+    "20712": {
+        "skillid": "",
+        "id": 20712,
+        "skillgroupid": "60761",
+        "conditionid": "169"
+    },
+    "21737": {
+        "skillid": "309411",
+        "id": 21737,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "20718": {
+        "skillid": "502307",
+        "id": 20718,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "20719": {
+        "skillid": "502308",
+        "id": 20719,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "20720": {
+        "skillid": "502309",
+        "id": 20720,
+        "skillgroupid": "",
+        "conditionid": "170;171;172;173;174;180;181;182;183;184"
+    },
+    "20721": {
+        "skillid": "502310",
+        "id": 20721,
+        "skillgroupid": "",
+        "conditionid": "170;171;172;173;174;180;181;182;183;184"
+    },
+    "20722": {
+        "skillid": "502311",
+        "id": 20722,
+        "skillgroupid": "",
+        "conditionid": "175;176;177;178;179"
+    },
+    "20723": {
+        "skillid": "502312",
+        "id": 20723,
+        "skillgroupid": "",
+        "conditionid": "175;176;177;178;179"
+    },
+    "21749": {
+        "skillid": "",
+        "id": 21749,
+        "skillgroupid": "61011",
+        "conditionid": "223"
+    },
+    "20727": {
+        "skillid": "",
+        "id": 20727,
+        "skillgroupid": "60233",
+        "conditionid": "185"
+    },
+    "20728": {
+        "skillid": "",
+        "id": 20728,
+        "skillgroupid": "60233",
+        "conditionid": "186"
+    },
+    "21756": {
+        "skillid": "201801",
+        "id": 21756,
+        "skillgroupid": "",
+        "conditionid": "384"
+    },
+    "20734": {
+        "skillid": "500809",
+        "id": 20734,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "20735": {
+        "skillid": "500810",
+        "id": 20735,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "20736": {
+        "skillid": "",
+        "id": 20736,
+        "skillgroupid": "60082",
+        "conditionid": "197"
+    },
+    "20737": {
+        "skillid": "",
+        "id": 20737,
+        "skillgroupid": "60082",
+        "conditionid": "198"
+    },
+    "21763": {
+        "skillid": "201805",
+        "id": 21763,
+        "skillgroupid": "",
+        "conditionid": "384"
+    },
+    "21765": {
+        "skillid": "201804",
+        "id": 21765,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21766": {
+        "skillid": "201806",
+        "id": 21766,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "20743": {
+        "skillid": "500813",
+        "id": 20743,
+        "skillgroupid": "",
+        "conditionid": "197"
+    },
+    "20744": {
+        "skillid": "500813",
+        "id": 20744,
+        "skillgroupid": "",
+        "conditionid": "198"
+    },
+    "21770": {
+        "skillid": "6097301",
+        "id": 21770,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20747": {
+        "skillid": "",
+        "id": 20747,
+        "skillgroupid": "60661",
+        "conditionid": "199"
+    },
+    "20748": {
+        "skillid": "",
+        "id": 20748,
+        "skillgroupid": "60661",
+        "conditionid": "199"
+    },
+    "21773": {
+        "skillid": "509704",
+        "id": 21773,
+        "skillgroupid": "",
+        "conditionid": "390;391;392;393;394"
+    },
+    "20751": {
+        "skillid": "507307",
+        "id": 20751,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20754": {
+        "skillid": "6073301",
+        "id": 20754,
+        "skillgroupid": "",
+        "conditionid": "200;201;202;203;204"
+    },
+    "20756": {
+        "skillid": "6073302",
+        "id": 20756,
+        "skillgroupid": "",
+        "conditionid": "200;201;202;203;204"
+    },
+    "20757": {
+        "skillid": "6073303",
+        "id": 20757,
+        "skillgroupid": "",
+        "conditionid": "200;201;202;203;204"
+    },
+    "20758": {
+        "skillid": "6073304",
+        "id": 20758,
+        "skillgroupid": "",
+        "conditionid": "200;201;202;203;204"
+    },
+    "20759": {
+        "skillid": "6073305",
+        "id": 20759,
+        "skillgroupid": "",
+        "conditionid": "200;201;202;203;204"
+    },
+    "20760": {
+        "skillid": "6073401",
+        "id": 20760,
+        "skillgroupid": "",
+        "conditionid": "200;201;202;203;204"
+    },
+    "20761": {
+        "skillid": "506407",
+        "id": 20761,
+        "skillgroupid": "",
+        "conditionid": "205;206;207;208;209"
+    },
+    "20762": {
+        "skillid": "506408",
+        "id": 20762,
+        "skillgroupid": "",
+        "conditionid": "205;206;207;208;209"
+    },
+    "20768": {
+        "skillid": "",
+        "id": 20768,
+        "skillgroupid": "60703",
+        "conditionid": "2;13"
+    },
+    "20770": {
+        "skillid": "6010301",
+        "id": 20770,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "21795": {
+        "skillid": "201855",
+        "id": 21795,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "20772": {
+        "skillid": "6010302",
+        "id": 20772,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20773": {
+        "skillid": "6010303",
+        "id": 20773,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20774": {
+        "skillid": "6010304",
+        "id": 20774,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20775": {
+        "skillid": "6010305",
+        "id": 20775,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "21800": {
+        "skillid": "6097304",
+        "id": 21800,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20777": {
+        "skillid": "6004301",
+        "id": 20777,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20778": {
+        "skillid": "6004302",
+        "id": 20778,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20779": {
+        "skillid": "6004303",
+        "id": 20779,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20780": {
+        "skillid": "6004304",
+        "id": 20780,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20781": {
+        "skillid": "6004305",
+        "id": 20781,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20782": {
+        "skillid": "6004401",
+        "id": 20782,
+        "skillgroupid": "",
+        "conditionid": "210"
+    },
+    "20783": {
+        "skillid": "6004402",
+        "id": 20783,
+        "skillgroupid": "",
+        "conditionid": "210"
+    },
+    "20784": {
+        "skillid": "6004403",
+        "id": 20784,
+        "skillgroupid": "",
+        "conditionid": "210"
+    },
+    "20785": {
+        "skillid": "6004404",
+        "id": 20785,
+        "skillgroupid": "",
+        "conditionid": "210"
+    },
+    "20786": {
+        "skillid": "6004405",
+        "id": 20786,
+        "skillgroupid": "",
+        "conditionid": "210"
+    },
+    "21811": {
+        "skillid": "508813",
+        "id": 21811,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "20791": {
+        "skillid": "507007",
+        "id": 20791,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20792": {
+        "skillid": "507008",
+        "id": 20792,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20794": {
+        "skillid": "507003",
+        "id": 20794,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "21820": {
+        "skillid": "511213",
+        "id": 21820,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "21821": {
+        "skillid": "511212",
+        "id": 21821,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "20798": {
+        "skillid": "201434",
+        "id": 20798,
+        "skillgroupid": "",
+        "conditionid": "13"
+    },
+    "21823": {
+        "skillid": "511214",
+        "id": 21823,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "21829": {
+        "skillid": "510403",
+        "id": 21829,
+        "skillgroupid": "",
+        "conditionid": "401;402;403;404;405"
+    },
+    "20806": {
+        "skillid": "6010601",
+        "id": 20806,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20807": {
+        "skillid": "6010602",
+        "id": 20807,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20808": {
+        "skillid": "6010603",
+        "id": 20808,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20809": {
+        "skillid": "6010604",
+        "id": 20809,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20810": {
+        "skillid": "6010605",
+        "id": 20810,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20811": {
+        "skillid": "6010701",
+        "id": 20811,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20812": {
+        "skillid": "6010702",
+        "id": 20812,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20813": {
+        "skillid": "6010703",
+        "id": 20813,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20814": {
+        "skillid": "6010704",
+        "id": 20814,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20815": {
+        "skillid": "6010705",
+        "id": 20815,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "21843": {
+        "skillid": "512011",
+        "id": 21843,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21844": {
+        "skillid": "512012",
+        "id": 21844,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21845": {
+        "skillid": "512013",
+        "id": 21845,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "21846": {
+        "skillid": "512014",
+        "id": 21846,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20823": {
+        "skillid": "201453",
+        "id": 20823,
+        "skillgroupid": "",
+        "conditionid": "6"
+    },
+    "21848": {
+        "skillid": "512016",
+        "id": 21848,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "20825": {
+        "skillid": "201475",
+        "id": 20825,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "21850": {
+        "skillid": "310811",
+        "id": 21850,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21856": {
+        "skillid": "511303",
+        "id": 21856,
+        "skillgroupid": "",
+        "conditionid": "407;408;409;410;411"
+    },
+    "21857": {
+        "skillid": "511304",
+        "id": 21857,
+        "skillgroupid": "",
+        "conditionid": "407;408;409;410;411"
+    },
+    "21858": {
+        "skillid": "311311",
+        "id": 21858,
+        "skillgroupid": "",
+        "conditionid": "360"
+    },
+    "21859": {
+        "skillid": "311312",
+        "id": 21859,
+        "skillgroupid": "",
+        "conditionid": "359"
+    },
+    "21866": {
+        "skillid": "311111",
+        "id": 21866,
+        "skillgroupid": "",
+        "conditionid": "412;413;414;415;416"
+    },
+    "20845": {
+        "skillid": "201482",
+        "id": 20845,
+        "skillgroupid": "",
+        "conditionid": "216"
+    },
+    "20846": {
+        "skillid": "201483",
+        "id": 20846,
+        "skillgroupid": "",
+        "conditionid": "217"
+    },
+    "20847": {
+        "skillid": "201484",
+        "id": 20847,
+        "skillgroupid": "",
+        "conditionid": "218"
+    },
+    "20851": {
+        "skillid": "201500",
+        "id": 20851,
+        "skillgroupid": "",
+        "conditionid": "6"
+    },
+    "21877": {
+        "skillid": "308011",
+        "id": 21877,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21881": {
+        "skillid": "510903",
+        "id": 21881,
+        "skillgroupid": "",
+        "conditionid": "417;418;419;420;421"
+    },
+    "21882": {
+        "skillid": "510904",
+        "id": 21882,
+        "skillgroupid": "",
+        "conditionid": "417;418;419;420;421"
+    },
+    "20861": {
+        "skillid": "201560",
+        "id": 20861,
+        "skillgroupid": "",
+        "conditionid": "219"
+    },
+    "21887": {
+        "skillid": "310911",
+        "id": 21887,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21889": {
+        "skillid": "511503",
+        "id": 21889,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21892": {
+        "skillid": "311511",
+        "id": 21892,
+        "skillgroupid": "",
+        "conditionid": "422"
+    },
+    "21897": {
+        "skillid": "6098211",
+        "id": 21897,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21898": {
+        "skillid": "509803",
+        "id": 21898,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "21899": {
+        "skillid": "509803",
+        "id": 21899,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "21900": {
+        "skillid": "509804",
+        "id": 21900,
+        "skillgroupid": "",
+        "conditionid": "423"
+    },
+    "21904": {
+        "skillid": "509805",
+        "id": 21904,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21908": {
+        "skillid": "511903",
+        "id": 21908,
+        "skillgroupid": "",
+        "conditionid": "424;425;426;427;428;429;430;431;432;433"
+    },
+    "21910": {
+        "skillid": "311911",
+        "id": 21910,
+        "skillgroupid": "",
+        "conditionid": "424;425;426;427;428"
+    },
+    "20888": {
+        "skillid": "201620",
+        "id": 20888,
+        "skillgroupid": "",
+        "conditionid": "20"
+    },
+    "21915": {
+        "skillid": "310011",
+        "id": 21915,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21917": {
+        "skillid": "310611",
+        "id": 21917,
+        "skillgroupid": "",
+        "conditionid": "434;435;436;437;438"
+    },
+    "21919": {
+        "skillid": "310511",
+        "id": 21919,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21921": {
+        "skillid": "310711",
+        "id": 21921,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "20898": {
+        "skillid": "201586",
+        "id": 20898,
+        "skillgroupid": "",
+        "conditionid": "220"
+    },
+    "21929": {
+        "skillid": "510703",
+        "id": 21929,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21930": {
+        "skillid": "510704",
+        "id": 21930,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "20908": {
+        "skillid": "201587",
+        "id": 20908,
+        "skillgroupid": "",
+        "conditionid": "6"
+    },
+    "21933": {
+        "skillid": "311711",
+        "id": 21933,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21936": {
+        "skillid": "512203",
+        "id": 21936,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "21937": {
+        "skillid": "512204",
+        "id": 21937,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "21939": {
+        "skillid": "312211",
+        "id": 21939,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21943": {
+        "skillid": "512103",
+        "id": 21943,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21944": {
+        "skillid": "512104",
+        "id": 21944,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "20921": {
+        "skillid": "201593",
+        "id": 20921,
+        "skillgroupid": "",
+        "conditionid": "6"
+    },
+    "21946": {
+        "skillid": "312111",
+        "id": 21946,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21949": {
+        "skillid": "512303",
+        "id": 21949,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21950": {
+        "skillid": "312311",
+        "id": 21950,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "20929": {
+        "skillid": "504709",
+        "id": 20929,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20931": {
+        "skillid": "504710",
+        "id": 20931,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20932": {
+        "skillid": "504909",
+        "id": 20932,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "21959": {
+        "skillid": "512403",
+        "id": 21959,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21960": {
+        "skillid": "512404",
+        "id": 21960,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21961": {
+        "skillid": "312411",
+        "id": 21961,
+        "skillgroupid": "",
+        "conditionid": "21"
+    },
+    "20943": {
+        "skillid": "201618",
+        "id": 20943,
+        "skillgroupid": "",
+        "conditionid": "19"
+    },
+    "20958": {
+        "skillid": "201620",
+        "id": 20958,
+        "skillgroupid": "",
+        "conditionid": "221"
+    },
+    "20977": {
+        "skillid": "",
+        "id": 20977,
+        "skillgroupid": "60681",
+        "conditionid": "13"
+    },
+    "20983": {
+        "skillid": "100016",
+        "id": 20983,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20984": {
+        "skillid": "",
+        "id": 20984,
+        "skillgroupid": "60389",
+        "conditionid": "226"
+    },
+    "21017": {
+        "skillid": "501207",
+        "id": 21017,
+        "skillgroupid": "",
+        "conditionid": "227;228;229;230;231;232;233;234;235;236"
+    },
+    "21023": {
+        "skillid": "501208",
+        "id": 21023,
+        "skillgroupid": "",
+        "conditionid": "237;238;239;240;241"
+    },
+    "21024": {
+        "skillid": "501209",
+        "id": 21024,
+        "skillgroupid": "",
+        "conditionid": "242;243;244;245;246"
+    },
+    "21029": {
+        "skillid": "506307",
+        "id": 21029,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "21030": {
+        "skillid": "506308",
+        "id": 21030,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "21031": {
+        "skillid": "506309",
+        "id": 21031,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "21032": {
+        "skillid": "506310",
+        "id": 21032,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "21043": {
+        "skillid": "6074301",
+        "id": 21043,
+        "skillgroupid": "",
+        "conditionid": "247;248;249;250;251"
+    },
+    "21049": {
+        "skillid": "",
+        "id": 21049,
+        "skillgroupid": "60634",
+        "conditionid": "252"
+    },
+    "21050": {
+        "skillid": "",
+        "id": 21050,
+        "skillgroupid": "60634",
+        "conditionid": "253"
+    },
+    "21052": {
+        "skillid": "504507",
+        "id": 21052,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "21057": {
+        "skillid": "6003406",
+        "id": 21057,
+        "skillgroupid": "",
+        "conditionid": "13"
+    },
+    "21064": {
+        "skillid": "6001107",
+        "id": 21064,
+        "skillgroupid": "",
+        "conditionid": "13;18"
+    },
+    "21066": {
+        "skillid": "6001106",
+        "id": 21066,
+        "skillgroupid": "",
+        "conditionid": "13"
+    },
+    "21068": {
+        "skillid": "6011106",
+        "id": 21068,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "21070": {
+        "skillid": "6053206",
+        "id": 21070,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "20053": {
+        "skillid": "501107",
+        "id": 20053,
+        "skillgroupid": "",
+        "conditionid": "6"
+    },
+    "20058": {
+        "skillid": "500207",
+        "id": 20058,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "21085": {
+        "skillid": "505208",
+        "id": 21085,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21086": {
+        "skillid": "507403",
+        "id": 21086,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21087": {
+        "skillid": "507404",
+        "id": 21087,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20064": {
+        "skillid": "500804",
+        "id": 20064,
+        "skillgroupid": "",
+        "conditionid": "15"
+    },
+    "20066": {
+        "skillid": "501007",
+        "id": 20066,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20068": {
+        "skillid": "501507",
+        "id": 20068,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "21093": {
+        "skillid": "502903",
+        "id": 21093,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "21095": {
+        "skillid": "502904",
+        "id": 21095,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "20078": {
+        "skillid": "60161011",
+        "id": 20078,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "20079": {
+        "skillid": "60161012",
+        "id": 20079,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "20080": {
+        "skillid": "60161013",
+        "id": 20080,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "20081": {
+        "skillid": "60161014",
+        "id": 20081,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "20082": {
+        "skillid": "60161015",
+        "id": 20082,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "21109": {
+        "skillid": "504912",
+        "id": 21109,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "21111": {
+        "skillid": "6002206",
+        "id": 21111,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "20091": {
+        "skillid": "60022011",
+        "id": 20091,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "20092": {
+        "skillid": "60022012",
+        "id": 20092,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "20093": {
+        "skillid": "60022013",
+        "id": 20093,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "20094": {
+        "skillid": "60022014",
+        "id": 20094,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "20095": {
+        "skillid": "60022015",
+        "id": 20095,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "20123": {
+        "skillid": "20053",
+        "id": 20123,
+        "skillgroupid": "",
+        "conditionid": "2"
+    },
+    "20124": {
+        "skillid": "20067",
+        "id": 20124,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20125": {
+        "skillid": "20054",
+        "id": 20125,
+        "skillgroupid": "",
+        "conditionid": "7"
+    },
+    "21150": {
+        "skillid": "501212",
+        "id": 21150,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "21151": {
+        "skillid": "501213",
+        "id": 21151,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "20128": {
+        "skillid": "502007",
+        "id": 20128,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20129": {
+        "skillid": "20068",
+        "id": 20129,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20130": {
+        "skillid": "20069",
+        "id": 20130,
+        "skillgroupid": "",
+        "conditionid": "8"
+    },
+    "20131": {
+        "skillid": "20070",
+        "id": 20131,
+        "skillgroupid": "",
+        "conditionid": "8"
+    },
+    "20133": {
+        "skillid": "20072",
+        "id": 20133,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "20135": {
+        "skillid": "20073",
+        "id": 20135,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "20136": {
+        "skillid": "20074",
+        "id": 20136,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "21163": {
+        "skillid": "100017",
+        "id": 21163,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "21164": {
+        "skillid": "100020",
+        "id": 21164,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21169": {
+        "skillid": "100021",
+        "id": 21169,
+        "skillgroupid": "",
+        "conditionid": "257"
+    },
+    "20146": {
+        "skillid": "20080",
+        "id": 20146,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20147": {
+        "skillid": "20081",
+        "id": 20147,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20148": {
+        "skillid": "20082",
+        "id": 20148,
+        "skillgroupid": "",
+        "conditionid": "11"
+    },
+    "21177": {
+        "skillid": "100018",
+        "id": 21177,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "21182": {
+        "skillid": "100019",
+        "id": 21182,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "20160": {
+        "skillid": "504707",
+        "id": 20160,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "20167": {
+        "skillid": "6019301",
+        "id": 20167,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20171": {
+        "skillid": "6019302",
+        "id": 20171,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20172": {
+        "skillid": "6019303",
+        "id": 20172,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20173": {
+        "skillid": "6019304",
+        "id": 20173,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20174": {
+        "skillid": "6019305",
+        "id": 20174,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20177": {
+        "skillid": "502807",
+        "id": 20177,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "21206": {
+        "skillid": "503803",
+        "id": 21206,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21207": {
+        "skillid": "503804",
+        "id": 21207,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "20185": {
+        "skillid": "504807",
+        "id": 20185,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20189": {
+        "skillid": "502507",
+        "id": 20189,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20190": {
+        "skillid": "6048101",
+        "id": 20190,
+        "skillgroupid": "",
+        "conditionid": "12"
+    },
+    "20191": {
+        "skillid": "6048102",
+        "id": 20191,
+        "skillgroupid": "",
+        "conditionid": "12"
+    },
+    "20192": {
+        "skillid": "6048103",
+        "id": 20192,
+        "skillgroupid": "",
+        "conditionid": "12"
+    },
+    "20193": {
+        "skillid": "6048104",
+        "id": 20193,
+        "skillgroupid": "",
+        "conditionid": "12"
+    },
+    "20194": {
+        "skillid": "6048105",
+        "id": 20194,
+        "skillgroupid": "",
+        "conditionid": "12"
+    },
+    "20200": {
+        "skillid": "503603",
+        "id": 20200,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "20201": {
+        "skillid": "6032301",
+        "id": 20201,
+        "skillgroupid": "",
+        "conditionid": "13"
+    },
+    "20204": {
+        "skillid": "201091",
+        "id": 20204,
+        "skillgroupid": "",
+        "conditionid": "14"
+    },
+    "21231": {
+        "skillid": "201674",
+        "id": 21231,
+        "skillgroupid": "",
+        "conditionid": "6"
+    },
+    "21235": {
+        "skillid": "201676",
+        "id": 21235,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "21238": {
+        "skillid": "201677",
+        "id": 21238,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21240": {
+        "skillid": "201682",
+        "id": 21240,
+        "skillgroupid": "",
+        "conditionid": "271"
+    },
+    "21241": {
+        "skillid": "201679",
+        "id": 21241,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "21242": {
+        "skillid": "201680",
+        "id": 21242,
+        "skillgroupid": "",
+        "conditionid": "272"
+    },
+    "20221": {
+        "skillid": "502307",
+        "id": 20221,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20225": {
+        "skillid": "504207",
+        "id": 20225,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21250": {
+        "skillid": "6023401",
+        "id": 21250,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "20227": {
+        "skillid": "502907",
+        "id": 20227,
+        "skillgroupid": "",
+        "conditionid": "2"
+    },
+    "21256": {
+        "skillid": "502303",
+        "id": 21256,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21257": {
+        "skillid": "502304",
+        "id": 21257,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21259": {
+        "skillid": "6072301",
+        "id": 21259,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "20237": {
+        "skillid": "504507",
+        "id": 20237,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21262": {
+        "skillid": "507205",
+        "id": 21262,
+        "skillgroupid": "",
+        "conditionid": "21"
+    },
+    "21263": {
+        "skillid": "507204",
+        "id": 21263,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "20240": {
+        "skillid": "502407",
+        "id": 20240,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21266": {
+        "skillid": "504507",
+        "id": 21266,
+        "skillgroupid": "",
+        "conditionid": "274;275;276;277;278"
+    },
+    "21269": {
+        "skillid": "6023302",
+        "id": 21269,
+        "skillgroupid": "",
+        "conditionid": "273"
+    },
+    "21270": {
+        "skillid": "6023402",
+        "id": 21270,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "21271": {
+        "skillid": "6023303",
+        "id": 21271,
+        "skillgroupid": "",
+        "conditionid": "273"
+    },
+    "21272": {
+        "skillid": "6023403",
+        "id": 21272,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "21273": {
+        "skillid": "6023304",
+        "id": 21273,
+        "skillgroupid": "",
+        "conditionid": "273"
+    },
+    "21274": {
+        "skillid": "6023404",
+        "id": 21274,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "21275": {
+        "skillid": "6023305",
+        "id": 21275,
+        "skillgroupid": "",
+        "conditionid": "273"
+    },
+    "21276": {
+        "skillid": "6023405",
+        "id": 21276,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "21277": {
+        "skillid": "6072302",
+        "id": 21277,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "20254": {
+        "skillid": "201163",
+        "id": 20254,
+        "skillgroupid": "",
+        "conditionid": "14"
+    },
+    "21279": {
+        "skillid": "6072304",
+        "id": 21279,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "21280": {
+        "skillid": "6072305",
+        "id": 21280,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "20258": {
+        "skillid": "500107",
+        "id": 20258,
+        "skillgroupid": "",
+        "conditionid": "215"
+    },
+    "20264": {
+        "skillid": "502308",
+        "id": 20264,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20265": {
+        "skillid": "502808",
+        "id": 20265,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20266": {
+        "skillid": "502908",
+        "id": 20266,
+        "skillgroupid": "",
+        "conditionid": "2"
+    },
+    "20268": {
+        "skillid": "504208",
+        "id": 20268,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20269": {
+        "skillid": "504708",
+        "id": 20269,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "20270": {
+        "skillid": "503604",
+        "id": 20270,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "20271": {
+        "skillid": "504808",
+        "id": 20271,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20279": {
+        "skillid": "201163",
+        "id": 20279,
+        "skillgroupid": "",
+        "conditionid": "14"
+    },
+    "21304": {
+        "skillid": "301311",
+        "id": 21304,
+        "skillgroupid": "",
+        "conditionid": "21"
+    },
+    "21305": {
+        "skillid": "304111",
+        "id": 21305,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21306": {
+        "skillid": "304811",
+        "id": 21306,
+        "skillgroupid": "",
+        "conditionid": "279"
+    },
+    "21310": {
+        "skillid": "304812",
+        "id": 21310,
+        "skillgroupid": "",
+        "conditionid": "280"
+    },
+    "20288": {
+        "skillid": "503207",
+        "id": 20288,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "20289": {
+        "skillid": "503208",
+        "id": 20289,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21316": {
+        "skillid": "",
+        "id": 21316,
+        "skillgroupid": "60811",
+        "conditionid": "281"
+    },
+    "21317": {
+        "skillid": "",
+        "id": 21317,
+        "skillgroupid": "60812",
+        "conditionid": "282"
+    },
+    "21320": {
+        "skillid": "302911",
+        "id": 21320,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "21321": {
+        "skillid": "302912",
+        "id": 21321,
+        "skillgroupid": "",
+        "conditionid": "283"
+    },
+    "20301": {
+        "skillid": "504307",
+        "id": 20301,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "20302": {
+        "skillid": "504307",
+        "id": 20302,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21330": {
+        "skillid": "",
+        "id": 21330,
+        "skillgroupid": "60712",
+        "conditionid": "284"
+    },
+    "20307": {
+        "skillid": "6035301",
+        "id": 20307,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20308": {
+        "skillid": "6035302",
+        "id": 20308,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20309": {
+        "skillid": "6035303",
+        "id": 20309,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20310": {
+        "skillid": "6035304",
+        "id": 20310,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20311": {
+        "skillid": "6035305",
+        "id": 20311,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20319": {
+        "skillid": "505907",
+        "id": 20319,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "20320": {
+        "skillid": "505908",
+        "id": 20320,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "21885": {
+        "skillid": "6115211",
+        "id": 21885,
+        "skillgroupid": "",
+        "conditionid": "422"
+    },
+    "21849": {
+        "skillid": "312011",
+        "id": 21849,
+        "skillgroupid": "",
+        "conditionid": "315"
+    },
+    "21847": {
+        "skillid": "512015",
+        "id": 21847,
+        "skillgroupid": "",
+        "conditionid": "406"
+    },
+    "21834": {
+        "skillid": "310411",
+        "id": 21834,
+        "skillgroupid": "",
+        "conditionid": "401;402;403;404;405"
+    },
+    "21833": {
+        "skillid": "510406",
+        "id": 21833,
+        "skillgroupid": "",
+        "conditionid": "401;402;403;404;405"
+    },
+    "21832": {
+        "skillid": "510405",
+        "id": 21832,
+        "skillgroupid": "",
+        "conditionid": "401;402;403;404;405"
+    },
+    "21830": {
+        "skillid": "510404",
+        "id": 21830,
+        "skillgroupid": "",
+        "conditionid": "401;402;403;404;405"
+    },
+    "21818": {
+        "skillid": "511211",
+        "id": 21818,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21815": {
+        "skillid": "201813",
+        "id": 21815,
+        "skillgroupid": "",
+        "conditionid": "400"
+    },
+    "21810": {
+        "skillid": "508812",
+        "id": 21810,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "21809": {
+        "skillid": "508811",
+        "id": 21809,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "20335": {
+        "skillid": "",
+        "id": 20335,
+        "skillgroupid": "60354",
+        "conditionid": "3"
+    },
+    "21806": {
+        "skillid": "6088211",
+        "id": 21806,
+        "skillgroupid": "",
+        "conditionid": "395;396;397;398;399"
+    },
+    "21802": {
+        "skillid": "301211",
+        "id": 21802,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21801": {
+        "skillid": "6097305",
+        "id": 21801,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21363": {
+        "skillid": "507803",
+        "id": 21363,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "20340": {
+        "skillid": "60191011",
+        "id": 20340,
+        "skillgroupid": "",
+        "conditionid": "2"
+    },
+    "20341": {
+        "skillid": "60191012",
+        "id": 20341,
+        "skillgroupid": "",
+        "conditionid": "2"
+    },
+    "20342": {
+        "skillid": "60191013",
+        "id": 20342,
+        "skillgroupid": "",
+        "conditionid": "2"
+    },
+    "20343": {
+        "skillid": "60191014",
+        "id": 20343,
+        "skillgroupid": "",
+        "conditionid": "2"
+    },
+    "20344": {
+        "skillid": "60191015",
+        "id": 20344,
+        "skillgroupid": "",
+        "conditionid": "2"
+    },
+    "21369": {
+        "skillid": "505304",
+        "id": 21369,
+        "skillgroupid": "",
+        "conditionid": "286;287;288;289;290"
+    },
+    "21370": {
+        "skillid": "505305",
+        "id": 21370,
+        "skillgroupid": "",
+        "conditionid": "285"
+    },
+    "21799": {
+        "skillid": "6097303",
+        "id": 21799,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21798": {
+        "skillid": "6097302",
+        "id": 21798,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21797": {
+        "skillid": "201857",
+        "id": 21797,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21796": {
+        "skillid": "201856",
+        "id": 21796,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21794": {
+        "skillid": "201854",
+        "id": 21794,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21772": {
+        "skillid": "509703",
+        "id": 21772,
+        "skillgroupid": "",
+        "conditionid": "385;386;387;388;389"
+    },
+    "20353": {
+        "skillid": "505107",
+        "id": 20353,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "20354": {
+        "skillid": "505107",
+        "id": 20354,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21761": {
+        "skillid": "201803",
+        "id": 21761,
+        "skillgroupid": "",
+        "conditionid": "384"
+    },
+    "21760": {
+        "skillid": "201802",
+        "id": 21760,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21759": {
+        "skillid": "201800",
+        "id": 21759,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21752": {
+        "skillid": "306611",
+        "id": 21752,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "20359": {
+        "skillid": "505407",
+        "id": 20359,
+        "skillgroupid": "",
+        "conditionid": "17"
+    },
+    "20360": {
+        "skillid": "505407",
+        "id": 20360,
+        "skillgroupid": "",
+        "conditionid": "17"
+    },
+    "21385": {
+        "skillid": "505306",
+        "id": 21385,
+        "skillgroupid": "",
+        "conditionid": "285"
+    },
+    "21745": {
+        "skillid": "6085221",
+        "id": 21745,
+        "skillgroupid": "",
+        "conditionid": "379;380;381;382;383"
+    },
+    "21735": {
+        "skillid": "509403",
+        "id": 21735,
+        "skillgroupid": "",
+        "conditionid": "23"
+    },
+    "21729": {
+        "skillid": "6084111",
+        "id": 21729,
+        "skillgroupid": "",
+        "conditionid": "377"
+    },
+    "21728": {
+        "skillid": "6084213",
+        "id": 21728,
+        "skillgroupid": "",
+        "conditionid": "376"
+    },
+    "21715": {
+        "skillid": "508513",
+        "id": 21715,
+        "skillgroupid": "",
+        "conditionid": "361"
+    },
+    "21714": {
+        "skillid": "508512",
+        "id": 21714,
+        "skillgroupid": "",
+        "conditionid": "362"
+    },
+    "21675": {
+        "skillid": "36004",
+        "id": 21675,
+        "skillgroupid": "",
+        "conditionid": "315"
+    },
+    "21674": {
+        "skillid": "35004",
+        "id": 21674,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "20370": {
+        "skillid": "6051301",
+        "id": 20370,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20371": {
+        "skillid": "6051302",
+        "id": 20371,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20372": {
+        "skillid": "6051303",
+        "id": 20372,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20373": {
+        "skillid": "6051304",
+        "id": 20373,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20374": {
+        "skillid": "6051305",
+        "id": 20374,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21673": {
+        "skillid": "34004",
+        "id": 21673,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21670": {
+        "skillid": "31004",
+        "id": 21670,
+        "skillgroupid": "",
+        "conditionid": "315"
+    },
+    "21645": {
+        "skillid": "509204",
+        "id": 21645,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21644": {
+        "skillid": "509203",
+        "id": 21644,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20379": {
+        "skillid": "6030301",
+        "id": 20379,
+        "skillgroupid": "",
+        "conditionid": "187"
+    },
+    "20380": {
+        "skillid": "6030302",
+        "id": 20380,
+        "skillgroupid": "",
+        "conditionid": "188"
+    },
+    "20381": {
+        "skillid": "6030303",
+        "id": 20381,
+        "skillgroupid": "",
+        "conditionid": "189"
+    },
+    "20382": {
+        "skillid": "6030304",
+        "id": 20382,
+        "skillgroupid": "",
+        "conditionid": "190"
+    },
+    "20383": {
+        "skillid": "6030305",
+        "id": 20383,
+        "skillgroupid": "",
+        "conditionid": "191"
+    },
+    "20384": {
+        "skillid": "6030401",
+        "id": 20384,
+        "skillgroupid": "",
+        "conditionid": "192"
+    },
+    "20385": {
+        "skillid": "6030402",
+        "id": 20385,
+        "skillgroupid": "",
+        "conditionid": "193"
+    },
+    "20386": {
+        "skillid": "6030403",
+        "id": 20386,
+        "skillgroupid": "",
+        "conditionid": "194"
+    },
+    "20387": {
+        "skillid": "6030404",
+        "id": 20387,
+        "skillgroupid": "",
+        "conditionid": "195"
+    },
+    "20388": {
+        "skillid": "6030405",
+        "id": 20388,
+        "skillgroupid": "",
+        "conditionid": "196"
+    },
+    "20389": {
+        "skillid": "501907",
+        "id": 20389,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "21414": {
+        "skillid": "508904",
+        "id": 21414,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21641": {
+        "skillid": "305311",
+        "id": 21641,
+        "skillgroupid": "",
+        "conditionid": "315"
+    },
+    "21639": {
+        "skillid": "307911",
+        "id": 21639,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21417": {
+        "skillid": "6081301",
+        "id": 21417,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21637": {
+        "skillid": "509206",
+        "id": 21637,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21616": {
+        "skillid": "303911",
+        "id": 21616,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21614": {
+        "skillid": "201773",
+        "id": 21614,
+        "skillgroupid": "",
+        "conditionid": "1"
+    },
+    "21421": {
+        "skillid": "508103",
+        "id": 21421,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "21422": {
+        "skillid": "508104",
+        "id": 21422,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "21423": {
+        "skillid": "508105",
+        "id": 21423,
+        "skillgroupid": "",
+        "conditionid": "298"
+    },
+    "21424": {
+        "skillid": "508106",
+        "id": 21424,
+        "skillgroupid": "",
+        "conditionid": "299"
+    },
+    "21605": {
+        "skillid": "306411",
+        "id": 21605,
+        "skillgroupid": "",
+        "conditionid": "21"
+    },
+    "21588": {
+        "skillid": "309911",
+        "id": 21588,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21587": {
+        "skillid": "509904",
+        "id": 21587,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21428": {
+        "skillid": "508107",
+        "id": 21428,
+        "skillgroupid": "",
+        "conditionid": "298"
+    },
+    "21429": {
+        "skillid": "508107",
+        "id": 21429,
+        "skillgroupid": "",
+        "conditionid": "299"
+    },
+    "21430": {
+        "skillid": "",
+        "id": 21430,
+        "skillgroupid": "60813",
+        "conditionid": "282"
+    },
+    "21431": {
+        "skillid": "301711",
+        "id": 21431,
+        "skillgroupid": "",
+        "conditionid": "300"
+    },
+    "21586": {
+        "skillid": "509903",
+        "id": 21586,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21433": {
+        "skillid": "301111",
+        "id": 21433,
+        "skillgroupid": "",
+        "conditionid": "301;302;303;304;305"
+    },
+    "21570": {
+        "skillid": "506704",
+        "id": 21570,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "21435": {
+        "skillid": "303311",
+        "id": 21435,
+        "skillgroupid": "",
+        "conditionid": "17;18"
+    },
+    "21564": {
+        "skillid": "601102025",
+        "id": 21564,
+        "skillgroupid": "",
+        "conditionid": "315"
+    },
+    "21563": {
+        "skillid": "601102024",
+        "id": 21563,
+        "skillgroupid": "",
+        "conditionid": "315"
+    },
+    "21438": {
+        "skillid": "303312",
+        "id": 21438,
+        "skillgroupid": "",
+        "conditionid": "3;17"
+    },
+    "21439": {
+        "skillid": "303011",
+        "id": 21439,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "21557": {
+        "skillid": "305511",
+        "id": 21557,
+        "skillgroupid": "",
+        "conditionid": "315"
+    },
+    "21552": {
+        "skillid": "",
+        "id": 21552,
+        "skillgroupid": "60722",
+        "conditionid": "315"
+    },
+    "21546": {
+        "skillid": "601081015",
+        "id": 21546,
+        "skillgroupid": "",
+        "conditionid": "16"
+    },
+    "21537": {
+        "skillid": "510004",
+        "id": 21537,
+        "skillgroupid": "",
+        "conditionid": "319;320;321;322;323"
+    },
+    "21535": {
+        "skillid": "510003",
+        "id": 21535,
+        "skillgroupid": "",
+        "conditionid": "319;320;321;322;323"
+    },
+    "21527": {
+        "skillid": "510804",
+        "id": 21527,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21155": {
+        "skillid": "201647",
+        "id": 21155,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21447": {
+        "skillid": "509503",
+        "id": 21447,
+        "skillgroupid": "",
+        "conditionid": "306"
+    },
+    "21448": {
+        "skillid": "509503",
+        "id": 21448,
+        "skillgroupid": "",
+        "conditionid": "307"
+    },
+    "21195": {
+        "skillid": "",
+        "id": 21195,
+        "skillgroupid": "60104",
+        "conditionid": "258;259;260;261;262"
+    },
+    "21450": {
+        "skillid": "508303",
+        "id": 21450,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21451": {
+        "skillid": "508304",
+        "id": 21451,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21498": {
+        "skillid": "511004",
+        "id": 21498,
+        "skillgroupid": "",
+        "conditionid": "318"
+    },
+    "21497": {
+        "skillid": "511003",
+        "id": 21497,
+        "skillgroupid": "",
+        "conditionid": "317"
+    },
+    "21218": {
+        "skillid": "",
+        "id": 21218,
+        "skillgroupid": "60633",
+        "conditionid": "4"
+    },
+    "21224": {
+        "skillid": "6038906",
+        "id": 21224,
+        "skillgroupid": "",
+        "conditionid": "269"
+    },
+    "21245": {
+        "skillid": "201678",
+        "id": 21245,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21489": {
+        "skillid": "601102011",
+        "id": 21489,
+        "skillgroupid": "",
+        "conditionid": "13"
+    },
+    "21261": {
+        "skillid": "507203",
+        "id": 21261,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21395": {
+        "skillid": "305611",
+        "id": 21395,
+        "skillgroupid": "",
+        "conditionid": "291;292;293;294;295"
+    },
+    "21473": {
+        "skillid": "306911",
+        "id": 21473,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21397": {
+        "skillid": "303411",
+        "id": 21397,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "21398": {
+        "skillid": "304311",
+        "id": 21398,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21463": {
+        "skillid": "506807",
+        "id": 21463,
+        "skillgroupid": "",
+        "conditionid": "310;311;312;313;314"
+    },
+    "21464": {
+        "skillid": "506808",
+        "id": 21464,
+        "skillgroupid": "",
+        "conditionid": "310;311;312;313;314"
+    },
+    "21413": {
+        "skillid": "508903",
+        "id": 21413,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21466": {
+        "skillid": "509504",
+        "id": 21466,
+        "skillgroupid": "",
+        "conditionid": "315"
+    },
+    "21467": {
+        "skillid": "303811",
+        "id": 21467,
+        "skillgroupid": "",
+        "conditionid": "152"
+    },
+    "21407": {
+        "skillid": "",
+        "id": 21407,
+        "skillgroupid": "60892",
+        "conditionid": "5"
+    },
+    "21403": {
+        "skillid": "",
+        "id": 21403,
+        "skillgroupid": "60891",
+        "conditionid": "296"
+    },
+    "21470": {
+        "skillid": "306311",
+        "id": 21470,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "21471": {
+        "skillid": "304211",
+        "id": 21471,
+        "skillgroupid": "",
+        "conditionid": "316"
+    },
+    "21396": {
+        "skillid": "307011",
+        "id": 21396,
+        "skillgroupid": "",
+        "conditionid": "13"
+    },
+    "20449": {
+        "skillid": "501108",
+        "id": 20449,
+        "skillgroupid": "",
+        "conditionid": "13"
+    },
+    "20450": {
+        "skillid": "501109",
+        "id": 20450,
+        "skillgroupid": "",
+        "conditionid": "13"
+    },
+    "21475": {
+        "skillid": "304711",
+        "id": 21475,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21377": {
+        "skillid": "507903",
+        "id": 21377,
+        "skillgroupid": "",
+        "conditionid": "2;4;13"
+    },
+    "21368": {
+        "skillid": "505303",
+        "id": 21368,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "20454": {
+        "skillid": "501307",
+        "id": 20454,
+        "skillgroupid": "",
+        "conditionid": "122;123;124;125;126"
+    },
+    "21364": {
+        "skillid": "507804",
+        "id": 21364,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21325": {
+        "skillid": "300811",
+        "id": 21325,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21303": {
+        "skillid": "301011",
+        "id": 21303,
+        "skillgroupid": "",
+        "conditionid": "5"
+    },
+    "21278": {
+        "skillid": "6072303",
+        "id": 21278,
+        "skillgroupid": "",
+        "conditionid": "2;13"
+    },
+    "20459": {
+        "skillid": "501807",
+        "id": 20459,
+        "skillgroupid": "",
+        "conditionid": "2"
+    },
+    "20460": {
+        "skillid": "501808",
+        "id": 20460,
+        "skillgroupid": "",
+        "conditionid": "2"
+    },
+    "21264": {
+        "skillid": "507206",
+        "id": 21264,
+        "skillgroupid": "",
+        "conditionid": "21"
+    },
+    "21486": {
+        "skillid": "508003",
+        "id": 21486,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21249": {
+        "skillid": "6023301",
+        "id": 21249,
+        "skillgroupid": "",
+        "conditionid": "273"
+    },
+    "20464": {
+        "skillid": "505307",
+        "id": 20464,
+        "skillgroupid": "",
+        "conditionid": "106;107;108;109;110"
+    },
+    "20465": {
+        "skillid": "505308",
+        "id": 20465,
+        "skillgroupid": "",
+        "conditionid": "106;107;108;109;110"
+    },
+    "20466": {
+        "skillid": "505309",
+        "id": 20466,
+        "skillgroupid": "",
+        "conditionid": "111;112;113;114;115"
+    },
+    "20467": {
+        "skillid": "505310",
+        "id": 20467,
+        "skillgroupid": "",
+        "conditionid": "111;112;113;114;115"
+    },
+    "20468": {
+        "skillid": "505311",
+        "id": 20468,
+        "skillgroupid": "",
+        "conditionid": "116;118"
+    },
+    "20469": {
+        "skillid": "505312",
+        "id": 20469,
+        "skillgroupid": "",
+        "conditionid": "117;119"
+    },
+    "21494": {
+        "skillid": "511005",
+        "id": 21494,
+        "skillgroupid": "",
+        "conditionid": "4"
+    },
+    "21495": {
+        "skillid": "",
+        "id": 21495,
+        "skillgroupid": "601102",
+        "conditionid": "317"
+    },
+    "21496": {
+        "skillid": "",
+        "id": 21496,
+        "skillgroupid": "601102",
+        "conditionid": "318"
+    },
+    "20473": {
+        "skillid": "501009",
+        "id": 20473,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "20474": {
+        "skillid": "501010",
+        "id": 20474,
+        "skillgroupid": "",
+        "conditionid": "3"
+    },
+    "21215": {
+        "skillid": "504204",
+        "id": 21215,
+        "skillgroupid": "",
+        "conditionid": "268"
+    },
+    "21214": {
+        "skillid": "504203",
+        "id": 21214,
+        "skillgroupid": "",
+        "conditionid": "268"
+    },
+    "21197": {
+        "skillid": "6065106",
+        "id": 21197,
+        "skillgroupid": "",
+        "conditionid": "263;264;265;266;267"
+    },
+    "21502": {
+        "skillid": "601081011",
+        "id": 21502,
+        "skillgroupid": "",
+        "conditionid": "16"
+    },
+    "21503": {
+        "skillid": "601081016",
+        "id": 21503,
+        "skillgroupid": "",
+        "conditionid": "16"
+    }
+}

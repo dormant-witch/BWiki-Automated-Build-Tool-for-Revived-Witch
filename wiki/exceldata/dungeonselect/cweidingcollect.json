@@ -1,0 +1,343 @@
+[
+    {
+        "collectbonus": [
+            31037
+        ],
+        "id": 1,
+        "collectrequirenum": 0,
+        "collectbonusnum": [
+            2
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            35026
+        ],
+        "id": 2,
+        "collectrequirenum": 500,
+        "collectbonusnum": [
+            50
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            35002
+        ],
+        "id": 3,
+        "collectrequirenum": 1000,
+        "collectbonusnum": [
+            500000
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            35026
+        ],
+        "id": 4,
+        "collectrequirenum": 1500,
+        "collectbonusnum": [
+            50
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            79001
+        ],
+        "id": 5,
+        "collectrequirenum": 2000,
+        "collectbonusnum": [
+            40
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            35026
+        ],
+        "id": 6,
+        "collectrequirenum": 2500,
+        "collectbonusnum": [
+            50
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            79001
+        ],
+        "id": 7,
+        "collectrequirenum": 3000,
+        "collectbonusnum": [
+            40
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            35026
+        ],
+        "id": 8,
+        "collectrequirenum": 3500,
+        "collectbonusnum": [
+            50
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            70003
+        ],
+        "id": 9,
+        "collectrequirenum": 4000,
+        "collectbonusnum": [
+            2
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            35026
+        ],
+        "id": 10,
+        "collectrequirenum": 4500,
+        "collectbonusnum": [
+            80
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            30076
+        ],
+        "id": 11,
+        "collectrequirenum": 5000,
+        "collectbonusnum": [
+            1
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            35026
+        ],
+        "id": 12,
+        "collectrequirenum": 6000,
+        "collectbonusnum": [
+            80
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            79002
+        ],
+        "id": 13,
+        "collectrequirenum": 7000,
+        "collectbonusnum": [
+            20
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            35026
+        ],
+        "id": 14,
+        "collectrequirenum": 8000,
+        "collectbonusnum": [
+            80
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            74004
+        ],
+        "id": 15,
+        "collectrequirenum": 9000,
+        "collectbonusnum": [
+            20
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            35026
+        ],
+        "id": 16,
+        "collectrequirenum": 10000,
+        "collectbonusnum": [
+            80
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            74005
+        ],
+        "id": 17,
+        "collectrequirenum": 11000,
+        "collectbonusnum": [
+            20
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            35026
+        ],
+        "id": 18,
+        "collectrequirenum": 12000,
+        "collectbonusnum": [
+            120
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            74002
+        ],
+        "id": 19,
+        "collectrequirenum": 13000,
+        "collectbonusnum": [
+            40
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            35026
+        ],
+        "id": 20,
+        "collectrequirenum": 14000,
+        "collectbonusnum": [
+            120
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            30076
+        ],
+        "id": 21,
+        "collectrequirenum": 15000,
+        "collectbonusnum": [
+            2
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            35026
+        ],
+        "id": 22,
+        "collectrequirenum": 16000,
+        "collectbonusnum": [
+            120
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            79002
+        ],
+        "id": 23,
+        "collectrequirenum": 17000,
+        "collectbonusnum": [
+            20
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            35026
+        ],
+        "id": 24,
+        "collectrequirenum": 18000,
+        "collectbonusnum": [
+            120
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            79001
+        ],
+        "id": 25,
+        "collectrequirenum": 19000,
+        "collectbonusnum": [
+            60
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            79002
+        ],
+        "id": 26,
+        "collectrequirenum": 20000,
+        "collectbonusnum": [
+            30
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            79001
+        ],
+        "id": 27,
+        "collectrequirenum": 23000,
+        "collectbonusnum": [
+            60
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            79002
+        ],
+        "id": 28,
+        "collectrequirenum": 26000,
+        "collectbonusnum": [
+            30
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            79001
+        ],
+        "id": 29,
+        "collectrequirenum": 29000,
+        "collectbonusnum": [
+            60
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            79002
+        ],
+        "id": 30,
+        "collectrequirenum": 32000,
+        "collectbonusnum": [
+            30
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    },
+    {
+        "collectbonus": [
+            31152
+        ],
+        "id": 31,
+        "collectrequirenum": 35000,
+        "collectbonusnum": [
+            1
+        ],
+        "closeTime": "2021-09-30 03:59:59"
+    }
+]

@@ -1,0 +1,1206 @@
+{
+    "190018": {
+        "id": 190018,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 18,
+        "jumptype": 2,
+        "description": "进行15次时空裂隙",
+        "UIjumpvalue": 22,
+        "rewardid": 4351,
+        "rewardquantity": [
+            20
+        ],
+        "missionImg": 15008,
+        "missionname": "进行15次时空裂隙",
+        "rewarditem": [
+            35065
+        ],
+        "descriptionTextID": 1001835,
+        "endevent": 31,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "31,1"
+        ],
+        "missionnameTextID": 1001835,
+        "activeID": 45001
+    },
+    "190019": {
+        "id": 190019,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 19,
+        "jumptype": 2,
+        "description": "进行20次时空裂隙",
+        "UIjumpvalue": 22,
+        "rewardid": 4352,
+        "rewardquantity": [
+            30
+        ],
+        "missionImg": 15008,
+        "missionname": "进行20次时空裂隙",
+        "rewarditem": [
+            35065
+        ],
+        "descriptionTextID": 1001836,
+        "endevent": 32,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "32,1"
+        ],
+        "missionnameTextID": 1001836,
+        "activeID": 45001
+    },
+    "190020": {
+        "id": 190020,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 20,
+        "jumptype": 2,
+        "description": "时空裂隙中获胜3次",
+        "UIjumpvalue": 22,
+        "rewardid": 4353,
+        "rewardquantity": [
+            10
+        ],
+        "missionImg": 15008,
+        "missionname": "时空裂隙中获胜3次",
+        "rewarditem": [
+            35065
+        ],
+        "descriptionTextID": 1001837,
+        "endevent": 33,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "33,1"
+        ],
+        "missionnameTextID": 1001837,
+        "activeID": 45001
+    },
+    "190021": {
+        "id": 190021,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 21,
+        "jumptype": 2,
+        "description": "时空裂隙中获胜8次",
+        "UIjumpvalue": 22,
+        "rewardid": 4354,
+        "rewardquantity": [
+            20
+        ],
+        "missionImg": 15008,
+        "missionname": "时空裂隙中获胜8次",
+        "rewarditem": [
+            35065
+        ],
+        "descriptionTextID": 1001838,
+        "endevent": 34,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "34,1"
+        ],
+        "missionnameTextID": 1001838,
+        "activeID": 45001
+    },
+    "190022": {
+        "id": 190022,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 22,
+        "jumptype": 2,
+        "description": "时空裂隙中获胜15次",
+        "UIjumpvalue": 22,
+        "rewardid": 4355,
+        "rewardquantity": [
+            30
+        ],
+        "missionImg": 15008,
+        "missionname": "时空裂隙中获胜15次",
+        "rewarditem": [
+            35065
+        ],
+        "descriptionTextID": 1001839,
+        "endevent": 35,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "35,1"
+        ],
+        "missionnameTextID": 1001839,
+        "activeID": 45001
+    },
+    "190023": {
+        "id": 190023,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 1,
+        "jumptype": 2,
+        "description": "进行10次玛那副本",
+        "UIjumpvalue": 17,
+        "rewardid": 4549,
+        "rewardquantity": [
+            10
+        ],
+        "missionImg": 15008,
+        "missionname": "进行10次玛那副本",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001854,
+        "endevent": 53,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "53,1"
+        ],
+        "missionnameTextID": 1001854,
+        "activeID": 45002
+    },
+    "190024": {
+        "id": 190024,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 2,
+        "jumptype": 2,
+        "description": "进行20次玛那副本",
+        "UIjumpvalue": 17,
+        "rewardid": 4550,
+        "rewardquantity": [
+            20
+        ],
+        "missionImg": 15008,
+        "missionname": "进行20次玛那副本",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001855,
+        "endevent": 54,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "54,1"
+        ],
+        "missionnameTextID": 1001855,
+        "activeID": 45002
+    },
+    "190025": {
+        "id": 190025,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 3,
+        "jumptype": 2,
+        "description": "进行30次玛那副本",
+        "UIjumpvalue": 17,
+        "rewardid": 4551,
+        "rewardquantity": [
+            30
+        ],
+        "missionImg": 15008,
+        "missionname": "进行30次玛那副本",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001856,
+        "endevent": 55,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "55,1"
+        ],
+        "missionnameTextID": 1001856,
+        "activeID": 45002
+    },
+    "190026": {
+        "id": 190026,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 4,
+        "jumptype": 2,
+        "description": "进行10次突破副本",
+        "UIjumpvalue": 17,
+        "rewardid": 4552,
+        "rewardquantity": [
+            10
+        ],
+        "missionImg": 15008,
+        "missionname": "进行10次突破副本",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001857,
+        "endevent": 56,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "56,1"
+        ],
+        "missionnameTextID": 1001857,
+        "activeID": 45002
+    },
+    "190027": {
+        "id": 190027,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 5,
+        "jumptype": 2,
+        "description": "进行20次突破副本",
+        "UIjumpvalue": 17,
+        "rewardid": 4553,
+        "rewardquantity": [
+            20
+        ],
+        "missionImg": 15008,
+        "missionname": "进行20次突破副本",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001858,
+        "endevent": 57,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "57,1"
+        ],
+        "missionnameTextID": 1001858,
+        "activeID": 45002
+    },
+    "190028": {
+        "id": 190028,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 6,
+        "jumptype": 2,
+        "description": "进行30次突破副本",
+        "UIjumpvalue": 17,
+        "rewardid": 4554,
+        "rewardquantity": [
+            30
+        ],
+        "missionImg": 15008,
+        "missionname": "进行30次突破副本",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001859,
+        "endevent": 58,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "58,1"
+        ],
+        "missionnameTextID": 1001859,
+        "activeID": 45002
+    },
+    "190029": {
+        "id": 190029,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 7,
+        "jumptype": 2,
+        "description": "进行10次装备副本",
+        "UIjumpvalue": 17,
+        "rewardid": 4555,
+        "rewardquantity": [
+            10
+        ],
+        "missionImg": 15008,
+        "missionname": "进行10次装备副本",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001860,
+        "endevent": 59,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "59,1"
+        ],
+        "missionnameTextID": 1001860,
+        "activeID": 45002
+    },
+    "190030": {
+        "id": 190030,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 8,
+        "jumptype": 2,
+        "description": "进行20次装备副本",
+        "UIjumpvalue": 17,
+        "rewardid": 4556,
+        "rewardquantity": [
+            20
+        ],
+        "missionImg": 15008,
+        "missionname": "进行20次装备副本",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001861,
+        "endevent": 60,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "60,1"
+        ],
+        "missionnameTextID": 1001861,
+        "activeID": 45002
+    },
+    "190031": {
+        "id": 190031,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 9,
+        "jumptype": 2,
+        "description": "进行30次装备副本",
+        "UIjumpvalue": 17,
+        "rewardid": 4557,
+        "rewardquantity": [
+            30
+        ],
+        "missionImg": 15008,
+        "missionname": "进行30次装备副本",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001862,
+        "endevent": 61,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "61,1"
+        ],
+        "missionnameTextID": 1001862,
+        "activeID": 45002
+    },
+    "190032": {
+        "id": 190032,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 10,
+        "jumptype": 2,
+        "description": "进行10次技能副本",
+        "UIjumpvalue": 17,
+        "rewardid": 4558,
+        "rewardquantity": [
+            10
+        ],
+        "missionImg": 15008,
+        "missionname": "进行10次技能副本",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001863,
+        "endevent": 62,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "62,1"
+        ],
+        "missionnameTextID": 1001863,
+        "activeID": 45002
+    },
+    "190033": {
+        "id": 190033,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 11,
+        "jumptype": 2,
+        "description": "进行20次技能副本",
+        "UIjumpvalue": 17,
+        "rewardid": 4559,
+        "rewardquantity": [
+            20
+        ],
+        "missionImg": 15008,
+        "missionname": "进行20次技能副本",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001864,
+        "endevent": 63,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "63,1"
+        ],
+        "missionnameTextID": 1001864,
+        "activeID": 45002
+    },
+    "190034": {
+        "id": 190034,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 12,
+        "jumptype": 2,
+        "description": "进行30次技能副本",
+        "UIjumpvalue": 17,
+        "rewardid": 4560,
+        "rewardquantity": [
+            30
+        ],
+        "missionImg": 15008,
+        "missionname": "进行30次技能副本",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001865,
+        "endevent": 64,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "64,1"
+        ],
+        "missionnameTextID": 1001865,
+        "activeID": 45002
+    },
+    "190035": {
+        "id": 190035,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 18,
+        "jumptype": 2,
+        "description": "消耗200点精神",
+        "UIjumpvalue": 16,
+        "rewardid": 4561,
+        "rewardquantity": [
+            10
+        ],
+        "missionImg": 15008,
+        "missionname": "消耗200点精神",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001866,
+        "endevent": 65,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "65,1"
+        ],
+        "missionnameTextID": 1001866,
+        "activeID": 45002
+    },
+    "190036": {
+        "id": 190036,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 19,
+        "jumptype": 2,
+        "description": "消耗500点精神",
+        "UIjumpvalue": 16,
+        "rewardid": 4562,
+        "rewardquantity": [
+            20
+        ],
+        "missionImg": 15008,
+        "missionname": "消耗500点精神",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001867,
+        "endevent": 66,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "66,1"
+        ],
+        "missionnameTextID": 1001867,
+        "activeID": 45002
+    },
+    "190037": {
+        "id": 190037,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 20,
+        "jumptype": 2,
+        "description": "消耗1000点精神",
+        "UIjumpvalue": 16,
+        "rewardid": 4563,
+        "rewardquantity": [
+            40
+        ],
+        "missionImg": 15008,
+        "missionname": "消耗1000点精神",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001868,
+        "endevent": 67,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "67,1"
+        ],
+        "missionnameTextID": 1001868,
+        "activeID": 45002
+    },
+    "190038": {
+        "id": 190038,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 21,
+        "jumptype": 2,
+        "description": "消耗2500点精神",
+        "UIjumpvalue": 16,
+        "rewardid": 4564,
+        "rewardquantity": [
+            80
+        ],
+        "missionImg": 15008,
+        "missionname": "消耗2500点精神",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001869,
+        "endevent": 68,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "68,1"
+        ],
+        "missionnameTextID": 1001869,
+        "activeID": 45002
+    },
+    "190039": {
+        "id": 190039,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 22,
+        "jumptype": 2,
+        "description": "消耗3500点精神",
+        "UIjumpvalue": 16,
+        "rewardid": 4565,
+        "rewardquantity": [
+            120
+        ],
+        "missionImg": 15008,
+        "missionname": "消耗3500点精神",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001870,
+        "endevent": 69,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "69,1"
+        ],
+        "missionnameTextID": 1001870,
+        "activeID": 45002
+    },
+    "190040": {
+        "id": 190040,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 23,
+        "jumptype": 2,
+        "description": "探索5次异界之境",
+        "UIjumpvalue": 20,
+        "rewardid": 4566,
+        "rewardquantity": [
+            10
+        ],
+        "missionImg": 15008,
+        "missionname": "探索5次异界之境",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001871,
+        "endevent": 70,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "70,1"
+        ],
+        "missionnameTextID": 1001871,
+        "activeID": 45002
+    },
+    "190041": {
+        "id": 190041,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 24,
+        "jumptype": 2,
+        "description": "探索15次异界之境",
+        "UIjumpvalue": 20,
+        "rewardid": 4567,
+        "rewardquantity": [
+            25
+        ],
+        "missionImg": 15008,
+        "missionname": "探索15次异界之境",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001872,
+        "endevent": 71,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "71,1"
+        ],
+        "missionnameTextID": 1001872,
+        "activeID": 45002
+    },
+    "190042": {
+        "id": 190042,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 25,
+        "jumptype": 2,
+        "description": "探索30次异界之境",
+        "UIjumpvalue": 20,
+        "rewardid": 4568,
+        "rewardquantity": [
+            40
+        ],
+        "missionImg": 15008,
+        "missionname": "探索30次异界之境",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001873,
+        "endevent": 72,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "72,1"
+        ],
+        "missionnameTextID": 1001873,
+        "activeID": 45002
+    },
+    "190043": {
+        "id": 190043,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 26,
+        "jumptype": 2,
+        "description": "进行5次时空裂隙",
+        "UIjumpvalue": 22,
+        "rewardid": 4569,
+        "rewardquantity": [
+            10
+        ],
+        "missionImg": 15008,
+        "missionname": "进行5次时空裂隙",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001874,
+        "endevent": 73,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "73,1"
+        ],
+        "missionnameTextID": 1001874,
+        "activeID": 45002
+    },
+    "190044": {
+        "id": 190044,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 27,
+        "jumptype": 2,
+        "description": "进行15次时空裂隙",
+        "UIjumpvalue": 22,
+        "rewardid": 4570,
+        "rewardquantity": [
+            20
+        ],
+        "missionImg": 15008,
+        "missionname": "进行15次时空裂隙",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001875,
+        "endevent": 74,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "74,1"
+        ],
+        "missionnameTextID": 1001875,
+        "activeID": 45002
+    },
+    "190045": {
+        "id": 190045,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 28,
+        "jumptype": 2,
+        "description": "进行30次时空裂隙",
+        "UIjumpvalue": 22,
+        "rewardid": 4571,
+        "rewardquantity": [
+            30
+        ],
+        "missionImg": 15008,
+        "missionname": "进行30次时空裂隙",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001876,
+        "endevent": 75,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "75,1"
+        ],
+        "missionnameTextID": 1001876,
+        "activeID": 45002
+    },
+    "190046": {
+        "id": 190046,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 29,
+        "jumptype": 2,
+        "description": "时空裂隙中获胜3次",
+        "UIjumpvalue": 22,
+        "rewardid": 4572,
+        "rewardquantity": [
+            10
+        ],
+        "missionImg": 15008,
+        "missionname": "时空裂隙中获胜3次",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001877,
+        "endevent": 76,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "76,1"
+        ],
+        "missionnameTextID": 1001877,
+        "activeID": 45002
+    },
+    "190047": {
+        "id": 190047,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 30,
+        "jumptype": 2,
+        "description": "时空裂隙中获胜8次",
+        "UIjumpvalue": 22,
+        "rewardid": 4573,
+        "rewardquantity": [
+            20
+        ],
+        "missionImg": 15008,
+        "missionname": "时空裂隙中获胜8次",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001878,
+        "endevent": 77,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "77,1"
+        ],
+        "missionnameTextID": 1001878,
+        "activeID": 45002
+    },
+    "190048": {
+        "id": 190048,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 31,
+        "jumptype": 2,
+        "description": "时空裂隙中获胜15次",
+        "UIjumpvalue": 22,
+        "rewardid": 4574,
+        "rewardquantity": [
+            30
+        ],
+        "missionImg": 15008,
+        "missionname": "时空裂隙中获胜15次",
+        "rewarditem": [
+            35073
+        ],
+        "descriptionTextID": 1001879,
+        "endevent": 78,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "78,1"
+        ],
+        "missionnameTextID": 1001879,
+        "activeID": 45002
+    },
+    "190001": {
+        "id": 190001,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 1,
+        "jumptype": 2,
+        "description": "进行10次玛那副本",
+        "UIjumpvalue": 17,
+        "rewardid": 4339,
+        "rewardquantity": [
+            10
+        ],
+        "missionImg": 15008,
+        "missionname": "进行10次玛那副本",
+        "rewarditem": [
+            35065
+        ],
+        "descriptionTextID": 1001823,
+        "endevent": 1,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "1,1"
+        ],
+        "missionnameTextID": 1001823,
+        "activeID": 45001
+    },
+    "190002": {
+        "id": 190002,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 2,
+        "jumptype": 2,
+        "description": "进行20次玛那副本",
+        "UIjumpvalue": 17,
+        "rewardid": 4340,
+        "rewardquantity": [
+            20
+        ],
+        "missionImg": 15008,
+        "missionname": "进行20次玛那副本",
+        "rewarditem": [
+            35065
+        ],
+        "descriptionTextID": 1001824,
+        "endevent": 2,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "2,1"
+        ],
+        "missionnameTextID": 1001824,
+        "activeID": 45001
+    },
+    "190003": {
+        "id": 190003,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 3,
+        "jumptype": 2,
+        "description": "进行10次突破副本",
+        "UIjumpvalue": 17,
+        "rewardid": 4341,
+        "rewardquantity": [
+            10
+        ],
+        "missionImg": 15008,
+        "missionname": "进行10次突破副本",
+        "rewarditem": [
+            35065
+        ],
+        "descriptionTextID": 1001825,
+        "endevent": 4,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "4,1"
+        ],
+        "missionnameTextID": 1001825,
+        "activeID": 45001
+    },
+    "190004": {
+        "id": 190004,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 4,
+        "jumptype": 2,
+        "description": "进行20次突破副本",
+        "UIjumpvalue": 17,
+        "rewardid": 4342,
+        "rewardquantity": [
+            20
+        ],
+        "missionImg": 15008,
+        "missionname": "进行20次突破副本",
+        "rewarditem": [
+            35065
+        ],
+        "descriptionTextID": 1001826,
+        "endevent": 5,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "5,1"
+        ],
+        "missionnameTextID": 1001826,
+        "activeID": 45001
+    },
+    "190005": {
+        "id": 190005,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 5,
+        "jumptype": 2,
+        "description": "进行10次装备副本",
+        "UIjumpvalue": 17,
+        "rewardid": 4343,
+        "rewardquantity": [
+            10
+        ],
+        "missionImg": 15008,
+        "missionname": "进行10次装备副本",
+        "rewarditem": [
+            35065
+        ],
+        "descriptionTextID": 1001827,
+        "endevent": 7,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "7,1"
+        ],
+        "missionnameTextID": 1001827,
+        "activeID": 45001
+    },
+    "190006": {
+        "id": 190006,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 6,
+        "jumptype": 2,
+        "description": "进行20次装备副本",
+        "UIjumpvalue": 17,
+        "rewardid": 4344,
+        "rewardquantity": [
+            20
+        ],
+        "missionImg": 15008,
+        "missionname": "进行20次装备副本",
+        "rewarditem": [
+            35065
+        ],
+        "descriptionTextID": 1001828,
+        "endevent": 8,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "8,1"
+        ],
+        "missionnameTextID": 1001828,
+        "activeID": 45001
+    },
+    "190007": {
+        "id": 190007,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 7,
+        "jumptype": 2,
+        "description": "进行10次技能副本",
+        "UIjumpvalue": 17,
+        "rewardid": 4345,
+        "rewardquantity": [
+            10
+        ],
+        "missionImg": 15008,
+        "missionname": "进行10次技能副本",
+        "rewarditem": [
+            35065
+        ],
+        "descriptionTextID": 1001829,
+        "endevent": 10,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "10,1"
+        ],
+        "missionnameTextID": 1001829,
+        "activeID": 45001
+    },
+    "190008": {
+        "id": 190008,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 8,
+        "jumptype": 2,
+        "description": "进行20次技能副本",
+        "UIjumpvalue": 17,
+        "rewardid": 4346,
+        "rewardquantity": [
+            20
+        ],
+        "missionImg": 15008,
+        "missionname": "进行20次技能副本",
+        "rewarditem": [
+            35065
+        ],
+        "descriptionTextID": 1001830,
+        "endevent": 11,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "11,1"
+        ],
+        "missionnameTextID": 1001830,
+        "activeID": 45001
+    },
+    "190009": {
+        "id": 190009,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 9,
+        "jumptype": 2,
+        "description": "探索5次异界之境",
+        "UIjumpvalue": 20,
+        "rewardid": 4347,
+        "rewardquantity": [
+            10
+        ],
+        "missionImg": 15008,
+        "missionname": "探索5次异界之境",
+        "rewarditem": [
+            35065
+        ],
+        "descriptionTextID": 1001831,
+        "endevent": 27,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "27,1"
+        ],
+        "missionnameTextID": 1001831,
+        "activeID": 45001
+    },
+    "190010": {
+        "id": 190010,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 10,
+        "jumptype": 2,
+        "description": "探索15次异界之境",
+        "UIjumpvalue": 20,
+        "rewardid": 4348,
+        "rewardquantity": [
+            25
+        ],
+        "missionImg": 15008,
+        "missionname": "探索15次异界之境",
+        "rewarditem": [
+            35065
+        ],
+        "descriptionTextID": 1001832,
+        "endevent": 28,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "28,1"
+        ],
+        "missionnameTextID": 1001832,
+        "activeID": 45001
+    },
+    "190011": {
+        "id": 190011,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 11,
+        "jumptype": 2,
+        "description": "探索30次异界之境",
+        "UIjumpvalue": 20,
+        "rewardid": 4349,
+        "rewardquantity": [
+            40
+        ],
+        "missionImg": 15008,
+        "missionname": "探索30次异界之境",
+        "rewarditem": [
+            35065
+        ],
+        "descriptionTextID": 1001833,
+        "endevent": 29,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "29,1"
+        ],
+        "missionnameTextID": 1001833,
+        "activeID": 45001
+    },
+    "190012": {
+        "id": 190012,
+        "missiontype": 19,
+        "refreshType": 2,
+        "sortid": 12,
+        "jumptype": 2,
+        "description": "进行5次时空裂隙",
+        "UIjumpvalue": 22,
+        "rewardid": 4350,
+        "rewardquantity": [
+            10
+        ],
+        "missionImg": 15008,
+        "missionname": "进行5次时空裂隙",
+        "rewarditem": [
+            35065
+        ],
+        "descriptionTextID": 1001834,
+        "endevent": 30,
+        "jumpvalue": [
+            0
+        ],
+        "progresspath": [
+            "30,1"
+        ],
+        "missionnameTextID": 1001834,
+        "activeID": 45001
+    }
+}

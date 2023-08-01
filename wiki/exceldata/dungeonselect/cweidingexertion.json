@@ -1,0 +1,9 @@
+[
+    {
+        "dayfreetime": 5,
+        "id": 1,
+        "weekfreetime": 10,
+        "weekPhysical": 10,
+        "dayPhysical": 10
+    }
+]

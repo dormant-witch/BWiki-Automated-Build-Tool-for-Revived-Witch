@@ -1,0 +1,86 @@
+{
+    "180011304": {
+        "collectbonus": [
+            35008,
+            35038
+        ],
+        "id": 180011304,
+        "type": 0,
+        "collectbonusnum": [
+            100,
+            200
+        ],
+        "textID": 1901268,
+        "picid": 13850
+    },
+    "180011305": {
+        "collectbonus": [
+            35008,
+            35039
+        ],
+        "id": 180011305,
+        "type": 0,
+        "collectbonusnum": [
+            100,
+            200
+        ],
+        "textID": 1901270,
+        "picid": 13851
+    },
+    "180011306": {
+        "collectbonus": [
+            35008,
+            35040
+        ],
+        "id": 180011306,
+        "type": 0,
+        "collectbonusnum": [
+            100,
+            200
+        ],
+        "textID": 1901269,
+        "picid": 13852
+    },
+    "180011301": {
+        "collectbonus": [
+            35008,
+            35038
+        ],
+        "id": 180011301,
+        "type": 1,
+        "collectbonusnum": [
+            100,
+            200
+        ],
+        "textID": 1901268,
+        "picid": 13850
+    },
+    "180011302": {
+        "collectbonus": [
+            35008,
+            35039
+        ],
+        "id": 180011302,
+        "type": 1,
+        "collectbonusnum": [
+            100,
+            200
+        ],
+        "textID": 1901270,
+        "picid": 13851
+    },
+    "180011303": {
+        "collectbonus": [
+            35008,
+            35040
+        ],
+        "id": 180011303,
+        "type": 1,
+        "collectbonusnum": [
+            100,
+            200
+        ],
+        "textID": 1901269,
+        "picid": 13852
+    }
+}

@@ -1,0 +1,1262 @@
+{
+    "11008": {
+        "attrNum": 57,
+        "id": 11008,
+        "level": 8,
+        "attrID": 571
+    },
+    "11009": {
+        "attrNum": 71,
+        "id": 11009,
+        "level": 9,
+        "attrID": 571
+    },
+    "11010": {
+        "attrNum": 71,
+        "id": 11010,
+        "level": 10,
+        "attrID": 571
+    },
+    "11011": {
+        "attrNum": 86,
+        "id": 11011,
+        "level": 11,
+        "attrID": 571
+    },
+    "11012": {
+        "attrNum": 86,
+        "id": 11012,
+        "level": 12,
+        "attrID": 571
+    },
+    "11013": {
+        "attrNum": 100,
+        "id": 11013,
+        "level": 13,
+        "attrID": 571
+    },
+    "11014": {
+        "attrNum": 100,
+        "id": 11014,
+        "level": 14,
+        "attrID": 571
+    },
+    "11301": {
+        "attrNum": 257,
+        "id": 11301,
+        "level": 1,
+        "attrID": 21
+    },
+    "11302": {
+        "attrNum": 257,
+        "id": 11302,
+        "level": 2,
+        "attrID": 21
+    },
+    "11303": {
+        "attrNum": 514,
+        "id": 11303,
+        "level": 3,
+        "attrID": 21
+    },
+    "11304": {
+        "attrNum": 514,
+        "id": 11304,
+        "level": 4,
+        "attrID": 21
+    },
+    "11305": {
+        "attrNum": 771,
+        "id": 11305,
+        "level": 5,
+        "attrID": 21
+    },
+    "11306": {
+        "attrNum": 771,
+        "id": 11306,
+        "level": 6,
+        "attrID": 21
+    },
+    "11307": {
+        "attrNum": 1029,
+        "id": 11307,
+        "level": 7,
+        "attrID": 21
+    },
+    "11308": {
+        "attrNum": 1029,
+        "id": 11308,
+        "level": 8,
+        "attrID": 21
+    },
+    "11309": {
+        "attrNum": 1286,
+        "id": 11309,
+        "level": 9,
+        "attrID": 21
+    },
+    "11310": {
+        "attrNum": 1286,
+        "id": 11310,
+        "level": 10,
+        "attrID": 21
+    },
+    "11311": {
+        "attrNum": 1543,
+        "id": 11311,
+        "level": 11,
+        "attrID": 21
+    },
+    "11312": {
+        "attrNum": 1543,
+        "id": 11312,
+        "level": 12,
+        "attrID": 21
+    },
+    "10801": {
+        "attrNum": 14,
+        "id": 10801,
+        "level": 1,
+        "attrID": 531
+    },
+    "10802": {
+        "attrNum": 14,
+        "id": 10802,
+        "level": 2,
+        "attrID": 531
+    },
+    "10803": {
+        "attrNum": 29,
+        "id": 10803,
+        "level": 3,
+        "attrID": 531
+    },
+    "10804": {
+        "attrNum": 29,
+        "id": 10804,
+        "level": 4,
+        "attrID": 531
+    },
+    "10805": {
+        "attrNum": 43,
+        "id": 10805,
+        "level": 5,
+        "attrID": 531
+    },
+    "10806": {
+        "attrNum": 43,
+        "id": 10806,
+        "level": 6,
+        "attrID": 531
+    },
+    "10807": {
+        "attrNum": 57,
+        "id": 10807,
+        "level": 7,
+        "attrID": 531
+    },
+    "10808": {
+        "attrNum": 57,
+        "id": 10808,
+        "level": 8,
+        "attrID": 531
+    },
+    "10809": {
+        "attrNum": 71,
+        "id": 10809,
+        "level": 9,
+        "attrID": 531
+    },
+    "10810": {
+        "attrNum": 71,
+        "id": 10810,
+        "level": 10,
+        "attrID": 531
+    },
+    "10811": {
+        "attrNum": 86,
+        "id": 10811,
+        "level": 11,
+        "attrID": 531
+    },
+    "10812": {
+        "attrNum": 86,
+        "id": 10812,
+        "level": 12,
+        "attrID": 531
+    },
+    "10301": {
+        "attrNum": 43,
+        "id": 10301,
+        "level": 1,
+        "attrID": 31
+    },
+    "10302": {
+        "attrNum": 43,
+        "id": 10302,
+        "level": 2,
+        "attrID": 31
+    },
+    "10303": {
+        "attrNum": 86,
+        "id": 10303,
+        "level": 3,
+        "attrID": 31
+    },
+    "10304": {
+        "attrNum": 86,
+        "id": 10304,
+        "level": 4,
+        "attrID": 31
+    },
+    "10305": {
+        "attrNum": 129,
+        "id": 10305,
+        "level": 5,
+        "attrID": 31
+    },
+    "10306": {
+        "attrNum": 129,
+        "id": 10306,
+        "level": 6,
+        "attrID": 31
+    },
+    "10307": {
+        "attrNum": 171,
+        "id": 10307,
+        "level": 7,
+        "attrID": 31
+    },
+    "10308": {
+        "attrNum": 171,
+        "id": 10308,
+        "level": 8,
+        "attrID": 31
+    },
+    "10309": {
+        "attrNum": 214,
+        "id": 10309,
+        "level": 9,
+        "attrID": 31
+    },
+    "10310": {
+        "attrNum": 214,
+        "id": 10310,
+        "level": 10,
+        "attrID": 31
+    },
+    "10311": {
+        "attrNum": 257,
+        "id": 10311,
+        "level": 11,
+        "attrID": 31
+    },
+    "10312": {
+        "attrNum": 257,
+        "id": 10312,
+        "level": 12,
+        "attrID": 31
+    },
+    "10313": {
+        "attrNum": 300,
+        "id": 10313,
+        "level": 13,
+        "attrID": 31
+    },
+    "10314": {
+        "attrNum": 300,
+        "id": 10314,
+        "level": 14,
+        "attrID": 31
+    },
+    "11601": {
+        "attrNum": 14,
+        "id": 11601,
+        "level": 1,
+        "attrID": 101
+    },
+    "11602": {
+        "attrNum": 14,
+        "id": 11602,
+        "level": 2,
+        "attrID": 101
+    },
+    "11603": {
+        "attrNum": 29,
+        "id": 11603,
+        "level": 3,
+        "attrID": 101
+    },
+    "11604": {
+        "attrNum": 29,
+        "id": 11604,
+        "level": 4,
+        "attrID": 101
+    },
+    "11605": {
+        "attrNum": 43,
+        "id": 11605,
+        "level": 5,
+        "attrID": 101
+    },
+    "11606": {
+        "attrNum": 43,
+        "id": 11606,
+        "level": 6,
+        "attrID": 101
+    },
+    "11607": {
+        "attrNum": 57,
+        "id": 11607,
+        "level": 7,
+        "attrID": 101
+    },
+    "11608": {
+        "attrNum": 57,
+        "id": 11608,
+        "level": 8,
+        "attrID": 101
+    },
+    "11609": {
+        "attrNum": 71,
+        "id": 11609,
+        "level": 9,
+        "attrID": 101
+    },
+    "11610": {
+        "attrNum": 71,
+        "id": 11610,
+        "level": 10,
+        "attrID": 101
+    },
+    "11611": {
+        "attrNum": 86,
+        "id": 11611,
+        "level": 11,
+        "attrID": 101
+    },
+    "11612": {
+        "attrNum": 86,
+        "id": 11612,
+        "level": 12,
+        "attrID": 101
+    },
+    "11101": {
+        "attrNum": 17,
+        "id": 11101,
+        "level": 1,
+        "attrID": 51
+    },
+    "11102": {
+        "attrNum": 17,
+        "id": 11102,
+        "level": 2,
+        "attrID": 51
+    },
+    "11103": {
+        "attrNum": 34,
+        "id": 11103,
+        "level": 3,
+        "attrID": 51
+    },
+    "11104": {
+        "attrNum": 34,
+        "id": 11104,
+        "level": 4,
+        "attrID": 51
+    },
+    "11105": {
+        "attrNum": 51,
+        "id": 11105,
+        "level": 5,
+        "attrID": 51
+    },
+    "11106": {
+        "attrNum": 51,
+        "id": 11106,
+        "level": 6,
+        "attrID": 51
+    },
+    "11107": {
+        "attrNum": 69,
+        "id": 11107,
+        "level": 7,
+        "attrID": 51
+    },
+    "11108": {
+        "attrNum": 69,
+        "id": 11108,
+        "level": 8,
+        "attrID": 51
+    },
+    "11109": {
+        "attrNum": 86,
+        "id": 11109,
+        "level": 9,
+        "attrID": 51
+    },
+    "11110": {
+        "attrNum": 86,
+        "id": 11110,
+        "level": 10,
+        "attrID": 51
+    },
+    "11111": {
+        "attrNum": 103,
+        "id": 11111,
+        "level": 11,
+        "attrID": 51
+    },
+    "11112": {
+        "attrNum": 103,
+        "id": 11112,
+        "level": 12,
+        "attrID": 51
+    },
+    "10601": {
+        "attrNum": 29,
+        "id": 10601,
+        "level": 1,
+        "attrID": 91
+    },
+    "10602": {
+        "attrNum": 29,
+        "id": 10602,
+        "level": 2,
+        "attrID": 91
+    },
+    "10603": {
+        "attrNum": 57,
+        "id": 10603,
+        "level": 3,
+        "attrID": 91
+    },
+    "10604": {
+        "attrNum": 57,
+        "id": 10604,
+        "level": 4,
+        "attrID": 91
+    },
+    "10605": {
+        "attrNum": 86,
+        "id": 10605,
+        "level": 5,
+        "attrID": 91
+    },
+    "10606": {
+        "attrNum": 86,
+        "id": 10606,
+        "level": 6,
+        "attrID": 91
+    },
+    "10607": {
+        "attrNum": 114,
+        "id": 10607,
+        "level": 7,
+        "attrID": 91
+    },
+    "10608": {
+        "attrNum": 114,
+        "id": 10608,
+        "level": 8,
+        "attrID": 91
+    },
+    "10609": {
+        "attrNum": 143,
+        "id": 10609,
+        "level": 9,
+        "attrID": 91
+    },
+    "10610": {
+        "attrNum": 143,
+        "id": 10610,
+        "level": 10,
+        "attrID": 91
+    },
+    "10611": {
+        "attrNum": 171,
+        "id": 10611,
+        "level": 11,
+        "attrID": 91
+    },
+    "10612": {
+        "attrNum": 171,
+        "id": 10612,
+        "level": 12,
+        "attrID": 91
+    },
+    "10101": {
+        "attrNum": 21,
+        "id": 10101,
+        "level": 1,
+        "attrID": 131
+    },
+    "10102": {
+        "attrNum": 21,
+        "id": 10102,
+        "level": 2,
+        "attrID": 131
+    },
+    "10103": {
+        "attrNum": 43,
+        "id": 10103,
+        "level": 3,
+        "attrID": 131
+    },
+    "10104": {
+        "attrNum": 43,
+        "id": 10104,
+        "level": 4,
+        "attrID": 131
+    },
+    "10105": {
+        "attrNum": 64,
+        "id": 10105,
+        "level": 5,
+        "attrID": 131
+    },
+    "10106": {
+        "attrNum": 64,
+        "id": 10106,
+        "level": 6,
+        "attrID": 131
+    },
+    "10107": {
+        "attrNum": 86,
+        "id": 10107,
+        "level": 7,
+        "attrID": 131
+    },
+    "10108": {
+        "attrNum": 86,
+        "id": 10108,
+        "level": 8,
+        "attrID": 131
+    },
+    "10109": {
+        "attrNum": 107,
+        "id": 10109,
+        "level": 9,
+        "attrID": 131
+    },
+    "10110": {
+        "attrNum": 107,
+        "id": 10110,
+        "level": 10,
+        "attrID": 131
+    },
+    "10111": {
+        "attrNum": 129,
+        "id": 10111,
+        "level": 11,
+        "attrID": 131
+    },
+    "10112": {
+        "attrNum": 129,
+        "id": 10112,
+        "level": 12,
+        "attrID": 131
+    },
+    "10113": {
+        "attrNum": 150,
+        "id": 10113,
+        "level": 13,
+        "attrID": 131
+    },
+    "10114": {
+        "attrNum": 150,
+        "id": 10114,
+        "level": 14,
+        "attrID": 131
+    },
+    "11401": {
+        "attrNum": 14,
+        "id": 11401,
+        "level": 1,
+        "attrID": 581
+    },
+    "11402": {
+        "attrNum": 14,
+        "id": 11402,
+        "level": 2,
+        "attrID": 581
+    },
+    "11403": {
+        "attrNum": 29,
+        "id": 11403,
+        "level": 3,
+        "attrID": 581
+    },
+    "11404": {
+        "attrNum": 29,
+        "id": 11404,
+        "level": 4,
+        "attrID": 581
+    },
+    "11405": {
+        "attrNum": 43,
+        "id": 11405,
+        "level": 5,
+        "attrID": 581
+    },
+    "11406": {
+        "attrNum": 43,
+        "id": 11406,
+        "level": 6,
+        "attrID": 581
+    },
+    "11407": {
+        "attrNum": 57,
+        "id": 11407,
+        "level": 7,
+        "attrID": 581
+    },
+    "11408": {
+        "attrNum": 57,
+        "id": 11408,
+        "level": 8,
+        "attrID": 581
+    },
+    "11409": {
+        "attrNum": 71,
+        "id": 11409,
+        "level": 9,
+        "attrID": 581
+    },
+    "11410": {
+        "attrNum": 71,
+        "id": 11410,
+        "level": 10,
+        "attrID": 581
+    },
+    "11411": {
+        "attrNum": 86,
+        "id": 11411,
+        "level": 11,
+        "attrID": 581
+    },
+    "11412": {
+        "attrNum": 86,
+        "id": 11412,
+        "level": 12,
+        "attrID": 581
+    },
+    "10901": {
+        "attrNum": 17,
+        "id": 10901,
+        "level": 1,
+        "attrID": 61
+    },
+    "10902": {
+        "attrNum": 17,
+        "id": 10902,
+        "level": 2,
+        "attrID": 61
+    },
+    "10903": {
+        "attrNum": 34,
+        "id": 10903,
+        "level": 3,
+        "attrID": 61
+    },
+    "10904": {
+        "attrNum": 34,
+        "id": 10904,
+        "level": 4,
+        "attrID": 61
+    },
+    "10905": {
+        "attrNum": 51,
+        "id": 10905,
+        "level": 5,
+        "attrID": 61
+    },
+    "10906": {
+        "attrNum": 51,
+        "id": 10906,
+        "level": 6,
+        "attrID": 61
+    },
+    "10907": {
+        "attrNum": 69,
+        "id": 10907,
+        "level": 7,
+        "attrID": 61
+    },
+    "10908": {
+        "attrNum": 69,
+        "id": 10908,
+        "level": 8,
+        "attrID": 61
+    },
+    "10909": {
+        "attrNum": 86,
+        "id": 10909,
+        "level": 9,
+        "attrID": 61
+    },
+    "10910": {
+        "attrNum": 86,
+        "id": 10910,
+        "level": 10,
+        "attrID": 61
+    },
+    "10911": {
+        "attrNum": 103,
+        "id": 10911,
+        "level": 11,
+        "attrID": 61
+    },
+    "10912": {
+        "attrNum": 103,
+        "id": 10912,
+        "level": 12,
+        "attrID": 61
+    },
+    "10401": {
+        "attrNum": 14,
+        "id": 10401,
+        "level": 1,
+        "attrID": 551
+    },
+    "10402": {
+        "attrNum": 14,
+        "id": 10402,
+        "level": 2,
+        "attrID": 551
+    },
+    "10403": {
+        "attrNum": 29,
+        "id": 10403,
+        "level": 3,
+        "attrID": 551
+    },
+    "10404": {
+        "attrNum": 29,
+        "id": 10404,
+        "level": 4,
+        "attrID": 551
+    },
+    "10405": {
+        "attrNum": 43,
+        "id": 10405,
+        "level": 5,
+        "attrID": 551
+    },
+    "10406": {
+        "attrNum": 43,
+        "id": 10406,
+        "level": 6,
+        "attrID": 551
+    },
+    "10407": {
+        "attrNum": 57,
+        "id": 10407,
+        "level": 7,
+        "attrID": 551
+    },
+    "10408": {
+        "attrNum": 57,
+        "id": 10408,
+        "level": 8,
+        "attrID": 551
+    },
+    "10409": {
+        "attrNum": 71,
+        "id": 10409,
+        "level": 9,
+        "attrID": 551
+    },
+    "10410": {
+        "attrNum": 71,
+        "id": 10410,
+        "level": 10,
+        "attrID": 551
+    },
+    "10411": {
+        "attrNum": 86,
+        "id": 10411,
+        "level": 11,
+        "attrID": 551
+    },
+    "10412": {
+        "attrNum": 86,
+        "id": 10412,
+        "level": 12,
+        "attrID": 551
+    },
+    "10413": {
+        "attrNum": 100,
+        "id": 10413,
+        "level": 13,
+        "attrID": 551
+    },
+    "10414": {
+        "attrNum": 100,
+        "id": 10414,
+        "level": 14,
+        "attrID": 551
+    },
+    "11614": {
+        "attrNum": 100,
+        "id": 11614,
+        "level": 14,
+        "attrID": 101
+    },
+    "11613": {
+        "attrNum": 100,
+        "id": 11613,
+        "level": 13,
+        "attrID": 101
+    },
+    "11514": {
+        "attrNum": 100,
+        "id": 11514,
+        "level": 14,
+        "attrID": 121
+    },
+    "11513": {
+        "attrNum": 100,
+        "id": 11513,
+        "level": 13,
+        "attrID": 121
+    },
+    "10914": {
+        "attrNum": 120,
+        "id": 10914,
+        "level": 14,
+        "attrID": 61
+    },
+    "10913": {
+        "attrNum": 120,
+        "id": 10913,
+        "level": 13,
+        "attrID": 61
+    },
+    "10814": {
+        "attrNum": 100,
+        "id": 10814,
+        "level": 14,
+        "attrID": 531
+    },
+    "10813": {
+        "attrNum": 100,
+        "id": 10813,
+        "level": 13,
+        "attrID": 531
+    },
+    "10714": {
+        "attrNum": 200,
+        "id": 10714,
+        "level": 14,
+        "attrID": 111
+    },
+    "10713": {
+        "attrNum": 200,
+        "id": 10713,
+        "level": 13,
+        "attrID": 111
+    },
+    "10614": {
+        "attrNum": 200,
+        "id": 10614,
+        "level": 14,
+        "attrID": 91
+    },
+    "10613": {
+        "attrNum": 200,
+        "id": 10613,
+        "level": 13,
+        "attrID": 91
+    },
+    "11113": {
+        "attrNum": 120,
+        "id": 11113,
+        "level": 13,
+        "attrID": 51
+    },
+    "11114": {
+        "attrNum": 120,
+        "id": 11114,
+        "level": 14,
+        "attrID": 51
+    },
+    "11201": {
+        "attrNum": 14,
+        "id": 11201,
+        "level": 1,
+        "attrID": 561
+    },
+    "11202": {
+        "attrNum": 14,
+        "id": 11202,
+        "level": 2,
+        "attrID": 561
+    },
+    "11203": {
+        "attrNum": 29,
+        "id": 11203,
+        "level": 3,
+        "attrID": 561
+    },
+    "11204": {
+        "attrNum": 29,
+        "id": 11204,
+        "level": 4,
+        "attrID": 561
+    },
+    "11205": {
+        "attrNum": 43,
+        "id": 11205,
+        "level": 5,
+        "attrID": 561
+    },
+    "11206": {
+        "attrNum": 43,
+        "id": 11206,
+        "level": 6,
+        "attrID": 561
+    },
+    "11207": {
+        "attrNum": 57,
+        "id": 11207,
+        "level": 7,
+        "attrID": 561
+    },
+    "11208": {
+        "attrNum": 57,
+        "id": 11208,
+        "level": 8,
+        "attrID": 561
+    },
+    "11209": {
+        "attrNum": 71,
+        "id": 11209,
+        "level": 9,
+        "attrID": 561
+    },
+    "11210": {
+        "attrNum": 71,
+        "id": 11210,
+        "level": 10,
+        "attrID": 561
+    },
+    "11211": {
+        "attrNum": 86,
+        "id": 11211,
+        "level": 11,
+        "attrID": 561
+    },
+    "11212": {
+        "attrNum": 86,
+        "id": 11212,
+        "level": 12,
+        "attrID": 561
+    },
+    "10701": {
+        "attrNum": 29,
+        "id": 10701,
+        "level": 1,
+        "attrID": 111
+    },
+    "10702": {
+        "attrNum": 29,
+        "id": 10702,
+        "level": 2,
+        "attrID": 111
+    },
+    "10703": {
+        "attrNum": 57,
+        "id": 10703,
+        "level": 3,
+        "attrID": 111
+    },
+    "10704": {
+        "attrNum": 57,
+        "id": 10704,
+        "level": 4,
+        "attrID": 111
+    },
+    "10705": {
+        "attrNum": 86,
+        "id": 10705,
+        "level": 5,
+        "attrID": 111
+    },
+    "10706": {
+        "attrNum": 86,
+        "id": 10706,
+        "level": 6,
+        "attrID": 111
+    },
+    "10707": {
+        "attrNum": 114,
+        "id": 10707,
+        "level": 7,
+        "attrID": 111
+    },
+    "10708": {
+        "attrNum": 114,
+        "id": 10708,
+        "level": 8,
+        "attrID": 111
+    },
+    "10709": {
+        "attrNum": 143,
+        "id": 10709,
+        "level": 9,
+        "attrID": 111
+    },
+    "10710": {
+        "attrNum": 143,
+        "id": 10710,
+        "level": 10,
+        "attrID": 111
+    },
+    "10711": {
+        "attrNum": 171,
+        "id": 10711,
+        "level": 11,
+        "attrID": 111
+    },
+    "10712": {
+        "attrNum": 171,
+        "id": 10712,
+        "level": 12,
+        "attrID": 111
+    },
+    "10201": {
+        "attrNum": 43,
+        "id": 10201,
+        "level": 1,
+        "attrID": 141
+    },
+    "10202": {
+        "attrNum": 43,
+        "id": 10202,
+        "level": 2,
+        "attrID": 141
+    },
+    "10203": {
+        "attrNum": 86,
+        "id": 10203,
+        "level": 3,
+        "attrID": 141
+    },
+    "10204": {
+        "attrNum": 86,
+        "id": 10204,
+        "level": 4,
+        "attrID": 141
+    },
+    "10205": {
+        "attrNum": 129,
+        "id": 10205,
+        "level": 5,
+        "attrID": 141
+    },
+    "10206": {
+        "attrNum": 129,
+        "id": 10206,
+        "level": 6,
+        "attrID": 141
+    },
+    "10207": {
+        "attrNum": 171,
+        "id": 10207,
+        "level": 7,
+        "attrID": 141
+    },
+    "10208": {
+        "attrNum": 171,
+        "id": 10208,
+        "level": 8,
+        "attrID": 141
+    },
+    "10209": {
+        "attrNum": 214,
+        "id": 10209,
+        "level": 9,
+        "attrID": 141
+    },
+    "10210": {
+        "attrNum": 214,
+        "id": 10210,
+        "level": 10,
+        "attrID": 141
+    },
+    "10211": {
+        "attrNum": 257,
+        "id": 10211,
+        "level": 11,
+        "attrID": 141
+    },
+    "10212": {
+        "attrNum": 257,
+        "id": 10212,
+        "level": 12,
+        "attrID": 141
+    },
+    "10213": {
+        "attrNum": 300,
+        "id": 10213,
+        "level": 13,
+        "attrID": 141
+    },
+    "10214": {
+        "attrNum": 300,
+        "id": 10214,
+        "level": 14,
+        "attrID": 141
+    },
+    "11213": {
+        "attrNum": 100,
+        "id": 11213,
+        "level": 13,
+        "attrID": 561
+    },
+    "11214": {
+        "attrNum": 100,
+        "id": 11214,
+        "level": 14,
+        "attrID": 561
+    },
+    "11414": {
+        "attrNum": 100,
+        "id": 11414,
+        "level": 14,
+        "attrID": 581
+    },
+    "11413": {
+        "attrNum": 100,
+        "id": 11413,
+        "level": 13,
+        "attrID": 581
+    },
+    "11314": {
+        "attrNum": 1800,
+        "id": 11314,
+        "level": 14,
+        "attrID": 21
+    },
+    "11313": {
+        "attrNum": 1800,
+        "id": 11313,
+        "level": 13,
+        "attrID": 21
+    },
+    "11501": {
+        "attrNum": 14,
+        "id": 11501,
+        "level": 1,
+        "attrID": 121
+    },
+    "11502": {
+        "attrNum": 14,
+        "id": 11502,
+        "level": 2,
+        "attrID": 121
+    },
+    "11503": {
+        "attrNum": 29,
+        "id": 11503,
+        "level": 3,
+        "attrID": 121
+    },
+    "11504": {
+        "attrNum": 29,
+        "id": 11504,
+        "level": 4,
+        "attrID": 121
+    },
+    "11505": {
+        "attrNum": 43,
+        "id": 11505,
+        "level": 5,
+        "attrID": 121
+    },
+    "11506": {
+        "attrNum": 43,
+        "id": 11506,
+        "level": 6,
+        "attrID": 121
+    },
+    "11507": {
+        "attrNum": 57,
+        "id": 11507,
+        "level": 7,
+        "attrID": 121
+    },
+    "11508": {
+        "attrNum": 57,
+        "id": 11508,
+        "level": 8,
+        "attrID": 121
+    },
+    "11509": {
+        "attrNum": 71,
+        "id": 11509,
+        "level": 9,
+        "attrID": 121
+    },
+    "11510": {
+        "attrNum": 71,
+        "id": 11510,
+        "level": 10,
+        "attrID": 121
+    },
+    "11511": {
+        "attrNum": 86,
+        "id": 11511,
+        "level": 11,
+        "attrID": 121
+    },
+    "11512": {
+        "attrNum": 86,
+        "id": 11512,
+        "level": 12,
+        "attrID": 121
+    },
+    "11001": {
+        "attrNum": 14,
+        "id": 11001,
+        "level": 1,
+        "attrID": 571
+    },
+    "11002": {
+        "attrNum": 14,
+        "id": 11002,
+        "level": 2,
+        "attrID": 571
+    },
+    "11003": {
+        "attrNum": 29,
+        "id": 11003,
+        "level": 3,
+        "attrID": 571
+    },
+    "11004": {
+        "attrNum": 29,
+        "id": 11004,
+        "level": 4,
+        "attrID": 571
+    },
+    "11005": {
+        "attrNum": 43,
+        "id": 11005,
+        "level": 5,
+        "attrID": 571
+    },
+    "11006": {
+        "attrNum": 43,
+        "id": 11006,
+        "level": 6,
+        "attrID": 571
+    },
+    "11007": {
+        "attrNum": 57,
+        "id": 11007,
+        "level": 7,
+        "attrID": 571
+    }
+}

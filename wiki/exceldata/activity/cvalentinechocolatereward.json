@@ -1,0 +1,32 @@
+[
+    {
+        "rewardNum": 200,
+        "id": 1,
+        "roleNum": 1,
+        "reward": 35026
+    },
+    {
+        "rewardNum": 30,
+        "id": 2,
+        "roleNum": 5,
+        "reward": 79001
+    },
+    {
+        "rewardNum": 20,
+        "id": 3,
+        "roleNum": 10,
+        "reward": 79002
+    },
+    {
+        "rewardNum": 3,
+        "id": 4,
+        "roleNum": 15,
+        "reward": 79004
+    },
+    {
+        "rewardNum": 2,
+        "id": 5,
+        "roleNum": 20,
+        "reward": 30076
+    }
+]

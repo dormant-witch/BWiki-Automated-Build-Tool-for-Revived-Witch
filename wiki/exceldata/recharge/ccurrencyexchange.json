@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "Currencynum": 100,
+        "Currency2": 35018,
+        "Currency1": 35001,
+        "Nums": 1,
+        "TitleID": 1100073
+    },
+    {
+        "id": 2,
+        "Currencynum": 10,
+        "Currency2": 35019,
+        "Currency1": 35001,
+        "Nums": 1,
+        "TitleID": 1100074
+    },
+    {
+        "id": 3,
+        "Currencynum": 1,
+        "Currency2": 30077,
+        "Currency1": 30076,
+        "Nums": 10,
+        "TitleID": 1100075
+    }
+]

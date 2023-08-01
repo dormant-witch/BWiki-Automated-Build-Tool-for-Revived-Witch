@@ -1,0 +1,37 @@
+{
+    "1":{
+        "id":1,
+        "nameid":502897,
+        "sort":1,
+        "type":1,
+        "typename":502901
+    },
+    "2":{
+        "id":2,
+        "nameid":502898,
+        "sort":2,
+        "type":1,
+        "typename":502901
+    },
+    "3":{
+        "id":3,
+        "nameid":502899,
+        "sort":3,
+        "type":2,
+        "typename":502902
+    },
+    "4":{
+        "id":4,
+        "nameid":502900,
+        "sort":4,
+        "type":2,
+        "typename":502902
+    },
+    "5":{
+        "id":5,
+        "nameid":503060,
+        "sort":5,
+        "type":1,
+        "typename":502901
+    }
+}

@@ -1,0 +1,134 @@
+[
+    {
+        "attrname": "buff1num",
+        "id": 1,
+        "ablEffctName": "buff1num_value",
+        "desc": "BUFF层数（沙漠女王用）"
+    },
+    {
+        "attrname": "buff2num",
+        "id": 2,
+        "ablEffctName": "buff2num_value",
+        "desc": "BUFF2层数(苍穹疾风用）"
+    },
+    {
+        "attrname": "buff3num",
+        "id": 3,
+        "ablEffctName": "buff3num_value",
+        "desc": "BUFF3层数(星光采集者用）"
+    },
+    {
+        "attrname": "buff4num",
+        "id": 4,
+        "ablEffctName": "buff4num_value",
+        "desc": "减防层数"
+    },
+    {
+        "attrname": "buff5num",
+        "id": 5,
+        "ablEffctName": "buff5num_value",
+        "desc": "暴击程度层数"
+    },
+    {
+        "attrname": "buff6num",
+        "id": 6,
+        "ablEffctName": "buff6num_value",
+        "desc": "暴击率层数"
+    },
+    {
+        "attrname": "buff7num",
+        "id": 7,
+        "ablEffctName": "buff7num_value",
+        "desc": "BUFF层数-冥途引渡人使用"
+    },
+    {
+        "attrname": "buff8num",
+        "id": 8,
+        "ablEffctName": "buff8num_value",
+        "desc": "BUFF层数-灵魂操纵者使用"
+    },
+    {
+        "attrname": "buff9num",
+        "id": 9,
+        "ablEffctName": "buff9num_value",
+        "desc": "BUFF层数-圣迹使用"
+    },
+    {
+        "attrname": "buff10num",
+        "id": 10,
+        "ablEffctName": "buff10num_value",
+        "desc": "BUFF层数-海之庇佑使用"
+    },
+    {
+        "attrname": "buff11num",
+        "id": 11,
+        "ablEffctName": "buff11num_value",
+        "desc": "BUFF层数-idol芙洛莱计数用"
+    },
+    {
+        "attrname": "buff12num",
+        "id": 12,
+        "ablEffctName": "buff12num_value",
+        "desc": "buff层数-瑟希薇暴风雪增伤用"
+    },
+    {
+        "attrname": "buff13num",
+        "id": 13,
+        "ablEffctName": "buff13num_value",
+        "desc": "buff层数-命运之爪"
+    },
+    {
+        "attrname": "buff14num",
+        "id": 14,
+        "ablEffctName": "buff14num_value",
+        "desc": "圣裁者-专武加成效果"
+    },
+    {
+        "attrname": "buff15num",
+        "id": 15,
+        "ablEffctName": "buff15num_value",
+        "desc": "BUFF层数-年幼阿卡莎1技能"
+    },
+    {
+        "attrname": "buff16num",
+        "id": 16,
+        "ablEffctName": "buff16num_value",
+        "desc": "BUFF层数-年幼阿卡莎被动技能"
+    },
+    {
+        "attrname": "buff17num",
+        "id": 17,
+        "ablEffctName": "buff17num_value",
+        "desc": "BUFF层数-流逝之殇专属装备用"
+    },
+    {
+        "attrname": "buff18num",
+        "id": 18,
+        "ablEffctName": "buff18num_value",
+        "desc": "BUFF层数-卡蜜莉安"
+    },
+    {
+        "attrname": "buff19num",
+        "id": 19,
+        "ablEffctName": "buff19num_value",
+        "desc": "BUFF层数-海中匿影"
+    },
+    {
+        "attrname": "buff20num",
+        "id": 20,
+        "ablEffctName": "buff20num_value",
+        "desc": "BUFF层数-水光渔韵"
+    },
+    {
+        "attrname": "buff21num",
+        "id": 21,
+        "ablEffctName": "buff21num_value",
+        "desc": "BUFF层数-千年之誓"
+    },
+    {
+        "attrname": "buff22num",
+        "id": 22,
+        "ablEffctName": "buff22num_value",
+        "desc": "BUFF层数-神祇祷言"
+    }
+]

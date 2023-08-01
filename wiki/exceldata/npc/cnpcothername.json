@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "otherNameTextID": 900001,
+        "otherName": "青蛙骑士"
+    },
+    {
+        "id": 2,
+        "otherNameTextID": 900002,
+        "otherName": "称谓测试2"
+    },
+    {
+        "id": 3,
+        "otherNameTextID": 900003,
+        "otherName": "称谓测试3"
+    },
+    {
+        "id": 4,
+        "otherNameTextID": 900004,
+        "otherName": "称谓测试4"
+    },
+    {
+        "id": 5,
+        "otherNameTextID": 900005,
+        "otherName": "称谓测试5"
+    }
+]

@@ -1,0 +1,1598 @@
+{
+    "1024": {
+        "nextDialog": 0,
+        "id": 1024,
+        "roleid": 32,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "305"
+    },
+    "1": {
+        "nextDialog": 0,
+        "id": 1,
+        "roleid": -1,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": 206278,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 206315,
+        "dialogList": "2-29"
+    },
+    "2": {
+        "nextDialog": 0,
+        "id": 2,
+        "roleid": -1,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": 206279,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 206316,
+        "dialogList": "30-37,1,38-39"
+    },
+    "3": {
+        "nextDialog": 0,
+        "id": 3,
+        "roleid": -1,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": 206280,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 206317,
+        "dialogList": "40-51,1,52-67"
+    },
+    "4": {
+        "nextDialog": 0,
+        "id": 4,
+        "roleid": -1,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": 206281,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 206318,
+        "dialogList": "69-80,1,81-91"
+    },
+    "5": {
+        "nextDialog": 0,
+        "id": 5,
+        "roleid": -1,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": 206282,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 206319,
+        "dialogList": "98-100,1,101-113"
+    },
+    "6": {
+        "nextDialog": 0,
+        "id": 6,
+        "roleid": -1,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": 206283,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 206320,
+        "dialogList": "114-115,1,116-121,1,122-147"
+    },
+    "7": {
+        "nextDialog": 0,
+        "id": 7,
+        "roleid": -1,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": 206284,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 206321,
+        "dialogList": "148-170"
+    },
+    "8": {
+        "nextDialog": 0,
+        "id": 8,
+        "roleid": -1,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": 206285,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 206322,
+        "dialogList": "171-186"
+    },
+    "9": {
+        "nextDialog": 0,
+        "id": 9,
+        "roleid": -1,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": 206286,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 206323,
+        "dialogList": "187-195,1,196-207"
+    },
+    "10": {
+        "nextDialog": 0,
+        "id": 10,
+        "roleid": -1,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": 206287,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 206324,
+        "dialogList": "211-233"
+    },
+    "11": {
+        "nextDialog": 0,
+        "id": 11,
+        "roleid": -1,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": 206288,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": 206325,
+        "dialogList": "234-239,1,240-255,1,256-263,1,264-281"
+    },
+    "12": {
+        "nextDialog": 16,
+        "id": 12,
+        "roleid": -1,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "92"
+    },
+    "13": {
+        "nextDialog": 16,
+        "id": 13,
+        "roleid": -1,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "93"
+    },
+    "14": {
+        "nextDialog": 17,
+        "id": 14,
+        "roleid": -1,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "208"
+    },
+    "15": {
+        "nextDialog": 17,
+        "id": 15,
+        "roleid": -1,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "209"
+    },
+    "16": {
+        "nextDialog": 0,
+        "id": 16,
+        "roleid": -1,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "94-97"
+    },
+    "17": {
+        "nextDialog": 0,
+        "id": 17,
+        "roleid": -1,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "210"
+    },
+    "1042": {
+        "nextDialog": 0,
+        "id": 1042,
+        "roleid": 57,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "323"
+    },
+    "1043": {
+        "nextDialog": 0,
+        "id": 1043,
+        "roleid": 59,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "324"
+    },
+    "1044": {
+        "nextDialog": 0,
+        "id": 1044,
+        "roleid": 81,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "325"
+    },
+    "1045": {
+        "nextDialog": 0,
+        "id": 1045,
+        "roleid": 61,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "326"
+    },
+    "1046": {
+        "nextDialog": 0,
+        "id": 1046,
+        "roleid": 80,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "327"
+    },
+    "1047": {
+        "nextDialog": 0,
+        "id": 1047,
+        "roleid": 63,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "328"
+    },
+    "1048": {
+        "nextDialog": 0,
+        "id": 1048,
+        "roleid": 65,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "329"
+    },
+    "1049": {
+        "nextDialog": 0,
+        "id": 1049,
+        "roleid": 69,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "330"
+    },
+    "1050": {
+        "nextDialog": 0,
+        "id": 1050,
+        "roleid": 70,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "331"
+    },
+    "1051": {
+        "nextDialog": 0,
+        "id": 1051,
+        "roleid": 71,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "332"
+    },
+    "1052": {
+        "nextDialog": 0,
+        "id": 1052,
+        "roleid": 72,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "333"
+    },
+    "1053": {
+        "nextDialog": 0,
+        "id": 1053,
+        "roleid": 73,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "334"
+    },
+    "1054": {
+        "nextDialog": 0,
+        "id": 1054,
+        "roleid": 74,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "335"
+    },
+    "1055": {
+        "nextDialog": 0,
+        "id": 1055,
+        "roleid": 75,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "336"
+    },
+    "1056": {
+        "nextDialog": 0,
+        "id": 1056,
+        "roleid": 76,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "337"
+    },
+    "1057": {
+        "nextDialog": 0,
+        "id": 1057,
+        "roleid": 78,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "338"
+    },
+    "1058": {
+        "nextDialog": 0,
+        "id": 1058,
+        "roleid": 79,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "339"
+    },
+    "1059": {
+        "nextDialog": 0,
+        "id": 1059,
+        "roleid": 83,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "340"
+    },
+    "1060": {
+        "nextDialog": 0,
+        "id": 1060,
+        "roleid": 89,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "341"
+    },
+    "1061": {
+        "nextDialog": 0,
+        "id": 1061,
+        "roleid": 90,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "342"
+    },
+    "1062": {
+        "nextDialog": 0,
+        "id": 1062,
+        "roleid": 95,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "343"
+    },
+    "1063": {
+        "nextDialog": 0,
+        "id": 1063,
+        "roleid": 106,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "344"
+    },
+    "1064": {
+        "nextDialog": 0,
+        "id": 1064,
+        "roleid": 108,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "345"
+    },
+    "1065": {
+        "nextDialog": 0,
+        "id": 1065,
+        "roleid": 100,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "346"
+    },
+    "1066": {
+        "nextDialog": 0,
+        "id": 1066,
+        "roleid": 110,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "347"
+    },
+    "1067": {
+        "nextDialog": 0,
+        "id": 1067,
+        "roleid": 68,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "348"
+    },
+    "1041": {
+        "nextDialog": 0,
+        "id": 1041,
+        "roleid": 56,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "322"
+    },
+    "1040": {
+        "nextDialog": 0,
+        "id": 1040,
+        "roleid": 55,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "321"
+    },
+    "1039": {
+        "nextDialog": 0,
+        "id": 1039,
+        "roleid": 53,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "320"
+    },
+    "1038": {
+        "nextDialog": 0,
+        "id": 1038,
+        "roleid": 52,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "319"
+    },
+    "1037": {
+        "nextDialog": 0,
+        "id": 1037,
+        "roleid": 51,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "318"
+    },
+    "1036": {
+        "nextDialog": 0,
+        "id": 1036,
+        "roleid": 49,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "317"
+    },
+    "1035": {
+        "nextDialog": 0,
+        "id": 1035,
+        "roleid": 48,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "316"
+    },
+    "1034": {
+        "nextDialog": 0,
+        "id": 1034,
+        "roleid": 47,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "315"
+    },
+    "1033": {
+        "nextDialog": 0,
+        "id": 1033,
+        "roleid": 45,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "314"
+    },
+    "1032": {
+        "nextDialog": 0,
+        "id": 1032,
+        "roleid": 43,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "313"
+    },
+    "1031": {
+        "nextDialog": 0,
+        "id": 1031,
+        "roleid": 42,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "312"
+    },
+    "1030": {
+        "nextDialog": 0,
+        "id": 1030,
+        "roleid": 41,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "311"
+    },
+    "1029": {
+        "nextDialog": 0,
+        "id": 1029,
+        "roleid": 38,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "310"
+    },
+    "1028": {
+        "nextDialog": 0,
+        "id": 1028,
+        "roleid": 36,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "309"
+    },
+    "1027": {
+        "nextDialog": 0,
+        "id": 1027,
+        "roleid": 35,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "308"
+    },
+    "1026": {
+        "nextDialog": 0,
+        "id": 1026,
+        "roleid": 34,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "307"
+    },
+    "1025": {
+        "nextDialog": 0,
+        "id": 1025,
+        "roleid": 33,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "306"
+    },
+    "1001": {
+        "nextDialog": 0,
+        "id": 1001,
+        "roleid": 2,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "282"
+    },
+    "1002": {
+        "nextDialog": 0,
+        "id": 1002,
+        "roleid": 3,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "283"
+    },
+    "1003": {
+        "nextDialog": 0,
+        "id": 1003,
+        "roleid": 4,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "284"
+    },
+    "1004": {
+        "nextDialog": 0,
+        "id": 1004,
+        "roleid": 8,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "285"
+    },
+    "1005": {
+        "nextDialog": 0,
+        "id": 1005,
+        "roleid": 9,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "286"
+    },
+    "1006": {
+        "nextDialog": 0,
+        "id": 1006,
+        "roleid": 10,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "287"
+    },
+    "1007": {
+        "nextDialog": 0,
+        "id": 1007,
+        "roleid": 11,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "288"
+    },
+    "1008": {
+        "nextDialog": 0,
+        "id": 1008,
+        "roleid": 12,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "289"
+    },
+    "1009": {
+        "nextDialog": 0,
+        "id": 1009,
+        "roleid": 13,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "290"
+    },
+    "1010": {
+        "nextDialog": 0,
+        "id": 1010,
+        "roleid": 14,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "291"
+    },
+    "1011": {
+        "nextDialog": 0,
+        "id": 1011,
+        "roleid": 15,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "292"
+    },
+    "1012": {
+        "nextDialog": 0,
+        "id": 1012,
+        "roleid": 16,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "293"
+    },
+    "1013": {
+        "nextDialog": 0,
+        "id": 1013,
+        "roleid": 17,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "294"
+    },
+    "1014": {
+        "nextDialog": 0,
+        "id": 1014,
+        "roleid": 18,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "295"
+    },
+    "1015": {
+        "nextDialog": 0,
+        "id": 1015,
+        "roleid": 19,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "296"
+    },
+    "1016": {
+        "nextDialog": 0,
+        "id": 1016,
+        "roleid": 22,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "297"
+    },
+    "1017": {
+        "nextDialog": 0,
+        "id": 1017,
+        "roleid": 23,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "298"
+    },
+    "1018": {
+        "nextDialog": 0,
+        "id": 1018,
+        "roleid": 24,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "299"
+    },
+    "1019": {
+        "nextDialog": 0,
+        "id": 1019,
+        "roleid": 25,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "300"
+    },
+    "1020": {
+        "nextDialog": 0,
+        "id": 1020,
+        "roleid": 27,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "301"
+    },
+    "1021": {
+        "nextDialog": 0,
+        "id": 1021,
+        "roleid": 28,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "302"
+    },
+    "1022": {
+        "nextDialog": 0,
+        "id": 1022,
+        "roleid": 29,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "303"
+    },
+    "1023": {
+        "nextDialog": 0,
+        "id": 1023,
+        "roleid": 30,
+        "skipTime": -1,
+        "bgImage": 13930,
+        "destribeTextID": -1,
+        "canSkip": 1,
+        "itemID": [
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0
+        ],
+        "nameTextID": -1,
+        "dialogList": "304"
+    }
+}

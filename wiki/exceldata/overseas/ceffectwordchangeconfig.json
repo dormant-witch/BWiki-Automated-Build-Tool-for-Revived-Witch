@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "kr": "Sence_TX_zhuchengwenzi_gongfang_kr",
+        "jp": "Sence_TX_zhuchengwenzi_gongfang_jp",
+        "en": "Sence_TX_zhuchengwenzi_gongfang_en",
+        "cn": "Sence_TX_zhuchengwenzi_gongfang",
+        "assetBundle": "effects\/particles.prefabs.assetbundle"
+    },
+    {
+        "id": 2,
+        "kr": "Sence_TX_zhuchengwenzi_gonghui_kr",
+        "jp": "Sence_TX_zhuchengwenzi_gonghui_jp",
+        "en": "Sence_TX_zhuchengwenzi_gonghui_en",
+        "cn": "Sence_TX_zhuchengwenzi_gonghui",
+        "assetBundle": "effects\/particles.prefabs.assetbundle"
+    },
+    {
+        "id": 3,
+        "kr": "Sence_TX_zhuchengwenzi_maoxian_kr",
+        "jp": "Sence_TX_zhuchengwenzi_maoxian_jp",
+        "en": "Sence_TX_zhuchengwenzi_maoxian_en",
+        "cn": "Sence_TX_zhuchengwenzi_maoxian",
+        "assetBundle": "effects\/particles.prefabs.assetbundle"
+    },
+    {
+        "id": 4,
+        "kr": "Sence_TX_zhuchengwenzi_weituoban_kr",
+        "jp": "Sence_TX_zhuchengwenzi_weituoban_jp",
+        "en": "Sence_TX_zhuchengwenzi_weituoban_en",
+        "cn": "Sence_TX_zhuchengwenzi_weituoban",
+        "assetBundle": "effects\/particles.prefabs.assetbundle"
+    },
+    {
+        "id": 5,
+        "kr": "Sence_TX_zhuchengwenzi_zhaohuan_kr",
+        "jp": "Sence_TX_zhuchengwenzi_zhaohuan_jp",
+        "en": "Sence_TX_zhuchengwenzi_zhaohuan_en",
+        "cn": "Sence_TX_zhuchengwenzi_zhaohuan",
+        "assetBundle": "effects\/particles.prefabs.assetbundle"
+    },
+    {
+        "id": 6,
+        "kr": "UI_TX_Yardwenzi_lianjinsuo_kr",
+        "jp": "UI_TX_Yardwenzi_lianjinsuo_jp",
+        "en": "UI_TX_Yardwenzi_lianjinsuo_en",
+        "cn": "UI_TX_Yardwenzi_lianjinsuo",
+        "assetBundle": "effects\/particles.prefabs.assetbundle"
+    },
+    {
+        "id": 7,
+        "kr": "UI_TX_Yardwenzi_mofashu_kr",
+        "jp": "UI_TX_Yardwenzi_mofashu_jp",
+        "en": "UI_TX_Yardwenzi_mofashu_en",
+        "cn": "UI_TX_Yardwenzi_mofashu",
+        "assetBundle": "effects\/particles.prefabs.assetbundle"
+    },
+    {
+        "id": 8,
+        "kr": "UI_TX_Yardwenzi_monvxiaowu_kr",
+        "jp": "UI_TX_Yardwenzi_monvxiaowu_jp",
+        "en": "UI_TX_Yardwenzi_monvxiaowu_en",
+        "cn": "UI_TX_Yardwenzi_monvxiaowu",
+        "assetBundle": "effects\/particles.prefabs.assetbundle"
+    },
+    {
+        "id": 9,
+        "kr": "UI_TX_Yardwenzi_yijiezhijing_kr",
+        "jp": "UI_TX_Yardwenzi_yijiezhijing_jp",
+        "en": "UI_TX_Yardwenzi_yijiezhijing_en",
+        "cn": "UI_TX_Yardwenzi_yijiezhijing",
+        "assetBundle": "effects\/particles.prefabs.assetbundle"
+    },
+    {
+        "id": 10,
+        "kr": "UI_TX_Yardwenzi_yingguangwu_kr",
+        "jp": "UI_TX_Yardwenzi_yingguangwu_jp",
+        "en": "UI_TX_Yardwenzi_yingguangwu_en",
+        "cn": "UI_TX_Yardwenzi_yingguangwu",
+        "assetBundle": "effects\/particles.prefabs.assetbundle"
+    },
+    {
+        "id": 11,
+        "kr": "UI_TX_Yardwenzi_yinghuodengtai_kr",
+        "jp": "UI_TX_Yardwenzi_yinghuodengtai_jp",
+        "en": "UI_TX_Yardwenzi_yinghuodengtai_en",
+        "cn": "UI_TX_Yardwenzi_yinghuodengtai",
+        "assetBundle": "effects\/particles.prefabs.assetbundle"
+    },
+    {
+        "id": 12,
+        "kr": "UI_TX_Yardwenzi_yinyuehe_kr",
+        "jp": "UI_TX_Yardwenzi_yinyuehe_jp",
+        "en": "UI_TX_Yardwenzi_yinyuehe_en",
+        "cn": "UI_TX_Yardwenzi_yinyuehe",
+        "assetBundle": "effects\/particles.prefabs.assetbundle"
+    }
+]

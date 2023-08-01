@@ -1,0 +1,358 @@
+[
+    {
+        "id": 1,
+        "roleid": 109,
+        "eventid": 40001,
+        "boostpercentage": 20,
+        "boostcoin": [
+            35071,
+            35072
+        ],
+        "sort": 1
+    },
+    {
+        "id": 2,
+        "roleid": 115,
+        "eventid": 40001,
+        "boostpercentage": 20,
+        "boostcoin": [
+            35071,
+            35072
+        ],
+        "sort": 2
+    },
+    {
+        "id": 3,
+        "roleid": 23,
+        "eventid": 40001,
+        "boostpercentage": 20,
+        "boostcoin": [
+            35071,
+            35072
+        ],
+        "sort": 3
+    },
+    {
+        "id": 4,
+        "roleid": 1,
+        "eventid": 40001,
+        "boostpercentage": 10,
+        "boostcoin": [
+            35071,
+            35072
+        ],
+        "sort": 4
+    },
+    {
+        "id": 5,
+        "roleid": 1,
+        "eventid": 47001,
+        "boostpercentage": 10,
+        "boostcoin": [
+            35069,
+            35070
+        ],
+        "sort": 6
+    },
+    {
+        "id": 6,
+        "roleid": 112,
+        "eventid": 47001,
+        "boostpercentage": 20,
+        "boostcoin": [
+            35069,
+            35070
+        ],
+        "sort": 1
+    },
+    {
+        "id": 7,
+        "roleid": 38,
+        "eventid": 47001,
+        "boostpercentage": 20,
+        "boostcoin": [
+            35069,
+            35070
+        ],
+        "sort": 3
+    },
+    {
+        "id": 8,
+        "roleid": 42,
+        "eventid": 47001,
+        "boostpercentage": 10,
+        "boostcoin": [
+            35069,
+            35070
+        ],
+        "sort": 4
+    },
+    {
+        "id": 9,
+        "roleid": 47,
+        "eventid": 47001,
+        "boostpercentage": 10,
+        "boostcoin": [
+            35069,
+            35070
+        ],
+        "sort": 5
+    },
+    {
+        "id": 10,
+        "roleid": 63,
+        "eventid": 47001,
+        "boostpercentage": 20,
+        "boostcoin": [
+            35069,
+            35070
+        ],
+        "sort": 2
+    },
+    {
+        "id": 11,
+        "roleid": 1,
+        "eventid": 6001,
+        "boostpercentage": 10,
+        "boostcoin": [
+            35024,
+            35025
+        ],
+        "sort": 6
+    },
+    {
+        "id": 12,
+        "roleid": 17,
+        "eventid": 6001,
+        "boostpercentage": 20,
+        "boostcoin": [
+            35024,
+            35025
+        ],
+        "sort": 3
+    },
+    {
+        "id": 13,
+        "roleid": 38,
+        "eventid": 6001,
+        "boostpercentage": 20,
+        "boostcoin": [
+            35024,
+            35025
+        ],
+        "sort": 2
+    },
+    {
+        "id": 14,
+        "roleid": 42,
+        "eventid": 6001,
+        "boostpercentage": 10,
+        "boostcoin": [
+            35024,
+            35025
+        ],
+        "sort": 4
+    },
+    {
+        "id": 15,
+        "roleid": 47,
+        "eventid": 6001,
+        "boostpercentage": 10,
+        "boostcoin": [
+            35024,
+            35025
+        ],
+        "sort": 5
+    },
+    {
+        "id": 16,
+        "roleid": 63,
+        "eventid": 6001,
+        "boostpercentage": 20,
+        "boostcoin": [
+            35024,
+            35025
+        ],
+        "sort": 1
+    },
+    {
+        "id": 17,
+        "roleid": 63,
+        "eventid": 9001,
+        "boostpercentage": 20,
+        "boostcoin": [
+            35031,
+            35033,
+            35034
+        ],
+        "sort": 1
+    },
+    {
+        "id": 18,
+        "roleid": 113,
+        "eventid": 9001,
+        "boostpercentage": 20,
+        "boostcoin": [
+            35031,
+            35033,
+            35034
+        ],
+        "sort": 2
+    },
+    {
+        "id": 19,
+        "roleid": 120,
+        "eventid": 46001,
+        "boostpercentage": 20,
+        "boostcoin": [
+            35066,
+            35067
+        ],
+        "sort": 1
+    },
+    {
+        "id": 20,
+        "roleid": 53,
+        "eventid": 46001,
+        "boostpercentage": 20,
+        "boostcoin": [
+            35066,
+            35067
+        ],
+        "sort": 2
+    },
+    {
+        "id": 21,
+        "roleid": 1,
+        "eventid": 46001,
+        "boostpercentage": 10,
+        "boostcoin": [
+            35066,
+            35067
+        ],
+        "sort": 3
+    },
+    {
+        "id": 22,
+        "roleid": 74,
+        "eventid": 46001,
+        "boostpercentage": 10,
+        "boostcoin": [
+            35066,
+            35067
+        ],
+        "sort": 4
+    },
+    {
+        "id": 23,
+        "roleid": 41,
+        "eventid": 9001,
+        "boostpercentage": 10,
+        "boostcoin": [
+            35031,
+            35033,
+            35034
+        ],
+        "sort": 3
+    },
+    {
+        "id": 24,
+        "roleid": 1,
+        "eventid": 9001,
+        "boostpercentage": 10,
+        "boostcoin": [
+            35031,
+            35033,
+            35034
+        ],
+        "sort": 4
+    },
+    {
+        "id": 25,
+        "roleid": 107,
+        "eventid": 18001,
+        "boostpercentage": 20,
+        "boostcoin": [
+            35038,
+            35039,
+            35040
+        ],
+        "sort": 1
+    },
+    {
+        "id": 26,
+        "roleid": 105,
+        "eventid": 18001,
+        "boostpercentage": 20,
+        "boostcoin": [
+            35038,
+            35039,
+            35040
+        ],
+        "sort": 2
+    },
+    {
+        "id": 27,
+        "roleid": 68,
+        "eventid": 18001,
+        "boostpercentage": 10,
+        "boostcoin": [
+            35038,
+            35039,
+            35040
+        ],
+        "sort": 3
+    },
+    {
+        "id": 28,
+        "roleid": 1,
+        "eventid": 18001,
+        "boostpercentage": 10,
+        "boostcoin": [
+            35038,
+            35039,
+            35040
+        ],
+        "sort": 4
+    },
+    {
+        "id": 29,
+        "roleid": 100,
+        "eventid": 27001,
+        "boostpercentage": 20,
+        "boostcoin": [
+            35044
+        ],
+        "sort": 2
+    },
+    {
+        "id": 30,
+        "roleid": 1,
+        "eventid": 27001,
+        "boostpercentage": 10,
+        "boostcoin": [
+            35044
+        ],
+        "sort": 4
+    },
+    {
+        "id": 31,
+        "roleid": 123,
+        "eventid": 27001,
+        "boostpercentage": 20,
+        "boostcoin": [
+            35044
+        ],
+        "sort": 1
+    },
+    {
+        "id": 32,
+        "roleid": 106,
+        "eventid": 27001,
+        "boostpercentage": 20,
+        "boostcoin": [
+            35044
+        ],
+        "sort": 3
+    }
+]

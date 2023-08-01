@@ -1,0 +1,52 @@
+[
+    {
+        "maxUVSpeedX": 0.15,
+        "id": 1,
+        "normalUVSpeedX": 0.1,
+        "maxAniSpeed": 1,
+        "normalUVSpeedY": 0.3,
+        "maxUVSpeedY": 0.45,
+        "sceneObject": "Tunnel\/WalkTunnel\/YiShiJie_TX\/zhouwei_yun",
+        "normalAniSpeed": 1
+    },
+    {
+        "maxUVSpeedX": 0.15,
+        "id": 2,
+        "normalUVSpeedX": 0.1,
+        "maxAniSpeed": 1,
+        "normalUVSpeedY": 0,
+        "maxUVSpeedY": 0,
+        "sceneObject": "Tunnel\/WalkTunnel\/YiShiJie_TX\/fazhen_xing",
+        "normalAniSpeed": 1
+    },
+    {
+        "maxUVSpeedX": 0,
+        "id": 3,
+        "normalUVSpeedX": 0,
+        "maxAniSpeed": 1.15,
+        "normalUVSpeedY": 0,
+        "maxUVSpeedY": 0,
+        "sceneObject": "ActorTunnel",
+        "normalAniSpeed": 1
+    },
+    {
+        "maxUVSpeedX": 0.15,
+        "id": 4,
+        "normalUVSpeedX": 0.1,
+        "maxAniSpeed": 1,
+        "normalUVSpeedY": 1,
+        "maxUVSpeedY": 1.5,
+        "sceneObject": "Tunnel\/WalkTunnel\/YiShiJie_TX\/zhouwei_dian",
+        "normalAniSpeed": 1
+    },
+    {
+        "maxUVSpeedX": 0,
+        "id": 5,
+        "normalUVSpeedX": 0.1,
+        "maxAniSpeed": 1,
+        "normalUVSpeedY": 0,
+        "maxUVSpeedY": 0,
+        "sceneObject": "Tunnel\/WalkTunnel\/YiShiJie_TX\/fazhen_xing (1)",
+        "normalAniSpeed": 1
+    }
+]

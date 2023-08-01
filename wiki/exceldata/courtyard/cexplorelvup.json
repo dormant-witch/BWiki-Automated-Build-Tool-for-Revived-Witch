@@ -1,0 +1,34 @@
+[
+    {
+        "refreshRate": 60,
+        "id": 1,
+        "volume": 1000,
+        "roleNum": 3,
+        "refreshTimes": 3,
+        "teamNum": 1
+    },
+    {
+        "refreshRate": 60,
+        "id": 2,
+        "volume": 1000,
+        "roleNum": 3,
+        "refreshTimes": 3,
+        "teamNum": 2
+    },
+    {
+        "refreshRate": 60,
+        "id": 3,
+        "volume": 1000,
+        "roleNum": 3,
+        "refreshTimes": 3,
+        "teamNum": 3
+    },
+    {
+        "refreshRate": 60,
+        "id": 4,
+        "volume": 1000,
+        "roleNum": 3,
+        "refreshTimes": 3,
+        "teamNum": 4
+    }
+]

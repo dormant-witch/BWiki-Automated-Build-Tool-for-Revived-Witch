@@ -1,0 +1,20 @@
+[
+    {
+        "effectName": 0,
+        "id": 1,
+        "beginEffectTime": 0,
+        "soundID": 0
+    },
+    {
+        "effectName": 1061,
+        "id": 2,
+        "beginEffectTime": 2,
+        "soundID": 0
+    },
+    {
+        "effectName": 1062,
+        "id": 3,
+        "beginEffectTime": 2,
+        "soundID": 0
+    }
+]

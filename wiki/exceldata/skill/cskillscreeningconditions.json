@@ -1,0 +1,66 @@
+{
+    "12": {
+        "id": 12,
+        "sort": 6,
+        "skillattr": 2,
+        "nameid": 501840,
+        "typename": 501838,
+        "type": 2
+    },
+    "1": {
+        "id": 1,
+        "sort": 1,
+        "skillattr": 0,
+        "nameid": 501834,
+        "typename": 501836,
+        "type": 1
+    },
+    "2": {
+        "id": 2,
+        "sort": 2,
+        "skillattr": 0,
+        "nameid": 501831,
+        "typename": 501836,
+        "type": 1
+    },
+    "3": {
+        "id": 3,
+        "sort": 3,
+        "skillattr": 0,
+        "nameid": 501832,
+        "typename": 501836,
+        "type": 1
+    },
+    "4": {
+        "id": 4,
+        "sort": 4,
+        "skillattr": 0,
+        "nameid": 501833,
+        "typename": 501836,
+        "type": 1
+    },
+    "13": {
+        "id": 13,
+        "sort": 7,
+        "skillattr": 3,
+        "nameid": 501841,
+        "typename": 501838,
+        "type": 2
+    },
+    "14": {
+        "id": 14,
+        "sort": 8,
+        "skillattr": 4,
+        "nameid": 501842,
+        "typename": 501838,
+        "type": 2
+    },
+    "11": {
+        "id": 11,
+        "sort": 5,
+        "skillattr": 1,
+        "nameid": 501839,
+        "typename": 501838,
+        "type": 2
+    }
+}

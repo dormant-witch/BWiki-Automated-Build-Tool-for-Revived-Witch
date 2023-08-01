@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "bonusnameId": 702020,
+        "conditions": 1,
+        "itemsNums": [
+            40,
+            2,
+            1
+        ],
+        "itemsId": [
+            35008,
+            35012,
+            31037
+        ]
+    },
+    {
+        "id": 2,
+        "bonusnameId": 702021,
+        "conditions": 5,
+        "itemsNums": [
+            100,
+            5,
+            1
+        ],
+        "itemsId": [
+            35008,
+            35012,
+            31038
+        ]
+    },
+    {
+        "id": 3,
+        "bonusnameId": 702022,
+        "conditions": 10,
+        "itemsNums": [
+            1,
+            10,
+            2
+        ],
+        "itemsId": [
+            31287,
+            35012,
+            31038
+        ]
+    },
+    {
+        "id": 4,
+        "bonusnameId": 702023,
+        "conditions": 15,
+        "itemsNums": [
+            5,
+            15,
+            2
+        ],
+        "itemsId": [
+            30076,
+            35012,
+            31038
+        ]
+    },
+    {
+        "id": 5,
+        "bonusnameId": 702024,
+        "conditions": 20,
+        "itemsNums": [
+            1,
+            20,
+            2
+        ],
+        "itemsId": [
+            30077,
+            35012,
+            31038
+        ]
+    }
+]

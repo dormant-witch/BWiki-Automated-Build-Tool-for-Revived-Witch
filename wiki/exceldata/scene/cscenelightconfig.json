@@ -1,0 +1,970 @@
+{
+    "30015": {
+        "colorDay": "#222222",
+        "id": 30015,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#14114B",
+        "playerLight": 0
+    },
+    "30004": {
+        "colorDay": "#A1A08E",
+        "id": 30004,
+        "fogDay": "#80795C",
+        "fogNight": "#80795C",
+        "colorNight": "#A1A08E",
+        "playerLight": 0
+    },
+    "30001": {
+        "colorDay": "#ACACC0",
+        "id": 30001,
+        "fogDay": "#C814B0",
+        "fogNight": "#5C21D1",
+        "colorNight": "#ACACC0",
+        "playerLight": 0
+    },
+    "14038": {
+        "colorDay": "#898989",
+        "id": 14038,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#898989",
+        "playerLight": 0
+    },
+    "14037": {
+        "colorDay": "#707484",
+        "id": 14037,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14036": {
+        "colorDay": "#707484",
+        "id": 14036,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14035": {
+        "colorDay": "#898989",
+        "id": 14035,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#898989",
+        "playerLight": 0
+    },
+    "14034": {
+        "colorDay": "#898989",
+        "id": 14034,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#898989",
+        "playerLight": 0
+    },
+    "14033": {
+        "colorDay": "#898989",
+        "id": 14033,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#898989",
+        "playerLight": 0
+    },
+    "14032": {
+        "colorDay": "#898989",
+        "id": 14032,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#898989",
+        "playerLight": 0
+    },
+    "10001": {
+        "colorDay": "#363A42",
+        "id": 10001,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#363A42",
+        "playerLight": 0
+    },
+    "10002": {
+        "colorDay": "#363A42",
+        "id": 10002,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#363A42",
+        "playerLight": 0
+    },
+    "10003": {
+        "colorDay": "#363A42",
+        "id": 10003,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#363A42",
+        "playerLight": 0
+    },
+    "10004": {
+        "colorDay": "#363A42",
+        "id": 10004,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#363A42",
+        "playerLight": 0
+    },
+    "10005": {
+        "colorDay": "#363A42",
+        "id": 10005,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#363A42",
+        "playerLight": 0
+    },
+    "14031": {
+        "colorDay": "#898989",
+        "id": 14031,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#898989",
+        "playerLight": 0
+    },
+    "10007": {
+        "colorDay": "#363A42",
+        "id": 10007,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#363A42",
+        "playerLight": 0
+    },
+    "14030": {
+        "colorDay": "#898989",
+        "id": 14030,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#898989",
+        "playerLight": 0
+    },
+    "10009": {
+        "colorDay": "#363A42",
+        "id": 10009,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#363A42",
+        "playerLight": 0
+    },
+    "10010": {
+        "colorDay": "#363A42",
+        "id": 10010,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#363A42",
+        "playerLight": 0
+    },
+    "10011": {
+        "colorDay": "#363A42",
+        "id": 10011,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#363A42",
+        "playerLight": 0
+    },
+    "10012": {
+        "colorDay": "#363A42",
+        "id": 10012,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#363A42",
+        "playerLight": 0
+    },
+    "10013": {
+        "colorDay": "#363A42",
+        "id": 10013,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#363A42",
+        "playerLight": 0
+    },
+    "10014": {
+        "colorDay": "#363A42",
+        "id": 10014,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#363A42",
+        "playerLight": 0
+    },
+    "10015": {
+        "colorDay": "#363A42",
+        "id": 10015,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#363A42",
+        "playerLight": 0
+    },
+    "10016": {
+        "colorDay": "#363A42",
+        "id": 10016,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#363A42",
+        "playerLight": 0
+    },
+    "10017": {
+        "colorDay": "#363A42",
+        "id": 10017,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#363A42",
+        "playerLight": 0
+    },
+    "10018": {
+        "colorDay": "#363A42",
+        "id": 10018,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#363A42",
+        "playerLight": 0
+    },
+    "10019": {
+        "colorDay": "#363A42",
+        "id": 10019,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#363A42",
+        "playerLight": 0
+    },
+    "10020": {
+        "colorDay": "#363A42",
+        "id": 10020,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#363A42",
+        "playerLight": 0
+    },
+    "10021": {
+        "colorDay": "#363A42",
+        "id": 10021,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#363A42",
+        "playerLight": 0
+    },
+    "14029": {
+        "colorDay": "#898989",
+        "id": 14029,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#898989",
+        "playerLight": 0
+    },
+    "14028": {
+        "colorDay": "#707484",
+        "id": 14028,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14027": {
+        "colorDay": "#707484",
+        "id": 14027,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14026": {
+        "colorDay": "#707484",
+        "id": 14026,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14025": {
+        "colorDay": "#707484",
+        "id": 14025,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13032": {
+        "colorDay": "#707484",
+        "id": 13032,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13033": {
+        "colorDay": "#707484",
+        "id": 13033,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13101": {
+        "colorDay": "#707484",
+        "id": 13101,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13102": {
+        "colorDay": "#707484",
+        "id": 13102,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13034": {
+        "colorDay": "#707484",
+        "id": 13034,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13035": {
+        "colorDay": "#414C4F",
+        "id": 13035,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#414C4F",
+        "playerLight": 0
+    },
+    "14001": {
+        "colorDay": "#707484",
+        "id": 14001,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14002": {
+        "colorDay": "#707484",
+        "id": 14002,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14003": {
+        "colorDay": "#707484",
+        "id": 14003,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14004": {
+        "colorDay": "#707484",
+        "id": 14004,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14005": {
+        "colorDay": "#707484",
+        "id": 14005,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14006": {
+        "colorDay": "#707484",
+        "id": 14006,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14007": {
+        "colorDay": "#707484",
+        "id": 14007,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14008": {
+        "colorDay": "#707484",
+        "id": 14008,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14009": {
+        "colorDay": "#707484",
+        "id": 14009,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14010": {
+        "colorDay": "#707484",
+        "id": 14010,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14011": {
+        "colorDay": "#707484",
+        "id": 14011,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14012": {
+        "colorDay": "#707484",
+        "id": 14012,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14013": {
+        "colorDay": "#707484",
+        "id": 14013,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14014": {
+        "colorDay": "#707484",
+        "id": 14014,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14015": {
+        "colorDay": "#707484",
+        "id": 14015,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14016": {
+        "colorDay": "#707484",
+        "id": 14016,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14017": {
+        "colorDay": "#707484",
+        "id": 14017,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14018": {
+        "colorDay": "#707484",
+        "id": 14018,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14019": {
+        "colorDay": "#707484",
+        "id": 14019,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14020": {
+        "colorDay": "#707484",
+        "id": 14020,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14021": {
+        "colorDay": "#707484",
+        "id": 14021,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14022": {
+        "colorDay": "#707484",
+        "id": 14022,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14023": {
+        "colorDay": "#707484",
+        "id": 14023,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "14024": {
+        "colorDay": "#707484",
+        "id": 14024,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13001": {
+        "colorDay": "#707484",
+        "id": 13001,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13002": {
+        "colorDay": "#707484",
+        "id": 13002,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13003": {
+        "colorDay": "#707484",
+        "id": 13003,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13004": {
+        "colorDay": "#707484",
+        "id": 13004,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13005": {
+        "colorDay": "#707484",
+        "id": 13005,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13006": {
+        "colorDay": "#707484",
+        "id": 13006,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13007": {
+        "colorDay": "#707484",
+        "id": 13007,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13008": {
+        "colorDay": "#707484",
+        "id": 13008,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13009": {
+        "colorDay": "#707484",
+        "id": 13009,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13010": {
+        "colorDay": "#707484",
+        "id": 13010,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13011": {
+        "colorDay": "#707484",
+        "id": 13011,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13012": {
+        "colorDay": "#707484",
+        "id": 13012,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13013": {
+        "colorDay": "#707484",
+        "id": 13013,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13014": {
+        "colorDay": "#707484",
+        "id": 13014,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13015": {
+        "colorDay": "#707484",
+        "id": 13015,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13016": {
+        "colorDay": "#707484",
+        "id": 13016,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13017": {
+        "colorDay": "#707484",
+        "id": 13017,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13018": {
+        "colorDay": "#707484",
+        "id": 13018,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13019": {
+        "colorDay": "#707484",
+        "id": 13019,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13020": {
+        "colorDay": "#707484",
+        "id": 13020,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13021": {
+        "colorDay": "#707484",
+        "id": 13021,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13022": {
+        "colorDay": "#707484",
+        "id": 13022,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13023": {
+        "colorDay": "#707484",
+        "id": 13023,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13024": {
+        "colorDay": "#707484",
+        "id": 13024,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13025": {
+        "colorDay": "#707484",
+        "id": 13025,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "12002": {
+        "colorDay": "#4C317A",
+        "id": 12002,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#0A4596",
+        "playerLight": 1
+    },
+    "12003": {
+        "colorDay": "#4C317A",
+        "id": 12003,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#0A4596",
+        "playerLight": 1
+    },
+    "12004": {
+        "colorDay": "#4C317A",
+        "id": 12004,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#0A4596",
+        "playerLight": 1
+    },
+    "12005": {
+        "colorDay": "#4C317A",
+        "id": 12005,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#0A4596",
+        "playerLight": 1
+    },
+    "12006": {
+        "colorDay": "#4C317A",
+        "id": 12006,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#0A4596",
+        "playerLight": 1
+    },
+    "12007": {
+        "colorDay": "#4C317A",
+        "id": 12007,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#0A4596",
+        "playerLight": 1
+    },
+    "12008": {
+        "colorDay": "#4C317A",
+        "id": 12008,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#0A4596",
+        "playerLight": 1
+    },
+    "12009": {
+        "colorDay": "#4C317A",
+        "id": 12009,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#0A4596",
+        "playerLight": 1
+    },
+    "12010": {
+        "colorDay": "#4C317A",
+        "id": 12010,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#0A4596",
+        "playerLight": 1
+    },
+    "12011": {
+        "colorDay": "#4C317A",
+        "id": 12011,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#0A4596",
+        "playerLight": 1
+    },
+    "12012": {
+        "colorDay": "#4C317A",
+        "id": 12012,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#0A4596",
+        "playerLight": 1
+    },
+    "12013": {
+        "colorDay": "#4C317A",
+        "id": 12013,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#0A4596",
+        "playerLight": 1
+    },
+    "12014": {
+        "colorDay": "#4C317A",
+        "id": 12014,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#0A4596",
+        "playerLight": 1
+    },
+    "12015": {
+        "colorDay": "#4C317A",
+        "id": 12015,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#0A4596",
+        "playerLight": 1
+    },
+    "12016": {
+        "colorDay": "#4C317A",
+        "id": 12016,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#0A4596",
+        "playerLight": 1
+    },
+    "12017": {
+        "colorDay": "#4C317A",
+        "id": 12017,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#0A4596",
+        "playerLight": 1
+    },
+    "12018": {
+        "colorDay": "#4C317A",
+        "id": 12018,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#0A4596",
+        "playerLight": 1
+    },
+    "12019": {
+        "colorDay": "#4C317A",
+        "id": 12019,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#0A4596",
+        "playerLight": 1
+    },
+    "12020": {
+        "colorDay": "#4C317A",
+        "id": 12020,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#0A4596",
+        "playerLight": 1
+    },
+    "12021": {
+        "colorDay": "#4C317A",
+        "id": 12021,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#0A4596",
+        "playerLight": 1
+    },
+    "12022": {
+        "colorDay": "#4C317A",
+        "id": 12022,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#0A4596",
+        "playerLight": 1
+    },
+    "12023": {
+        "colorDay": "#4C317A",
+        "id": 12023,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#0A4596",
+        "playerLight": 1
+    },
+    "12024": {
+        "colorDay": "#4C317A",
+        "id": 12024,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#0A4596",
+        "playerLight": 1
+    },
+    "12025": {
+        "colorDay": "#4C317A",
+        "id": 12025,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#0A4596",
+        "playerLight": 0
+    },
+    "13031": {
+        "colorDay": "#707484",
+        "id": 13031,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13030": {
+        "colorDay": "#707484",
+        "id": 13030,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13029": {
+        "colorDay": "#707484",
+        "id": 13029,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13028": {
+        "colorDay": "#707484",
+        "id": 13028,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13027": {
+        "colorDay": "#707484",
+        "id": 13027,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    },
+    "13026": {
+        "colorDay": "#707484",
+        "id": 13026,
+        "fogDay": "0",
+        "fogNight": "0",
+        "colorNight": "#30655E",
+        "playerLight": 0
+    }
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "buyBackground": 11936,
+        "id": 1,
+        "equipStrengthenImageDir": 10659,
+        "tipsBackground": 11854,
+        "equipWorkshop": 12271,
+        "shopBackground": 11436,
+        "name": 1185,
+        "imageDir": 10375
+    },
+    {
+        "buyBackground": 11937,
+        "id": 2,
+        "equipStrengthenImageDir": 10660,
+        "tipsBackground": 11855,
+        "equipWorkshop": 12272,
+        "shopBackground": 11437,
+        "name": 1186,
+        "imageDir": 10376
+    },
+    {
+        "buyBackground": 11938,
+        "id": 3,
+        "equipStrengthenImageDir": 10661,
+        "tipsBackground": 11856,
+        "equipWorkshop": 12273,
+        "shopBackground": 11438,
+        "name": 1187,
+        "imageDir": 10377
+    },
+    {
+        "buyBackground": 11939,
+        "id": 4,
+        "equipStrengthenImageDir": 10661,
+        "tipsBackground": 11857,
+        "equipWorkshop": 12274,
+        "shopBackground": 11439,
+        "name": 1188,
+        "imageDir": 11339
+    },
+    {
+        "buyBackground": 11939,
+        "id": 5,
+        "equipStrengthenImageDir": 10661,
+        "tipsBackground": 11857,
+        "equipWorkshop": 12274,
+        "shopBackground": 11439,
+        "name": 1189,
+        "imageDir": 11339
+    },
+    {
+        "buyBackground": 11939,
+        "id": 6,
+        "equipStrengthenImageDir": 0,
+        "tipsBackground": 11854,
+        "equipWorkshop": 12274,
+        "shopBackground": 11439,
+        "name": 1190,
+        "imageDir": 10701
+    }
+]

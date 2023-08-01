@@ -1,0 +1,38 @@
+[
+    {
+        "stagenametxtid": 800135,
+        "id": 1,
+        "stagenameid": 1,
+        "stageeffects": 0
+    },
+    {
+        "stagenametxtid": 800106,
+        "id": 2,
+        "stagenameid": 2,
+        "stageeffects": 1
+    },
+    {
+        "stagenametxtid": 800107,
+        "id": 3,
+        "stagenameid": 3,
+        "stageeffects": 2
+    },
+    {
+        "stagenametxtid": 800108,
+        "id": 4,
+        "stagenameid": 4,
+        "stageeffects": 3
+    },
+    {
+        "stagenametxtid": 800109,
+        "id": 5,
+        "stagenameid": 5,
+        "stageeffects": 4
+    },
+    {
+        "stagenametxtid": 800110,
+        "id": 6,
+        "stagenameid": 6,
+        "stageeffects": 5
+    }
+]

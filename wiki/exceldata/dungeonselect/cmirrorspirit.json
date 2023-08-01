@@ -1,0 +1,506 @@
+[
+    {
+        "id": 1,
+        "type": 1,
+        "missionend": "2022-08-05 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-04 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 2,
+        "type": 2,
+        "missionend": "2022-08-05 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-04 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 3,
+        "type": 1,
+        "missionend": "2022-08-06 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-05 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 4,
+        "type": 2,
+        "missionend": "2022-08-06 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-05 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 5,
+        "type": 1,
+        "missionend": "2022-08-07 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-06 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 6,
+        "type": 2,
+        "missionend": "2022-08-07 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-06 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 7,
+        "type": 1,
+        "missionend": "2022-08-08 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-07 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 8,
+        "type": 2,
+        "missionend": "2022-08-08 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-07 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 9,
+        "type": 1,
+        "missionend": "2022-08-09 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-08 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 10,
+        "type": 2,
+        "missionend": "2022-08-09 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-08 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 11,
+        "type": 1,
+        "missionend": "2022-08-10 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-09 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 12,
+        "type": 2,
+        "missionend": "2022-08-10 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-09 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 13,
+        "type": 1,
+        "missionend": "2022-08-11 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-10 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 14,
+        "type": 2,
+        "missionend": "2022-08-11 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-10 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 15,
+        "type": 1,
+        "missionend": "2022-08-12 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-11 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 16,
+        "type": 2,
+        "missionend": "2022-08-12 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-11 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 17,
+        "type": 1,
+        "missionend": "2022-08-13 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-12 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 18,
+        "type": 2,
+        "missionend": "2022-08-13 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-12 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 19,
+        "type": 1,
+        "missionend": "2022-08-14 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-13 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 20,
+        "type": 2,
+        "missionend": "2022-08-14 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-13 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 21,
+        "type": 1,
+        "missionend": "2022-08-15 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-14 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 22,
+        "type": 2,
+        "missionend": "2022-08-15 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-14 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 23,
+        "type": 1,
+        "missionend": "2022-08-16 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-15 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 24,
+        "type": 2,
+        "missionend": "2022-08-16 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-15 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 25,
+        "type": 1,
+        "missionend": "2022-08-17 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-16 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 26,
+        "type": 2,
+        "missionend": "2022-08-17 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-16 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 27,
+        "type": 1,
+        "missionend": "2022-08-18 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-17 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 28,
+        "type": 2,
+        "missionend": "2022-08-18 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-17 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 29,
+        "type": 1,
+        "missionend": "2022-08-19 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-18 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 30,
+        "type": 2,
+        "missionend": "2022-08-19 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-18 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 31,
+        "type": 1,
+        "missionend": "2022-08-20 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-19 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 32,
+        "type": 2,
+        "missionend": "2022-08-20 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-19 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 33,
+        "type": 1,
+        "missionend": "2022-08-21 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-20 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 34,
+        "type": 2,
+        "missionend": "2022-08-21 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-20 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 35,
+        "type": 1,
+        "missionend": "2022-08-22 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-21 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 36,
+        "type": 2,
+        "missionend": "2022-08-22 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-21 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 37,
+        "type": 1,
+        "missionend": "2022-08-23 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-22 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 38,
+        "type": 2,
+        "missionend": "2022-08-23 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-22 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 39,
+        "type": 1,
+        "missionend": "2022-08-24 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-23 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 40,
+        "type": 2,
+        "missionend": "2022-08-24 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-23 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 41,
+        "type": 1,
+        "missionend": "2022-08-25 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-24 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 42,
+        "type": 2,
+        "missionend": "2022-08-25 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-24 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 43,
+        "type": 1,
+        "missionend": "2022-08-26 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-25 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 44,
+        "type": 2,
+        "missionend": "2022-08-26 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-25 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 45,
+        "type": 1,
+        "missionend": "2022-08-27 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-26 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 46,
+        "type": 2,
+        "missionend": "2022-08-27 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-26 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 47,
+        "type": 1,
+        "missionend": "2022-08-28 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-27 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 48,
+        "type": 2,
+        "missionend": "2022-08-28 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-27 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 49,
+        "type": 1,
+        "missionend": "2022-08-29 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-28 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 50,
+        "type": 2,
+        "missionend": "2022-08-29 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-28 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 51,
+        "type": 1,
+        "missionend": "2022-08-30 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-29 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 52,
+        "type": 2,
+        "missionend": "2022-08-30 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-29 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 53,
+        "type": 1,
+        "missionend": "2022-08-31 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-30 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 54,
+        "type": 2,
+        "missionend": "2022-08-31 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-30 18:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 55,
+        "type": 1,
+        "missionend": "2022-09-01 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-31 12:00:00",
+        "itemid": 35003
+    },
+    {
+        "id": 56,
+        "type": 2,
+        "missionend": "2022-09-01 03:59:59",
+        "eventid": 47001,
+        "itemnum": 30,
+        "missionstart": "2022-08-31 18:00:00",
+        "itemid": 35003
+    }
+]

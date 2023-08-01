@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "imageselect": 11491,
+        "num": 1,
+        "nameTextID": 800059,
+        "name": "地板",
+        "imagenorm": 12372
+    },
+    {
+        "id": 2,
+        "imageselect": 11494,
+        "num": 1,
+        "nameTextID": 800060,
+        "name": "墙纸",
+        "imagenorm": 12375
+    },
+    {
+        "id": 3,
+        "imageselect": 11495,
+        "num": 2,
+        "nameTextID": 800061,
+        "name": "窗户",
+        "imagenorm": 12376
+    },
+    {
+        "id": 4,
+        "imageselect": 11489,
+        "num": 3,
+        "nameTextID": 800062,
+        "name": "大件",
+        "imagenorm": 12370
+    },
+    {
+        "id": 5,
+        "imageselect": 11492,
+        "num": 6,
+        "nameTextID": 800063,
+        "name": "小件",
+        "imagenorm": 12373
+    },
+    {
+        "id": 6,
+        "imageselect": 11490,
+        "num": 2,
+        "nameTextID": 800064,
+        "name": "地毯",
+        "imagenorm": 12372
+    },
+    {
+        "id": 7,
+        "imageselect": 11493,
+        "num": 6,
+        "nameTextID": 800065,
+        "name": "墙饰",
+        "imagenorm": 12374
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "days": 1,
+        "id": 1,
+        "activityID": 52001,
+        "gear": 98,
+        "skinID": 0,
+        "items": [
+            40037,
+            35026
+        ],
+        "roleID": 0,
+        "nums": [
+            1,
+            300
+        ]
+    },
+    {
+        "days": 2,
+        "id": 2,
+        "activityID": 52001,
+        "gear": 98,
+        "skinID": 0,
+        "items": [
+            75009,
+            74000
+        ],
+        "roleID": 0,
+        "nums": [
+            10,
+            60
+        ]
+    },
+    {
+        "days": 3,
+        "id": 3,
+        "activityID": 52001,
+        "gear": 98,
+        "skinID": 0,
+        "items": [
+            75010,
+            74001
+        ],
+        "roleID": 0,
+        "nums": [
+            15,
+            60
+        ]
+    },
+    {
+        "days": 4,
+        "id": 4,
+        "activityID": 52001,
+        "gear": 98,
+        "skinID": 0,
+        "items": [
+            79001,
+            79002
+        ],
+        "roleID": 0,
+        "nums": [
+            200,
+            20
+        ]
+    },
+    {
+        "days": 5,
+        "id": 5,
+        "activityID": 52001,
+        "gear": 98,
+        "skinID": 0,
+        "items": [
+            75011,
+            74002,
+            75019
+        ],
+        "roleID": 0,
+        "nums": [
+            60,
+            60,
+            30
+        ]
+    },
+    {
+        "days": 6,
+        "id": 6,
+        "activityID": 52001,
+        "gear": 98,
+        "skinID": 0,
+        "items": [
+            31380,
+            31386,
+            31389,
+            31383
+        ],
+        "roleID": 0,
+        "nums": [
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "days": 7,
+        "id": 7,
+        "activityID": 52001,
+        "gear": 98,
+        "skinID": 903811,
+        "items": [
+            90055,
+            70003,
+            79004
+        ],
+        "roleID": 0,
+        "nums": [
+            1,
+            2,
+            2
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+{
+    "200": {
+        "yardconstructioniconlocked": 12105,
+        "id": 200,
+        "yardsheltericon": 12109,
+        "sortID": 3,
+        "yardconstructionicon": 12101,
+        "name": "异界之镜",
+        "nameTextID": 800002
+    },
+    "700": {
+        "yardconstructioniconlocked": 12349,
+        "id": 700,
+        "yardsheltericon": 0,
+        "sortID": 7,
+        "yardconstructionicon": 12349,
+        "name": "音乐盒",
+        "nameTextID": 800191
+    },
+    "600": {
+        "yardconstructioniconlocked": 12350,
+        "id": 600,
+        "yardsheltericon": 12351,
+        "sortID": 6,
+        "yardconstructionicon": 12350,
+        "name": "荧光屋",
+        "nameTextID": 800172
+    },
+    "100": {
+        "yardconstructioniconlocked": 0,
+        "id": 100,
+        "yardsheltericon": 0,
+        "sortID": 1,
+        "yardconstructionicon": 0,
+        "name": "魔法树",
+        "nameTextID": 800001
+    },
+    "500": {
+        "yardconstructioniconlocked": 12106,
+        "id": 500,
+        "yardsheltericon": 12107,
+        "sortID": 5,
+        "yardconstructionicon": 12102,
+        "name": "魔女小屋",
+        "nameTextID": 800005
+    },
+    "400": {
+        "yardconstructioniconlocked": 12104,
+        "id": 400,
+        "yardsheltericon": 12108,
+        "sortID": 4,
+        "yardconstructionicon": 12100,
+        "name": "炼金所",
+        "nameTextID": 800004
+    },
+    "300": {
+        "yardconstructioniconlocked": 12103,
+        "id": 300,
+        "yardsheltericon": 0,
+        "sortID": 2,
+        "yardconstructionicon": 12099,
+        "name": "萤火灯台",
+        "nameTextID": 800003
+    }
+}

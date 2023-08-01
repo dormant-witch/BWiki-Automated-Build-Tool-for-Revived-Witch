@@ -1,0 +1,515 @@
+{
+    "1": {
+        "chat": "Zzz……",
+        "id": 1,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900030
+    },
+    "7": {
+        "chat": "愿寻得镜中实形。",
+        "id": 7,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900036
+    },
+    "8": {
+        "chat": "你不该在这里的。",
+        "id": 8,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900037
+    },
+    "9": {
+        "chat": "这可是个天大的秘密，不可以告诉其他人哦！",
+        "id": 9,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900038
+    },
+    "10": {
+        "chat": "何时才能回到魂牵梦绕的故乡。",
+        "id": 10,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900039
+    },
+    "11": {
+        "chat": "您的善意终将得到回报。",
+        "id": 11,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900040
+    },
+    "12": {
+        "chat": "我的悔恨无法传递给哥哥了。",
+        "id": 12,
+        "type": 2,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900041
+    },
+    "13": {
+        "chat": "小女孩，快离开……",
+        "id": 13,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900042
+    },
+    "14": {
+        "chat": "别再打扰我了。",
+        "id": 14,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900043
+    },
+    "15": {
+        "chat": "骑士先生就在我旁边，他应该知道如何进入遗迹内部。",
+        "id": 15,
+        "type": 2,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900044
+    },
+    "16": {
+        "chat": "······",
+        "id": 16,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900045
+    },
+    "17": {
+        "chat": "感谢你出手相助，那么，期待我们下次见面。",
+        "id": 17,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900046
+    },
+    "18": {
+        "chat": "那边的那个人类，似乎只是昏了过去，生命并无大碍。",
+        "id": 18,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900047
+    },
+    "19": {
+        "chat": "······",
+        "id": 19,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900048
+    },
+    "20": {
+        "chat": "居然要去山顶，真是有趣的家伙。",
+        "id": 20,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900049
+    },
+    "21": {
+        "chat": "嗯？女孩？这里可不是你玩耍的地方，快点下山吧！",
+        "id": 21,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900050
+    },
+    "22": {
+        "chat": "雪很大，要当心啊！",
+        "id": 22,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900051
+    },
+    "23": {
+        "chat": "这么大的风雪，过不了多久，就不再会有猎物了。",
+        "id": 23,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900052
+    },
+    "24": {
+        "chat": "好吧，我也只能祝你好运了，朋友。",
+        "id": 24,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900053
+    },
+    "25": {
+        "chat": "前面十分危险，可要当心啊！",
+        "id": 25,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900054
+    },
+    "26": {
+        "chat": "雪风的意志，请庇佑这个孩子前行！",
+        "id": 26,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900055
+    },
+    "27": {
+        "chat": "又见到你了，我的朋友。",
+        "id": 27,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900056
+    },
+    "28": {
+        "chat": "那么，我的朋友，有缘再会了。",
+        "id": 28,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900057
+    },
+    "29": {
+        "chat": "放心交给我吧，我会照顾好她的，安心前进吧！",
+        "id": 29,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900058
+    },
+    "30": {
+        "chat": "住在东南边屋子的安迪答应帮我做根拐杖，可没有合适的木材……",
+        "id": 30,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900059
+    },
+    "31": {
+        "chat": "一定要帮我教训那些偷粮贼！",
+        "id": 31,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900060
+    },
+    "32": {
+        "chat": "女孩啊，去山顶会遭到恶神的惩罚的，千万别去啊。",
+        "id": 32,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900061
+    },
+    "33": {
+        "chat": "女孩，千万别枉送了性命啊。",
+        "id": 33,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900062
+    },
+    "34": {
+        "chat": "多亏有你帮忙做拐杖，真是太感谢你了。",
+        "id": 34,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900063
+    },
+    "35": {
+        "chat": "呜……别抓我！",
+        "id": 35,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900064
+    },
+    "36": {
+        "chat": "谢谢你救了我。",
+        "id": 36,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900065
+    },
+    "37": {
+        "chat": "我的悔恨终于能够传递给哥哥了。",
+        "id": 37,
+        "type": 2,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900066
+    },
+    "38": {
+        "chat": "她看上去暂时失去意识了。",
+        "id": 38,
+        "type": 0,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900067
+    },
+    "39": {
+        "chat": "有找到我的曲谱吗？",
+        "id": 39,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900068
+    },
+    "40": {
+        "chat": "前面的传送阵是单向通行的，记住曾经走过的路就不会迷路。",
+        "id": 40,
+        "type": 1,
+        "SkipTime": 8,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900069
+    },
+    "41": {
+        "chat": "为什么会这样……",
+        "id": 41,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900070
+    },
+    "42": {
+        "chat": "这些魔物到底是从哪里来的……",
+        "id": 42,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900071
+    },
+    "43": {
+        "chat": "村口外又出现魔物了，你要小心啊！",
+        "id": 43,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900072
+    },
+    "44": {
+        "chat": "幸好有你在，不然我们……",
+        "id": 44,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900073
+    },
+    "45": {
+        "chat": "不知道德亚丝那边怎么样了……",
+        "id": 45,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900074
+    },
+    "46": {
+        "chat": "女孩，前面很危险的，早点回村子里吧。",
+        "id": 46,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900075
+    },
+    "47": {
+        "chat": "回村落去吧，我会用自己这双眼睛去亲自确认事实的。",
+        "id": 47,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900076
+    },
+    "48": {
+        "chat": "我相信你们，多年以来的矛盾也许就要解开了。",
+        "id": 48,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900077
+    },
+    "49": {
+        "chat": "有找到食物吗？应该就埋在附近才对……",
+        "id": 49,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900078
+    },
+    "50": {
+        "chat": "你如果有需要，就来塔底层的工坊找我吧。",
+        "id": 50,
+        "type": 2,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900080
+    },
+    "51": {
+        "chat": "我和教会的人打过交道，他们都是心机很深的人。别轻易相信他们。",
+        "id": 51,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900081
+    },
+    "52": {
+        "chat": "这里不欢迎上层的魔法师！",
+        "id": 52,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900082
+    },
+    "53": {
+        "chat": "我已经没有粮食了，求求你们，别来了！",
+        "id": 53,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900083
+    },
+    "54": {
+        "chat": "我们已经没有东西可以上交了，求求你们放过我们吧。",
+        "id": 54,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900084
+    },
+    "55": {
+        "chat": "隔壁的村子就是被上层的魔法师摧毁了，所有人都被杀害了……",
+        "id": 55,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900085
+    },
+    "56": {
+        "chat": "  我们把你当成了上层的那些家伙，他们从不劳作，只知道抢走我们的劳动成果！",
+        "id": 56,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900086
+    },
+    "57": {
+        "chat": "浮岛不断上升，粮食的产量越来越少，这样下去，大家都会饿死的。",
+        "id": 57,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900087
+    },
+    "58": {
+        "chat": "现在出现了越来越多的魔物，我们只能依靠上层的魔法师，因此才对他们的暴行忍气吞声。 ",
+        "id": 58,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900088
+    },
+    "59": {
+        "chat": "我们的祖先原本生活在地面上，听说后来出现了大量的魔物，守护者大人施法让嘉庇艾尔升起，这样魔物就不能攻击我们了。",
+        "id": 59,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900089
+    },
+    "60": {
+        "chat": "如果没什么事，你还是快点离开这里吧！我们不欢迎外地人。",
+        "id": 60,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900093
+    },
+    "61": {
+        "chat": "信仰守护者大人吧。",
+        "id": 61,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900094
+    },
+    "62": {
+        "chat": "可不要告诉其他人呀。",
+        "id": 62,
+        "type": 1,
+        "SkipTime": 5,
+        "volume_id": 0,
+        "time": "0.05",
+        "chatTextID": 900095
+    }
+}

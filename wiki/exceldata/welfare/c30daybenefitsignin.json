@@ -1,0 +1,44 @@
+[
+    {
+        "nums": 2,
+        "id": 1,
+        "rewardId": 31038,
+        "cumulativeDays": 1
+    },
+    {
+        "nums": 2,
+        "id": 2,
+        "rewardId": 30076,
+        "cumulativeDays": 3
+    },
+    {
+        "nums": 1,
+        "id": 3,
+        "rewardId": 40046,
+        "cumulativeDays": 7
+    },
+    {
+        "nums": 3,
+        "id": 4,
+        "rewardId": 30076,
+        "cumulativeDays": 10
+    },
+    {
+        "nums": 1,
+        "id": 5,
+        "rewardId": 30077,
+        "cumulativeDays": 14
+    },
+    {
+        "nums": 5,
+        "id": 6,
+        "rewardId": 30076,
+        "cumulativeDays": 20
+    },
+    {
+        "nums": 1,
+        "id": 7,
+        "rewardId": 90035,
+        "cumulativeDays": 30
+    }
+]

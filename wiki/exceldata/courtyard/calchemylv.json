@@ -1,0 +1,107 @@
+[
+    {
+        "alchemyexplimit": 10500,
+        "id": 1,
+        "exp": 100,
+        "alchemystage": 1,
+        "byproductProbability": 1
+    },
+    {
+        "alchemyexplimit": 10500,
+        "id": 2,
+        "exp": 200,
+        "alchemystage": 1,
+        "byproductProbability": 2
+    },
+    {
+        "alchemyexplimit": 10500,
+        "id": 3,
+        "exp": 300,
+        "alchemystage": 2,
+        "byproductProbability": 3
+    },
+    {
+        "alchemyexplimit": 10500,
+        "id": 4,
+        "exp": 400,
+        "alchemystage": 2,
+        "byproductProbability": 4
+    },
+    {
+        "alchemyexplimit": 10500,
+        "id": 5,
+        "exp": 500,
+        "alchemystage": 2,
+        "byproductProbability": 5
+    },
+    {
+        "alchemyexplimit": 10500,
+        "id": 6,
+        "exp": 600,
+        "alchemystage": 3,
+        "byproductProbability": 6
+    },
+    {
+        "alchemyexplimit": 10500,
+        "id": 7,
+        "exp": 700,
+        "alchemystage": 3,
+        "byproductProbability": 7
+    },
+    {
+        "alchemyexplimit": 10500,
+        "id": 8,
+        "exp": 800,
+        "alchemystage": 3,
+        "byproductProbability": 8
+    },
+    {
+        "alchemyexplimit": 10500,
+        "id": 9,
+        "exp": 900,
+        "alchemystage": 4,
+        "byproductProbability": 9
+    },
+    {
+        "alchemyexplimit": 10500,
+        "id": 10,
+        "exp": 1000,
+        "alchemystage": 4,
+        "byproductProbability": 10
+    },
+    {
+        "alchemyexplimit": 10500,
+        "id": 11,
+        "exp": 1100,
+        "alchemystage": 4,
+        "byproductProbability": 11
+    },
+    {
+        "alchemyexplimit": 10500,
+        "id": 12,
+        "exp": 1200,
+        "alchemystage": 5,
+        "byproductProbability": 12
+    },
+    {
+        "alchemyexplimit": 10500,
+        "id": 13,
+        "exp": 1300,
+        "alchemystage": 5,
+        "byproductProbability": 13
+    },
+    {
+        "alchemyexplimit": 10500,
+        "id": 14,
+        "exp": 1400,
+        "alchemystage": 5,
+        "byproductProbability": 14
+    },
+    {
+        "alchemyexplimit": -1,
+        "id": 15,
+        "exp": -1,
+        "alchemystage": 6,
+        "byproductProbability": 15
+    }
+]

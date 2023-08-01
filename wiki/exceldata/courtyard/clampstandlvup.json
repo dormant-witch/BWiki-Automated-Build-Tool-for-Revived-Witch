@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "light3MaxLv": 1,
+        "light2MaxLv": 2,
+        "fireflyMaxLv": 4,
+        "roleNum": 1,
+        "light1MaxLv": 3,
+        "getRate": 1
+    },
+    {
+        "id": 2,
+        "light3MaxLv": 1,
+        "light2MaxLv": 2,
+        "fireflyMaxLv": 4,
+        "roleNum": 1,
+        "light1MaxLv": 3,
+        "getRate": 1
+    }
+]

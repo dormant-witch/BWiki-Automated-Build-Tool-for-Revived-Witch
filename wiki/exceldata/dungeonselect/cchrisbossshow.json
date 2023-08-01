@@ -1,0 +1,40 @@
+{
+    "180011201": {
+        "image": 10713,
+        "id": 180011201,
+        "sceneID": 20043,
+        "name": "雪狼 芬里尔",
+        "bossscale": "1.2",
+        "bosspos": "0,-222",
+        "collectbonusnum": [
+            200,
+            100
+        ],
+        "collectbonus": [
+            35008,
+            35038
+        ],
+        "bossshapeid": 20185,
+        "nameTextID": 1901378,
+        "tapimageid": 13891
+    },
+    "180011101": {
+        "image": 10713,
+        "id": 180011101,
+        "sceneID": 20043,
+        "name": "雪狼 芬里尔",
+        "bossscale": "1.2",
+        "bosspos": "0,-222",
+        "collectbonusnum": [
+            100,
+            200000
+        ],
+        "collectbonus": [
+            35008,
+            35002
+        ],
+        "bossshapeid": 20185,
+        "nameTextID": 1901378,
+        "tapimageid": 13891
+    }
+}

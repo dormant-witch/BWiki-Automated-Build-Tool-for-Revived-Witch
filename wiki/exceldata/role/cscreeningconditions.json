@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "sort": 2,
+        "nameid": 501831,
+        "typename": 501836,
+        "type": 1
+    },
+    {
+        "id": 2,
+        "sort": 3,
+        "nameid": 501832,
+        "typename": 501836,
+        "type": 1
+    },
+    {
+        "id": 3,
+        "sort": 4,
+        "nameid": 501833,
+        "typename": 501836,
+        "type": 1
+    },
+    {
+        "id": 4,
+        "sort": 1,
+        "nameid": 501805,
+        "typename": 501837,
+        "type": 2
+    },
+    {
+        "id": 5,
+        "sort": 2,
+        "nameid": 501806,
+        "typename": 501837,
+        "type": 2
+    },
+    {
+        "id": 6,
+        "sort": 3,
+        "nameid": 501807,
+        "typename": 501837,
+        "type": 2
+    },
+    {
+        "id": 7,
+        "sort": 4,
+        "nameid": 501808,
+        "typename": 501837,
+        "type": 2
+    },
+    {
+        "id": 8,
+        "sort": 6,
+        "nameid": 501809,
+        "typename": 501837,
+        "type": 2
+    },
+    {
+        "id": 9,
+        "sort": 7,
+        "nameid": 501810,
+        "typename": 501837,
+        "type": 2
+    },
+    {
+        "id": 10,
+        "sort": 8,
+        "nameid": 501811,
+        "typename": 501837,
+        "type": 2
+    },
+    {
+        "id": 11,
+        "sort": 1,
+        "nameid": 501834,
+        "typename": 501836,
+        "type": 1
+    },
+    {
+        "id": 12,
+        "sort": 5,
+        "nameid": 502614,
+        "typename": 501836,
+        "type": 1
+    },
+    {
+        "id": 13,
+        "sort": 1,
+        "nameid": 502771,
+        "typename": 502778,
+        "type": 3
+    },
+    {
+        "id": 14,
+        "sort": 2,
+        "nameid": 502772,
+        "typename": 502778,
+        "type": 3
+    },
+    {
+        "id": 15,
+        "sort": 3,
+        "nameid": 502773,
+        "typename": 502778,
+        "type": 3
+    },
+    {
+        "id": 16,
+        "sort": 4,
+        "nameid": 502774,
+        "typename": 502778,
+        "type": 3
+    }
+]

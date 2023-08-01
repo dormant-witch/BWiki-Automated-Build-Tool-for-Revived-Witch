@@ -1,0 +1,22 @@
+{
+    "5": {
+        "star": 11110,
+        "id": 5,
+        "brokenstar": 11112
+    },
+    "1": {
+        "star": 10,
+        "id": 1,
+        "brokenstar": 12
+    },
+    "2": {
+        "star": 110,
+        "id": 2,
+        "brokenstar": 112
+    },
+    "3": {
+        "star": 1110,
+        "id": 3,
+        "brokenstar": 1112
+    }
+}

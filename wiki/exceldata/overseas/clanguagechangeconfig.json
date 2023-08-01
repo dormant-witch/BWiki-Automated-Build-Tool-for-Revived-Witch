@@ -1,0 +1,66 @@
+[
+    {
+        "fontname": [
+            "fzzzh",
+            "fzzzhGBKjf",
+            "fzzzhArt"
+        ],
+        "id": 1,
+        "assetName": "LanguageAsset_cn",
+        "fontAssetBundle": [
+            "ui\/fonts.assetbundle",
+            "ui\/fonts.assetbundle",
+            "ui\/fonts.assetbundle"
+        ],
+        "languagename": "ch",
+        "assetBundle": "ui\/languageassets.assetbundle"
+    },
+    {
+        "fontname": [
+            "fzzzh",
+            "fzzzhGBKjf",
+            "fzzzhArt"
+        ],
+        "id": 2,
+        "assetName": "LanguageAsset_en",
+        "fontAssetBundle": [
+            "ui\/fonts.assetbundle",
+            "ui\/fonts.assetbundle",
+            "ui\/fonts.assetbundle"
+        ],
+        "languagename": "en",
+        "assetBundle": "ui\/languageassets.assetbundle"
+    },
+    {
+        "fontname": [
+            "fontkr",
+            "fontkr",
+            "fontkrArt"
+        ],
+        "id": 3,
+        "assetName": "LanguageAsset_kr",
+        "fontAssetBundle": [
+            "ui\/fonts.assetbundle",
+            "ui\/fonts.assetbundle",
+            "ui\/fonts.assetbundle"
+        ],
+        "languagename": "kr",
+        "assetBundle": "ui\/languageassets.assetbundle"
+    },
+    {
+        "fontname": [
+            "fzzzh",
+            "fzzzhGBKjf",
+            "fzzzhArt"
+        ],
+        "id": 4,
+        "assetName": "LanguageAsset_jp",
+        "fontAssetBundle": [
+            "ui\/fonts.assetbundle",
+            "ui\/fonts.assetbundle",
+            "ui\/fonts.assetbundle"
+        ],
+        "languagename": "jp",
+        "assetBundle": "ui\/languageassets.assetbundle"
+    }
+]

@@ -1,0 +1,422 @@
+{
+    "704": {
+        "itemID": [
+            35030
+        ],
+        "id": 704,
+        "level": 4,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": [
+            400
+        ],
+        "landID": 7
+    },
+    "901": {
+        "itemID": {},
+        "id": 901,
+        "level": 1,
+        "descTextID": 701260,
+        "functionID": 900104,
+        "itemAmount": {},
+        "landID": 9
+    },
+    "902": {
+        "itemID": [
+            35028,
+            35029
+        ],
+        "id": 902,
+        "level": 2,
+        "descTextID": 701261,
+        "functionID": 900104,
+        "itemAmount": [
+            50,
+            50
+        ],
+        "landID": 9
+    },
+    "903": {
+        "itemID": [
+            35028,
+            35029
+        ],
+        "id": 903,
+        "level": 3,
+        "descTextID": 701262,
+        "functionID": 900104,
+        "itemAmount": [
+            500,
+            500
+        ],
+        "landID": 9
+    },
+    "201": {
+        "itemID": {},
+        "id": 201,
+        "level": 1,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": {},
+        "landID": 2
+    },
+    "202": {
+        "itemID": [
+            35028
+        ],
+        "id": 202,
+        "level": 2,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": [
+            30
+        ],
+        "landID": 2
+    },
+    "203": {
+        "itemID": [
+            35028
+        ],
+        "id": 203,
+        "level": 3,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": [
+            60
+        ],
+        "landID": 2
+    },
+    "204": {
+        "itemID": [
+            35028
+        ],
+        "id": 204,
+        "level": 4,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": [
+            400
+        ],
+        "landID": 2
+    },
+    "401": {
+        "itemID": {},
+        "id": 401,
+        "level": 1,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": {},
+        "landID": 4
+    },
+    "402": {
+        "itemID": [
+            35029,
+            35030
+        ],
+        "id": 402,
+        "level": 2,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": [
+            300,
+            300
+        ],
+        "landID": 4
+    },
+    "403": {
+        "itemID": [
+            35028,
+            35030
+        ],
+        "id": 403,
+        "level": 3,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": [
+            450,
+            450
+        ],
+        "landID": 4
+    },
+    "404": {
+        "itemID": [
+            35028,
+            35029
+        ],
+        "id": 404,
+        "level": 4,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": [
+            600,
+            600
+        ],
+        "landID": 4
+    },
+    "601": {
+        "itemID": {},
+        "id": 601,
+        "level": 1,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": {},
+        "landID": 6
+    },
+    "602": {
+        "itemID": [
+            35028
+        ],
+        "id": 602,
+        "level": 2,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": [
+            30
+        ],
+        "landID": 6
+    },
+    "603": {
+        "itemID": [
+            35028
+        ],
+        "id": 603,
+        "level": 3,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": [
+            60
+        ],
+        "landID": 6
+    },
+    "604": {
+        "itemID": [
+            35028
+        ],
+        "id": 604,
+        "level": 4,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": [
+            400
+        ],
+        "landID": 6
+    },
+    "101": {
+        "itemID": {},
+        "id": 101,
+        "level": 1,
+        "descTextID": 701260,
+        "functionID": 0,
+        "itemAmount": {},
+        "landID": 1
+    },
+    "102": {
+        "itemID": [
+            35029
+        ],
+        "id": 102,
+        "level": 2,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": [
+            30
+        ],
+        "landID": 1
+    },
+    "103": {
+        "itemID": [
+            35029
+        ],
+        "id": 103,
+        "level": 3,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": [
+            60
+        ],
+        "landID": 1
+    },
+    "104": {
+        "itemID": [
+            35029
+        ],
+        "id": 104,
+        "level": 4,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": [
+            400
+        ],
+        "landID": 1
+    },
+    "301": {
+        "itemID": {},
+        "id": 301,
+        "level": 1,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": {},
+        "landID": 3
+    },
+    "302": {
+        "itemID": [
+            35030
+        ],
+        "id": 302,
+        "level": 2,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": [
+            30
+        ],
+        "landID": 3
+    },
+    "303": {
+        "itemID": [
+            35030
+        ],
+        "id": 303,
+        "level": 3,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": [
+            60
+        ],
+        "landID": 3
+    },
+    "304": {
+        "itemID": [
+            35030
+        ],
+        "id": 304,
+        "level": 4,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": [
+            400
+        ],
+        "landID": 3
+    },
+    "1201": {
+        "itemID": {},
+        "id": 1201,
+        "level": 1,
+        "descTextID": 701257,
+        "functionID": 900103,
+        "itemAmount": {},
+        "landID": 12
+    },
+    "1202": {
+        "itemID": [
+            35028,
+            35030
+        ],
+        "id": 1202,
+        "level": 2,
+        "descTextID": 701258,
+        "functionID": 900103,
+        "itemAmount": [
+            200,
+            200
+        ],
+        "landID": 12
+    },
+    "1203": {
+        "itemID": [
+            35028,
+            35030
+        ],
+        "id": 1203,
+        "level": 3,
+        "descTextID": 701259,
+        "functionID": 900103,
+        "itemAmount": [
+            800,
+            800
+        ],
+        "landID": 12
+    },
+    "501": {
+        "itemID": {},
+        "id": 501,
+        "level": 1,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": {},
+        "landID": 5
+    },
+    "502": {
+        "itemID": [
+            35029
+        ],
+        "id": 502,
+        "level": 2,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": [
+            30
+        ],
+        "landID": 5
+    },
+    "503": {
+        "itemID": [
+            35029
+        ],
+        "id": 503,
+        "level": 3,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": [
+            60
+        ],
+        "landID": 5
+    },
+    "504": {
+        "itemID": [
+            35029
+        ],
+        "id": 504,
+        "level": 4,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": [
+            400
+        ],
+        "landID": 5
+    },
+    "701": {
+        "itemID": {},
+        "id": 701,
+        "level": 1,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": {},
+        "landID": 7
+    },
+    "702": {
+        "itemID": [
+            35030
+        ],
+        "id": 702,
+        "level": 2,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": [
+            30
+        ],
+        "landID": 7
+    },
+    "703": {
+        "itemID": [
+            35030
+        ],
+        "id": 703,
+        "level": 3,
+        "descTextID": 701261,
+        "functionID": 0,
+        "itemAmount": [
+            60
+        ],
+        "landID": 7
+    }
+}

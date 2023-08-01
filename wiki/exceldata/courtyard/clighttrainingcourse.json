@@ -1,0 +1,322 @@
+[
+    {
+        "trainingexpgain": 6000,
+        "id": 1,
+        "trainingtime": 120,
+        "trainingrarity": 1,
+        "lightcostitem": 35014,
+        "trainingnametxtid": 800160,
+        "lightcostnum": 300,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 12000,
+        "id": 2,
+        "trainingtime": 240,
+        "trainingrarity": 1,
+        "lightcostitem": 35014,
+        "trainingnametxtid": 800160,
+        "lightcostnum": 600,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 24000,
+        "id": 3,
+        "trainingtime": 480,
+        "trainingrarity": 1,
+        "lightcostitem": 35014,
+        "trainingnametxtid": 800160,
+        "lightcostnum": 1200,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 8000,
+        "id": 4,
+        "trainingtime": 120,
+        "trainingrarity": 1,
+        "lightcostitem": 35015,
+        "trainingnametxtid": 800161,
+        "lightcostnum": 100,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 16000,
+        "id": 5,
+        "trainingtime": 240,
+        "trainingrarity": 1,
+        "lightcostitem": 35015,
+        "trainingnametxtid": 800161,
+        "lightcostnum": 200,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 32000,
+        "id": 6,
+        "trainingtime": 480,
+        "trainingrarity": 1,
+        "lightcostitem": 35015,
+        "trainingnametxtid": 800161,
+        "lightcostnum": 400,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 18000,
+        "id": 7,
+        "trainingtime": 120,
+        "trainingrarity": 2,
+        "lightcostitem": 35014,
+        "trainingnametxtid": 800160,
+        "lightcostnum": 900,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 36000,
+        "id": 8,
+        "trainingtime": 240,
+        "trainingrarity": 2,
+        "lightcostitem": 35014,
+        "trainingnametxtid": 800160,
+        "lightcostnum": 1800,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 72000,
+        "id": 9,
+        "trainingtime": 480,
+        "trainingrarity": 2,
+        "lightcostitem": 35014,
+        "trainingnametxtid": 800160,
+        "lightcostnum": 3600,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 90000,
+        "id": 10,
+        "trainingtime": 600,
+        "trainingrarity": 2,
+        "lightcostitem": 35014,
+        "trainingnametxtid": 800160,
+        "lightcostnum": 4500,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 24000,
+        "id": 11,
+        "trainingtime": 120,
+        "trainingrarity": 2,
+        "lightcostitem": 35015,
+        "trainingnametxtid": 800161,
+        "lightcostnum": 300,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 48000,
+        "id": 12,
+        "trainingtime": 240,
+        "trainingrarity": 2,
+        "lightcostitem": 35015,
+        "trainingnametxtid": 800161,
+        "lightcostnum": 600,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 96000,
+        "id": 13,
+        "trainingtime": 480,
+        "trainingrarity": 2,
+        "lightcostitem": 35015,
+        "trainingnametxtid": 800161,
+        "lightcostnum": 1200,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 144000,
+        "id": 14,
+        "trainingtime": 720,
+        "trainingrarity": 2,
+        "lightcostitem": 35015,
+        "trainingnametxtid": 800161,
+        "lightcostnum": 1800,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 36000,
+        "id": 15,
+        "trainingtime": 120,
+        "trainingrarity": 3,
+        "lightcostitem": 35014,
+        "trainingnametxtid": 800160,
+        "lightcostnum": 1800,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 72000,
+        "id": 16,
+        "trainingtime": 240,
+        "trainingrarity": 3,
+        "lightcostitem": 35014,
+        "trainingnametxtid": 800160,
+        "lightcostnum": 3600,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 144000,
+        "id": 17,
+        "trainingtime": 480,
+        "trainingrarity": 3,
+        "lightcostitem": 35014,
+        "trainingnametxtid": 800160,
+        "lightcostnum": 7200,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 180000,
+        "id": 18,
+        "trainingtime": 600,
+        "trainingrarity": 3,
+        "lightcostitem": 35014,
+        "trainingnametxtid": 800160,
+        "lightcostnum": 9000,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 48000,
+        "id": 19,
+        "trainingtime": 120,
+        "trainingrarity": 3,
+        "lightcostitem": 35015,
+        "trainingnametxtid": 800161,
+        "lightcostnum": 600,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 96000,
+        "id": 20,
+        "trainingtime": 240,
+        "trainingrarity": 3,
+        "lightcostitem": 35015,
+        "trainingnametxtid": 800161,
+        "lightcostnum": 1200,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 192000,
+        "id": 21,
+        "trainingtime": 480,
+        "trainingrarity": 3,
+        "lightcostitem": 35015,
+        "trainingnametxtid": 800161,
+        "lightcostnum": 2400,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 288000,
+        "id": 22,
+        "trainingtime": 720,
+        "trainingrarity": 3,
+        "lightcostitem": 35015,
+        "trainingnametxtid": 800161,
+        "lightcostnum": 3600,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 384000,
+        "id": 23,
+        "trainingtime": 960,
+        "trainingrarity": 3,
+        "lightcostitem": 35015,
+        "trainingnametxtid": 800161,
+        "lightcostnum": 4800,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 144000,
+        "id": 24,
+        "trainingtime": 360,
+        "trainingrarity": 3,
+        "lightcostitem": 35015,
+        "trainingnametxtid": 800161,
+        "lightcostnum": 1800,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 50400,
+        "id": 25,
+        "trainingtime": 120,
+        "trainingrarity": 3,
+        "lightcostitem": 35016,
+        "trainingnametxtid": 800162,
+        "lightcostnum": 360,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 100800,
+        "id": 26,
+        "trainingtime": 240,
+        "trainingrarity": 3,
+        "lightcostitem": 35016,
+        "trainingnametxtid": 800162,
+        "lightcostnum": 720,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 201600,
+        "id": 27,
+        "trainingtime": 480,
+        "trainingrarity": 3,
+        "lightcostitem": 35016,
+        "trainingnametxtid": 800162,
+        "lightcostnum": 1440,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 302400,
+        "id": 28,
+        "trainingtime": 720,
+        "trainingrarity": 3,
+        "lightcostitem": 35016,
+        "trainingnametxtid": 800162,
+        "lightcostnum": 2160,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 403200,
+        "id": 29,
+        "trainingtime": 960,
+        "trainingrarity": 3,
+        "lightcostitem": 35016,
+        "trainingnametxtid": 800162,
+        "lightcostnum": 2880,
+        "appearproportion": 5
+    },
+    {
+        "trainingexpgain": 151200,
+        "id": 30,
+        "trainingtime": 240,
+        "trainingrarity": 4,
+        "lightcostitem": 35016,
+        "trainingnametxtid": 800162,
+        "lightcostnum": 1080,
+        "appearproportion": 10
+    },
+    {
+        "trainingexpgain": 302400,
+        "id": 31,
+        "trainingtime": 480,
+        "trainingrarity": 4,
+        "lightcostitem": 35016,
+        "trainingnametxtid": 800162,
+        "lightcostnum": 2160,
+        "appearproportion": 10
+    },
+    {
+        "trainingexpgain": 403200,
+        "id": 32,
+        "trainingtime": 640,
+        "trainingrarity": 4,
+        "lightcostitem": 35016,
+        "trainingnametxtid": 800162,
+        "lightcostnum": 2880,
+        "appearproportion": 10
+    }
+]

@@ -1,0 +1,5693 @@
+{
+    "6": {
+        "nextDialog": 0,
+        "id": 6,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1"
+    },
+    "7": {
+        "nextDialog": 0,
+        "id": 7,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2"
+    },
+    "8": {
+        "nextDialog": 0,
+        "id": 8,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3-5"
+    },
+    "1034": {
+        "nextDialog": 0,
+        "id": 1034,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "917"
+    },
+    "1035": {
+        "nextDialog": 0,
+        "id": 1035,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "923,924,925,926,927,2018,928"
+    },
+    "1036": {
+        "nextDialog": 0,
+        "id": 1036,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "934,935"
+    },
+    "1037": {
+        "nextDialog": 0,
+        "id": 1037,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "936,937,938,939,940,941,942"
+    },
+    "14": {
+        "nextDialog": 0,
+        "id": 14,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "14"
+    },
+    "15": {
+        "nextDialog": 0,
+        "id": 15,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "15"
+    },
+    "1040": {
+        "nextDialog": 0,
+        "id": 1040,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "945,946,947,948,949,950,951,952"
+    },
+    "1041": {
+        "nextDialog": 0,
+        "id": 1041,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "953,954,955,956,957"
+    },
+    "1042": {
+        "nextDialog": 0,
+        "id": 1042,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "958,959,960,961,962,963,964,965,966,967,968,969,970,971"
+    },
+    "1043": {
+        "nextDialog": 0,
+        "id": 1043,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "972,973,978,974,976,975,977"
+    },
+    "1044": {
+        "nextDialog": 0,
+        "id": 1044,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "994,1303,1301,1302"
+    },
+    "1045": {
+        "nextDialog": 0,
+        "id": 1045,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "995,996,997,998"
+    },
+    "22": {
+        "nextDialog": 0,
+        "id": 22,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "13"
+    },
+    "1047": {
+        "nextDialog": 0,
+        "id": 1047,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "893"
+    },
+    "1048": {
+        "nextDialog": 0,
+        "id": 1048,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "894"
+    },
+    "25": {
+        "nextDialog": 0,
+        "id": 25,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "16"
+    },
+    "26": {
+        "nextDialog": 0,
+        "id": 26,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "17"
+    },
+    "27": {
+        "nextDialog": 0,
+        "id": 27,
+        "skipTime": -1,
+        "canSkip": 0,
+        "dialogList": "18,19"
+    },
+    "1052": {
+        "nextDialog": 0,
+        "id": 1052,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1091,1092,1093,1094,1095"
+    },
+    "29": {
+        "nextDialog": 0,
+        "id": 29,
+        "skipTime": -1,
+        "canSkip": 0,
+        "dialogList": "20"
+    },
+    "30": {
+        "nextDialog": 0,
+        "id": 30,
+        "skipTime": -1,
+        "canSkip": 0,
+        "dialogList": "21,2010,2011,2012,2013,2014,2015,2016,2017"
+    },
+    "31": {
+        "nextDialog": 232,
+        "id": 31,
+        "skipTime": -1,
+        "canSkip": 0,
+        "dialogList": "29,30,1304"
+    },
+    "1056": {
+        "nextDialog": 0,
+        "id": 1056,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1114"
+    },
+    "33": {
+        "nextDialog": 0,
+        "id": 33,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "7"
+    },
+    "34": {
+        "nextDialog": 0,
+        "id": 34,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "119"
+    },
+    "35": {
+        "nextDialog": 0,
+        "id": 35,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "120"
+    },
+    "1060": {
+        "nextDialog": 0,
+        "id": 1060,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1134,1135,1136,1137,1138,1139,1140,1141,1142"
+    },
+    "1061": {
+        "nextDialog": 0,
+        "id": 1061,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1143"
+    },
+    "1062": {
+        "nextDialog": 0,
+        "id": 1062,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1144,1145,1146,1147"
+    },
+    "1063": {
+        "nextDialog": 0,
+        "id": 1063,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1148,1149,1150,1152,1153,1154,1155,1156,1157,1158,1159,1160,1161,1162,1163,1164,1165,1151,1166,1167,1168,1169,1170,1171,1172"
+    },
+    "40": {
+        "nextDialog": 0,
+        "id": 40,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "124-133"
+    },
+    "1065": {
+        "nextDialog": 0,
+        "id": 1065,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1179,1180"
+    },
+    "1066": {
+        "nextDialog": 0,
+        "id": 1066,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1181"
+    },
+    "1067": {
+        "nextDialog": 0,
+        "id": 1067,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1182"
+    },
+    "1068": {
+        "nextDialog": 0,
+        "id": 1068,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1183,1184,1185,1186,1187,1188,1189,1190,1191,1192"
+    },
+    "1069": {
+        "nextDialog": 0,
+        "id": 1069,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1191,1192"
+    },
+    "46": {
+        "nextDialog": 0,
+        "id": 46,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "134-142"
+    },
+    "47": {
+        "nextDialog": 0,
+        "id": 47,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "36"
+    },
+    "48": {
+        "nextDialog": 0,
+        "id": 48,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "143-147"
+    },
+    "1073": {
+        "nextDialog": 0,
+        "id": 1073,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1223,1224,1225,1226,1227,1228,1229,1230,1231,1232,1233"
+    },
+    "1074": {
+        "nextDialog": 0,
+        "id": 1074,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1234,1235,1236,1237,1238,1239,1240,1241,1242"
+    },
+    "1075": {
+        "nextDialog": 0,
+        "id": 1075,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1243,1244,1245,1246,1247,1250,1251,1252,1253,1255,1256,1257"
+    },
+    "52": {
+        "nextDialog": 0,
+        "id": 52,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "148-152"
+    },
+    "1077": {
+        "nextDialog": 0,
+        "id": 1077,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1263"
+    },
+    "1078": {
+        "nextDialog": 0,
+        "id": 1078,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1264"
+    },
+    "1079": {
+        "nextDialog": 0,
+        "id": 1079,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1265,1266,1267,1268"
+    },
+    "56": {
+        "nextDialog": 0,
+        "id": 56,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "153-163"
+    },
+    "1081": {
+        "nextDialog": 0,
+        "id": 1081,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1273,1274,1275,1276,1277,1278"
+    },
+    "1082": {
+        "nextDialog": 0,
+        "id": 1082,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1279,1280,1281,1282,1283,1284"
+    },
+    "1083": {
+        "nextDialog": 0,
+        "id": 1083,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1285,1286,1287,1288,1289,1290,1291,1292,1293,1294,1295,1296,1297,1298,2024,1299,1300"
+    },
+    "1084": {
+        "nextDialog": 0,
+        "id": 1084,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1313,1314,1315,1316,1317,1318,1319"
+    },
+    "1085": {
+        "nextDialog": 0,
+        "id": 1085,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1324,1325,1326"
+    },
+    "1086": {
+        "nextDialog": 0,
+        "id": 1086,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1327"
+    },
+    "1087": {
+        "nextDialog": 0,
+        "id": 1087,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1328,1329,1330,1331"
+    },
+    "1088": {
+        "nextDialog": 0,
+        "id": 1088,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1081-1086"
+    },
+    "1089": {
+        "nextDialog": 0,
+        "id": 1089,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1332"
+    },
+    "1090": {
+        "nextDialog": 0,
+        "id": 1090,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1333,1334,1335,1336,1337,1338"
+    },
+    "1091": {
+        "nextDialog": 0,
+        "id": 1091,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1339,1340,1341,1342"
+    },
+    "1092": {
+        "nextDialog": 0,
+        "id": 1092,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1343,1344"
+    },
+    "1093": {
+        "nextDialog": 0,
+        "id": 1093,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1345,1346,1347,1348,1349,1350"
+    },
+    "70": {
+        "nextDialog": 0,
+        "id": 70,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "164-169"
+    },
+    "1095": {
+        "nextDialog": 0,
+        "id": 1095,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1353"
+    },
+    "1096": {
+        "nextDialog": 0,
+        "id": 1096,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1354,1355,1356,1357,1358,1359,1360,1361,1362,1363,1364,1365"
+    },
+    "1097": {
+        "nextDialog": 0,
+        "id": 1097,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1366"
+    },
+    "1098": {
+        "nextDialog": 0,
+        "id": 1098,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1464,1465"
+    },
+    "75": {
+        "nextDialog": 0,
+        "id": 75,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "170"
+    },
+    "1100": {
+        "nextDialog": 0,
+        "id": 1100,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1384"
+    },
+    "77": {
+        "nextDialog": 0,
+        "id": 77,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "172-184"
+    },
+    "1102": {
+        "nextDialog": 0,
+        "id": 1102,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1389,1390,1391,1392,1393"
+    },
+    "1103": {
+        "nextDialog": 0,
+        "id": 1103,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1394,1395,1396,1397,1398,1399"
+    },
+    "1104": {
+        "nextDialog": 0,
+        "id": 1104,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1400,1401"
+    },
+    "1105": {
+        "nextDialog": 0,
+        "id": 1105,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1402,1403,1404,1405,1406,1407,1408,1409,1410"
+    },
+    "1106": {
+        "nextDialog": 0,
+        "id": 1106,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1411,1412"
+    },
+    "1107": {
+        "nextDialog": 0,
+        "id": 1107,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1413,1414,1415,1416,1417"
+    },
+    "84": {
+        "nextDialog": 0,
+        "id": 84,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "207-220"
+    },
+    "1109": {
+        "nextDialog": 0,
+        "id": 1109,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1435,1436,1437,1438,1439,1440,1441,1442,1443,1444,1445,1446,1447,1448,1449"
+    },
+    "1110": {
+        "nextDialog": 0,
+        "id": 1110,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1450,1451,1452,1453,1454,1455,1456,1457"
+    },
+    "1111": {
+        "nextDialog": 0,
+        "id": 1111,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1458,1459,1460,1461,1462,1463"
+    },
+    "1112": {
+        "nextDialog": 0,
+        "id": 1112,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1466,1467"
+    },
+    "1113": {
+        "nextDialog": 0,
+        "id": 1113,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1468,1469"
+    },
+    "1114": {
+        "nextDialog": 0,
+        "id": 1114,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1470,1471,1472,1473,1474,1475"
+    },
+    "1115": {
+        "nextDialog": 0,
+        "id": 1115,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1476"
+    },
+    "1116": {
+        "nextDialog": 0,
+        "id": 1116,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1477,1478"
+    },
+    "1117": {
+        "nextDialog": 0,
+        "id": 1117,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1479,1480,1481"
+    },
+    "1118": {
+        "nextDialog": 0,
+        "id": 1118,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1487,1488,1489,1490,1491,1492,1493,1494,1495,1496"
+    },
+    "1119": {
+        "nextDialog": 0,
+        "id": 1119,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1497,1498,1499,1500,1501"
+    },
+    "1120": {
+        "nextDialog": 0,
+        "id": 1120,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1502,1503,1504"
+    },
+    "1121": {
+        "nextDialog": 0,
+        "id": 1121,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1505,1506"
+    },
+    "1122": {
+        "nextDialog": 0,
+        "id": 1122,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1507,1508,1509,1510,1511,1512,1513"
+    },
+    "1123": {
+        "nextDialog": 0,
+        "id": 1123,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1514,1515,1516,1517,1518,1519,1520,1521,1522,1523"
+    },
+    "1124": {
+        "nextDialog": 0,
+        "id": 1124,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1524"
+    },
+    "1125": {
+        "nextDialog": 0,
+        "id": 1125,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1525,1526,1527,1528,1529"
+    },
+    "1126": {
+        "nextDialog": 0,
+        "id": 1126,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1530,1531,1532,1533,1534,1535,1536,1537,1538,1539"
+    },
+    "1127": {
+        "nextDialog": 0,
+        "id": 1127,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1540,1541,1542,1543,1544,1545,1546"
+    },
+    "1128": {
+        "nextDialog": 0,
+        "id": 1128,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1547,1548"
+    },
+    "1129": {
+        "nextDialog": 0,
+        "id": 1129,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1550,1551,1552,1553,1554,1555,1556,1557,1558,1559"
+    },
+    "1130": {
+        "nextDialog": 0,
+        "id": 1130,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1560"
+    },
+    "1131": {
+        "nextDialog": 0,
+        "id": 1131,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1561"
+    },
+    "1132": {
+        "nextDialog": 0,
+        "id": 1132,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1562,1563,1564,1565,1566,1567,1568,1569,1570,1571,1572,1573,1574"
+    },
+    "1133": {
+        "nextDialog": 0,
+        "id": 1133,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1575"
+    },
+    "1134": {
+        "nextDialog": 0,
+        "id": 1134,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1576,1577,1578,1579"
+    },
+    "1135": {
+        "nextDialog": 0,
+        "id": 1135,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1580,1581"
+    },
+    "1136": {
+        "nextDialog": 0,
+        "id": 1136,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1582,1583"
+    },
+    "1137": {
+        "nextDialog": 0,
+        "id": 1137,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1589,1590,1591,1592,1593,1594,1595,1596"
+    },
+    "114": {
+        "nextDialog": 0,
+        "id": 114,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "236-255"
+    },
+    "1139": {
+        "nextDialog": 0,
+        "id": 1139,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1604-1629"
+    },
+    "1140": {
+        "nextDialog": 0,
+        "id": 1140,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1634"
+    },
+    "1141": {
+        "nextDialog": 0,
+        "id": 1141,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1635,1636"
+    },
+    "1142": {
+        "nextDialog": 0,
+        "id": 1142,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1637,1638,1639,1640"
+    },
+    "1143": {
+        "nextDialog": 0,
+        "id": 1143,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1641,1642,1643,1644,1645,1646,1647"
+    },
+    "1144": {
+        "nextDialog": 0,
+        "id": 1144,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1648,1649,1650,1651,1652,1653,1654,1655,1656,1657"
+    },
+    "1145": {
+        "nextDialog": 0,
+        "id": 1145,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1662,1663,1664,1665,1666,1667,1668,1669,1670,1671"
+    },
+    "1146": {
+        "nextDialog": 0,
+        "id": 1146,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1672,1673,1674,1675,1676,1677,1678,1679,1680"
+    },
+    "1147": {
+        "nextDialog": 0,
+        "id": 1147,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1681,1682,1683,1684"
+    },
+    "1148": {
+        "nextDialog": 0,
+        "id": 1148,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1685,1686"
+    },
+    "1149": {
+        "nextDialog": 0,
+        "id": 1149,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1688,1689,1690,1691,1692"
+    },
+    "1150": {
+        "nextDialog": 0,
+        "id": 1150,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1693"
+    },
+    "1151": {
+        "nextDialog": 0,
+        "id": 1151,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1694"
+    },
+    "1152": {
+        "nextDialog": 0,
+        "id": 1152,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1695,1696,1697,1698,1699,1700,1701,1702,1703,1704,1705,1706,1707,1708,1709,1710"
+    },
+    "1153": {
+        "nextDialog": 0,
+        "id": 1153,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1711,1712,1713,1714,1715,1716,1717,1718"
+    },
+    "130": {
+        "nextDialog": 0,
+        "id": 130,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "264-272"
+    },
+    "1155": {
+        "nextDialog": 0,
+        "id": 1155,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1720,1721,1722,1723,1724"
+    },
+    "1156": {
+        "nextDialog": 0,
+        "id": 1156,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1725,1726"
+    },
+    "1157": {
+        "nextDialog": 0,
+        "id": 1157,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1727"
+    },
+    "1158": {
+        "nextDialog": 0,
+        "id": 1158,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1728"
+    },
+    "1159": {
+        "nextDialog": 0,
+        "id": 1159,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1729,1730,1731,1732,1733,1734,1735,1736,1737,1738,1739,1740,1741,1742,1743,1744,1745,1746,1747,1748,1749,1750,1751,1752,1753,1754,1755,1756"
+    },
+    "1160": {
+        "nextDialog": 0,
+        "id": 1160,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1757,1758,1759,1760,1761"
+    },
+    "1161": {
+        "nextDialog": 1160,
+        "id": 1161,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1762,1763,1764,1765,1766"
+    },
+    "1162": {
+        "nextDialog": 0,
+        "id": 1162,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1767,1768"
+    },
+    "1163": {
+        "nextDialog": 1162,
+        "id": 1163,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1769,1770"
+    },
+    "140": {
+        "nextDialog": 0,
+        "id": 140,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "289-294"
+    },
+    "1165": {
+        "nextDialog": 0,
+        "id": 1165,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1775,1776,1777,1778,1779,1780,1781,1782,1783,1784,1785,1786,1787,1788"
+    },
+    "1166": {
+        "nextDialog": 0,
+        "id": 1166,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1789,1790,1791,1792"
+    },
+    "1167": {
+        "nextDialog": 0,
+        "id": 1167,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1793,1794,1795,1796,1797,1798,1799,1800,1801,1802,1803,1804"
+    },
+    "1168": {
+        "nextDialog": 0,
+        "id": 1168,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1805,1806,1807,1808,1809,1810"
+    },
+    "1169": {
+        "nextDialog": 0,
+        "id": 1169,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1811"
+    },
+    "1170": {
+        "nextDialog": 0,
+        "id": 1170,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1812,1813,1814,1815,1816,1817"
+    },
+    "1171": {
+        "nextDialog": 0,
+        "id": 1171,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1818"
+    },
+    "148": {
+        "nextDialog": 0,
+        "id": 148,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "330"
+    },
+    "1173": {
+        "nextDialog": 0,
+        "id": 1173,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1824"
+    },
+    "1174": {
+        "nextDialog": 0,
+        "id": 1174,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1825,1826"
+    },
+    "1175": {
+        "nextDialog": 0,
+        "id": 1175,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1827"
+    },
+    "1176": {
+        "nextDialog": 0,
+        "id": 1176,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1828,1829"
+    },
+    "1177": {
+        "nextDialog": 0,
+        "id": 1177,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1830,1831,1832,1833,1834,1835"
+    },
+    "1178": {
+        "nextDialog": 0,
+        "id": 1178,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1836,1837,1838,1839,1840"
+    },
+    "1179": {
+        "nextDialog": 0,
+        "id": 1179,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1841"
+    },
+    "1180": {
+        "nextDialog": 0,
+        "id": 1180,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1842,1843,1844,1845,1846,1847,1848,1849,1850"
+    },
+    "157": {
+        "nextDialog": 0,
+        "id": 157,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "374-381"
+    },
+    "1182": {
+        "nextDialog": 0,
+        "id": 1182,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1852"
+    },
+    "1183": {
+        "nextDialog": 0,
+        "id": 1183,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1853,1854,1855,1856,1857,1858,1859"
+    },
+    "1184": {
+        "nextDialog": 0,
+        "id": 1184,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1860"
+    },
+    "161": {
+        "nextDialog": 0,
+        "id": 161,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "331"
+    },
+    "1186": {
+        "nextDialog": 0,
+        "id": 1186,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1881"
+    },
+    "1187": {
+        "nextDialog": 0,
+        "id": 1187,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1893,1894"
+    },
+    "1188": {
+        "nextDialog": 0,
+        "id": 1188,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1895"
+    },
+    "1189": {
+        "nextDialog": 0,
+        "id": 1189,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1896,1897,1898,1899"
+    },
+    "1190": {
+        "nextDialog": 0,
+        "id": 1190,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1900"
+    },
+    "1191": {
+        "nextDialog": 0,
+        "id": 1191,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1901,1902"
+    },
+    "1192": {
+        "nextDialog": 0,
+        "id": 1192,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1903,1904"
+    },
+    "1193": {
+        "nextDialog": 0,
+        "id": 1193,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1905,1906,1907,1908,1909,1910,1911,1912,1913,1914,1915,1917"
+    },
+    "1194": {
+        "nextDialog": 0,
+        "id": 1194,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1918,1919,1920,1925,1923"
+    },
+    "1195": {
+        "nextDialog": 0,
+        "id": 1195,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1926,1927"
+    },
+    "1196": {
+        "nextDialog": 0,
+        "id": 1196,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1928"
+    },
+    "1197": {
+        "nextDialog": 0,
+        "id": 1197,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1929,1930,1931,1932"
+    },
+    "1198": {
+        "nextDialog": 0,
+        "id": 1198,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1933,1934,1935,1936"
+    },
+    "1199": {
+        "nextDialog": 0,
+        "id": 1199,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1937,1938"
+    },
+    "176": {
+        "nextDialog": 0,
+        "id": 176,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "45,46,47"
+    },
+    "1201": {
+        "nextDialog": 0,
+        "id": 1201,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1482-1486"
+    },
+    "1202": {
+        "nextDialog": 0,
+        "id": 1202,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1584,1585,1586,1587,1588"
+    },
+    "179": {
+        "nextDialog": 0,
+        "id": 179,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "918"
+    },
+    "180": {
+        "nextDialog": 0,
+        "id": 180,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "48"
+    },
+    "181": {
+        "nextDialog": 0,
+        "id": 181,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "49-52"
+    },
+    "1206": {
+        "nextDialog": 0,
+        "id": 1206,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1965,1966,1942,1943"
+    },
+    "1207": {
+        "nextDialog": 0,
+        "id": 1207,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1944,1945"
+    },
+    "1208": {
+        "nextDialog": 0,
+        "id": 1208,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1967,1968,1969,1971"
+    },
+    "1209": {
+        "nextDialog": 0,
+        "id": 1209,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1882,1883,1884,1885,1886,1887"
+    },
+    "1210": {
+        "nextDialog": 0,
+        "id": 1210,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1888,1889,1890,1891,1892"
+    },
+    "187": {
+        "nextDialog": 0,
+        "id": 187,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "919,121,122,123"
+    },
+    "1212": {
+        "nextDialog": 0,
+        "id": 1212,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1973"
+    },
+    "1213": {
+        "nextDialog": 0,
+        "id": 1213,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1974,1975,1976,1977,1978"
+    },
+    "1214": {
+        "nextDialog": 0,
+        "id": 1214,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1979"
+    },
+    "191": {
+        "nextDialog": 0,
+        "id": 191,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "333-339,2025,340"
+    },
+    "1216": {
+        "nextDialog": 0,
+        "id": 1216,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1983,1984,1985,1986,1987,1988,1989"
+    },
+    "1217": {
+        "nextDialog": 0,
+        "id": 1217,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1990,1991,1992,1993,1994,1995,1996"
+    },
+    "1218": {
+        "nextDialog": 0,
+        "id": 1218,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1997,2009"
+    },
+    "1219": {
+        "nextDialog": 0,
+        "id": 1219,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1998,1999,2000,2001"
+    },
+    "1220": {
+        "nextDialog": 0,
+        "id": 1220,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2002,2003"
+    },
+    "1221": {
+        "nextDialog": 0,
+        "id": 1221,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2004,2005,2006"
+    },
+    "1222": {
+        "nextDialog": 0,
+        "id": 1222,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2007,2008"
+    },
+    "199": {
+        "nextDialog": 0,
+        "id": 199,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "341,342,343,1949,1950,1951,1952,1953,1954"
+    },
+    "1224": {
+        "nextDialog": 0,
+        "id": 1224,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2020,2021"
+    },
+    "1225": {
+        "nextDialog": 0,
+        "id": 1225,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1584-1588"
+    },
+    "202": {
+        "nextDialog": 0,
+        "id": 202,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "344"
+    },
+    "1227": {
+        "nextDialog": 0,
+        "id": 1227,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1658,1659,1660"
+    },
+    "1228": {
+        "nextDialog": 0,
+        "id": 1228,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2026"
+    },
+    "1229": {
+        "nextDialog": 0,
+        "id": 1229,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "382-386,2027-2030"
+    },
+    "1230": {
+        "nextDialog": 0,
+        "id": 1230,
+        "skipTime": -1,
+        "canSkip": 0,
+        "dialogList": "2031,2032"
+    },
+    "1231": {
+        "nextDialog": 0,
+        "id": 1231,
+        "skipTime": -1,
+        "canSkip": 0,
+        "dialogList": "2033,2034"
+    },
+    "1232": {
+        "nextDialog": 0,
+        "id": 1232,
+        "skipTime": -1,
+        "canSkip": 0,
+        "dialogList": "2035,2036"
+    },
+    "1233": {
+        "nextDialog": 0,
+        "id": 1233,
+        "skipTime": -1,
+        "canSkip": 0,
+        "dialogList": "2037"
+    },
+    "1234": {
+        "nextDialog": 0,
+        "id": 1234,
+        "skipTime": -1,
+        "canSkip": 0,
+        "dialogList": "2038"
+    },
+    "1235": {
+        "nextDialog": 0,
+        "id": 1235,
+        "skipTime": -1,
+        "canSkip": 0,
+        "dialogList": "2051-2054"
+    },
+    "1236": {
+        "nextDialog": 0,
+        "id": 1236,
+        "skipTime": -1,
+        "canSkip": 0,
+        "dialogList": "2055-2059"
+    },
+    "1237": {
+        "nextDialog": 0,
+        "id": 1237,
+        "skipTime": -1,
+        "canSkip": 0,
+        "dialogList": "2060-2070"
+    },
+    "1238": {
+        "nextDialog": 0,
+        "id": 1238,
+        "skipTime": -1,
+        "canSkip": 0,
+        "dialogList": "2071-2074"
+    },
+    "1239": {
+        "nextDialog": 0,
+        "id": 1239,
+        "skipTime": -1,
+        "canSkip": 0,
+        "dialogList": "2075"
+    },
+    "1240": {
+        "nextDialog": 0,
+        "id": 1240,
+        "skipTime": -1,
+        "canSkip": 0,
+        "dialogList": "2076"
+    },
+    "1241": {
+        "nextDialog": 0,
+        "id": 1241,
+        "skipTime": -1,
+        "canSkip": 0,
+        "dialogList": "2082-2089"
+    },
+    "1242": {
+        "nextDialog": 0,
+        "id": 1242,
+        "skipTime": -1,
+        "canSkip": 0,
+        "dialogList": "2077"
+    },
+    "1243": {
+        "nextDialog": 1244,
+        "id": 1243,
+        "skipTime": -1,
+        "canSkip": 0,
+        "dialogList": "2078"
+    },
+    "1244": {
+        "nextDialog": 0,
+        "id": 1244,
+        "skipTime": -1,
+        "canSkip": 0,
+        "dialogList": "2079-2081"
+    },
+    "1245": {
+        "nextDialog": 0,
+        "id": 1245,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2090"
+    },
+    "1246": {
+        "nextDialog": 0,
+        "id": 1246,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2091-2094"
+    },
+    "1247": {
+        "nextDialog": 0,
+        "id": 1247,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2095-2115"
+    },
+    "224": {
+        "nextDialog": 0,
+        "id": 224,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373"
+    },
+    "1249": {
+        "nextDialog": 0,
+        "id": 1249,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2124-2130"
+    },
+    "1250": {
+        "nextDialog": 0,
+        "id": 1250,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2131"
+    },
+    "1251": {
+        "nextDialog": 0,
+        "id": 1251,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2132-2135"
+    },
+    "1252": {
+        "nextDialog": 0,
+        "id": 1252,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2146-2150"
+    },
+    "1253": {
+        "nextDialog": 0,
+        "id": 1253,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2151-2154"
+    },
+    "1254": {
+        "nextDialog": 0,
+        "id": 1254,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2153-2154"
+    },
+    "1255": {
+        "nextDialog": 0,
+        "id": 1255,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2155-2161"
+    },
+    "232": {
+        "nextDialog": 0,
+        "id": 232,
+        "skipTime": -1,
+        "canSkip": 0,
+        "dialogList": "31"
+    },
+    "1257": {
+        "nextDialog": 0,
+        "id": 1257,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2164-2170"
+    },
+    "234": {
+        "nextDialog": 0,
+        "id": 234,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "230-235"
+    },
+    "1259": {
+        "nextDialog": 0,
+        "id": 1259,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2143-2145"
+    },
+    "1260": {
+        "nextDialog": 0,
+        "id": 1260,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2171-2174"
+    },
+    "237": {
+        "nextDialog": 0,
+        "id": 237,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "321-326"
+    },
+    "1262": {
+        "nextDialog": 0,
+        "id": 1262,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2180-2183"
+    },
+    "1263": {
+        "nextDialog": 0,
+        "id": 1263,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2184-2186"
+    },
+    "1264": {
+        "nextDialog": 0,
+        "id": 1264,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2187-2197"
+    },
+    "1265": {
+        "nextDialog": 0,
+        "id": 1265,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2198-2202"
+    },
+    "1266": {
+        "nextDialog": 0,
+        "id": 1266,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2203-2205"
+    },
+    "1267": {
+        "nextDialog": 0,
+        "id": 1267,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2206-2208"
+    },
+    "1268": {
+        "nextDialog": 0,
+        "id": 1268,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2209"
+    },
+    "1269": {
+        "nextDialog": 0,
+        "id": 1269,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2210-2211"
+    },
+    "1270": {
+        "nextDialog": 0,
+        "id": 1270,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2212-2214"
+    },
+    "1271": {
+        "nextDialog": 0,
+        "id": 1271,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2215-2221"
+    },
+    "1272": {
+        "nextDialog": 0,
+        "id": 1272,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2222-2223"
+    },
+    "1273": {
+        "nextDialog": 0,
+        "id": 1273,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2225"
+    },
+    "1274": {
+        "nextDialog": 0,
+        "id": 1274,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2226-2227"
+    },
+    "251": {
+        "nextDialog": 0,
+        "id": 251,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "387"
+    },
+    "1276": {
+        "nextDialog": 0,
+        "id": 1276,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2230-2234"
+    },
+    "1277": {
+        "nextDialog": 0,
+        "id": 1277,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2235-2237"
+    },
+    "1278": {
+        "nextDialog": 0,
+        "id": 1278,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2238-2240"
+    },
+    "1279": {
+        "nextDialog": 0,
+        "id": 1279,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2241"
+    },
+    "1280": {
+        "nextDialog": 0,
+        "id": 1280,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2242-2245"
+    },
+    "1281": {
+        "nextDialog": 0,
+        "id": 1281,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2246-2256"
+    },
+    "258": {
+        "nextDialog": 0,
+        "id": 258,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "221-225,226,227"
+    },
+    "1283": {
+        "nextDialog": 0,
+        "id": 1283,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2642"
+    },
+    "1284": {
+        "nextDialog": 0,
+        "id": 1284,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2643"
+    },
+    "1285": {
+        "nextDialog": 0,
+        "id": 1285,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2644-2648"
+    },
+    "262": {
+        "nextDialog": 0,
+        "id": 262,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "256-263"
+    },
+    "1287": {
+        "nextDialog": 0,
+        "id": 1287,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2650,2651"
+    },
+    "1288": {
+        "nextDialog": 0,
+        "id": 1288,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2663"
+    },
+    "1289": {
+        "nextDialog": 0,
+        "id": 1289,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2666,2667"
+    },
+    "1290": {
+        "nextDialog": 0,
+        "id": 1290,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2668"
+    },
+    "267": {
+        "nextDialog": 0,
+        "id": 267,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "388,389"
+    },
+    "1292": {
+        "nextDialog": 0,
+        "id": 1292,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2670,2671"
+    },
+    "269": {
+        "nextDialog": 0,
+        "id": 269,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "390-398"
+    },
+    "1294": {
+        "nextDialog": 0,
+        "id": 1294,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2674-2678"
+    },
+    "1296": {
+        "nextDialog": 0,
+        "id": 1296,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2679-2696"
+    },
+    "1297": {
+        "nextDialog": 0,
+        "id": 1297,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2697-2699"
+    },
+    "1298": {
+        "nextDialog": 0,
+        "id": 1298,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2700-2702"
+    },
+    "1299": {
+        "nextDialog": 0,
+        "id": 1299,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2703-2710"
+    },
+    "276": {
+        "nextDialog": 0,
+        "id": 276,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "399"
+    },
+    "1301": {
+        "nextDialog": 0,
+        "id": 1301,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2713-2726"
+    },
+    "278": {
+        "nextDialog": 232,
+        "id": 278,
+        "skipTime": -1,
+        "canSkip": 0,
+        "dialogList": "32"
+    },
+    "279": {
+        "nextDialog": 232,
+        "id": 279,
+        "skipTime": -1,
+        "canSkip": 0,
+        "dialogList": "33"
+    },
+    "1304": {
+        "nextDialog": 0,
+        "id": 1304,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2740-2751"
+    },
+    "1305": {
+        "nextDialog": 0,
+        "id": 1305,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2752-2762"
+    },
+    "1306": {
+        "nextDialog": 0,
+        "id": 1306,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2765-2769"
+    },
+    "1307": {
+        "nextDialog": 0,
+        "id": 1307,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2770-2776"
+    },
+    "1308": {
+        "nextDialog": 0,
+        "id": 1308,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2777-2779"
+    },
+    "285": {
+        "nextDialog": 0,
+        "id": 285,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "400,401"
+    },
+    "1310": {
+        "nextDialog": 0,
+        "id": 1310,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2257,2258"
+    },
+    "1311": {
+        "nextDialog": 0,
+        "id": 1311,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2782-2788"
+    },
+    "1312": {
+        "nextDialog": 0,
+        "id": 1312,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2789-2791"
+    },
+    "1313": {
+        "nextDialog": 0,
+        "id": 1313,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2792-2793"
+    },
+    "1314": {
+        "nextDialog": 0,
+        "id": 1314,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2794-2795"
+    },
+    "1315": {
+        "nextDialog": 0,
+        "id": 1315,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2796"
+    },
+    "1316": {
+        "nextDialog": 0,
+        "id": 1316,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2797"
+    },
+    "1317": {
+        "nextDialog": 0,
+        "id": 1317,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2798-2799"
+    },
+    "1318": {
+        "nextDialog": 0,
+        "id": 1318,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2800"
+    },
+    "1319": {
+        "nextDialog": 0,
+        "id": 1319,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2801"
+    },
+    "1320": {
+        "nextDialog": 0,
+        "id": 1320,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2802"
+    },
+    "297": {
+        "nextDialog": 0,
+        "id": 297,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "43,44"
+    },
+    "1322": {
+        "nextDialog": 0,
+        "id": 1322,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2804"
+    },
+    "299": {
+        "nextDialog": 0,
+        "id": 299,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "402-405"
+    },
+    "1324": {
+        "nextDialog": 0,
+        "id": 1324,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2806-2807"
+    },
+    "1325": {
+        "nextDialog": 0,
+        "id": 1325,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2808"
+    },
+    "1326": {
+        "nextDialog": 0,
+        "id": 1326,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2809-2810"
+    },
+    "303": {
+        "nextDialog": 0,
+        "id": 303,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "406-409"
+    },
+    "1328": {
+        "nextDialog": 0,
+        "id": 1328,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2812"
+    },
+    "1329": {
+        "nextDialog": 0,
+        "id": 1329,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2813-2817"
+    },
+    "1330": {
+        "nextDialog": 0,
+        "id": 1330,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2818"
+    },
+    "307": {
+        "nextDialog": 0,
+        "id": 307,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "410,349,350,411,412,1955,1956,1957"
+    },
+    "1332": {
+        "nextDialog": 0,
+        "id": 1332,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2820"
+    },
+    "1333": {
+        "nextDialog": 0,
+        "id": 1333,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2821"
+    },
+    "310": {
+        "nextDialog": 0,
+        "id": 310,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "192-196"
+    },
+    "1335": {
+        "nextDialog": 0,
+        "id": 1335,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2824"
+    },
+    "1336": {
+        "nextDialog": 0,
+        "id": 1336,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2825"
+    },
+    "1337": {
+        "nextDialog": 0,
+        "id": 1337,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2826"
+    },
+    "1338": {
+        "nextDialog": 0,
+        "id": 1338,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2827"
+    },
+    "1339": {
+        "nextDialog": 0,
+        "id": 1339,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2828,2829,2830"
+    },
+    "316": {
+        "nextDialog": 0,
+        "id": 316,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "61,62"
+    },
+    "1341": {
+        "nextDialog": 0,
+        "id": 1341,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2832,2833,2852"
+    },
+    "318": {
+        "nextDialog": 0,
+        "id": 318,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "63-67"
+    },
+    "1343": {
+        "nextDialog": 0,
+        "id": 1343,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2836-2837"
+    },
+    "1344": {
+        "nextDialog": 0,
+        "id": 1344,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2838"
+    },
+    "1345": {
+        "nextDialog": 0,
+        "id": 1345,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2839"
+    },
+    "1346": {
+        "nextDialog": 0,
+        "id": 1346,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2840"
+    },
+    "323": {
+        "nextDialog": 0,
+        "id": 323,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "68,69,70,71,72,73,74,75,3254,3255,76,77"
+    },
+    "1348": {
+        "nextDialog": 0,
+        "id": 1348,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2842-2843"
+    },
+    "1349": {
+        "nextDialog": 0,
+        "id": 1349,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2844"
+    },
+    "1350": {
+        "nextDialog": 0,
+        "id": 1350,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2845"
+    },
+    "1351": {
+        "nextDialog": 0,
+        "id": 1351,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2846"
+    },
+    "1352": {
+        "nextDialog": 0,
+        "id": 1352,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2855"
+    },
+    "1353": {
+        "nextDialog": 0,
+        "id": 1353,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2848"
+    },
+    "1354": {
+        "nextDialog": 0,
+        "id": 1354,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2849"
+    },
+    "1355": {
+        "nextDialog": 0,
+        "id": 1355,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2856"
+    },
+    "1356": {
+        "nextDialog": 0,
+        "id": 1356,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2851"
+    },
+    "1357": {
+        "nextDialog": 0,
+        "id": 1357,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2858"
+    },
+    "334": {
+        "nextDialog": 0,
+        "id": 334,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "78,81,82"
+    },
+    "1359": {
+        "nextDialog": 0,
+        "id": 1359,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2857"
+    },
+    "1360": {
+        "nextDialog": 0,
+        "id": 1360,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2865"
+    },
+    "1361": {
+        "nextDialog": 0,
+        "id": 1361,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2859-2861"
+    },
+    "1362": {
+        "nextDialog": 0,
+        "id": 1362,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2867-2868"
+    },
+    "339": {
+        "nextDialog": 0,
+        "id": 339,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "83"
+    },
+    "340": {
+        "nextDialog": 0,
+        "id": 340,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "84-90"
+    },
+    "1365": {
+        "nextDialog": 0,
+        "id": 1365,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2921"
+    },
+    "1366": {
+        "nextDialog": 0,
+        "id": 1366,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2873,2875-2876"
+    },
+    "1367": {
+        "nextDialog": 0,
+        "id": 1367,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2877-2880"
+    },
+    "1368": {
+        "nextDialog": 0,
+        "id": 1368,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2881"
+    },
+    "1369": {
+        "nextDialog": 0,
+        "id": 1369,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2882"
+    },
+    "1370": {
+        "nextDialog": 0,
+        "id": 1370,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2883-2884"
+    },
+    "347": {
+        "nextDialog": 0,
+        "id": 347,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "91,92,93,94,95"
+    },
+    "1372": {
+        "nextDialog": 0,
+        "id": 1372,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2887-2888"
+    },
+    "1373": {
+        "nextDialog": 0,
+        "id": 1373,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2939"
+    },
+    "1374": {
+        "nextDialog": 0,
+        "id": 1374,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2890"
+    },
+    "1375": {
+        "nextDialog": 0,
+        "id": 1375,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2891"
+    },
+    "1376": {
+        "nextDialog": 0,
+        "id": 1376,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2892"
+    },
+    "353": {
+        "nextDialog": 0,
+        "id": 353,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "97,98,113,114,115,116,117,118,99,100,101,102,103,104,105,106,107,108"
+    },
+    "1378": {
+        "nextDialog": 0,
+        "id": 1378,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2895"
+    },
+    "1379": {
+        "nextDialog": 0,
+        "id": 1379,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2896-2897"
+    },
+    "1380": {
+        "nextDialog": 0,
+        "id": 1380,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2898-2899"
+    },
+    "1381": {
+        "nextDialog": 0,
+        "id": 1381,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2900"
+    },
+    "1382": {
+        "nextDialog": 0,
+        "id": 1382,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2901-2902"
+    },
+    "1383": {
+        "nextDialog": 0,
+        "id": 1383,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2903"
+    },
+    "1384": {
+        "nextDialog": 0,
+        "id": 1384,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2904"
+    },
+    "1385": {
+        "nextDialog": 0,
+        "id": 1385,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2905"
+    },
+    "1386": {
+        "nextDialog": 0,
+        "id": 1386,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2906"
+    },
+    "1387": {
+        "nextDialog": 0,
+        "id": 1387,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2907"
+    },
+    "1388": {
+        "nextDialog": 0,
+        "id": 1388,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2908"
+    },
+    "1389": {
+        "nextDialog": 0,
+        "id": 1389,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2909-2917"
+    },
+    "1390": {
+        "nextDialog": 0,
+        "id": 1390,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2918-2919"
+    },
+    "1391": {
+        "nextDialog": 0,
+        "id": 1391,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2920"
+    },
+    "368": {
+        "nextDialog": 0,
+        "id": 368,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "109-118"
+    },
+    "1393": {
+        "nextDialog": 0,
+        "id": 1393,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2922"
+    },
+    "1394": {
+        "nextDialog": 0,
+        "id": 1394,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2923"
+    },
+    "1395": {
+        "nextDialog": 0,
+        "id": 1395,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2924"
+    },
+    "1396": {
+        "nextDialog": 0,
+        "id": 1396,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2925-2926"
+    },
+    "1397": {
+        "nextDialog": 0,
+        "id": 1397,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2927-2928"
+    },
+    "1398": {
+        "nextDialog": 0,
+        "id": 1398,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2929"
+    },
+    "1399": {
+        "nextDialog": 0,
+        "id": 1399,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2930"
+    },
+    "1400": {
+        "nextDialog": 0,
+        "id": 1400,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2931-2932"
+    },
+    "1401": {
+        "nextDialog": 0,
+        "id": 1401,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2933"
+    },
+    "1402": {
+        "nextDialog": 0,
+        "id": 1402,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2934"
+    },
+    "1403": {
+        "nextDialog": 0,
+        "id": 1403,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2946"
+    },
+    "1404": {
+        "nextDialog": 0,
+        "id": 1404,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2936-2938"
+    },
+    "1405": {
+        "nextDialog": 0,
+        "id": 1405,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2940,2941,2950,2943,2944,2945,2951,2947"
+    },
+    "1406": {
+        "nextDialog": 0,
+        "id": 1406,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2841,2949,2847,2850"
+    },
+    "383": {
+        "nextDialog": 0,
+        "id": 383,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "53,54,55,56,57,58,59,929,930,931,932,933,60"
+    },
+    "1408": {
+        "nextDialog": 0,
+        "id": 1408,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2953"
+    },
+    "1409": {
+        "nextDialog": 0,
+        "id": 1409,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2954-2958"
+    },
+    "1410": {
+        "nextDialog": 0,
+        "id": 1410,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2959-2960"
+    },
+    "1411": {
+        "nextDialog": 0,
+        "id": 1411,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2961-2962"
+    },
+    "1412": {
+        "nextDialog": 0,
+        "id": 1412,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2963-2964"
+    },
+    "1413": {
+        "nextDialog": 0,
+        "id": 1413,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2965-2972"
+    },
+    "1414": {
+        "nextDialog": 0,
+        "id": 1414,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2973"
+    },
+    "1415": {
+        "nextDialog": 0,
+        "id": 1415,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2974"
+    },
+    "1416": {
+        "nextDialog": 0,
+        "id": 1416,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2975"
+    },
+    "1417": {
+        "nextDialog": 0,
+        "id": 1417,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2976-2977"
+    },
+    "394": {
+        "nextDialog": 232,
+        "id": 394,
+        "skipTime": -1,
+        "canSkip": 0,
+        "dialogList": "34,35,920,921,922"
+    },
+    "1419": {
+        "nextDialog": 0,
+        "id": 1419,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2979-2981"
+    },
+    "396": {
+        "nextDialog": 0,
+        "id": 396,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "39-42"
+    },
+    "1421": {
+        "nextDialog": 0,
+        "id": 1421,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2984-2985"
+    },
+    "1422": {
+        "nextDialog": 0,
+        "id": 1422,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2986-2991"
+    },
+    "1423": {
+        "nextDialog": 0,
+        "id": 1423,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2992-2993"
+    },
+    "400": {
+        "nextDialog": 0,
+        "id": 400,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "121,122,123"
+    },
+    "1425": {
+        "nextDialog": 0,
+        "id": 1425,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2995"
+    },
+    "1426": {
+        "nextDialog": 0,
+        "id": 1426,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2996"
+    },
+    "1427": {
+        "nextDialog": 0,
+        "id": 1427,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2997"
+    },
+    "1428": {
+        "nextDialog": 0,
+        "id": 1428,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2998"
+    },
+    "1429": {
+        "nextDialog": 0,
+        "id": 1429,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2999"
+    },
+    "1430": {
+        "nextDialog": 0,
+        "id": 1430,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3000-3005"
+    },
+    "1431": {
+        "nextDialog": 0,
+        "id": 1431,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3006-3007"
+    },
+    "1432": {
+        "nextDialog": 0,
+        "id": 1432,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3008"
+    },
+    "1433": {
+        "nextDialog": 0,
+        "id": 1433,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3010-3013"
+    },
+    "1434": {
+        "nextDialog": 0,
+        "id": 1434,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3014-3015"
+    },
+    "1435": {
+        "nextDialog": 0,
+        "id": 1435,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3016"
+    },
+    "1436": {
+        "nextDialog": 0,
+        "id": 1436,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3017"
+    },
+    "1437": {
+        "nextDialog": 0,
+        "id": 1437,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2579"
+    },
+    "414": {
+        "nextDialog": 0,
+        "id": 414,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "185,186,3256,188"
+    },
+    "1439": {
+        "nextDialog": 0,
+        "id": 1439,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2585-2591"
+    },
+    "1440": {
+        "nextDialog": 0,
+        "id": 1440,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2284"
+    },
+    "1441": {
+        "nextDialog": 0,
+        "id": 1441,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2285,2286,2287"
+    },
+    "1442": {
+        "nextDialog": 0,
+        "id": 1442,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2288-2290"
+    },
+    "1443": {
+        "nextDialog": 0,
+        "id": 1443,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2291-2293"
+    },
+    "420": {
+        "nextDialog": 0,
+        "id": 420,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "197,198,199,200,201,202,203,204,205,206,979,980,981,982,983,984,985,986,987,991,988,992,989,993,990"
+    },
+    "1445": {
+        "nextDialog": 0,
+        "id": 1445,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2295,2296"
+    },
+    "1446": {
+        "nextDialog": 0,
+        "id": 1446,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2297"
+    },
+    "1447": {
+        "nextDialog": 0,
+        "id": 1447,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2298-2312"
+    },
+    "1448": {
+        "nextDialog": 0,
+        "id": 1448,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2313-2315"
+    },
+    "1449": {
+        "nextDialog": 0,
+        "id": 1449,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2316"
+    },
+    "1450": {
+        "nextDialog": 0,
+        "id": 1450,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2317"
+    },
+    "1451": {
+        "nextDialog": 0,
+        "id": 1451,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2318"
+    },
+    "1452": {
+        "nextDialog": 0,
+        "id": 1452,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2321"
+    },
+    "1453": {
+        "nextDialog": 0,
+        "id": 1453,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2322"
+    },
+    "1454": {
+        "nextDialog": 0,
+        "id": 1454,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2324-2330"
+    },
+    "1455": {
+        "nextDialog": 0,
+        "id": 1455,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2331"
+    },
+    "1456": {
+        "nextDialog": 0,
+        "id": 1456,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2332-2338"
+    },
+    "1457": {
+        "nextDialog": 0,
+        "id": 1457,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2339-2343"
+    },
+    "1458": {
+        "nextDialog": 0,
+        "id": 1458,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2344-2347"
+    },
+    "1459": {
+        "nextDialog": 0,
+        "id": 1459,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2348-2354"
+    },
+    "1460": {
+        "nextDialog": 0,
+        "id": 1460,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2355-2358"
+    },
+    "1461": {
+        "nextDialog": 0,
+        "id": 1461,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2359"
+    },
+    "1462": {
+        "nextDialog": 0,
+        "id": 1462,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2360-2362"
+    },
+    "1463": {
+        "nextDialog": 0,
+        "id": 1463,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2372,2373"
+    },
+    "1464": {
+        "nextDialog": 0,
+        "id": 1464,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2374-2378"
+    },
+    "1465": {
+        "nextDialog": 0,
+        "id": 1465,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2379"
+    },
+    "1466": {
+        "nextDialog": 0,
+        "id": 1466,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2380-2385"
+    },
+    "1467": {
+        "nextDialog": 0,
+        "id": 1467,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2386"
+    },
+    "444": {
+        "nextDialog": 0,
+        "id": 444,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "273,274,275,276,277,278,279,280,281,282,283,284,285,286,1946,287,1947,288,1948"
+    },
+    "1469": {
+        "nextDialog": 0,
+        "id": 1469,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2388-2393"
+    },
+    "1470": {
+        "nextDialog": 0,
+        "id": 1470,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2395"
+    },
+    "1471": {
+        "nextDialog": 0,
+        "id": 1471,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2396,2397"
+    },
+    "1472": {
+        "nextDialog": 0,
+        "id": 1472,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2398-2408"
+    },
+    "1473": {
+        "nextDialog": 0,
+        "id": 1473,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2409-2414"
+    },
+    "1474": {
+        "nextDialog": 0,
+        "id": 1474,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2420-2422"
+    },
+    "1475": {
+        "nextDialog": 0,
+        "id": 1475,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2423-2427"
+    },
+    "1476": {
+        "nextDialog": 0,
+        "id": 1476,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2437-2442"
+    },
+    "1477": {
+        "nextDialog": 0,
+        "id": 1477,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2443-2452"
+    },
+    "1478": {
+        "nextDialog": 0,
+        "id": 1478,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2453-2455"
+    },
+    "1479": {
+        "nextDialog": 0,
+        "id": 1479,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2456-2460"
+    },
+    "1480": {
+        "nextDialog": 0,
+        "id": 1480,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2461-2464"
+    },
+    "1481": {
+        "nextDialog": 0,
+        "id": 1481,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2465"
+    },
+    "1482": {
+        "nextDialog": 0,
+        "id": 1482,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2466-2467"
+    },
+    "1483": {
+        "nextDialog": 0,
+        "id": 1483,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2468-2476"
+    },
+    "1484": {
+        "nextDialog": 0,
+        "id": 1484,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2477-2478"
+    },
+    "1485": {
+        "nextDialog": 0,
+        "id": 1485,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2479-2480"
+    },
+    "462": {
+        "nextDialog": 0,
+        "id": 462,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "297-307"
+    },
+    "1487": {
+        "nextDialog": 0,
+        "id": 1487,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2482-2483"
+    },
+    "1488": {
+        "nextDialog": 0,
+        "id": 1488,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2484-2490"
+    },
+    "1489": {
+        "nextDialog": 0,
+        "id": 1489,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2491,2492"
+    },
+    "1490": {
+        "nextDialog": 0,
+        "id": 1490,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2493-2501"
+    },
+    "1491": {
+        "nextDialog": 0,
+        "id": 1491,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2502"
+    },
+    "1492": {
+        "nextDialog": 0,
+        "id": 1492,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2503-2509"
+    },
+    "1493": {
+        "nextDialog": 0,
+        "id": 1493,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2510-2513"
+    },
+    "1494": {
+        "nextDialog": 0,
+        "id": 1494,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2514-2520"
+    },
+    "1495": {
+        "nextDialog": 0,
+        "id": 1495,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2521-2528"
+    },
+    "1496": {
+        "nextDialog": 0,
+        "id": 1496,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2529"
+    },
+    "473": {
+        "nextDialog": 0,
+        "id": 473,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "308,309,310,311"
+    },
+    "1498": {
+        "nextDialog": 0,
+        "id": 1498,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2544-2549"
+    },
+    "1499": {
+        "nextDialog": 0,
+        "id": 1499,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2550-2556"
+    },
+    "1500": {
+        "nextDialog": 0,
+        "id": 1500,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2557-2559"
+    },
+    "477": {
+        "nextDialog": 0,
+        "id": 477,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "312-320"
+    },
+    "1502": {
+        "nextDialog": 0,
+        "id": 1502,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2562-2567"
+    },
+    "1503": {
+        "nextDialog": 0,
+        "id": 1503,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2568"
+    },
+    "1504": {
+        "nextDialog": 0,
+        "id": 1504,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2569-2573"
+    },
+    "1505": {
+        "nextDialog": 0,
+        "id": 1505,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2574-2578"
+    },
+    "1506": {
+        "nextDialog": 0,
+        "id": 1506,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2579-2584"
+    },
+    "1507": {
+        "nextDialog": 0,
+        "id": 1507,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2585-2591"
+    },
+    "1508": {
+        "nextDialog": 0,
+        "id": 1508,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2592,2593"
+    },
+    "1509": {
+        "nextDialog": 0,
+        "id": 1509,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2594-2597"
+    },
+    "1510": {
+        "nextDialog": 0,
+        "id": 1510,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2598"
+    },
+    "1511": {
+        "nextDialog": 0,
+        "id": 1511,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2599-2609"
+    },
+    "1512": {
+        "nextDialog": 0,
+        "id": 1512,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2610"
+    },
+    "1513": {
+        "nextDialog": 0,
+        "id": 1513,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2611-2616"
+    },
+    "1514": {
+        "nextDialog": 0,
+        "id": 1514,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2617"
+    },
+    "1515": {
+        "nextDialog": 0,
+        "id": 1515,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2618,2619,2620"
+    },
+    "1516": {
+        "nextDialog": 0,
+        "id": 1516,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2621-2624"
+    },
+    "1517": {
+        "nextDialog": 0,
+        "id": 1517,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2764"
+    },
+    "1518": {
+        "nextDialog": 0,
+        "id": 1518,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3019-3025"
+    },
+    "1519": {
+        "nextDialog": 0,
+        "id": 1519,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3026-3037"
+    },
+    "1520": {
+        "nextDialog": 0,
+        "id": 1520,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3038"
+    },
+    "1521": {
+        "nextDialog": 0,
+        "id": 1521,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3009"
+    },
+    "1522": {
+        "nextDialog": 0,
+        "id": 1522,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3039"
+    },
+    "499": {
+        "nextDialog": 0,
+        "id": 499,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "413,414,415,416,417,418,419,420,421,422,1009,423,1010,1011,1012,1013,1014,1015"
+    },
+    "1524": {
+        "nextDialog": 0,
+        "id": 1524,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2267-2273"
+    },
+    "1525": {
+        "nextDialog": 0,
+        "id": 1525,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2656,2657"
+    },
+    "1526": {
+        "nextDialog": 0,
+        "id": 1526,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2658"
+    },
+    "1527": {
+        "nextDialog": 0,
+        "id": 1527,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2659,2660"
+    },
+    "1528": {
+        "nextDialog": 0,
+        "id": 1528,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2780,2781,2283"
+    },
+    "1529": {
+        "nextDialog": 0,
+        "id": 1529,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3040"
+    },
+    "1530": {
+        "nextDialog": 0,
+        "id": 1530,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3041"
+    },
+    "1531": {
+        "nextDialog": 0,
+        "id": 1531,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2530,2531"
+    },
+    "508": {
+        "nextDialog": 0,
+        "id": 508,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "424-436"
+    },
+    "1533": {
+        "nextDialog": 0,
+        "id": 1533,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2625,2626"
+    },
+    "1534": {
+        "nextDialog": 0,
+        "id": 1534,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2627"
+    },
+    "1535": {
+        "nextDialog": 0,
+        "id": 1535,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2629"
+    },
+    "1536": {
+        "nextDialog": 0,
+        "id": 1536,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2630,2631"
+    },
+    "1537": {
+        "nextDialog": 0,
+        "id": 1537,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2632-2636"
+    },
+    "1538": {
+        "nextDialog": 0,
+        "id": 1538,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2637"
+    },
+    "1539": {
+        "nextDialog": 0,
+        "id": 1539,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2638"
+    },
+    "1540": {
+        "nextDialog": 0,
+        "id": 1540,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2639,2640"
+    },
+    "1541": {
+        "nextDialog": 0,
+        "id": 1541,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3042,3043"
+    },
+    "1542": {
+        "nextDialog": 0,
+        "id": 1542,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3044"
+    },
+    "1543": {
+        "nextDialog": 0,
+        "id": 1543,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3045-3052"
+    },
+    "520": {
+        "nextDialog": 0,
+        "id": 520,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "437-449"
+    },
+    "1545": {
+        "nextDialog": 0,
+        "id": 1545,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2363-2365"
+    },
+    "1546": {
+        "nextDialog": 0,
+        "id": 1546,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2366-2367"
+    },
+    "1547": {
+        "nextDialog": 0,
+        "id": 1547,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2368-2371"
+    },
+    "1548": {
+        "nextDialog": 0,
+        "id": 1548,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2664,2665"
+    },
+    "1549": {
+        "nextDialog": 0,
+        "id": 1549,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3057-3060"
+    },
+    "1550": {
+        "nextDialog": 0,
+        "id": 1550,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3061-3068"
+    },
+    "1551": {
+        "nextDialog": 0,
+        "id": 1551,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3069-3071"
+    },
+    "1552": {
+        "nextDialog": 0,
+        "id": 1552,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3073-3086"
+    },
+    "1553": {
+        "nextDialog": 0,
+        "id": 1553,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3087,3088"
+    },
+    "1554": {
+        "nextDialog": 0,
+        "id": 1554,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3089-3101"
+    },
+    "1555": {
+        "nextDialog": 0,
+        "id": 1555,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3106-3108"
+    },
+    "532": {
+        "nextDialog": 0,
+        "id": 532,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "450,451,452,453,454,455,456,457,458,1958,1959,1960,1961,1962,1963,1964,459,460"
+    },
+    "1557": {
+        "nextDialog": 0,
+        "id": 1557,
+        "skipTime": -1,
+        "canSkip": -1,
+        "dialogList": "3114"
+    },
+    "1558": {
+        "nextDialog": 0,
+        "id": 1558,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3121-3123"
+    },
+    "1559": {
+        "nextDialog": 0,
+        "id": 1559,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3124-3127"
+    },
+    "1560": {
+        "nextDialog": 0,
+        "id": 1560,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3131-3134"
+    },
+    "1561": {
+        "nextDialog": 0,
+        "id": 1561,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3135-3136"
+    },
+    "1562": {
+        "nextDialog": 0,
+        "id": 1562,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3137"
+    },
+    "1563": {
+        "nextDialog": 0,
+        "id": 1563,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3138"
+    },
+    "1564": {
+        "nextDialog": 0,
+        "id": 1564,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3139-3144"
+    },
+    "1565": {
+        "nextDialog": 0,
+        "id": 1565,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3146-3151"
+    },
+    "1566": {
+        "nextDialog": 0,
+        "id": 1566,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3152-3154"
+    },
+    "543": {
+        "nextDialog": 0,
+        "id": 543,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "461-465"
+    },
+    "1568": {
+        "nextDialog": 0,
+        "id": 1568,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3115-3120"
+    },
+    "1569": {
+        "nextDialog": 0,
+        "id": 1569,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3157-3159"
+    },
+    "546": {
+        "nextDialog": 0,
+        "id": 546,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "466-468"
+    },
+    "1571": {
+        "nextDialog": 0,
+        "id": 1571,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3171-3178"
+    },
+    "1572": {
+        "nextDialog": 0,
+        "id": 1572,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3179-3183"
+    },
+    "1573": {
+        "nextDialog": 0,
+        "id": 1573,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3184"
+    },
+    "550": {
+        "nextDialog": 0,
+        "id": 550,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "469"
+    },
+    "551": {
+        "nextDialog": 0,
+        "id": 551,
+        "skipTime": -1,
+        "canSkip": 0,
+        "dialogList": "470"
+    },
+    "552": {
+        "nextDialog": 551,
+        "id": 552,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "471"
+    },
+    "553": {
+        "nextDialog": 551,
+        "id": 553,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "472"
+    },
+    "554": {
+        "nextDialog": 551,
+        "id": 554,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "473"
+    },
+    "555": {
+        "nextDialog": 0,
+        "id": 555,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "474"
+    },
+    "556": {
+        "nextDialog": 0,
+        "id": 556,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "475-479"
+    },
+    "1581": {
+        "nextDialog": 0,
+        "id": 1581,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3208-3211"
+    },
+    "1582": {
+        "nextDialog": 0,
+        "id": 1582,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3212-3216"
+    },
+    "1583": {
+        "nextDialog": 0,
+        "id": 1583,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3217-3218"
+    },
+    "1584": {
+        "nextDialog": 0,
+        "id": 1584,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3219-3222"
+    },
+    "561": {
+        "nextDialog": 567,
+        "id": 561,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "480-485"
+    },
+    "1586": {
+        "nextDialog": 0,
+        "id": 1586,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3228-3232"
+    },
+    "1587": {
+        "nextDialog": 0,
+        "id": 1587,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3233-3234"
+    },
+    "1588": {
+        "nextDialog": 0,
+        "id": 1588,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3235-3236"
+    },
+    "1589": {
+        "nextDialog": 0,
+        "id": 1589,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3237-3240"
+    },
+    "1590": {
+        "nextDialog": 0,
+        "id": 1590,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3241-3245"
+    },
+    "567": {
+        "nextDialog": 0,
+        "id": 567,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "486"
+    },
+    "568": {
+        "nextDialog": 567,
+        "id": 568,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "487,488"
+    },
+    "1593": {
+        "nextDialog": 0,
+        "id": 1593,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3104"
+    },
+    "570": {
+        "nextDialog": 567,
+        "id": 570,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "489,490,491"
+    },
+    "1595": {
+        "nextDialog": 0,
+        "id": 1595,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3246"
+    },
+    "1596": {
+        "nextDialog": 0,
+        "id": 1596,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3128-3130"
+    },
+    "573": {
+        "nextDialog": 0,
+        "id": 573,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "493-501"
+    },
+    "1598": {
+        "nextDialog": 0,
+        "id": 1598,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3248-3250"
+    },
+    "1599": {
+        "nextDialog": 0,
+        "id": 1599,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3251"
+    },
+    "1600": {
+        "nextDialog": 0,
+        "id": 1600,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3252,3253"
+    },
+    "1601": {
+        "nextDialog": 0,
+        "id": 1601,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3257,3258,3259"
+    },
+    "1602": {
+        "nextDialog": 0,
+        "id": 1602,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3260"
+    },
+    "1603": {
+        "nextDialog": 0,
+        "id": 1603,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3261"
+    },
+    "580": {
+        "nextDialog": 0,
+        "id": 580,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "502-508"
+    },
+    "1605": {
+        "nextDialog": 0,
+        "id": 1605,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3269,3270"
+    },
+    "1606": {
+        "nextDialog": 0,
+        "id": 1606,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3271,3272"
+    },
+    "1607": {
+        "nextDialog": 0,
+        "id": 1607,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3273"
+    },
+    "1608": {
+        "nextDialog": 0,
+        "id": 1608,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3273"
+    },
+    "1609": {
+        "nextDialog": 0,
+        "id": 1609,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3274-3276"
+    },
+    "1610": {
+        "nextDialog": 0,
+        "id": 1610,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3277-3281"
+    },
+    "1611": {
+        "nextDialog": 0,
+        "id": 1611,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3283-3291"
+    },
+    "1612": {
+        "nextDialog": 0,
+        "id": 1612,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3292-3302"
+    },
+    "589": {
+        "nextDialog": 0,
+        "id": 589,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "509,510"
+    },
+    "1614": {
+        "nextDialog": 0,
+        "id": 1614,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3310-3314"
+    },
+    "1615": {
+        "nextDialog": 0,
+        "id": 1615,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3315-3319"
+    },
+    "592": {
+        "nextDialog": 0,
+        "id": 592,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "511-526"
+    },
+    "1617": {
+        "nextDialog": 0,
+        "id": 1617,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3330-3336"
+    },
+    "1618": {
+        "nextDialog": 0,
+        "id": 1618,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3337-3342"
+    },
+    "1619": {
+        "nextDialog": 0,
+        "id": 1619,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3343-3348"
+    },
+    "1620": {
+        "nextDialog": 0,
+        "id": 1620,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3349-3350"
+    },
+    "1621": {
+        "nextDialog": 0,
+        "id": 1621,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3351"
+    },
+    "1622": {
+        "nextDialog": 0,
+        "id": 1622,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3352-3356"
+    },
+    "1623": {
+        "nextDialog": 0,
+        "id": 1623,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3357"
+    },
+    "1624": {
+        "nextDialog": 0,
+        "id": 1624,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3358-3359"
+    },
+    "1625": {
+        "nextDialog": 0,
+        "id": 1625,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3360-3364"
+    },
+    "1626": {
+        "nextDialog": 0,
+        "id": 1626,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3365-3366"
+    },
+    "1627": {
+        "nextDialog": 0,
+        "id": 1627,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3367"
+    },
+    "1628": {
+        "nextDialog": 0,
+        "id": 1628,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3368"
+    },
+    "1629": {
+        "nextDialog": 0,
+        "id": 1629,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3369-3373"
+    },
+    "606": {
+        "nextDialog": 0,
+        "id": 606,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "527-530"
+    },
+    "1631": {
+        "nextDialog": 0,
+        "id": 1631,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3378-3379"
+    },
+    "1632": {
+        "nextDialog": 0,
+        "id": 1632,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3380-3386"
+    },
+    "609": {
+        "nextDialog": 0,
+        "id": 609,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "531-535"
+    },
+    "1634": {
+        "nextDialog": 0,
+        "id": 1634,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3388-3399"
+    },
+    "1635": {
+        "nextDialog": 0,
+        "id": 1635,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3400-3408"
+    },
+    "1636": {
+        "nextDialog": 0,
+        "id": 1636,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3409-3412"
+    },
+    "1637": {
+        "nextDialog": 0,
+        "id": 1637,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3413-3422"
+    },
+    "614": {
+        "nextDialog": 0,
+        "id": 614,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "536-545"
+    },
+    "1639": {
+        "nextDialog": 0,
+        "id": 1639,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3424"
+    },
+    "1640": {
+        "nextDialog": 0,
+        "id": 1640,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3425"
+    },
+    "1641": {
+        "nextDialog": 0,
+        "id": 1641,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3426-3429"
+    },
+    "1642": {
+        "nextDialog": 0,
+        "id": 1642,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3430-3435"
+    },
+    "1643": {
+        "nextDialog": 0,
+        "id": 1643,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3436-3440"
+    },
+    "1644": {
+        "nextDialog": 0,
+        "id": 1644,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3441-3452"
+    },
+    "1645": {
+        "nextDialog": 0,
+        "id": 1645,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3453-3454"
+    },
+    "1646": {
+        "nextDialog": 0,
+        "id": 1646,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3455-3463"
+    },
+    "1647": {
+        "nextDialog": 0,
+        "id": 1647,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3464-3470"
+    },
+    "1648": {
+        "nextDialog": 0,
+        "id": 1648,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3471-3476"
+    },
+    "625": {
+        "nextDialog": 0,
+        "id": 625,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "546-548"
+    },
+    "1650": {
+        "nextDialog": 0,
+        "id": 1650,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3482-3487"
+    },
+    "1651": {
+        "nextDialog": 0,
+        "id": 1651,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3488"
+    },
+    "628": {
+        "nextDialog": 0,
+        "id": 628,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "549-556"
+    },
+    "1653": {
+        "nextDialog": 0,
+        "id": 1653,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3499-3502"
+    },
+    "1654": {
+        "nextDialog": 0,
+        "id": 1654,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3503-3520"
+    },
+    "1655": {
+        "nextDialog": 0,
+        "id": 1655,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3523"
+    },
+    "1656": {
+        "nextDialog": 0,
+        "id": 1656,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3524-3542"
+    },
+    "1657": {
+        "nextDialog": 0,
+        "id": 1657,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3543-3546"
+    },
+    "634": {
+        "nextDialog": 0,
+        "id": 634,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "557,558,559,560,561,562,563,1016,564,565,566,567,568,1017,1018,1019,1020,569,570,2652"
+    },
+    "1659": {
+        "nextDialog": 0,
+        "id": 1659,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3559-3563"
+    },
+    "1660": {
+        "nextDialog": 0,
+        "id": 1660,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3564"
+    },
+    "1661": {
+        "nextDialog": 0,
+        "id": 1661,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3565-3568"
+    },
+    "1662": {
+        "nextDialog": 0,
+        "id": 1662,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3569"
+    },
+    "1663": {
+        "nextDialog": 0,
+        "id": 1663,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3570-3577"
+    },
+    "1664": {
+        "nextDialog": 0,
+        "id": 1664,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3578-3593"
+    },
+    "1665": {
+        "nextDialog": 0,
+        "id": 1665,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3594-3597"
+    },
+    "1666": {
+        "nextDialog": 0,
+        "id": 1666,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3598-3600"
+    },
+    "1667": {
+        "nextDialog": 0,
+        "id": 1667,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3601-3604"
+    },
+    "1668": {
+        "nextDialog": 0,
+        "id": 1668,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3605-3607"
+    },
+    "1669": {
+        "nextDialog": 0,
+        "id": 1669,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3608"
+    },
+    "1670": {
+        "nextDialog": 0,
+        "id": 1670,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3609-3620"
+    },
+    "1671": {
+        "nextDialog": 0,
+        "id": 1671,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3621-3627"
+    },
+    "648": {
+        "nextDialog": 0,
+        "id": 648,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "571-572"
+    },
+    "1673": {
+        "nextDialog": 0,
+        "id": 1673,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3630-3636"
+    },
+    "650": {
+        "nextDialog": 0,
+        "id": 650,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "573-579"
+    },
+    "1675": {
+        "nextDialog": 0,
+        "id": 1675,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3647-3648"
+    },
+    "1676": {
+        "nextDialog": 0,
+        "id": 1676,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3649-3654"
+    },
+    "1677": {
+        "nextDialog": 0,
+        "id": 1677,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3655-3658"
+    },
+    "1678": {
+        "nextDialog": 0,
+        "id": 1678,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3282"
+    },
+    "1679": {
+        "nextDialog": 0,
+        "id": 1679,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3521-3522"
+    },
+    "1680": {
+        "nextDialog": 0,
+        "id": 1680,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3596"
+    },
+    "657": {
+        "nextDialog": 0,
+        "id": 657,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "580,581,582,1023,583,584,585,587,586,1025"
+    },
+    "665": {
+        "nextDialog": 0,
+        "id": 665,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "588-593"
+    },
+    "671": {
+        "nextDialog": 0,
+        "id": 671,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "594-598"
+    },
+    "677": {
+        "nextDialog": 0,
+        "id": 677,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "599-606"
+    },
+    "685": {
+        "nextDialog": 0,
+        "id": 685,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "607"
+    },
+    "686": {
+        "nextDialog": 0,
+        "id": 686,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "608,609"
+    },
+    "688": {
+        "nextDialog": 0,
+        "id": 688,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "610,611"
+    },
+    "690": {
+        "nextDialog": 0,
+        "id": 690,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "612-619"
+    },
+    "697": {
+        "nextDialog": 0,
+        "id": 697,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1042,621,622,623,624,625,627,626,628,629,630,631"
+    },
+    "720": {
+        "nextDialog": 0,
+        "id": 720,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "641,642"
+    },
+    "723": {
+        "nextDialog": 0,
+        "id": 723,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "645,646,1089,1090"
+    },
+    "724": {
+        "nextDialog": 0,
+        "id": 724,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "647,648,649,650,651"
+    },
+    "731": {
+        "nextDialog": 0,
+        "id": 731,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "652-654"
+    },
+    "735": {
+        "nextDialog": 0,
+        "id": 735,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "656-662"
+    },
+    "781": {
+        "nextDialog": 0,
+        "id": 781,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "663,664,665,1005,666,667,668,669,670,671,672"
+    },
+    "795": {
+        "nextDialog": 0,
+        "id": 795,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "677"
+    },
+    "802": {
+        "nextDialog": 0,
+        "id": 802,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "684,685,686,1006,687,688,1007,689,690,1008,691,692"
+    },
+    "811": {
+        "nextDialog": 0,
+        "id": 811,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "693-700"
+    },
+    "819": {
+        "nextDialog": 0,
+        "id": 819,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "701-714"
+    },
+    "833": {
+        "nextDialog": 0,
+        "id": 833,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "715-723"
+    },
+    "842": {
+        "nextDialog": 0,
+        "id": 842,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "724,1054,725,726,727,728,1055,1056,1057,1058"
+    },
+    "847": {
+        "nextDialog": 0,
+        "id": 847,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "729-731"
+    },
+    "852": {
+        "nextDialog": 0,
+        "id": 852,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "734-738"
+    },
+    "857": {
+        "nextDialog": 0,
+        "id": 857,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "739-740"
+    },
+    "859": {
+        "nextDialog": 0,
+        "id": 859,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "741-743"
+    },
+    "862": {
+        "nextDialog": 0,
+        "id": 862,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "744-746"
+    },
+    "865": {
+        "nextDialog": 0,
+        "id": 865,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "747-755"
+    },
+    "874": {
+        "nextDialog": 0,
+        "id": 874,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "756-757"
+    },
+    "876": {
+        "nextDialog": 0,
+        "id": 876,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "758-762"
+    },
+    "881": {
+        "nextDialog": 0,
+        "id": 881,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "763-766"
+    },
+    "885": {
+        "nextDialog": 0,
+        "id": 885,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "767"
+    },
+    "886": {
+        "nextDialog": 0,
+        "id": 886,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "768-776"
+    },
+    "1674": {
+        "nextDialog": 0,
+        "id": 1674,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3637-3646"
+    },
+    "1672": {
+        "nextDialog": 0,
+        "id": 1672,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3628-3629"
+    },
+    "1658": {
+        "nextDialog": 0,
+        "id": 1658,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3547-3558"
+    },
+    "895": {
+        "nextDialog": 0,
+        "id": 895,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "777-780"
+    },
+    "1652": {
+        "nextDialog": 0,
+        "id": 1652,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3489-3498"
+    },
+    "1649": {
+        "nextDialog": 0,
+        "id": 1649,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3477-3481"
+    },
+    "1638": {
+        "nextDialog": 0,
+        "id": 1638,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3423"
+    },
+    "899": {
+        "nextDialog": 0,
+        "id": 899,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "781-786"
+    },
+    "1633": {
+        "nextDialog": 0,
+        "id": 1633,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3387"
+    },
+    "1630": {
+        "nextDialog": 0,
+        "id": 1630,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3374-3377"
+    },
+    "1616": {
+        "nextDialog": 0,
+        "id": 1616,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3320-3329"
+    },
+    "1613": {
+        "nextDialog": 0,
+        "id": 1613,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3303-3309"
+    },
+    "1604": {
+        "nextDialog": 0,
+        "id": 1604,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3262-3268"
+    },
+    "905": {
+        "nextDialog": 0,
+        "id": 905,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "787-794"
+    },
+    "1597": {
+        "nextDialog": 0,
+        "id": 1597,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3169-3170"
+    },
+    "1594": {
+        "nextDialog": 0,
+        "id": 1594,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3105"
+    },
+    "1592": {
+        "nextDialog": 0,
+        "id": 1592,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3102,3103"
+    },
+    "1591": {
+        "nextDialog": 0,
+        "id": 1591,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3072"
+    },
+    "1585": {
+        "nextDialog": 0,
+        "id": 1585,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3223-3227"
+    },
+    "1580": {
+        "nextDialog": 0,
+        "id": 1580,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3207,3247"
+    },
+    "1579": {
+        "nextDialog": 0,
+        "id": 1579,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3206"
+    },
+    "913": {
+        "nextDialog": 0,
+        "id": 913,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "795-796"
+    },
+    "1578": {
+        "nextDialog": 0,
+        "id": 1578,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3195-3205"
+    },
+    "915": {
+        "nextDialog": 0,
+        "id": 915,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "797,798,799,800,1059,801,802,803,804,805,806,807,808,1060,809,810,811"
+    },
+    "1577": {
+        "nextDialog": 0,
+        "id": 1577,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3193-3194"
+    },
+    "1576": {
+        "nextDialog": 0,
+        "id": 1576,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3145"
+    },
+    "1575": {
+        "nextDialog": 0,
+        "id": 1575,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3186-3192"
+    },
+    "1574": {
+        "nextDialog": 0,
+        "id": 1574,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3185"
+    },
+    "1570": {
+        "nextDialog": 0,
+        "id": 1570,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3160-3168"
+    },
+    "1567": {
+        "nextDialog": 0,
+        "id": 1567,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3155-3156"
+    },
+    "1556": {
+        "nextDialog": 0,
+        "id": 1556,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3109-3113"
+    },
+    "1544": {
+        "nextDialog": 0,
+        "id": 1544,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "3053-3056"
+    },
+    "1532": {
+        "nextDialog": 0,
+        "id": 1532,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2532,2533"
+    },
+    "1523": {
+        "nextDialog": 0,
+        "id": 1523,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2259-2266"
+    },
+    "1501": {
+        "nextDialog": 0,
+        "id": 1501,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2560,2561"
+    },
+    "1497": {
+        "nextDialog": 0,
+        "id": 1497,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2534-2543"
+    },
+    "1486": {
+        "nextDialog": 0,
+        "id": 1486,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2481"
+    },
+    "1468": {
+        "nextDialog": 0,
+        "id": 1468,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2387"
+    },
+    "930": {
+        "nextDialog": 0,
+        "id": 930,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "812,813,814,815,816,817,818,819,820,821,822,2661,2662,823,824"
+    },
+    "1444": {
+        "nextDialog": 0,
+        "id": 1444,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2294"
+    },
+    "1438": {
+        "nextDialog": 0,
+        "id": 1438,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2580-2584"
+    },
+    "1424": {
+        "nextDialog": 0,
+        "id": 1424,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2994"
+    },
+    "1420": {
+        "nextDialog": 0,
+        "id": 1420,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2982"
+    },
+    "1418": {
+        "nextDialog": 0,
+        "id": 1418,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2978"
+    },
+    "1407": {
+        "nextDialog": 0,
+        "id": 1407,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2952"
+    },
+    "1392": {
+        "nextDialog": 0,
+        "id": 1392,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2942"
+    },
+    "1377": {
+        "nextDialog": 0,
+        "id": 1377,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2893-2894"
+    },
+    "1371": {
+        "nextDialog": 0,
+        "id": 1371,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2885-2886"
+    },
+    "1364": {
+        "nextDialog": 0,
+        "id": 1364,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2866,2874,2889,2869,2870,2871"
+    },
+    "1363": {
+        "nextDialog": 0,
+        "id": 1363,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2864,2872"
+    },
+    "1358": {
+        "nextDialog": 0,
+        "id": 1358,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2853-2854,2862,2863"
+    },
+    "943": {
+        "nextDialog": 0,
+        "id": 943,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "825,1061"
+    },
+    "944": {
+        "nextDialog": 0,
+        "id": 944,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "826-835"
+    },
+    "1347": {
+        "nextDialog": 0,
+        "id": 1347,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2834"
+    },
+    "1342": {
+        "nextDialog": 0,
+        "id": 1342,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2835"
+    },
+    "1340": {
+        "nextDialog": 0,
+        "id": 1340,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2831"
+    },
+    "1334": {
+        "nextDialog": 0,
+        "id": 1334,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2822,2823"
+    },
+    "1331": {
+        "nextDialog": 0,
+        "id": 1331,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2819"
+    },
+    "1327": {
+        "nextDialog": 0,
+        "id": 1327,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2811"
+    },
+    "1323": {
+        "nextDialog": 0,
+        "id": 1323,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2805"
+    },
+    "1321": {
+        "nextDialog": 0,
+        "id": 1321,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2803"
+    },
+    "1309": {
+        "nextDialog": 0,
+        "id": 1309,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2274,2275,2276,2277,2278,2279"
+    },
+    "954": {
+        "nextDialog": 0,
+        "id": 954,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "836-840"
+    },
+    "1303": {
+        "nextDialog": 0,
+        "id": 1303,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2738-2739"
+    },
+    "1302": {
+        "nextDialog": 0,
+        "id": 1302,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2727-2737"
+    },
+    "1300": {
+        "nextDialog": 0,
+        "id": 1300,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2711-2712"
+    },
+    "1293": {
+        "nextDialog": 0,
+        "id": 1293,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2672,2673"
+    },
+    "959": {
+        "nextDialog": 0,
+        "id": 959,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "842,843,844,845,846,847,848,849,850,851,852,853,1062,1063,1064,1065,854,855,856,857"
+    },
+    "1291": {
+        "nextDialog": 0,
+        "id": 1291,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2669"
+    },
+    "1286": {
+        "nextDialog": 0,
+        "id": 1286,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2649"
+    },
+    "1282": {
+        "nextDialog": 0,
+        "id": 1282,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2641"
+    },
+    "1275": {
+        "nextDialog": 0,
+        "id": 1275,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2228-2229"
+    },
+    "1261": {
+        "nextDialog": 0,
+        "id": 1261,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2175-2179"
+    },
+    "1258": {
+        "nextDialog": 0,
+        "id": 1258,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2136-2142"
+    },
+    "1256": {
+        "nextDialog": 0,
+        "id": 1256,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2162-2163"
+    },
+    "1248": {
+        "nextDialog": 0,
+        "id": 1248,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2116-2123"
+    },
+    "1226": {
+        "nextDialog": 0,
+        "id": 1226,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2022,2023"
+    },
+    "1223": {
+        "nextDialog": 0,
+        "id": 1223,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "2019"
+    },
+    "1215": {
+        "nextDialog": 0,
+        "id": 1215,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1980,1981,1982"
+    },
+    "1211": {
+        "nextDialog": 0,
+        "id": 1211,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1972,1889,1890,1891,1892"
+    },
+    "1205": {
+        "nextDialog": 0,
+        "id": 1205,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1630,1631,1632"
+    },
+    "1204": {
+        "nextDialog": 0,
+        "id": 1204,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1602,1603"
+    },
+    "1203": {
+        "nextDialog": 0,
+        "id": 1203,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1939"
+    },
+    "1200": {
+        "nextDialog": 0,
+        "id": 1200,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1385"
+    },
+    "976": {
+        "nextDialog": 0,
+        "id": 976,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "858-867"
+    },
+    "1185": {
+        "nextDialog": 0,
+        "id": 1185,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1861,1862,1863,1864,1865,1866,1867,1868,1869,1870,1871,1872,1873,1874,1875,1876,1877,1878,1879,1880"
+    },
+    "1181": {
+        "nextDialog": 0,
+        "id": 1181,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1851"
+    },
+    "1172": {
+        "nextDialog": 0,
+        "id": 1172,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1819,1820,1821,1822,1823"
+    },
+    "1164": {
+        "nextDialog": 0,
+        "id": 1164,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1771,1772,1773,1774"
+    },
+    "1154": {
+        "nextDialog": 0,
+        "id": 1154,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1719"
+    },
+    "1138": {
+        "nextDialog": 0,
+        "id": 1138,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1597,1598,1599,1600,1601"
+    },
+    "1108": {
+        "nextDialog": 0,
+        "id": 1108,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1418,1419,1420,1421,1422,1423,1424,1425,1426,1427,1428,1429,1430,1431,1432,1433,1434"
+    },
+    "1101": {
+        "nextDialog": 0,
+        "id": 1101,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1386,1387,1388"
+    },
+    "1099": {
+        "nextDialog": 0,
+        "id": 1099,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1367,1368,1369,1370,1371,1372,1373,1374,1375,1376,1377,1378,1379,1380,1381,1382,1383"
+    },
+    "986": {
+        "nextDialog": 0,
+        "id": 986,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "868"
+    },
+    "1094": {
+        "nextDialog": 0,
+        "id": 1094,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1351,1352"
+    },
+    "1080": {
+        "nextDialog": 0,
+        "id": 1080,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1269,1270,1271,1272"
+    },
+    "1076": {
+        "nextDialog": 0,
+        "id": 1076,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1258,1259,1260,1261,1262"
+    },
+    "990": {
+        "nextDialog": 0,
+        "id": 990,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "872-882,1087,1088"
+    },
+    "1072": {
+        "nextDialog": 0,
+        "id": 1072,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1210,1211,1212,1213,1214,1215,1216,1217,1218,1219,1220,1221,1222"
+    },
+    "1071": {
+        "nextDialog": 0,
+        "id": 1071,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1194,1195,1196,1197,1198,1199,1200,1201,1202,1203,1204,1205,1206,1207,1208,1209"
+    },
+    "1070": {
+        "nextDialog": 0,
+        "id": 1070,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1193"
+    },
+    "1064": {
+        "nextDialog": 0,
+        "id": 1064,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1173,1174,1175,1176,1177,1178,1320,1321,1322,1323"
+    },
+    "1059": {
+        "nextDialog": 0,
+        "id": 1059,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1130,1131,1132,1133"
+    },
+    "1058": {
+        "nextDialog": 0,
+        "id": 1058,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1116,1117,1118,1119,1120,1121,1122,1123,1124,1125,1126,1127,1128,1129"
+    },
+    "1057": {
+        "nextDialog": 0,
+        "id": 1057,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1115"
+    },
+    "1055": {
+        "nextDialog": 0,
+        "id": 1055,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1096,1097,1098,1099,1100,1101,1102,1103,1104,1105,1106,1107,1108,1109,1110,1111,1112,1113"
+    },
+    "1054": {
+        "nextDialog": 0,
+        "id": 1054,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1001,1002,1003,1004"
+    },
+    "1053": {
+        "nextDialog": 0,
+        "id": 1053,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "999,1000"
+    },
+    "1001": {
+        "nextDialog": 0,
+        "id": 1001,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "883"
+    },
+    "1002": {
+        "nextDialog": 0,
+        "id": 1002,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "884"
+    },
+    "1051": {
+        "nextDialog": 0,
+        "id": 1051,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1073,1074,1075,1076,1077,1078,1079,1080"
+    },
+    "1050": {
+        "nextDialog": 0,
+        "id": 1050,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1066,1067,1068,1069,1070,1071,1072"
+    },
+    "1049": {
+        "nextDialog": 0,
+        "id": 1049,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1043,1044,1045,1046,1047,1048,1049,1050,1051,1052,1053"
+    },
+    "1006": {
+        "nextDialog": 0,
+        "id": 1006,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "620"
+    },
+    "1007": {
+        "nextDialog": 0,
+        "id": 1007,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "891,892"
+    },
+    "1046": {
+        "nextDialog": 0,
+        "id": 1046,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "1028,1029,1030,1032,1031,1033,1034,1035,1036,1037,1039,1038,1040"
+    },
+    "1009": {
+        "nextDialog": 0,
+        "id": 1009,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "893"
+    },
+    "1010": {
+        "nextDialog": 0,
+        "id": 1010,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "894"
+    },
+    "1011": {
+        "nextDialog": 0,
+        "id": 1011,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "895"
+    },
+    "1012": {
+        "nextDialog": 0,
+        "id": 1012,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "896"
+    },
+    "1013": {
+        "nextDialog": 0,
+        "id": 1013,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "885-889,1306,1307,1308,1309,1310,1311,1312"
+    },
+    "1014": {
+        "nextDialog": 0,
+        "id": 1014,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "897"
+    },
+    "1015": {
+        "nextDialog": 0,
+        "id": 1015,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "38"
+    },
+    "1016": {
+        "nextDialog": 0,
+        "id": 1016,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "898,899"
+    },
+    "1017": {
+        "nextDialog": 0,
+        "id": 1017,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "356"
+    },
+    "1018": {
+        "nextDialog": 0,
+        "id": 1018,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "191"
+    },
+    "1039": {
+        "nextDialog": 0,
+        "id": 1039,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "944"
+    },
+    "1038": {
+        "nextDialog": 0,
+        "id": 1038,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "943"
+    },
+    "1032": {
+        "nextDialog": 0,
+        "id": 1032,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "655"
+    },
+    "1031": {
+        "nextDialog": 0,
+        "id": 1031,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "914-916"
+    },
+    "1023": {
+        "nextDialog": 0,
+        "id": 1023,
+        "skipTime": -1,
+        "canSkip": 1,
+        "dialogList": "906-911"
+    }
+}

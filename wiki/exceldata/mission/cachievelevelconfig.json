@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "rewardItem": 30076,
+        "itemNum": 1,
+        "achievePoint": 30,
+        "rewardID": 0
+    },
+    {
+        "id": 2,
+        "rewardItem": 30076,
+        "itemNum": 1,
+        "achievePoint": 30,
+        "rewardID": 1634
+    },
+    {
+        "id": 3,
+        "rewardItem": 30076,
+        "itemNum": 1,
+        "achievePoint": 40,
+        "rewardID": 1635
+    },
+    {
+        "id": 4,
+        "rewardItem": 30076,
+        "itemNum": 2,
+        "achievePoint": 50,
+        "rewardID": 1636
+    },
+    {
+        "id": 5,
+        "rewardItem": 30076,
+        "itemNum": 2,
+        "achievePoint": 70,
+        "rewardID": 1637
+    },
+    {
+        "id": 6,
+        "rewardItem": 30076,
+        "itemNum": 2,
+        "achievePoint": 90,
+        "rewardID": 1638
+    },
+    {
+        "id": 7,
+        "rewardItem": 30076,
+        "itemNum": 3,
+        "achievePoint": 90,
+        "rewardID": 1639
+    },
+    {
+        "id": 8,
+        "rewardItem": 30076,
+        "itemNum": 3,
+        "achievePoint": 100,
+        "rewardID": 1640
+    },
+    {
+        "id": 9,
+        "rewardItem": 30076,
+        "itemNum": 3,
+        "achievePoint": 100,
+        "rewardID": 1641
+    },
+    {
+        "id": 10,
+        "rewardItem": 30076,
+        "itemNum": 4,
+        "achievePoint": 100,
+        "rewardID": 1642
+    },
+    {
+        "id": 11,
+        "rewardItem": 30076,
+        "itemNum": 4,
+        "achievePoint": 100,
+        "rewardID": 1974
+    },
+    {
+        "id": 12,
+        "rewardItem": 30076,
+        "itemNum": 4,
+        "achievePoint": 100,
+        "rewardID": 1975
+    },
+    {
+        "id": 13,
+        "rewardItem": 30076,
+        "itemNum": 5,
+        "achievePoint": 100,
+        "rewardID": 1976
+    }
+]

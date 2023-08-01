@@ -1,0 +1,55 @@
+{
+    "201": {
+        "selectstageeffect": 1083,
+        "id": 201,
+        "selectroleback": 12237,
+        "stageinillu": 60066,
+        "sidestoryroleid": 200,
+        "charsideuiprefab": 2,
+        "stagebackground": 12245,
+        "sidestorytitletxt": 1901448,
+        "unlockdialogtxt": 1901512,
+        "unlockdialog": "“我和这含苞待放的花儿一样，缺少爱的滋养呢……”",
+        "unlockStageid": 60006,
+        "floorlist": [
+            5007,
+            5008,
+            5009,
+            5010,
+            5011
+        ],
+        "chapternumname": "月下蔷薇",
+        "chapternumnametxt": 1901448,
+        "sidestorytitle": "莫尔提茉的支线",
+        "stagebackgroundeffect": 1074,
+        "unlockConfirm": 128,
+        "unlockitem": 0
+    },
+    "101": {
+        "selectstageeffect": 1083,
+        "id": 101,
+        "selectroleback": 12236,
+        "stageinillu": 1017,
+        "sidestoryroleid": 100,
+        "charsideuiprefab": 1,
+        "stagebackground": 12245,
+        "sidestorytitletxt": 1900410,
+        "unlockdialogtxt": 1900412,
+        "unlockdialog": "“我的选择，轮不到你们来指手画脚。”",
+        "unlockStageid": -1,
+        "floorlist": [
+            5001,
+            5002,
+            5003,
+            5004,
+            5005,
+            5006
+        ],
+        "chapternumname": "破碎断片",
+        "chapternumnametxt": 1900408,
+        "sidestorytitle": "德亚丝的支线",
+        "stagebackgroundeffect": 1074,
+        "unlockConfirm": 78,
+        "unlockitem": 31091
+    }
+}

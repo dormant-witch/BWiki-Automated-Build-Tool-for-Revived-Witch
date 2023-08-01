@@ -1,0 +1,14 @@
+[
+    {
+        "maxReward": 700,
+        "id": 1,
+        "callNum": 1,
+        "callItem": 35042,
+        "charTalk": [
+            1053019,
+            1010018,
+            101103015
+        ],
+        "convertNum": 1
+    }
+]

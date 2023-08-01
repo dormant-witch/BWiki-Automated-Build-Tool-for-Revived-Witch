@@ -1,0 +1,368 @@
+[
+    {
+        "id": 1,
+        "mainlineListEffect": 1083,
+        "detailTextID": 1900260,
+        "selecttype": 1,
+        "worldimagegrey": 10231,
+        "chapterTextID": 1900254,
+        "backgroundimage": 10945,
+        "worldTextID": 1900251,
+        "floorlist": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "backgroundeffect": 1074,
+        "worldrewardItemNums": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "detail": "神秘的高塔",
+        "worldrewardItems": [
+            30077,
+            80007,
+            80015,
+            80006,
+            80013
+        ],
+        "world": "时之塔",
+        "selectchapter": 1,
+        "worldimage": 10231,
+        "chapternum": 1,
+        "chapter": "第一章"
+    },
+    {
+        "id": 2,
+        "mainlineListEffect": 1084,
+        "detailTextID": 1900261,
+        "selecttype": 2,
+        "worldimagegrey": 10232,
+        "chapterTextID": 1900255,
+        "backgroundimage": 10946,
+        "worldTextID": 1900252,
+        "floorlist": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "backgroundeffect": 1075,
+        "worldrewardItemNums": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "detail": "魔力弥漫的森林",
+        "worldrewardItems": [
+            30077,
+            80001,
+            80002,
+            80003
+        ],
+        "world": "伊敏瑟伦",
+        "selectchapter": 2,
+        "worldimage": 10232,
+        "chapternum": 2,
+        "chapter": "第二章"
+    },
+    {
+        "id": 3,
+        "mainlineListEffect": 1085,
+        "detailTextID": 1900262,
+        "selecttype": 3,
+        "worldimagegrey": 10235,
+        "chapterTextID": 1900255,
+        "backgroundimage": 10945,
+        "worldTextID": 1900266,
+        "floorlist": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+        ],
+        "backgroundeffect": 1074,
+        "worldrewardItemNums": [
+            1,
+            1,
+            1
+        ],
+        "detail": "继续向上探索高塔",
+        "worldrewardItems": [
+            80008,
+            80014,
+            80011
+        ],
+        "world": "间幕",
+        "selectchapter": 2,
+        "worldimage": 10235,
+        "chapternum": 2,
+        "chapter": "第二章"
+    },
+    {
+        "id": 4,
+        "mainlineListEffect": 1086,
+        "detailTextID": 1900263,
+        "selecttype": 2,
+        "worldimagegrey": 10233,
+        "chapterTextID": 1900257,
+        "backgroundimage": 11184,
+        "worldTextID": 1900253,
+        "floorlist": [
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41
+        ],
+        "backgroundeffect": 1076,
+        "worldrewardItemNums": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "detail": "冰雪覆盖的高山",
+        "worldrewardItems": [
+            30077,
+            80009,
+            80004,
+            80003
+        ],
+        "world": "谢波契卡",
+        "selectchapter": 3,
+        "worldimage": 10233,
+        "chapternum": 3,
+        "chapter": "第三章"
+    },
+    {
+        "id": 5,
+        "mainlineListEffect": 1087,
+        "detailTextID": 1900264,
+        "selecttype": 3,
+        "worldimagegrey": 10236,
+        "chapterTextID": 1900257,
+        "backgroundimage": 10945,
+        "worldTextID": 1900266,
+        "floorlist": [
+            42,
+            43,
+            44,
+            45,
+            46,
+            47
+        ],
+        "backgroundeffect": 1074,
+        "worldrewardItemNums": [
+            1,
+            1
+        ],
+        "detail": "继续向上探索高塔",
+        "worldrewardItems": [
+            80017,
+            80016
+        ],
+        "world": "间幕",
+        "selectchapter": 3,
+        "worldimage": 10236,
+        "chapternum": 3,
+        "chapter": "第三章"
+    },
+    {
+        "id": 6,
+        "mainlineListEffect": 1084,
+        "detailTextID": 1900265,
+        "selecttype": 2,
+        "worldimagegrey": 10234,
+        "chapterTextID": 1900259,
+        "backgroundimage": 12142,
+        "worldTextID": 1900253,
+        "floorlist": [
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67
+        ],
+        "backgroundeffect": 1075,
+        "worldrewardItemNums": [
+            1,
+            1,
+            1
+        ],
+        "detail": "重返谢波契卡",
+        "worldrewardItems": [
+            30077,
+            80005,
+            80017
+        ],
+        "world": "谢波契卡",
+        "selectchapter": 4,
+        "worldimage": 10234,
+        "chapternum": 4,
+        "chapter": "第四章"
+    },
+    {
+        "id": 7,
+        "mainlineListEffect": 1087,
+        "detailTextID": 1900264,
+        "selecttype": 3,
+        "worldimagegrey": 10237,
+        "chapterTextID": 1900259,
+        "backgroundimage": 10945,
+        "worldTextID": 1900266,
+        "floorlist": [
+            68,
+            69,
+            70,
+            71,
+            72,
+            73
+        ],
+        "backgroundeffect": 1074,
+        "worldrewardItemNums": [
+            1,
+            1
+        ],
+        "detail": "继续向上探索高塔",
+        "worldrewardItems": [
+            80012,
+            80010
+        ],
+        "world": "间幕",
+        "selectchapter": 4,
+        "worldimage": 10237,
+        "chapternum": 4,
+        "chapter": "第四章"
+    },
+    {
+        "id": 8,
+        "mainlineListEffect": 1084,
+        "detailTextID": 1900403,
+        "selecttype": 1,
+        "worldimagegrey": 12144,
+        "chapterTextID": 1900402,
+        "backgroundimage": 12143,
+        "worldTextID": 1900401,
+        "floorlist": [
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91
+        ],
+        "backgroundeffect": 1075,
+        "worldrewardItemNums": [
+            1
+        ],
+        "detail": "漂浮在空中的巨大岛屿",
+        "worldrewardItems": [
+            30077
+        ],
+        "world": "嘉庇艾尔",
+        "selectchapter": 5,
+        "worldimage": 12144,
+        "chapternum": 5,
+        "chapter": "第五章"
+    },
+    {
+        "id": 9,
+        "mainlineListEffect": 1084,
+        "detailTextID": 1900501,
+        "selecttype": 1,
+        "worldimagegrey": 14957,
+        "chapterTextID": 1901550,
+        "backgroundimage": 14961,
+        "worldTextID": 1901549,
+        "floorlist": [
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109
+        ],
+        "backgroundeffect": 1075,
+        "worldrewardItemNums": [
+            1
+        ],
+        "detail": "继续向上探索巨大岛屿",
+        "worldrewardItems": [
+            30077
+        ],
+        "world": "嘉庇艾尔上层",
+        "selectchapter": 6,
+        "worldimage": 14957,
+        "chapternum": 6,
+        "chapter": "第六章"
+    }
+]

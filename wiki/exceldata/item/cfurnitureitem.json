@@ -1,0 +1,3068 @@
+{
+    "80128": {
+        "id": 80128,
+        "type": 5,
+        "cover": "3*3",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_h01",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80129": {
+        "id": 80129,
+        "type": 7,
+        "cover": "4*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wallobj_h01",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 10
+    },
+    "80130": {
+        "id": 80130,
+        "type": 2,
+        "cover": "20*7",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wall_e01",
+        "level": 4,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80131": {
+        "id": 80131,
+        "type": 1,
+        "cover": "20*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_floor_e01",
+        "level": 1,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80132": {
+        "id": 80132,
+        "type": 7,
+        "cover": "20*7",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wallobj_e01",
+        "level": 6,
+        "putRangeShow": 1,
+        "comfortPoint": 90
+    },
+    "80133": {
+        "id": 80133,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_e04",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 10
+    },
+    "80134": {
+        "id": 80134,
+        "type": 4,
+        "cover": "6*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_large_e01",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80135": {
+        "id": 80135,
+        "type": 5,
+        "cover": "4*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_e02",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80136": {
+        "id": 80136,
+        "type": 4,
+        "cover": "4*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_large_e03",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 25
+    },
+    "80137": {
+        "id": 80137,
+        "type": 4,
+        "cover": "4*3",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_large_e02",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80138": {
+        "id": 80138,
+        "type": 5,
+        "cover": "1*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_e03",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 10
+    },
+    "80139": {
+        "id": 80139,
+        "type": 5,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_e01",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80140": {
+        "id": 80140,
+        "type": 6,
+        "cover": "7*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,3",
+            "20,4"
+        ],
+        "prefabName": "dorm_carpet_e02",
+        "level": 2,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80141": {
+        "id": 80141,
+        "type": 6,
+        "cover": "7*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,3",
+            "20,4"
+        ],
+        "prefabName": "dorm_carpet_e01",
+        "level": 2,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80142": {
+        "id": 80142,
+        "type": 5,
+        "cover": "1*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_e07",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 50
+    },
+    "80143": {
+        "id": 80143,
+        "type": 5,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_bilibili",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80144": {
+        "id": 80144,
+        "type": 5,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_e08",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 50
+    },
+    "80145": {
+        "id": 80145,
+        "type": 5,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_other",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80146": {
+        "id": 80146,
+        "type": 4,
+        "cover": "4*3",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_large_kaze",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80147": {
+        "id": 80147,
+        "type": 5,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_AcFun",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80148": {
+        "id": 80148,
+        "type": 5,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_potato",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80149": {
+        "id": 80149,
+        "type": 5,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_witchpillow",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80150": {
+        "id": 80150,
+        "type": 4,
+        "cover": "4*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_large_Anemone",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80151": {
+        "id": 80151,
+        "type": 7,
+        "cover": "2*3",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,2",
+            "20,7"
+        ],
+        "prefabName": "dorm_sum_01",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80152": {
+        "id": 80152,
+        "type": 7,
+        "cover": "3*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_sum_02",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80153": {
+        "id": 80153,
+        "type": 7,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_sum_03",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80154": {
+        "id": 80154,
+        "type": 4,
+        "cover": "5*3",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_sum_04",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80155": {
+        "id": 80155,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_sum_05",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80156": {
+        "id": 80156,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_sum_06",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 10
+    },
+    "80157": {
+        "id": 80157,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_sum_07",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 10
+    },
+    "80158": {
+        "id": 80158,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_sum_08",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80159": {
+        "id": 80159,
+        "type": 4,
+        "cover": "3*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_sum_09",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80160": {
+        "id": 80160,
+        "type": 4,
+        "cover": "3*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_sum_10",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80161": {
+        "id": 80161,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_sum_11",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 10
+    },
+    "80162": {
+        "id": 80162,
+        "type": 5,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_sum_12",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 10
+    },
+    "80163": {
+        "id": 80163,
+        "type": 2,
+        "cover": "20*7",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wall_sum_01",
+        "level": 4,
+        "putRangeShow": 0,
+        "comfortPoint": 20
+    },
+    "80164": {
+        "id": 80164,
+        "type": 1,
+        "cover": "20*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_floor_sum_01",
+        "level": 1,
+        "putRangeShow": 0,
+        "comfortPoint": 20
+    },
+    "80168": {
+        "id": 80168,
+        "type": 2,
+        "cover": "20*7",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wall_hallowood_01",
+        "level": 4,
+        "putRangeShow": 0,
+        "comfortPoint": 20
+    },
+    "80169": {
+        "id": 80169,
+        "type": 1,
+        "cover": "20*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_floor_hallowood_01",
+        "level": 1,
+        "putRangeShow": 0,
+        "comfortPoint": 20
+    },
+    "80170": {
+        "id": 80170,
+        "type": 3,
+        "cover": "3*5",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_hallowood_04",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80171": {
+        "id": 80171,
+        "type": 7,
+        "cover": "2*3",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_hallowood_01",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80172": {
+        "id": 80172,
+        "type": 7,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_hallowood_08",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80173": {
+        "id": 80173,
+        "type": 7,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_hallowood_15",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80174": {
+        "id": 80174,
+        "type": 7,
+        "cover": "3*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_hallowood_13",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80175": {
+        "id": 80175,
+        "type": 7,
+        "cover": "3*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_hallowood_07",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80176": {
+        "id": 80176,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_hallowood_16",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80177": {
+        "id": 80177,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_hallowood_12",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80178": {
+        "id": 80178,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_hallowood_10",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80179": {
+        "id": 80179,
+        "type": 5,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_hallowood_06",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80180": {
+        "id": 80180,
+        "type": 5,
+        "cover": "1*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_hallowood_09",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80181": {
+        "id": 80181,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_hallowood_14",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80182": {
+        "id": 80182,
+        "type": 4,
+        "cover": "4*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_hallowood_03",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80183": {
+        "id": 80183,
+        "type": 4,
+        "cover": "4*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,3",
+            "20,4"
+        ],
+        "prefabName": "dorm_hallowood_02",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80184": {
+        "id": 80184,
+        "type": 4,
+        "cover": "3*3",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,3",
+            "20,4"
+        ],
+        "prefabName": "dorm_hallowood_11",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80185": {
+        "id": 80185,
+        "type": 6,
+        "cover": "6*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_hallowood_05",
+        "level": 2,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80186": {
+        "id": 80186,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_cake",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80187": {
+        "id": 80187,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_xmas_10",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80188": {
+        "id": 80188,
+        "type": 7,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_xmas_08",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80189": {
+        "id": 80189,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_xmas_12",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 50
+    },
+    "80190": {
+        "id": 80190,
+        "type": 4,
+        "cover": "4*3",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_xmas_01",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80191": {
+        "id": 80191,
+        "type": 7,
+        "cover": "3*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_xmas_06",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80192": {
+        "id": 80192,
+        "type": 5,
+        "cover": "3*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_xmas_09",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80193": {
+        "id": 80193,
+        "type": 3,
+        "cover": "3*5",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_xmas_04",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80194": {
+        "id": 80194,
+        "type": 6,
+        "cover": "6*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_xmas_14",
+        "level": 2,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80195": {
+        "id": 80195,
+        "type": 7,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_xmas_05",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80196": {
+        "id": 80196,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_xmas_11",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80197": {
+        "id": 80197,
+        "type": 4,
+        "cover": "4*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_xmas_02",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80198": {
+        "id": 80198,
+        "type": 4,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_xmas_03",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80199": {
+        "id": 80199,
+        "type": 7,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_xmas_07",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80200": {
+        "id": 80200,
+        "type": 5,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_xmas_13",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80201": {
+        "id": 80201,
+        "type": 2,
+        "cover": "20*7",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wall_xmas_01",
+        "level": 4,
+        "putRangeShow": 0,
+        "comfortPoint": 15
+    },
+    "80202": {
+        "id": 80202,
+        "type": 1,
+        "cover": "20*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_floor_xmas_01",
+        "level": 1,
+        "putRangeShow": 0,
+        "comfortPoint": 15
+    },
+    "80203": {
+        "id": 80203,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_Valentin02",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80204": {
+        "id": 80204,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_Valentin01",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80205": {
+        "id": 80205,
+        "type": 4,
+        "cover": "4*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_year_01",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80206": {
+        "id": 80206,
+        "type": 4,
+        "cover": "2*3",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_year_02",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80207": {
+        "id": 80207,
+        "type": 4,
+        "cover": "3*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_year_03",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80208": {
+        "id": 80208,
+        "type": 5,
+        "cover": "3*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_year_04",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80209": {
+        "id": 80209,
+        "type": 7,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_year_05",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80210": {
+        "id": 80210,
+        "type": 3,
+        "cover": "4*4",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_year_06",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80211": {
+        "id": 80211,
+        "type": 7,
+        "cover": "2*3",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_year_07",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80212": {
+        "id": 80212,
+        "type": 7,
+        "cover": "2*3",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_year_08",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80213": {
+        "id": 80213,
+        "type": 7,
+        "cover": "3*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_year_09",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80214": {
+        "id": 80214,
+        "type": 5,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_year_10",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80215": {
+        "id": 80215,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_year_11",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80216": {
+        "id": 80216,
+        "type": 5,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_year_12",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80217": {
+        "id": 80217,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_year_13",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80218": {
+        "id": 80218,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_year_14",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80219": {
+        "id": 80219,
+        "type": 2,
+        "cover": "20*7",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wall_year_01",
+        "level": 4,
+        "putRangeShow": 0,
+        "comfortPoint": 20
+    },
+    "80220": {
+        "id": 80220,
+        "type": 1,
+        "cover": "20*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_floor_year_01",
+        "level": 1,
+        "putRangeShow": 0,
+        "comfortPoint": 20
+    },
+    "80221": {
+        "id": 80221,
+        "type": 6,
+        "cover": "6*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_year_15",
+        "level": 2,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80242": {
+        "id": 80242,
+        "type": 2,
+        "cover": "20*7",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wall_children_01",
+        "level": 4,
+        "putRangeShow": 0,
+        "comfortPoint": 20
+    },
+    "80243": {
+        "id": 80243,
+        "type": 1,
+        "cover": "20*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_floor_children_01",
+        "level": 1,
+        "putRangeShow": 0,
+        "comfortPoint": 20
+    },
+    "80244": {
+        "id": 80244,
+        "type": 4,
+        "cover": "5*3",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_children_07",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80245": {
+        "id": 80245,
+        "type": 4,
+        "cover": "4*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_children_08",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80246": {
+        "id": 80246,
+        "type": 7,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_children_10",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80247": {
+        "id": 80247,
+        "type": 7,
+        "cover": "2*3",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_children_11",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80248": {
+        "id": 80248,
+        "type": 5,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_children_01",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80249": {
+        "id": 80249,
+        "type": 5,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_children_02",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80250": {
+        "id": 80250,
+        "type": 5,
+        "cover": "3*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_children_03",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80251": {
+        "id": 80251,
+        "type": 5,
+        "cover": "3*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_children_04",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80252": {
+        "id": 80252,
+        "type": 4,
+        "cover": "3*3",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_children_09",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80253": {
+        "id": 80253,
+        "type": 7,
+        "cover": "4*3",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_children_12",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80254": {
+        "id": 80254,
+        "type": 5,
+        "cover": "2*3",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_children_05",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80255": {
+        "id": 80255,
+        "type": 7,
+        "cover": "3*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_children_13",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80256": {
+        "id": 80256,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_children_06",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80001": {
+        "id": 80001,
+        "type": 1,
+        "cover": "20*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_floor_02",
+        "level": 1,
+        "putRangeShow": 0,
+        "comfortPoint": 10
+    },
+    "80002": {
+        "id": 80002,
+        "type": 2,
+        "cover": "20*7",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wall_02",
+        "level": 4,
+        "putRangeShow": 0,
+        "comfortPoint": 10
+    },
+    "80003": {
+        "id": 80003,
+        "type": 3,
+        "cover": "4*5",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_window_01",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80004": {
+        "id": 80004,
+        "type": 4,
+        "cover": "4*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,3",
+            "20,4"
+        ],
+        "prefabName": "dorm_large_01",
+        "level": 3,
+        "putRangeShow": 2,
+        "comfortPoint": 15
+    },
+    "80005": {
+        "id": 80005,
+        "type": 4,
+        "cover": "6*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_01",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80006": {
+        "id": 80006,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_07",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80007": {
+        "id": 80007,
+        "type": 5,
+        "cover": "4*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_03",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 10
+    },
+    "80008": {
+        "id": 80008,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_02",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 10
+    },
+    "80009": {
+        "id": 80009,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_04",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 10
+    },
+    "80010": {
+        "id": 80010,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_06",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 10
+    },
+    "80011": {
+        "id": 80011,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_05",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80012": {
+        "id": 80012,
+        "type": 6,
+        "cover": "4*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_carpet_01",
+        "level": 2,
+        "putRangeShow": 1,
+        "comfortPoint": 10
+    },
+    "80013": {
+        "id": 80013,
+        "type": 6,
+        "cover": "6*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_carpet_02",
+        "level": 2,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80014": {
+        "id": 80014,
+        "type": 7,
+        "cover": "2*3",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wallobj_01",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 10
+    },
+    "80015": {
+        "id": 80015,
+        "type": 7,
+        "cover": "2*3",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wallobj_03",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 10
+    },
+    "80016": {
+        "id": 80016,
+        "type": 7,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wallobj_02",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 10
+    },
+    "80017": {
+        "id": 80017,
+        "type": 7,
+        "cover": "2*3",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wallobj_04",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 10
+    },
+    "80274": {
+        "id": 80274,
+        "type": 4,
+        "cover": "8*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_anniversary_12",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80275": {
+        "id": 80275,
+        "type": 1,
+        "cover": "20*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_floor_anniversary_01",
+        "level": 1,
+        "putRangeShow": 0,
+        "comfortPoint": 20
+    },
+    "80276": {
+        "id": 80276,
+        "type": 2,
+        "cover": "20*7",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wall_Halloween_01",
+        "level": 4,
+        "putRangeShow": 0,
+        "comfortPoint": 20
+    },
+    "80277": {
+        "id": 80277,
+        "type": 1,
+        "cover": "20*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_floor_Halloween_01",
+        "level": 1,
+        "putRangeShow": 0,
+        "comfortPoint": 20
+    },
+    "80278": {
+        "id": 80278,
+        "type": 3,
+        "cover": "3*4",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_Halloween_12",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 20
+    },
+    "80279": {
+        "id": 80279,
+        "type": 7,
+        "cover": "1*3",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,4",
+            "20,7"
+        ],
+        "prefabName": "dorm_Halloween_11",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80280": {
+        "id": 80280,
+        "type": 7,
+        "cover": "3*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_Halloween_10",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80281": {
+        "id": 80281,
+        "type": 7,
+        "cover": "1*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_Halloween_09",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80282": {
+        "id": 80282,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_Halloween_08",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80283": {
+        "id": 80283,
+        "type": 5,
+        "cover": "1*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_Halloween_06",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80284": {
+        "id": 80284,
+        "type": 5,
+        "cover": "1*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_Halloween_04",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80285": {
+        "id": 80285,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_Halloween_07",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80286": {
+        "id": 80286,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_Halloween_05",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80287": {
+        "id": 80287,
+        "type": 6,
+        "cover": "4*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_Halloween_13",
+        "level": 2,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80288": {
+        "id": 80288,
+        "type": 4,
+        "cover": "4*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_Halloween_02",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80289": {
+        "id": 80289,
+        "type": 4,
+        "cover": "6*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_Halloween_01",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80290": {
+        "id": 80290,
+        "type": 4,
+        "cover": "4*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_Halloween_03",
+        "level": 3,
+        "putRangeShow": 2,
+        "comfortPoint": 15
+    },
+    "80291": {
+        "id": 80291,
+        "type": 2,
+        "cover": "20*7",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wall_canteen_01",
+        "level": 4,
+        "putRangeShow": 0,
+        "comfortPoint": 20
+    },
+    "80292": {
+        "id": 80292,
+        "type": 1,
+        "cover": "20*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_floor_canteen_01",
+        "level": 1,
+        "putRangeShow": 0,
+        "comfortPoint": 20
+    },
+    "80293": {
+        "id": 80293,
+        "type": 3,
+        "cover": "3*4",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_canteen_11",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 20
+    },
+    "80294": {
+        "id": 80294,
+        "type": 7,
+        "cover": "3*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_canteen_13",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80295": {
+        "id": 80295,
+        "type": 7,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,4",
+            "20,7"
+        ],
+        "prefabName": "dorm_canteen_10",
+        "level": 6,
+        "putRangeShow": 4,
+        "comfortPoint": 15
+    },
+    "80296": {
+        "id": 80296,
+        "type": 7,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_canteen_12",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80297": {
+        "id": 80297,
+        "type": 7,
+        "cover": "4*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,4",
+            "20,7"
+        ],
+        "prefabName": "dorm_canteen_14",
+        "level": 6,
+        "putRangeShow": 4,
+        "comfortPoint": 15
+    },
+    "80298": {
+        "id": 80298,
+        "type": 5,
+        "cover": "1*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_canteen_01",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80299": {
+        "id": 80299,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_canteen_05",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80300": {
+        "id": 80300,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_canteen_04",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80301": {
+        "id": 80301,
+        "type": 5,
+        "cover": "4*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_canteen_07",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80302": {
+        "id": 80302,
+        "type": 5,
+        "cover": "1*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_canteen_03",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80303": {
+        "id": 80303,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_canteen_02",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80304": {
+        "id": 80304,
+        "type": 4,
+        "cover": "7*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_canteen_08",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80305": {
+        "id": 80305,
+        "type": 4,
+        "cover": "4*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_canteen_06",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80306": {
+        "id": 80306,
+        "type": 4,
+        "cover": "6*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_canteen_09",
+        "level": 3,
+        "putRangeShow": 2,
+        "comfortPoint": 15
+    },
+    "80051": {
+        "id": 80051,
+        "type": 5,
+        "cover": "4*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_b01",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80052": {
+        "id": 80052,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_b02",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80053": {
+        "id": 80053,
+        "type": 5,
+        "cover": "1*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_b04",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80054": {
+        "id": 80054,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_b06",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80055": {
+        "id": 80055,
+        "type": 5,
+        "cover": "4*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_b07",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80056": {
+        "id": 80056,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_b08",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80057": {
+        "id": 80057,
+        "type": 4,
+        "cover": "4*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_b09",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80058": {
+        "id": 80058,
+        "type": 4,
+        "cover": "6*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,3",
+            "20,4"
+        ],
+        "prefabName": "dorm_large_b01",
+        "level": 3,
+        "putRangeShow": 2,
+        "comfortPoint": 20
+    },
+    "80059": {
+        "id": 80059,
+        "type": 7,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wallobj_b01",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80060": {
+        "id": 80060,
+        "type": 7,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,6",
+            "20,7"
+        ],
+        "prefabName": "dorm_wallobj_b02",
+        "level": 6,
+        "putRangeShow": 4,
+        "comfortPoint": 20
+    },
+    "80061": {
+        "id": 80061,
+        "type": 7,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wallobj_b03",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80062": {
+        "id": 80062,
+        "type": 7,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wallobj_b04",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80063": {
+        "id": 80063,
+        "type": 7,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wallobj_b05",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80064": {
+        "id": 80064,
+        "type": 7,
+        "cover": "3*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wallobj_b06",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80065": {
+        "id": 80065,
+        "type": 3,
+        "cover": "3*5",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_window_b01",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 20
+    },
+    "80066": {
+        "id": 80066,
+        "type": 1,
+        "cover": "20*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_floor_03",
+        "level": 1,
+        "putRangeShow": 0,
+        "comfortPoint": 15
+    },
+    "80067": {
+        "id": 80067,
+        "type": 2,
+        "cover": "20*7",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wall_b01",
+        "level": 4,
+        "putRangeShow": 0,
+        "comfortPoint": 20
+    },
+    "80068": {
+        "id": 80068,
+        "type": 6,
+        "cover": "6*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_carpet_b01",
+        "level": 2,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80307": {
+        "id": 80307,
+        "type": 6,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_canteen_15",
+        "level": 2,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80273": {
+        "id": 80273,
+        "type": 4,
+        "cover": "6*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_anniversary_13",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80272": {
+        "id": 80272,
+        "type": 4,
+        "cover": "5*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_anniversary_14",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80271": {
+        "id": 80271,
+        "type": 5,
+        "cover": "3*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_anniversary_11",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80270": {
+        "id": 80270,
+        "type": 5,
+        "cover": "4*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_anniversary_08",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80269": {
+        "id": 80269,
+        "type": 5,
+        "cover": "1*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_anniversary_09",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80268": {
+        "id": 80268,
+        "type": 5,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_anniversary_10",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80267": {
+        "id": 80267,
+        "type": 5,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_anniversary_06",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80266": {
+        "id": 80266,
+        "type": 5,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_anniversary_07",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80265": {
+        "id": 80265,
+        "type": 7,
+        "cover": "6*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_anniversary_04",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80264": {
+        "id": 80264,
+        "type": 7,
+        "cover": "6*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_anniversary_03",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80263": {
+        "id": 80263,
+        "type": 7,
+        "cover": "2*4",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,4",
+            "20,7"
+        ],
+        "prefabName": "dorm_anniversary_02",
+        "level": 6,
+        "putRangeShow": 4,
+        "comfortPoint": 15
+    },
+    "80262": {
+        "id": 80262,
+        "type": 7,
+        "cover": "3*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_anniversary_05",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80261": {
+        "id": 80261,
+        "type": 3,
+        "cover": "3*4",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_anniversary_01",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 20
+    },
+    "80260": {
+        "id": 80260,
+        "type": 6,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_anniversary_15",
+        "level": 2,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80259": {
+        "id": 80259,
+        "type": 2,
+        "cover": "20*7",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wall_anniversary_",
+        "level": 4,
+        "putRangeShow": 0,
+        "comfortPoint": 20
+    },
+    "80258": {
+        "id": 80258,
+        "type": 6,
+        "cover": "6*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_children_15",
+        "level": 2,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80257": {
+        "id": 80257,
+        "type": 3,
+        "cover": "3*5",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_children_14",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 20
+    },
+    "80101": {
+        "id": 80101,
+        "type": 4,
+        "cover": "4*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,3",
+            "20,4"
+        ],
+        "prefabName": "dorm_large_c01",
+        "level": 3,
+        "putRangeShow": 2,
+        "comfortPoint": 15
+    },
+    "80102": {
+        "id": 80102,
+        "type": 4,
+        "cover": "6*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,3",
+            "20,4"
+        ],
+        "prefabName": "dorm_large_c02",
+        "level": 3,
+        "putRangeShow": 2,
+        "comfortPoint": 15
+    },
+    "80103": {
+        "id": 80103,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_c01",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 10
+    },
+    "80104": {
+        "id": 80104,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_c02",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80105": {
+        "id": 80105,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_c03",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80106": {
+        "id": 80106,
+        "type": 5,
+        "cover": "4*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_c04",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80107": {
+        "id": 80107,
+        "type": 4,
+        "cover": "4*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_c05",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80108": {
+        "id": 80108,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_c06",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80109": {
+        "id": 80109,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_c07",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80110": {
+        "id": 80110,
+        "type": 5,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_c08",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80111": {
+        "id": 80111,
+        "type": 7,
+        "cover": "2*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,6",
+            "20,7"
+        ],
+        "prefabName": "dorm_wallobj_c01",
+        "level": 6,
+        "putRangeShow": 4,
+        "comfortPoint": 15
+    },
+    "80112": {
+        "id": 80112,
+        "type": 7,
+        "cover": "2*1",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wallobj_c02",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 10
+    },
+    "80113": {
+        "id": 80113,
+        "type": 7,
+        "cover": "2*3",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wallobj_c03",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80114": {
+        "id": 80114,
+        "type": 3,
+        "cover": "4*5",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_window_c01",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80115": {
+        "id": 80115,
+        "type": 1,
+        "cover": "20*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_floor_04",
+        "level": 1,
+        "putRangeShow": 0,
+        "comfortPoint": 15
+    },
+    "80116": {
+        "id": 80116,
+        "type": 2,
+        "cover": "20*7",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wall_c01",
+        "level": 4,
+        "putRangeShow": 0,
+        "comfortPoint": 15
+    },
+    "80117": {
+        "id": 80117,
+        "type": 6,
+        "cover": "6*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_carpet_c02",
+        "level": 2,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80118": {
+        "id": 80118,
+        "type": 4,
+        "cover": "6*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_large_d02",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80119": {
+        "id": 80119,
+        "type": 4,
+        "cover": "8*3",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_large_d01",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80120": {
+        "id": 80120,
+        "type": 7,
+        "cover": "4*7",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wallobj_d02",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 15
+    },
+    "80121": {
+        "id": 80121,
+        "type": 5,
+        "cover": "4*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_d01",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80122": {
+        "id": 80122,
+        "type": 1,
+        "cover": "20*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_floor_d01",
+        "level": 1,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80123": {
+        "id": 80123,
+        "type": 2,
+        "cover": "20*7",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wall_d01",
+        "level": 4,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80124": {
+        "id": 80124,
+        "type": 4,
+        "cover": "3*3",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_large_d03",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 20
+    },
+    "80125": {
+        "id": 80125,
+        "type": 7,
+        "cover": "4*7",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wallobj_d01",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 20
+    },
+    "80126": {
+        "id": 80126,
+        "type": 5,
+        "cover": "3*3",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,4"
+        ],
+        "prefabName": "dorm_small_t01",
+        "level": 3,
+        "putRangeShow": 1,
+        "comfortPoint": 15
+    },
+    "80127": {
+        "id": 80127,
+        "type": 7,
+        "cover": "4*2",
+        "assetBundle": "sceneobjects\/dorm.prefabs.assetbundle",
+        "putRange": [
+            "1,1",
+            "20,7"
+        ],
+        "prefabName": "dorm_wallobj_t01",
+        "level": 6,
+        "putRangeShow": 3,
+        "comfortPoint": 10
+    }
+}

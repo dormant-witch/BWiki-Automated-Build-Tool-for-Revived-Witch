@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "floorID": 1,
+        "MaxComfort": 4
+    },
+    {
+        "id": 2,
+        "floorID": 2,
+        "MaxComfort": 6
+    },
+    {
+        "id": 3,
+        "floorID": 3,
+        "MaxComfort": 8
+    }
+]

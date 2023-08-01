@@ -1,0 +1,23 @@
+{
+    "0": {
+        "image": 12620,
+        "id": 0,
+        "effect": 0,
+        "describe": 502777,
+        "weekBossEffect": 0
+    },
+    "1": {
+        "image": 12621,
+        "id": 1,
+        "effect": 100,
+        "describe": 502775,
+        "weekBossEffect": 200
+    },
+    "2": {
+        "image": 12622,
+        "id": 2,
+        "effect": 150,
+        "describe": 502776,
+        "weekBossEffect": 300
+    }
+}

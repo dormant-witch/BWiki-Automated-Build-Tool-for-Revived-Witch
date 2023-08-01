@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "assetBundleBattle": "sceneobjects\/tower.prefabs.assetbundle",
+        "assetName": "tower_buff_01",
+        "assetBundle": "sceneobjects\/tower.prefabs.assetbundle",
+        "assetNameBattle": "tower_buff_m01",
+        "textID": 1900451,
+        "attrID": 20,
+        "value": 10,
+        "imgID": 10950
+    },
+    {
+        "id": 2,
+        "assetBundleBattle": "sceneobjects\/tower.prefabs.assetbundle",
+        "assetName": "tower_buff_02",
+        "assetBundle": "sceneobjects\/tower.prefabs.assetbundle",
+        "assetNameBattle": "tower_buff_m02",
+        "textID": 1900452,
+        "attrID": 90,
+        "value": 5,
+        "imgID": 10947
+    },
+    {
+        "id": 3,
+        "assetBundleBattle": "sceneobjects\/tower.prefabs.assetbundle",
+        "assetName": "tower_buff_03",
+        "assetBundle": "sceneobjects\/tower.prefabs.assetbundle",
+        "assetNameBattle": "tower_buff_m03",
+        "textID": 1900453,
+        "attrID": 100,
+        "value": 5,
+        "imgID": 10949
+    },
+    {
+        "id": 4,
+        "assetBundleBattle": "sceneobjects\/tower.prefabs.assetbundle",
+        "assetName": "tower_buff_04",
+        "assetBundle": "sceneobjects\/tower.prefabs.assetbundle",
+        "assetNameBattle": "tower_buff_m04",
+        "textID": 1900454,
+        "attrID": 110,
+        "value": 5,
+        "imgID": 10947
+    },
+    {
+        "id": 5,
+        "assetBundleBattle": "sceneobjects\/tower.prefabs.assetbundle",
+        "assetName": "tower_buff_05",
+        "assetBundle": "sceneobjects\/tower.prefabs.assetbundle",
+        "assetNameBattle": "tower_buff_m05",
+        "textID": 1900455,
+        "attrID": 120,
+        "value": 5,
+        "imgID": 10949
+    },
+    {
+        "id": 6,
+        "assetBundleBattle": "sceneobjects\/tower.prefabs.assetbundle",
+        "assetName": "tower_buff_06",
+        "assetBundle": "sceneobjects\/tower.prefabs.assetbundle",
+        "assetNameBattle": "tower_buff_m06",
+        "textID": 1900456,
+        "attrID": 130,
+        "value": 5,
+        "imgID": 10948
+    }
+]

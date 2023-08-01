@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "selector": "floor",
+        "groundType": 0
+    },
+    {
+        "id": 2,
+        "selector": "rock",
+        "groundType": 1
+    },
+    {
+        "id": 3,
+        "selector": "dirt",
+        "groundType": 2
+    },
+    {
+        "id": 4,
+        "selector": "grass",
+        "groundType": 3
+    },
+    {
+        "id": 5,
+        "selector": "puddle",
+        "groundType": 4
+    },
+    {
+        "id": 6,
+        "selector": "carpet",
+        "groundType": 5
+    },
+    {
+        "id": 7,
+        "selector": "snow",
+        "groundType": 6
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "range": "GridFloor\/Grid_0",
+        "id": 1
+    },
+    {
+        "range": "GridFloor\/Grid_1",
+        "id": 2
+    },
+    {
+        "range": "GridWall\/Grid_0",
+        "id": 3
+    },
+    {
+        "range": "GridWall\/Grid_1",
+        "id": 4
+    }
+]

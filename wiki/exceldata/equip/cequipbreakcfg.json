@@ -1,0 +1,310 @@
+[
+    {
+        "id": 1,
+        "levelmin": 0,
+        "materialEquipPinji": 1,
+        "breakMultiple": 10,
+        "pinJi": 1,
+        "levelmax": 10,
+        "unlockAbilityNum": 0,
+        "materialEquipNum": 2,
+        "itemId": [
+            0,
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0,
+            0
+        ],
+        "breaklv": 0,
+        "manaCost": 4000
+    },
+    {
+        "id": 2,
+        "levelmin": 10,
+        "materialEquipPinji": 0,
+        "breakMultiple": 0,
+        "pinJi": 1,
+        "levelmax": 20,
+        "unlockAbilityNum": 0,
+        "materialEquipNum": 0,
+        "itemId": [
+            0,
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0,
+            0
+        ],
+        "breaklv": 1,
+        "manaCost": 0
+    },
+    {
+        "id": 3,
+        "levelmin": 0,
+        "materialEquipPinji": 2,
+        "breakMultiple": 10,
+        "pinJi": 2,
+        "levelmax": 10,
+        "unlockAbilityNum": 2,
+        "materialEquipNum": 1,
+        "itemId": [
+            0,
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0,
+            0
+        ],
+        "breaklv": 0,
+        "manaCost": 5000
+    },
+    {
+        "id": 4,
+        "levelmin": 10,
+        "materialEquipPinji": 2,
+        "breakMultiple": 10,
+        "pinJi": 2,
+        "levelmax": 20,
+        "unlockAbilityNum": 2,
+        "materialEquipNum": 2,
+        "itemId": [
+            0,
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0,
+            0
+        ],
+        "breaklv": 1,
+        "manaCost": 6000
+    },
+    {
+        "id": 5,
+        "levelmin": 20,
+        "materialEquipPinji": 0,
+        "breakMultiple": 0,
+        "pinJi": 2,
+        "levelmax": 30,
+        "unlockAbilityNum": 2,
+        "materialEquipNum": 0,
+        "itemId": [
+            0,
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0,
+            0
+        ],
+        "breaklv": 2,
+        "manaCost": 0
+    },
+    {
+        "id": 6,
+        "levelmin": 0,
+        "materialEquipPinji": 3,
+        "breakMultiple": 10,
+        "pinJi": 3,
+        "levelmax": 10,
+        "unlockAbilityNum": 2,
+        "materialEquipNum": 1,
+        "itemId": [
+            0,
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0,
+            0
+        ],
+        "breaklv": 0,
+        "manaCost": 6000
+    },
+    {
+        "id": 7,
+        "levelmin": 10,
+        "materialEquipPinji": 3,
+        "breakMultiple": 10,
+        "pinJi": 3,
+        "levelmax": 20,
+        "unlockAbilityNum": 2,
+        "materialEquipNum": 1,
+        "itemId": [
+            0,
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0,
+            0
+        ],
+        "breaklv": 1,
+        "manaCost": 9000
+    },
+    {
+        "id": 8,
+        "levelmin": 20,
+        "materialEquipPinji": 3,
+        "breakMultiple": 10,
+        "pinJi": 3,
+        "levelmax": 30,
+        "unlockAbilityNum": 2,
+        "materialEquipNum": 2,
+        "itemId": [
+            0,
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0,
+            0
+        ],
+        "breaklv": 2,
+        "manaCost": 15000
+    },
+    {
+        "id": 9,
+        "levelmin": 30,
+        "materialEquipPinji": 0,
+        "breakMultiple": 0,
+        "pinJi": 3,
+        "levelmax": 40,
+        "unlockAbilityNum": 2,
+        "materialEquipNum": 0,
+        "itemId": [
+            0,
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0,
+            0
+        ],
+        "breaklv": 3,
+        "manaCost": 0
+    },
+    {
+        "id": 10,
+        "levelmin": 0,
+        "materialEquipPinji": 3,
+        "breakMultiple": 10,
+        "pinJi": 5,
+        "levelmax": 10,
+        "unlockAbilityNum": 3,
+        "materialEquipNum": 1,
+        "itemId": [
+            0,
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0,
+            0
+        ],
+        "breaklv": 0,
+        "manaCost": 8000
+    },
+    {
+        "id": 11,
+        "levelmin": 10,
+        "materialEquipPinji": 3,
+        "breakMultiple": 10,
+        "pinJi": 5,
+        "levelmax": 20,
+        "unlockAbilityNum": 3,
+        "materialEquipNum": 2,
+        "itemId": [
+            0,
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0,
+            0
+        ],
+        "breaklv": 1,
+        "manaCost": 12000
+    },
+    {
+        "id": 12,
+        "levelmin": 20,
+        "materialEquipPinji": 5,
+        "breakMultiple": 10,
+        "pinJi": 5,
+        "levelmax": 30,
+        "unlockAbilityNum": 3,
+        "materialEquipNum": 1,
+        "itemId": [
+            0,
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0,
+            0
+        ],
+        "breaklv": 2,
+        "manaCost": 40000
+    },
+    {
+        "id": 13,
+        "levelmin": 30,
+        "materialEquipPinji": 5,
+        "breakMultiple": 10,
+        "pinJi": 5,
+        "levelmax": 40,
+        "unlockAbilityNum": 3,
+        "materialEquipNum": 1,
+        "itemId": [
+            0,
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0,
+            0
+        ],
+        "breaklv": 3,
+        "manaCost": 80000
+    },
+    {
+        "id": 14,
+        "levelmin": 40,
+        "materialEquipPinji": 0,
+        "breakMultiple": 0,
+        "pinJi": 5,
+        "levelmax": 50,
+        "unlockAbilityNum": 3,
+        "materialEquipNum": 0,
+        "itemId": [
+            0,
+            0,
+            0
+        ],
+        "itemNum": [
+            0,
+            0,
+            0
+        ],
+        "breaklv": 4,
+        "manaCost": 0
+    }
+]

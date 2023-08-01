@@ -1,0 +1,4634 @@
+{
+    "700416": {
+        "text": "We are currently unable to send you a verification code, please try again after 24 hours.",
+        "id": 700416
+    },
+    "700417": {
+        "text": "Verification code can't be empty.",
+        "id": 700417
+    },
+    "700418": {
+        "text": "Incorrect verification code, please try again.",
+        "id": 700418
+    },
+    "700419": {
+        "text": "You can't send empty content.",
+        "id": 700419
+    },
+    "700420": {
+        "text": "You cannot send the same content too frequently.",
+        "id": 700420
+    },
+    "700421": {
+        "text": "You need to wait for $parameter1$ seconds to speak again.",
+        "id": 700421
+    },
+    "700422": {
+        "text": "You have obtained $parameter1$ Mana.",
+        "id": 700422
+    },
+    "700423": {
+        "text": "You have obtained $parameter1$ soul.",
+        "id": 700423
+    },
+    "700424": {
+        "text": "Delivery failed.",
+        "id": 700424
+    },
+    "700425": {
+        "text": "The email address you entered is invalid.",
+        "id": 700425
+    },
+    "700426": {
+        "text": "Confirmation code has been sent, please check your email.",
+        "id": 700426
+    },
+    "700427": {
+        "text": "We are currently unable to send you a verification code, please try again after 2 hours.",
+        "id": 700427
+    },
+    "700428": {
+        "text": "We are currently unable to send you a verification code, please try again after 24 hours.",
+        "id": 700428
+    },
+    "700429": {
+        "text": "Verification code can't be empty.",
+        "id": 700429
+    },
+    "700430": {
+        "text": "Incorrect verification code, please try again.",
+        "id": 700430
+    },
+    "700431": {
+        "text": "This feature is under development, please stay tuned.",
+        "id": 700431
+    },
+    "700432": {
+        "text": "The current equipment cannot be enhanced any further.",
+        "id": 700432
+    },
+    "700433": {
+        "text": "Two identical Dolls cannot be deployed at the same time.",
+        "id": 700433
+    },
+    "700434": {
+        "text": "Insufficient $parameter1$, purchase not completed.",
+        "id": 700434
+    },
+    "700435": {
+        "text": "The current team has sufficient health and does not need to recover.",
+        "id": 700435
+    },
+    "700436": {
+        "text": "Please edit your team and proceed to the next stage.",
+        "id": 700436
+    },
+    "700437": {
+        "text": "You don't have enough Diamonds.",
+        "id": 700437
+    },
+    "700438": {
+        "text": "There are no more refreshes left for today's Pray Quest.",
+        "id": 700438
+    },
+    "700439": {
+        "text": "Copy successful.",
+        "id": 700439
+    },
+    "700440": {
+        "text": "You can't switch during Exploration.",
+        "id": 700440
+    },
+    "700441": {
+        "text": "Insufficient Summon Chances remaining.",
+        "id": 700441
+    },
+    "700442": {
+        "text": "Doll details are inaccessible during Auto Exploration.",
+        "id": 700442
+    },
+    "700443": {
+        "text": "Select the equipment you wish to dismantle.",
+        "id": 700443
+    },
+    "700444": {
+        "text": "You don't have enough Summon Items.",
+        "id": 700444
+    },
+    "700445": {
+        "text": "Insufficient Keys.",
+        "id": 700445
+    },
+    "700446": {
+        "text": "No Daily Stamina Redeem Chances remaining",
+        "id": 700446
+    },
+    "700447": {
+        "text": "Upper Limit of Evolve has been reached.",
+        "id": 700447
+    },
+    "700448": {
+        "text": "You can't accept more Magic Tree Quests at this time.",
+        "id": 700448
+    },
+    "700449": {
+        "text": "You can't accept more Exploration Quests at this time.",
+        "id": 700449
+    },
+    "700450": {
+        "text": "Assistance is not accessible during a Boss Challenge",
+        "id": 700450
+    },
+    "700451": {
+        "text": "You can view this only after completing the challenge.",
+        "id": 700451
+    },
+    "700452": {
+        "text": "Unlocks when Magic Tree reaches Lv.$parameter1$.",
+        "id": 700452
+    },
+    "700453": {
+        "text": "Insufficient Character Level",
+        "id": 700453
+    },
+    "700454": {
+        "text": "You can't dispatch more Fireflies.",
+        "id": 700454
+    },
+    "700455": {
+        "text": "Insufficient items, quest cannot be added.",
+        "id": 700455
+    },
+    "700456": {
+        "text": "Upgrade the Firefly Lampstand to extend level limit.",
+        "id": 700456
+    },
+    "700457": {
+        "text": "Upgrade the Firefly Lampstand to unlock more Fireflies.",
+        "id": 700457
+    },
+    "700458": {
+        "text": "Doll Upgrading is not accessible during Exploration",
+        "id": 700458
+    },
+    "700459": {
+        "text": "Doll Ascension is not accessible during Exploration",
+        "id": 700459
+    },
+    "700460": {
+        "text": "Doll Evolution is not accessible during Exploration",
+        "id": 700460
+    },
+    "700461": {
+        "text": "Skill Upgrading is not accessible during Exploration",
+        "id": 700461
+    },
+    "700462": {
+        "text": "You have already reached your limit for Fireflies.",
+        "id": 700462
+    },
+    "700463": {
+        "text": "Please enter an existing Channel Number.",
+        "id": 700463
+    },
+    "700464": {
+        "text": "The text contains restricted character(s).",
+        "id": 700464
+    },
+    "700465": {
+        "text": "Max level reached.",
+        "id": 700465
+    },
+    "700466": {
+        "text": "$parameter1$",
+        "id": 700466
+    },
+    "700467": {
+        "text": "Name changed successfully! (You can't change it again within 24 hours)",
+        "id": 700467
+    },
+    "700468": {
+        "text": "It has been less than 24 hours since your last name change; you can't change your Nickname for now.",
+        "id": 700468
+    },
+    "700469": {
+        "text": "You have been refreshing too frequently, please wait for $parameter1$ seconds to refresh again.",
+        "id": 700469
+    },
+    "700470": {
+        "text": "You are sending requests too frequently.",
+        "id": 700470
+    },
+    "700471": {
+        "text": "Lightdot has already been collected, no need to tap again.",
+        "id": 700471
+    },
+    "700472": {
+        "text": "The Stage $parameter1$ required for this quest is locked.",
+        "id": 700472
+    },
+    "700473": {
+        "text": "Time limit exceeded, combat failed.",
+        "id": 700473
+    },
+    "700474": {
+        "text": "No log record for the latest log-in.",
+        "id": 700474
+    },
+    "700475": {
+        "text": "Insufficient currency, purchase not completed.",
+        "id": 700475
+    },
+    "700476": {
+        "text": "The item has expired, purchase not completed.",
+        "id": 700476
+    },
+    "700477": {
+        "text": "Insufficient stock, purchase not completed.",
+        "id": 700477
+    },
+    "700478": {
+        "text": "Max level reached.",
+        "id": 700478
+    },
+    "700479": {
+        "text": "You already own this Costume.",
+        "id": 700479
+    },
+    "700480": {
+        "text": "The Mintage event has ended.",
+        "id": 700480
+    },
+    "700481": {
+        "text": "You can't like your own comments",
+        "id": 700481
+    },
+    "700482": {
+        "text": "You can't repeatedly comment on the same Character",
+        "id": 700482
+    },
+    "700483": {
+        "text": "Comments limited to 35 characters",
+        "id": 700483
+    },
+    "700484": {
+        "text": "The comment contains restricted character(s)",
+        "id": 700484
+    },
+    "700485": {
+        "text": "Please enter content here.",
+        "id": 700485
+    },
+    "700486": {
+        "text": "You need to wait for $parameter1$ seconds to comment again.",
+        "id": 700486
+    },
+    "700487": {
+        "text": "Your actions are too frequent.",
+        "id": 700487
+    },
+    "700488": {
+        "text": "Combat Scene input error, please enter again.",
+        "id": 700488
+    },
+    "700489": {
+        "text": "Insufficient Friendship Points.",
+        "id": 700489
+    },
+    "700490": {
+        "text": "Pass Main Story $parameter1$ to purchase the pack.",
+        "id": 700490
+    },
+    "700491": {
+        "text": "You have attempted to enter a verification code too many times. (Error code: $parameter1$)",
+        "id": 700491
+    },
+    "700492": {
+        "text": "We have detected an abnormality in your account, please contact our customer service. (Error code: $parameter1$)",
+        "id": 700492
+    },
+    "700493": {
+        "text": "This account is banned, please contact our customer service. $parameter1$ d $parameter1$ h $parameter1$ m $parameter1$s",
+        "id": 700493
+    },
+    "700494": {
+        "text": "This account has been silenced for posting prohibited content. $parameter1$ d $parameter1$ h $parameter1$ m $parameter1$s",
+        "id": 700494
+    },
+    "700495": {
+        "text": "The account is banned from logging in due to prohibited behavior. $parameter1$ d $parameter1$ h $parameter1$ m $parameter1$ s",
+        "id": 700495
+    },
+    "700496": {
+        "text": "The account is banned from the Rankings due to prohibited behavior. $parameter1$ d $parameter1$ h $parameter1$ m $parameter1$ s",
+        "id": 700496
+    },
+    "700497": {
+        "text": "Pass Stage 1-3 to unlock Summon.",
+        "id": 700497
+    },
+    "700498": {
+        "text": "Under the effect of the Altar, Health of all characters recovers by 50%",
+        "id": 700498
+    },
+    "700499": {
+        "text": "Pass Stage 1-3 to unlock Commission Board.",
+        "id": 700499
+    },
+    "700500": {
+        "text": "$parameter1$",
+        "id": 700500
+    },
+    "700501": {
+        "text": "Characters in poor condition in your team. You cannot engage in combat right now.",
+        "id": 700501
+    },
+    "700502": {
+        "text": "The Character needs to be in better condition to be put into the formation.",
+        "id": 700502
+    },
+    "700503": {
+        "text": "An incident has been triggered on this Floating Isles.",
+        "id": 700503
+    },
+    "700504": {
+        "text": "Insufficient weekly challenge chances remaining",
+        "id": 700504
+    },
+    "700505": {
+        "text": "You have been logging in too frequently; please try again later.",
+        "id": 700505
+    },
+    "700506": {
+        "text": "0000",
+        "id": 700506
+    },
+    "700507": {
+        "text": "1000",
+        "id": 700507
+    },
+    "700508": {
+        "text": "1100",
+        "id": 700508
+    },
+    "700509": {
+        "text": "1110",
+        "id": 700509
+    },
+    "700510": {
+        "text": "1111",
+        "id": 700510
+    },
+    "700511": {
+        "text": "You cannot skip ahead before finishing this stage.",
+        "id": 700511
+    },
+    "700512": {
+        "text": "There is already an Intangible Barrier in the current challenge",
+        "id": 700512
+    },
+    "700513": {
+        "text": "Mobile phone number bound successfully",
+        "id": 700513
+    },
+    "700514": {
+        "text": "E-mail Address bound successfully.",
+        "id": 700514
+    },
+    "700515": {
+        "text": "Requires higher Magic Tree level.",
+        "id": 700515
+    },
+    "700516": {
+        "text": "The login waiting list is already full, please try again later.",
+        "id": 700516
+    },
+    "700517": {
+        "text": "The server is overloaded, please try again later.",
+        "id": 700517
+    },
+    "700518": {
+        "text": "There are no Soul Stones to redeem.",
+        "id": 700518
+    },
+    "700519": {
+        "text": "Login failed, please wait $parameter1$ seconds and try again.",
+        "id": 700519
+    },
+    "700520": {
+        "text": "Name change successful.",
+        "id": 700520
+    },
+    "700521": {
+        "text": "[Combat: Movement Skill]$B$Use the Movement Skill to dodge some of the damage during combat",
+        "id": 700521
+    },
+    "700522": {
+        "text": "[Combat: Team Setting]$B$Different Doll skills generally require different amounts of Energy.$B$Arrange your team reasonably to make the most of your Combat Energy",
+        "id": 700522
+    },
+    "700523": {
+        "text": "[Explore: Character Movement]$B$Push the control bar to toggle between Walking and Running.",
+        "id": 700523
+    },
+    "700524": {
+        "text": "[Encyclopedia: Mana Collector]$B$A magical plant that stores Mana particles in its body.$B$It usually grows at the edges of forests.",
+        "id": 700524
+    },
+    "700525": {
+        "text": "[Encyclopedia: Alta]$B$Use the Altar to restore health during exploration.$B$Under normal circumstances, it can only be used once.",
+        "id": 700525
+    },
+    "700526": {
+        "text": "[Explore: Return]$B$During exploration, click on the Map icon in the top right to return to the bottom of the tower.",
+        "id": 700526
+    },
+    "700527": {
+        "text": "[Quest: Pray Quest]$B$Each day, a Special Bonus Prayer Quest will be released.$B$Tap on the Refresh button to switch to a new Special Bonus Prayer Quest.",
+        "id": 700527
+    },
+    "700528": {
+        "text": "[Explore: Unlock Teleport]$B$Teleport can be unlocked after clearing certain stages,$B$ allowing you to teleport to an area from the Hall of Origin.",
+        "id": 700528
+    },
+    "700529": {
+        "text": "Energy is generated gradually during combat, the key to victory is to use it wisely.",
+        "id": 700529
+    },
+    "700530": {
+        "text": "The Order Energy Restoring Speed is <color=#82c65d>1 per 2 seconds<\/color>.",
+        "id": 700530
+    },
+    "700531": {
+        "text": "Octavia's Cyclone Slash is not be affected by any control skills.",
+        "id": 700531
+    },
+    "700532": {
+        "text": "Nemesi's Shadow Attack allows you to prioritize attacking characters in the last row.",
+        "id": 700532
+    },
+    "700533": {
+        "text": "If the skill icon suddenly turns dark, it is possible that the Doll is activating a skill, or the Doll is controlled by an enemy skill.",
+        "id": 700533
+    },
+    "700534": {
+        "text": "One thing you should pay attention to is that most monsters will give you a sign before attacking.",
+        "id": 700534
+    },
+    "700535": {
+        "text": "When monsters are in a Weakened state, they will be unable to move and the damage they take will be multiplied.",
+        "id": 700535
+    },
+    "700536": {
+        "text": "The Weakened state will be activated when the monster's Health gauge drops to 0.",
+        "id": 700536
+    },
+    "700537": {
+        "text": "According to your real-name authentication information, you are under $parameter1$ years old, therefore the purchase cannot be completed.",
+        "id": 700537
+    },
+    "700538": {
+        "text": "Purchase cannot be completed. Because you are under $parameter1$ years of age, you cannot top up more than $parameter1$ RMB per month.$B$Monthly top-up limit remaining: <color=#82C65D>$parameter1$<\/color> RMB.",
+        "id": 700538
+    },
+    "700539": {
+        "text": "Purchase cannot be completed. Because you are under $parameter1$ years of age, you cannot top up more than $parameter1$ RMB per month.$B$You have currently topped up: <color=#FC3333>$parameter1$<\/color> RMB this month.",
+        "id": 700539
+    },
+    "700540": {
+        "text": "Purchase cannot be completed. Because you are under $parameter1$ years of age, you cannot top up more than $parameter1$ RMB at once.",
+        "id": 700540
+    },
+    "700541": {
+        "text": "You haven't completed the real-name authentication. Purchase cannot be completed. Please verify your identity first.",
+        "id": 700541
+    },
+    "700542": {
+        "text": "Level",
+        "id": 700542
+    },
+    "700543": {
+        "text": "Confirm to enter $parameter1$?",
+        "id": 700543
+    },
+    "700544": {
+        "text": "$parameter1$ day(s) $parameter2$ hour (s) $parameter3$ minute(s)",
+        "id": 700544
+    },
+    "700545": {
+        "text": "No power",
+        "id": 700545
+    },
+    "700546": {
+        "text": "The server is full, please try again later.",
+        "id": 700546
+    },
+    "700547": {
+        "text": "Insufficient material to add",
+        "id": 700547
+    },
+    "700548": {
+        "text": "Formula selection failed due to insufficient material",
+        "id": 700548
+    },
+    "700549": {
+        "text": "Furniture overlapped. Can't save to the Custom Theme.",
+        "id": 700549
+    },
+    "700550": {
+        "text": "Furniture cannot overlap.",
+        "id": 700550
+    },
+    "700551": {
+        "text": "No refresh chances left, please wait for a while.",
+        "id": 700551
+    },
+    "700552": {
+        "text": "Not named yet",
+        "id": 700552
+    },
+    "700553": {
+        "text": "Theme",
+        "id": 700553
+    },
+    "700554": {
+        "text": "Pause Display",
+        "id": 700554
+    },
+    "700555": {
+        "text": "Full",
+        "id": 700555
+    },
+    "700556": {
+        "text": "minute(s)",
+        "id": 700556
+    },
+    "700557": {
+        "text": "Event Shop",
+        "id": 700557
+    },
+    "700558": {
+        "text": "Reward Preview",
+        "id": 700558
+    },
+    "700559": {
+        "text": "Bond Reward",
+        "id": 700559
+    },
+    "700560": {
+        "text": "Pause Icon",
+        "id": 700560
+    },
+    "700561": {
+        "text": "Combat Victory Icon",
+        "id": 700561
+    },
+    "700562": {
+        "text": "Combat Defeat Icon",
+        "id": 700562
+    },
+    "700563": {
+        "text": "Combat Info Icon",
+        "id": 700563
+    },
+    "700564": {
+        "text": "Health Bar UI",
+        "id": 700564
+    },
+    "700565": {
+        "text": "Monster name and level",
+        "id": 700565
+    },
+    "700566": {
+        "text": "Skill Icon",
+        "id": 700566
+    },
+    "700567": {
+        "text": "Energy UI",
+        "id": 700567
+    },
+    "700568": {
+        "text": "Buff Icon",
+        "id": 700568
+    },
+    "700569": {
+        "text": "Damage Number",
+        "id": 700569
+    },
+    "700570": {
+        "text": "Character Avatar 1",
+        "id": 700570
+    },
+    "700571": {
+        "text": "Loot Icon",
+        "id": 700571
+    },
+    "700572": {
+        "text": "Game Manager Instructions Icon",
+        "id": 700572
+    },
+    "700573": {
+        "text": "Mini Map UI",
+        "id": 700573
+    },
+    "700574": {
+        "text": "Chat Icon",
+        "id": 700574
+    },
+    "700575": {
+        "text": "Interaction Status UI",
+        "id": 700575
+    },
+    "700576": {
+        "text": "Control Bar UI",
+        "id": 700576
+    },
+    "700577": {
+        "text": "Character and Name",
+        "id": 700577
+    },
+    "700578": {
+        "text": "Resource Display UI",
+        "id": 700578
+    },
+    "700579": {
+        "text": "Setting Icon",
+        "id": 700579
+    },
+    "700580": {
+        "text": "Game Manager Instructions Icon",
+        "id": 700580
+    },
+    "700581": {
+        "text": "Word UI",
+        "id": 700581
+    },
+    "700582": {
+        "text": "Bottom Left Feature Area",
+        "id": 700582
+    },
+    "700583": {
+        "text": "Mail Icon",
+        "id": 700583
+    },
+    "700584": {
+        "text": "Chat Icon",
+        "id": 700584
+    },
+    "700585": {
+        "text": "Tapping effect",
+        "id": 700585
+    },
+    "700586": {
+        "text": "Tapping effect",
+        "id": 700586
+    },
+    "700587": {
+        "text": "Tapping effect",
+        "id": 700587
+    },
+    "700588": {
+        "text": "Character Interaction Status UI",
+        "id": 700588
+    },
+    "700589": {
+        "text": "Combat",
+        "id": 700589
+    },
+    "700590": {
+        "text": "Dungeon",
+        "id": 700590
+    },
+    "700591": {
+        "text": "Main City",
+        "id": 700591
+    },
+    "700592": {
+        "text": "Friend Icon",
+        "id": 700592
+    },
+    "700593": {
+        "text": "Bonus Icon",
+        "id": 700593
+    },
+    "700594": {
+        "text": "Shop Icon",
+        "id": 700594
+    },
+    "700595": {
+        "text": "Character Avatar 2",
+        "id": 700595
+    },
+    "700596": {
+        "text": "Character Avatar 3",
+        "id": 700596
+    },
+    "700597": {
+        "text": "Mini Map Background",
+        "id": 700597
+    },
+    "700598": {
+        "text": "Assist Attack Icon",
+        "id": 700598
+    },
+    "700599": {
+        "text": "Top Icon",
+        "id": 700599
+    },
+    "700600": {
+        "text": "Auto Combat Icon",
+        "id": 700600
+    },
+    "700601": {
+        "text": "Combat Speed Icon",
+        "id": 700601
+    },
+    "700602": {
+        "text": "Max. Intimacy level reached, you cannot send any more gifts.",
+        "id": 700602
+    },
+    "700603": {
+        "text": "You have received a UR Character in this summoning, summon again?",
+        "id": 700603
+    },
+    "700604": {
+        "text": "Insufficient Summoning Chances Remaining",
+        "id": 700604
+    },
+    "700605": {
+        "text": "Summoning Chances Remaining: $parameter1$\/$parameter2$",
+        "id": 700605
+    },
+    "700606": {
+        "text": "Summoning Chances Remaining: <color=#FC3333ff>$parameter1$<\/color>\/$parameter2$",
+        "id": 700606
+    },
+    "700607": {
+        "text": "Friend request has been delivered, please do not send repeatedly.",
+        "id": 700607
+    },
+    "700608": {
+        "text": "???",
+        "id": 700608
+    },
+    "700609": {
+        "text": "Event Icon",
+        "id": 700609
+    },
+    "700610": {
+        "text": "Friends feature is unlocked",
+        "id": 700610
+    },
+    "700611": {
+        "text": "Commission Board is unlocked",
+        "id": 700611
+    },
+    "700612": {
+        "text": "Auto Combat Selected",
+        "id": 700612
+    },
+    "700613": {
+        "text": "Insufficient refresh chances remaining.",
+        "id": 700613
+    },
+    "700614": {
+        "text": "Pass Main Story 2-2 to unlock Doll Ascension",
+        "id": 700614
+    },
+    "700615": {
+        "text": "Pass Main Story 2-4 to unlock Equipment Ascension",
+        "id": 700615
+    },
+    "700616": {
+        "text": "Pass Main Story 2-10 to unlock Equipment Enchanting",
+        "id": 700616
+    },
+    "700617": {
+        "text": "Pass Main Story 2-2 to unlock Doll Skill Upgrading",
+        "id": 700617
+    },
+    "700618": {
+        "text": "Lv.$parameter1$",
+        "id": 700618
+    },
+    "700619": {
+        "text": "$parameter1$%",
+        "id": 700619
+    },
+    "700620": {
+        "text": "Lv.$parameter1$",
+        "id": 700620
+    },
+    "700621": {
+        "text": "Lv.$parameter1$ - Lv.$parameter2$",
+        "id": 700621
+    },
+    "700622": {
+        "text": "Character Profile",
+        "id": 700622
+    },
+    "700623": {
+        "text": "Character Voice",
+        "id": 700623
+    },
+    "700624": {
+        "text": "Character Bond",
+        "id": 700624
+    },
+    "700625": {
+        "text": "The number of Friendship Points that can be obtained through Assistance Dolls has reached the maximum.",
+        "id": 700625
+    },
+    "700626": {
+        "text": "In the 1st Limited Edition Summon, you can perform multiple Ten-time Summons within the limit until you have the Character you desire. Tap on [Finish Summoning] to confirm the summoning result.",
+        "id": 700626
+    },
+    "700627": {
+        "text": "This Redeem Code has already been used!",
+        "id": 700627
+    },
+    "700628": {
+        "text": "You have already redeemed this type of reward before!",
+        "id": 700628
+    },
+    "700629": {
+        "text": "Invalid Redeem Code!",
+        "id": 700629
+    },
+    "700630": {
+        "text": "Redeem Code cannot be empty!",
+        "id": 700630
+    },
+    "700631": {
+        "text": "A Rate-up Doll is guaranteed within <color=#FC3333ff>$parameter1$<\/color> summon(s).",
+        "id": 700631
+    },
+    "700632": {
+        "text": "A UR Doll is guaranteed within <color=#FC3333ff>$parameter1$<\/color> summon(s).",
+        "id": 700632
+    },
+    "700633": {
+        "text": "An SSR Doll is guaranteed within <color=#FC3333ff>$parameter1$<\/color> summon(s).",
+        "id": 700633
+    },
+    "700634": {
+        "text": "A Rate-up Doll is guaranteed in the next summon",
+        "id": 700634
+    },
+    "700635": {
+        "text": "A UR Doll is guaranteed in the next summon",
+        "id": 700635
+    },
+    "700636": {
+        "text": "An SSR Doll is guaranteed in the next summon",
+        "id": 700636
+    },
+    "700637": {
+        "text": "Please select the attribute you wish to replace.",
+        "id": 700637
+    },
+    "700638": {
+        "text": "Same type of attributes exists. Enchantment cannot be completed.",
+        "id": 700638
+    },
+    "700639": {
+        "text": "<color=#FFCA65>$parameter1$<\/color>\/$parameter2$",
+        "id": 700639
+    },
+    "700640": {
+        "text": "If this attribute is selected, other attributes can no more be enchanted. Confirm?",
+        "id": 700640
+    },
+    "700641": {
+        "text": "[Combat: Energy Control]$B$During the brief moment a powerful monster is stunned, our allies are able to absorb its energy leaked.$B$Any skill released before the Energy Gauge is fully recharged will not cost any energy.   ",
+        "id": 700641
+    },
+    "700642": {
+        "text": "[Combat: Energy Control]$B$Order Energy will grow by itself.$B$Consume Order Energy to gain Chaos Energy. ",
+        "id": 700642
+    },
+    "700643": {
+        "text": "[Explore: Chrono Tower]$B$There are some Ancient Obelisks in the tower that can emit light.$B$You can open the door by using the mirror to guide the light towards the door.",
+        "id": 700643
+    },
+    "700644": {
+        "text": "[Explore: Snegurochka Mountain]$B$The magic wall in the Snegurochka Mountain is built of magic from the Crystal Towers.$B$Light up all the Crystal Towers to destroy the magic wall.",
+        "id": 700644
+    },
+    "700645": {
+        "text": "[Encyclopedia: Teleport Circle]$B$A Teleport Circle can transfer a person to another place swiftly.$B$Most Teleport Circles are reversible, but there is some mention of irreversible Teleport Circles in the legends.",
+        "id": 700645
+    },
+    "700646": {
+        "text": "[Encyclopedia: Witch Courtyard]$B$Upgrading Magic Tree$B$will also increase the Max. Level of other buildings.",
+        "id": 700646
+    },
+    "700647": {
+        "text": "[Combat: Formation]$B$Guardians have the highest Health and Defense.",
+        "id": 700647
+    },
+    "700648": {
+        "text": "[Combat: Formation]$B$Assassins have the highest ATK.",
+        "id": 700648
+    },
+    "700649": {
+        "text": "[Combat: Formation]$B$Mages are more oriented towards Magic DMG DEF,$B$while Destroyers are more oriented towards Physical ATK DEF.",
+        "id": 700649
+    },
+    "700650": {
+        "text": "Enter",
+        "id": 700650
+    },
+    "700651": {
+        "text": "The Channel is full.",
+        "id": 700651
+    },
+    "700652": {
+        "text": "The Channel is unavailable.",
+        "id": 700652
+    },
+    "700653": {
+        "text": "Combat verification failed.",
+        "id": 700653
+    },
+    "700654": {
+        "text": "This number is already bound to another account.",
+        "id": 700654
+    },
+    "700655": {
+        "text": "Leave",
+        "id": 700655
+    },
+    "700656": {
+        "text": "$parameter1$ <color=#BDAB91ff>[Unlocks at Ascend $parameter2$]<\/color>",
+        "id": 700656
+    },
+    "700657": {
+        "text": "+$parameter1$ [$parameter2$-$parameter3$]",
+        "id": 700657
+    },
+    "700658": {
+        "text": "During the brief moment a powerful monster is stunned, our allies are able to absorb its energy leaked. Any skill released before the Energy Gauge is fully recharged will not cost any energy.   ",
+        "id": 700658
+    },
+    "700659": {
+        "text": "The Card Pool is expired. You can't summon from it.",
+        "id": 700659
+    },
+    "700660": {
+        "text": "Player not found.",
+        "id": 700660
+    },
+    "700661": {
+        "text": "Pass Stage 1-3 to unlock the Shop.",
+        "id": 700661
+    },
+    "700662": {
+        "text": "You can't add this player to be your friend.",
+        "id": 700662
+    },
+    "700663": {
+        "text": "The account has been logged out.",
+        "id": 700663
+    },
+    "700664": {
+        "text": "Pass Main Story 2-4 to unlock the Witch Courtyard.",
+        "id": 700664
+    },
+    "700665": {
+        "text": "Pass Stage 1-3 to unlock Summon.",
+        "id": 700665
+    },
+    "700666": {
+        "text": "No furniture available.",
+        "id": 700666
+    },
+    "700667": {
+        "text": "All furniture available has been placed.",
+        "id": 700667
+    },
+    "700668": {
+        "text": "Acquire Music Box of Time (Main Story 2-2) to unlock the Dreamworld.",
+        "id": 700668
+    },
+    "700669": {
+        "text": "The server is under maintenance.",
+        "id": 700669
+    },
+    "700670": {
+        "text": "You have copied the information from this comment. userID: $parameter1$, commentKey: $parameter1$, roleID: $parameter1$",
+        "id": 700670
+    },
+    "700671": {
+        "text": "Resets every Monday at 04:00 (UTC\/GMT+8).",
+        "id": 700671
+    },
+    "700672": {
+        "text": "Resets every day at 04:00 (UTC\/GMT+8).",
+        "id": 700672
+    },
+    "700673": {
+        "text": "The selected materials include <color=#e25630ff>Enhanced Equipment<\/color>.$B$Confirm to ascend?",
+        "id": 700673
+    },
+    "700674": {
+        "text": "The selected materials include <color=#e25630ff>Equipment of Gold or higher quality<\/color>.$B$Confirm to ascend?",
+        "id": 700674
+    },
+    "700675": {
+        "text": "The selected materials include <color=#e25630ff>Enhanced Equipment and Equipment of Gold or higher quality<\/color>. $B$Confirm to ascend?",
+        "id": 700675
+    },
+    "700676": {
+        "text": "Monthly Card purchasing quota has been exhausted, therefore you cannot make any more purchases.",
+        "id": 700676
+    },
+    "700677": {
+        "text": "Refund 90% of the Enhance Material cost after dismantling the equipment",
+        "id": 700677
+    },
+    "700678": {
+        "text": "Return to Hall of Origin?",
+        "id": 700678
+    },
+    "700679": {
+        "text": "You haven't fully explored this stage yet. Give up exploring now and enter the next stage?",
+        "id": 700679
+    },
+    "700680": {
+        "text": "You haven't fully explored this stage yet. Give up exploring now and leave the current raid?",
+        "id": 700680
+    },
+    "700681": {
+        "text": "Login Days",
+        "id": 700681
+    },
+    "700682": {
+        "text": "Login for certain days to obtain bountiful rewards during the event.",
+        "id": 700682
+    },
+    "700683": {
+        "text": "Daily Sign-in",
+        "id": 700683
+    },
+    "700684": {
+        "text": "7-days Login",
+        "id": 700684
+    },
+    "700685": {
+        "text": "<color=#82C65D>Expires in $parameter1$ day(s) $parameter2$ hour(s)<\/color>",
+        "id": 700685
+    },
+    "700686": {
+        "text": "<color=#FC3333>Expires in $parameter1$ hour(s) $parameter2$ minute(s)<\/color>",
+        "id": 700686
+    },
+    "700687": {
+        "text": "<color=#FC3333>Expires in $parameter1$ minute(s)<\/color>",
+        "id": 700687
+    },
+    "700688": {
+        "text": "<color=#FC3333>Expires in 1 minute<\/color>",
+        "id": 700688
+    },
+    "700689": {
+        "text": "The items you selected contain insufficient quantity or expired items, please select again.",
+        "id": 700689
+    },
+    "700690": {
+        "text": "Expiration period displays the shortest time remaining for items of the same type.",
+        "id": 700690
+    },
+    "700691": {
+        "text": "Lv.$parameter1$ <color=#FFFFFFff>\/ Lv.$parameter2$<\/color>",
+        "id": 700691
+    },
+    "700692": {
+        "text": "<color=#E25630ff>Lv.$parameter1$ <\/color> <color=#FFFFFFff>\/ Lv.$parameter2$<\/color>",
+        "id": 700692
+    },
+    "700693": {
+        "text": "Upgrading conditions not met",
+        "id": 700693
+    },
+    "700694": {
+        "text": "Item expires in: $parameter1$ day(s)",
+        "id": 700694
+    },
+    "700695": {
+        "text": "<color=#FFCA65>Expires in $parameter1$ day(s) $parameter2$ hour(s)<\/color>",
+        "id": 700695
+    },
+    "700696": {
+        "text": "Your actions are too frequent, please try again latter.",
+        "id": 700696
+    },
+    "700697": {
+        "text": "The Redeem Code has expired.",
+        "id": 700697
+    },
+    "700698": {
+        "text": "*",
+        "id": 700698
+    },
+    "700699": {
+        "text": "Purchase the $parameter3$ costume for $parameter2$ at the cost of $parameter1$<sprite=0>?",
+        "id": 700699
+    },
+    "700700": {
+        "text": "Purchase",
+        "id": 700700
+    },
+    "700701": {
+        "text": "You don't have enough Costume Coins. Would you like to purchase some now?",
+        "id": 700701
+    },
+    "700702": {
+        "text": "Purchase <sprite=16>$parameter2$ at the cost of<sprite=0>$parameter1$?",
+        "id": 700702
+    },
+    "700703": {
+        "text": "Obtained $parameter1$ Costume Coins.",
+        "id": 700703
+    },
+    "700704": {
+        "text": "Switch Completed",
+        "id": 700704
+    },
+    "700705": {
+        "text": "You don't have this costume yet",
+        "id": 700705
+    },
+    "700706": {
+        "text": "You haven't owned this character yet. Obtain the character first to wear this costume.",
+        "id": 700706
+    },
+    "700707": {
+        "text": "[$parameter1$] random attribute(s)",
+        "id": 700707
+    },
+    "700708": {
+        "text": "Currently Using",
+        "id": 700708
+    },
+    "700709": {
+        "text": "Switch",
+        "id": 700709
+    },
+    "700710": {
+        "text": "Purchase",
+        "id": 700710
+    },
+    "700711": {
+        "text": "Costume: $parameter1$",
+        "id": 700711
+    },
+    "700712": {
+        "text": "Switch",
+        "id": 700712
+    },
+    "700713": {
+        "text": "<color=#63BDFF>Beginner<\/color>",
+        "id": 700713
+    },
+    "700714": {
+        "text": "<color=#D3B5FF>Intermediate<\/color>",
+        "id": 700714
+    },
+    "700715": {
+        "text": "<color=#FFD588>Advanced<\/color>",
+        "id": 700715
+    },
+    "700716": {
+        "text": "  <color=#FF5D5D>*<\/color> refresh chances restore by 1 every $parameter1$ hour(s). Stacks up to $parameter2$ refreshes.",
+        "id": 700716
+    },
+    "700717": {
+        "text": "x$parameter1$",
+        "id": 700717
+    },
+    "700718": {
+        "text": "  Locked",
+        "id": 700718
+    },
+    "700719": {
+        "text": "Dolls dispatched are less than $parameter1$, unable to start the quest.",
+        "id": 700719
+    },
+    "700720": {
+        "text": "Your formation includes <color=#FF5D5D>Dolls with Courtyard Skill other than Mirror of the Otherworld<\/color> or <color=#FF5D5D>with insufficient stamina<\/color>. Begin the quest with the current formation?",
+        "id": 700720
+    },
+    "700721": {
+        "text": "<color=#F5A09Bff>Floor $parameter1$ Resting<\/color>",
+        "id": 700721
+    },
+    "700722": {
+        "text": "<color=#FBFAA5ff>Producing<\/color>",
+        "id": 700722
+    },
+    "700723": {
+        "text": "<color=#8CECFAff>Exploring<\/color>",
+        "id": 700723
+    },
+    "700724": {
+        "text": "<color=#AAAAAEff>Refresh chances: $parameter1$\/$parameter2$<\/color>",
+        "id": 700724
+    },
+    "700725": {
+        "text": "<color=#E8CA83ff>Refresh chances: $parameter1$\/$parameter2$<\/color>",
+        "id": 700725
+    },
+    "700726": {
+        "text": "<color=#AAAAAEff>Chances restore in $parameter1$:$parameter2$:$parameter3$<\/color>",
+        "id": 700726
+    },
+    "700727": {
+        "text": "Currently settled: <color=#FFFFFFff>$parameter1$<\/color>\/$parameter2$",
+        "id": 700727
+    },
+    "700728": {
+        "text": "Pass Stage 1-3 to unlock Costume.",
+        "id": 700728
+    },
+    "700729": {
+        "text": "Unlocks after clearing Stage 1-3.",
+        "id": 700729
+    },
+    "700730": {
+        "text": "Obtain rewards upon each upgrade after Lv.$parameter1$",
+        "id": 700730
+    },
+    "700731": {
+        "text": "Unlocks at Dream Maelstrom Lv.$parameter1$",
+        "id": 700731
+    },
+    "700732": {
+        "text": "New commissions: $parameter1$",
+        "id": 700732
+    },
+    "700733": {
+        "text": "This player can't receive any more friend requests.",
+        "id": 700733
+    },
+    "700734": {
+        "text": "You have reached the limit for sending requests.",
+        "id": 700734
+    },
+    "700735": {
+        "text": "Expires at: $parameter3$\/$parameter2$\/$parameter1$, $parameter4$",
+        "id": 700735
+    },
+    "700736": {
+        "text": "Reset the traps and return to the starting point?",
+        "id": 700736
+    },
+    "700737": {
+        "text": "You can only choose to explore the next area at the moment.",
+        "id": 700737
+    },
+    "700738": {
+        "text": "[Combat: Energy Control]$B$Receive extra energy when releasing skills$B$When the Energy Gauge is full, tap on it to enter the Magic Awakening state.$B$For the duration of the state, releasing skills will have no cost; lasts for 5 seconds.",
+        "id": 700738
+    },
+    "700739": {
+        "text": "[Combat: Energy Control]$B$After the Magic Awakening state has ended,$B$there will be a 15-second cooldown,$B$during which energy cannot be accumulated.",
+        "id": 700739
+    },
+    "700740": {
+        "text": "Unlocks after passing $parameter1$",
+        "id": 700740
+    },
+    "700741": {
+        "text": "<color=#FFCA65ff>Upgradable<\/color>",
+        "id": 700741
+    },
+    "700742": {
+        "text": "<color=#FFCA65ff>Upgrading<\/color>",
+        "id": 700742
+    },
+    "700743": {
+        "text": "<color=#FFFFFFff>Lv. $parameter1$<\/color>",
+        "id": 700743
+    },
+    "700744": {
+        "text": "<color=#FFCA65ff>MAX<\/color>",
+        "id": 700744
+    },
+    "700745": {
+        "text": "The World Chatting Chanel is closed for now due to overcrowding.",
+        "id": 700745
+    },
+    "700746": {
+        "text": "Purchase the $parameter3$ costume for $parameter2$ at the cost of $parameter1$<sprite=16>?",
+        "id": 700746
+    },
+    "700747": {
+        "text": "Start Cleaning",
+        "id": 700747
+    },
+    "700748": {
+        "text": "Replace Doll",
+        "id": 700748
+    },
+    "700749": {
+        "text": "Insufficient number of deployed Dolls.$B$Deploy substitute Doll(s) automatically?",
+        "id": 700749
+    },
+    "700750": {
+        "text": "Insufficient number of deployed Dolls. Deploy substitute Dolls automatically?",
+        "id": 700750
+    },
+    "700751": {
+        "text": "Insufficient Stamina, unable to engage in combat.",
+        "id": 700751
+    },
+    "700752": {
+        "text": "Unlocks at Lv.$parameter1$.",
+        "id": 700752
+    },
+    "700753": {
+        "text": "The current team includes empty slot(s), start exploration now?",
+        "id": 700753
+    },
+    "700754": {
+        "text": "Number of Fireflies that can be dispatched has increased.",
+        "id": 700754
+    },
+    "700755": {
+        "text": "Insufficient materials, upgrade not completed.",
+        "id": 700755
+    },
+    "700756": {
+        "text": "You don't have enough Fireflies left.",
+        "id": 700756
+    },
+    "700757": {
+        "text": "No $parameter1$ collected",
+        "id": 700757
+    },
+    "700758": {
+        "text": "This character is stationing as substitute, switch?",
+        "id": 700758
+    },
+    "700759": {
+        "text": "This character is in the formation, switch?",
+        "id": 700759
+    },
+    "700760": {
+        "text": "Simplified Chinese",
+        "id": 700760
+    },
+    "700761": {
+        "text": "Traditional Chinese",
+        "id": 700761
+    },
+    "700762": {
+        "text": "English",
+        "id": 700762
+    },
+    "700763": {
+        "text": "Japanese",
+        "id": 700763
+    },
+    "700764": {
+        "text": "Korean",
+        "id": 700764
+    },
+    "700765": {
+        "text": "Chinese",
+        "id": 700765
+    },
+    "700766": {
+        "text": "Japanese",
+        "id": 700766
+    },
+    "700767": {
+        "text": "English",
+        "id": 700767
+    },
+    "700768": {
+        "text": "Korean",
+        "id": 700768
+    },
+    "700769": {
+        "text": "$parameter1$ is full now. Cannot continue dispatching",
+        "id": 700769
+    },
+    "700770": {
+        "text": "Resets in $parameter1$ day(s) $parameter2$ hour(s)",
+        "id": 700770
+    },
+    "700771": {
+        "text": "Downloading voices…",
+        "id": 700771
+    },
+    "700772": {
+        "text": "Integrating resources…",
+        "id": 700772
+    },
+    "700773": {
+        "text": "The size of the voice pack is $parameter1$MB, download now?",
+        "id": 700773
+    },
+    "700774": {
+        "text": "The size of the voice pack update is $parameter1$MB, download now?",
+        "id": 700774
+    },
+    "700775": {
+        "text": "Available at Lv.$parameter1$",
+        "id": 700775
+    },
+    "700776": {
+        "text": "Not Acquired",
+        "id": 700776
+    },
+    "700777": {
+        "text": "Obtained at $parameter1$.$parameter2$.$parameter3$",
+        "id": 700777
+    },
+    "700778": {
+        "text": "Insufficient $parameter1$ for the training to start.",
+        "id": 700778
+    },
+    "700779": {
+        "text": "Training has stopped.",
+        "id": 700779
+    },
+    "700780": {
+        "text": "Achieved:",
+        "id": 700780
+    },
+    "700781": {
+        "text": "$parameter1$",
+        "id": 700781
+    },
+    "700782": {
+        "text": "For Dolls who have <color=#DF4242ff>reached Max. Level<\/color>, training experience will be transferred into$B$<color=#DF4242ff>Mana<\/color> x$parameter1$.$B$egin training?",
+        "id": 700782
+    },
+    "700783": {
+        "text": "Consumed items <color=#DF4242ff>cannot be refunded<\/color>. The Doll <color=#DF4242ff>will not gain<\/color> experience.$B$Abort training?",
+        "id": 700783
+    },
+    "700784": {
+        "text": "The team contains restricted doll(s) that cannot engage in combat.",
+        "id": 700784
+    },
+    "700785": {
+        "text": "Owned: $parameter1$",
+        "id": 700785
+    },
+    "700786": {
+        "text": "$parameter1$ [$parameter2$% - $parameter3$%]",
+        "id": 700786
+    },
+    "700787": {
+        "text": "Random Attributes",
+        "id": 700787
+    },
+    "700788": {
+        "text": "Progress for $parameter1$ will be reset, and you can play it again.$B$Reset progress?$B$*Replay will not cost Stamina, but there will be no reward.",
+        "id": 700788
+    },
+    "700789": {
+        "text": "Unlock $parameter2$-$parameter3$$B$at the cost of $parameter1$ x1?",
+        "id": 700789
+    },
+    "700790": {
+        "text": "Insufficient $parameter1$$B$Go to $parameter2$ to acquire more?",
+        "id": 700790
+    },
+    "700791": {
+        "text": "This Character cannot engage in battle.",
+        "id": 700791
+    },
+    "700792": {
+        "text": "This stage is limited to [$parameter1$] Class only.",
+        "id": 700792
+    },
+    "700793": {
+        "text": "][",
+        "id": 700793
+    },
+    "700794": {
+        "text": "There are no disturbances in the Chronospace Breach at the moment.",
+        "id": 700794
+    },
+    "700795": {
+        "text": "$parameter1$ Victory",
+        "id": 700795
+    },
+    "700796": {
+        "text": "$parameter1$ Defeat",
+        "id": 700796
+    },
+    "700797": {
+        "text": "Faction's Chronospace Essence Acquired",
+        "id": 700797
+    },
+    "700798": {
+        "text": "Personal Stats",
+        "id": 700798
+    },
+    "700799": {
+        "text": "Combats Fought",
+        "id": 700799
+    },
+    "700800": {
+        "text": "Victories",
+        "id": 700800
+    },
+    "700801": {
+        "text": "Chronospace Essence obtained this season",
+        "id": 700801
+    },
+    "700802": {
+        "text": "Total Chronospace Essence obtained",
+        "id": 700802
+    },
+    "700803": {
+        "text": "Season rewards",
+        "id": 700803
+    },
+    "700804": {
+        "text": "You are using mobile data right now. The size of the voice pack is $parameter1$MB. Continue download?",
+        "id": 700804
+    },
+    "700805": {
+        "text": "Voice pack download failed: version.meta failed to download.",
+        "id": 700805
+    },
+    "700806": {
+        "text": "Voice pack download failed: patch.meta failed to download.",
+        "id": 700806
+    },
+    "700807": {
+        "text": "Voice pack download failed: File checking and updating failed.",
+        "id": 700807
+    },
+    "700808": {
+        "text": "Voice pack download failed: patch downloading failed.",
+        "id": 700808
+    },
+    "700809": {
+        "text": "Voice pack download failed: file integration failed.",
+        "id": 700809
+    },
+    "700810": {
+        "text": "The event is over",
+        "id": 700810
+    },
+    "700811": {
+        "text": "Event ends in: $parameter1$ d",
+        "id": 700811
+    },
+    "700812": {
+        "text": "Retry",
+        "id": 700812
+    },
+    "700813": {
+        "text": "Doll $parameter1$ has been sent to $parameter2$",
+        "id": 700813
+    },
+    "700814": {
+        "text": "Confirm on joining the $parameter1$ Faction?",
+        "id": 700814
+    },
+    "700815": {
+        "text": "Unlocks at Magic Level $parameter1$",
+        "id": 700815
+    },
+    "700816": {
+        "text": "Settlement in progress, please come back later.",
+        "id": 700816
+    },
+    "700817": {
+        "text": "Your <color=#FFCA65ff>Magic Level must to reach Lv.$parameter1$<\/color> in order to explore the area ahead.",
+        "id": 700817
+    },
+    "700818": {
+        "text": "Daily Commission, Main Story Stages, Dreamworld",
+        "id": 700818
+    },
+    "700819": {
+        "text": "Redeem successful",
+        "id": 700819
+    },
+    "700820": {
+        "text": "Purchase successful",
+        "id": 700820
+    },
+    "700821": {
+        "text": "This area will unlock when Magic Level reaches Lv.$parameter1$.",
+        "id": 700821
+    },
+    "700822": {
+        "text": "No Daily Redeem Chances remaining.",
+        "id": 700822
+    },
+    "700823": {
+        "text": "Do you wish to search for enemies again?",
+        "id": 700823
+    },
+    "700824": {
+        "text": "$parameter1$ d",
+        "id": 700824
+    },
+    "700825": {
+        "text": "$parameter1$-$parameter2$ is open now!",
+        "id": 700825
+    },
+    "700826": {
+        "text": "You will get at least 1 advanced Affix for this enchantment. Confirm on Enchanting?",
+        "id": 700826
+    },
+    "700827": {
+        "text": "Affix of Level S or above will be wiped in this enchantment. Give up?",
+        "id": 700827
+    },
+    "700828": {
+        "text": "Affix of Level S or above is found on the equipment. Confirm Enchantment?",
+        "id": 700828
+    },
+    "700829": {
+        "text": "Increase Luck by consuming Enchantment Material. At least 1 advanced Affix will be acquired when Luck is full.",
+        "id": 700829
+    },
+    "700830": {
+        "text": "The enchantment this time turns out pretty good.",
+        "id": 700830
+    },
+    "700831": {
+        "text": "* Newly unlocked affixes cannot be replaced by enchanting.",
+        "id": 700831
+    },
+    "700832": {
+        "text": "Purchase at least 1",
+        "id": 700832
+    },
+    "700833": {
+        "text": "Max. purchase limit reached.",
+        "id": 700833
+    },
+    "700834": {
+        "text": "Acquired",
+        "id": 700834
+    },
+    "700835": {
+        "text": "5",
+        "id": 700835
+    },
+    "700836": {
+        "text": "Bonus",
+        "id": 700836
+    },
+    "700837": {
+        "text": "Secure 170 Diamonds.",
+        "id": 700837
+    },
+    "700838": {
+        "text": "Growth Pack",
+        "id": 700838
+    },
+    "700839": {
+        "text": "Insufficient Enchantment Material.",
+        "id": 700839
+    },
+    "700840": {
+        "text": "Lv.$parameter1$ reached",
+        "id": 700840
+    },
+    "700841": {
+        "text": "Current Location:",
+        "id": 700841
+    },
+    "700842": {
+        "text": "Not departed",
+        "id": 700842
+    },
+    "700843": {
+        "text": "Progress: $parameter1$",
+        "id": 700843
+    },
+    "700844": {
+        "text": "$parameter1$",
+        "id": 700844
+    },
+    "700845": {
+        "text": "Cleared",
+        "id": 700845
+    },
+    "700846": {
+        "text": "Reset progress to play again",
+        "id": 700846
+    },
+    "700847": {
+        "text": "Recommended for Lv.$parameter1$ and higher",
+        "id": 700847
+    },
+    "700848": {
+        "text": "$parameter1$ completed",
+        "id": 700848
+    },
+    "700849": {
+        "text": "Reward Obtained",
+        "id": 700849
+    },
+    "700850": {
+        "text": "$parameter1$ opened",
+        "id": 700850
+    },
+    "700851": {
+        "text": "Cleared",
+        "id": 700851
+    },
+    "700852": {
+        "text": "First Top-up of any amount to claim the reward",
+        "id": 700852
+    },
+    "700853": {
+        "text": "Pass Stage 2-13 to claim a reward",
+        "id": 700853
+    },
+    "700854": {
+        "text": "Required chapter is locked.",
+        "id": 700854
+    },
+    "700855": {
+        "text": "You have unfinished chapter(s).",
+        "id": 700855
+    },
+    "700856": {
+        "text": "Insufficient items.",
+        "id": 700856
+    },
+    "700857": {
+        "text": "Insufficient Chronospace Keys, cannot engage in combat.",
+        "id": 700857
+    },
+    "700858": {
+        "text": "First Top-up Gift",
+        "id": 700858
+    },
+    "700859": {
+        "text": "Pass Stage 1-1 to unlock Substitute Doll",
+        "id": 700859
+    },
+    "700860": {
+        "text": "Broken Segments acquired.$B$As she recovers her power, the witch traverses the Intangible and collects memory Segments found in the crevices of the Chronospace turbulence. Go to the Intangible Memories to view.",
+        "id": 700860
+    },
+    "700861": {
+        "text": "Pass Stage 2-9 to unlock Assistance.",
+        "id": 700861
+    },
+    "700862": {
+        "text": "Attribute Bonus is unlocked",
+        "id": 700862
+    },
+    "700863": {
+        "text": "$parameter1$ is unlocked",
+        "id": 700863
+    },
+    "700864": {
+        "text": "$parameter1$ is unlocked",
+        "id": 700864
+    },
+    "700865": {
+        "text": "No presents available. Please acquire gifts from the Shop or through other gameplay",
+        "id": 700865
+    },
+    "700866": {
+        "text": "Gift delivered.",
+        "id": 700866
+    },
+    "700867": {
+        "text": "Intimacy level improved. Check out Intimacy rewards.",
+        "id": 700867
+    },
+    "700868": {
+        "text": "Confirm",
+        "id": 700868
+    },
+    "700869": {
+        "text": "Intimacy with this Doll <color=#DF4242ff>has reached Max. Level<\/color> and <color=#DF4242ff>can no longer increase<\/color> by sending presents. Do you insist on sending it gifts?",
+        "id": 700869
+    },
+    "700870": {
+        "text": "Present sending is too frequent, please wait.",
+        "id": 700870
+    },
+    "700871": {
+        "text": "Give at least 1 gift",
+        "id": 700871
+    },
+    "700872": {
+        "text": "Current present-giving limit has already been reached",
+        "id": 700872
+    },
+    "700873": {
+        "text": "%",
+        "id": 700873
+    },
+    "700874": {
+        "text": "Downloading patch, $parameter2$ KB\/$parameter1$ KB downloaded.",
+        "id": 700874
+    },
+    "700875": {
+        "text": "Downloading patch, $parameter2$ MB\/$parameter1$ MB downloaded.",
+        "id": 700875
+    },
+    "700876": {
+        "text": "Error occurred during downloading.",
+        "id": 700876
+    },
+    "700877": {
+        "text": "File validation failed.",
+        "id": 700877
+    },
+    "700878": {
+        "text": "Integrating files…",
+        "id": 700878
+    },
+    "700879": {
+        "text": "Integrating files. $parameter2$\/$parameter1$ completed.",
+        "id": 700879
+    },
+    "700880": {
+        "text": "File integration failed.",
+        "id": 700880
+    },
+    "700881": {
+        "text": "Finishing",
+        "id": 700881
+    },
+    "700882": {
+        "text": "New resource discovered.$B$The size of the file is $parameter1$ KB in total.$B$A Wi-Fi connection is recommended.",
+        "id": 700882
+    },
+    "700883": {
+        "text": "New resource discovered.$B$The size of the file is $parameter1$ KB in total.$B$A Wi-Fi connection is recommended.",
+        "id": 700883
+    },
+    "700884": {
+        "text": "Error occurred during downloading.$B$$parameter1$ KB remaining.$B$Please check your Network.",
+        "id": 700884
+    },
+    "700885": {
+        "text": "Error occurred during downloading.$B$$parameter1$ MB remaining.$B$Please check your Network.",
+        "id": 700885
+    },
+    "700886": {
+        "text": "File validation failed, please download again.$B$The size of the file is $parameter1$ KB in total.$B$A Wi-Fi connection is recommended.",
+        "id": 700886
+    },
+    "700887": {
+        "text": "File validation failed, please download again.$B$The size of the file is $parameter1$ MB in total.$B$A Wi-Fi connection is recommended.",
+        "id": 700887
+    },
+    "700888": {
+        "text": "File integration failed.$B$Your device doesn't have enough storage. Please clear up some storage space and try again.",
+        "id": 700888
+    },
+    "700889": {
+        "text": "Verifying files...",
+        "id": 700889
+    },
+    "700890": {
+        "text": "Improve Magic Level to Lv.$parameter1$ if you wish to level up further.",
+        "id": 700890
+    },
+    "700891": {
+        "text": "Insufficient Chronospace Essence",
+        "id": 700891
+    },
+    "700892": {
+        "text": "The segment is locked",
+        "id": 700892
+    },
+    "700893": {
+        "text": "Intangible Memories is locked",
+        "id": 700893
+    },
+    "700894": {
+        "text": "s until exploration continues",
+        "id": 700894
+    },
+    "700895": {
+        "text": "Best record:",
+        "id": 700895
+    },
+    "700896": {
+        "text": "Not challenged",
+        "id": 700896
+    },
+    "700897": {
+        "text": "Not on the Rankings",
+        "id": 700897
+    },
+    "700898": {
+        "text": "No permanent costumes for sale currently",
+        "id": 700898
+    },
+    "700899": {
+        "text": "No promotional costumes for sale currently",
+        "id": 700899
+    },
+    "700900": {
+        "text": "You haven't purchased the costume.",
+        "id": 700900
+    },
+    "700901": {
+        "text": "Team",
+        "id": 700901
+    },
+    "700902": {
+        "text": "$parameter1$",
+        "id": 700902
+    },
+    "700903": {
+        "text": "This stage is quite difficult, please arrange your formation wisely (A damage-dealing type is advised). Cofirm to use the current formation?",
+        "id": 700903
+    },
+    "700904": {
+        "text": "This stage is quite difficult, please arrange your formation wisely (A Healing type is advised). Cofirm to use the current formation?",
+        "id": 700904
+    },
+    "700905": {
+        "text": "<color=#FC3333>No UR Character has been acquired this time. We recommend continuing summoning.<\/color> Confirm the result of Summoning? (Once confirmed, you will receive the summoned Characters and cannot perform the 1st Limited Edition Summon again)",
+        "id": 700905
+    },
+    "700906": {
+        "text": "First time claiming a Reward",
+        "id": 700906
+    },
+    "700907": {
+        "text": "Repeat acquisition of Reward",
+        "id": 700907
+    },
+    "700908": {
+        "text": "Go to Top-up",
+        "id": 700908
+    },
+    "700909": {
+        "text": "Claim Reward I",
+        "id": 700909
+    },
+    "700910": {
+        "text": "Claim Reward II",
+        "id": 700910
+    },
+    "700911": {
+        "text": "$parameter1$ points reached",
+        "id": 700911
+    },
+    "700912": {
+        "text": "The combat coming up is quite difficult. Do you insist on it?$B$(Recommended for Lv.8)",
+        "id": 700912
+    },
+    "700913": {
+        "text": "Witch",
+        "id": 700913
+    },
+    "700914": {
+        "text": "Total Points: $parameter1$",
+        "id": 700914
+    },
+    "700915": {
+        "text": "[Combat: Formation]$B$Monsters in Cassiel are vulnerable to magic damage.",
+        "id": 700915
+    },
+    "700916": {
+        "text": "[Combat: Formation]$B$The Mechanical Guards in the Chrono Tower have high Physical Resistance",
+        "id": 700916
+    },
+    "700917": {
+        "text": "[Combat: Energy Control]$B$Dejase can better sense the changing of energy$B$when she's under the effects of the Dark Magic.$B$Keep a keen eye out for the opportunity to use Magic Awakening",
+        "id": 700917
+    },
+    "700918": {
+        "text": "…",
+        "id": 700918
+    },
+    "700919": {
+        "text": "Unlocks at Magic Tree Lv.2",
+        "id": 700919
+    },
+    "700920": {
+        "text": "Unlocks at Magic Tree Lv.3",
+        "id": 700920
+    },
+    "700921": {
+        "text": "The requirements for unlocking have not been met",
+        "id": 700921
+    },
+    "700922": {
+        "text": "Closed",
+        "id": 700922
+    },
+    "700923": {
+        "text": "…",
+        "id": 700923
+    },
+    "700924": {
+        "text": "Dolls can be upgraded to Lv.$parameter2$ once Magic Level has reached $parameter1$.",
+        "id": 700924
+    },
+    "700925": {
+        "text": "Quit the game?",
+        "id": 700925
+    },
+    "700926": {
+        "text": "Currently stationing: <color=#FFFFFFff>$parameter1$<\/color>\/$parameter2$",
+        "id": 700926
+    },
+    "700927": {
+        "text": "Monthly card has been extended by $parameter1$ days.",
+        "id": 700927
+    },
+    "700928": {
+        "text": "Pass 1-4 to unlock.",
+        "id": 700928
+    },
+    "700929": {
+        "text": "Start training at the cost of <color=#DF4242ff>$parameter1$ x$parameter2$<\/color>?",
+        "id": 700929
+    },
+    "700930": {
+        "text": "There are still living monsters from this exploration. <color=#FC3333>$parameter1$<\/color> Stamina will be returned.",
+        "id": 700930
+    },
+    "700931": {
+        "text": "",
+        "id": 700931
+    },
+    "700932": {
+        "text": "",
+        "id": 700932
+    },
+    "700933": {
+        "text": "",
+        "id": 700933
+    },
+    "700934": {
+        "text": "",
+        "id": 700934
+    },
+    "700935": {
+        "text": "",
+        "id": 700935
+    },
+    "700936": {
+        "text": "",
+        "id": 700936
+    },
+    "700937": {
+        "text": "",
+        "id": 700937
+    },
+    "700938": {
+        "text": "",
+        "id": 700938
+    },
+    "700939": {
+        "text": "",
+        "id": 700939
+    },
+    "700940": {
+        "text": "",
+        "id": 700940
+    },
+    "700941": {
+        "text": "",
+        "id": 700941
+    },
+    "700942": {
+        "text": "",
+        "id": 700942
+    },
+    "700943": {
+        "text": "",
+        "id": 700943
+    },
+    "700944": {
+        "text": "",
+        "id": 700944
+    },
+    "700945": {
+        "text": "",
+        "id": 700945
+    },
+    "700946": {
+        "text": "",
+        "id": 700946
+    },
+    "700947": {
+        "text": "",
+        "id": 700947
+    },
+    "700948": {
+        "text": "",
+        "id": 700948
+    },
+    "700949": {
+        "text": "",
+        "id": 700949
+    },
+    "700950": {
+        "text": "",
+        "id": 700950
+    },
+    "700951": {
+        "text": "",
+        "id": 700951
+    },
+    "700952": {
+        "text": "",
+        "id": 700952
+    },
+    "700953": {
+        "text": "",
+        "id": 700953
+    },
+    "700954": {
+        "text": "",
+        "id": 700954
+    },
+    "700955": {
+        "text": "",
+        "id": 700955
+    },
+    "700956": {
+        "text": "",
+        "id": 700956
+    },
+    "700957": {
+        "text": "",
+        "id": 700957
+    },
+    "700958": {
+        "text": "",
+        "id": 700958
+    },
+    "700959": {
+        "text": "",
+        "id": 700959
+    },
+    "700960": {
+        "text": "",
+        "id": 700960
+    },
+    "700961": {
+        "text": "",
+        "id": 700961
+    },
+    "700962": {
+        "text": "",
+        "id": 700962
+    },
+    "700963": {
+        "text": "",
+        "id": 700963
+    },
+    "700964": {
+        "text": "",
+        "id": 700964
+    },
+    "700965": {
+        "text": "",
+        "id": 700965
+    },
+    "700966": {
+        "text": "",
+        "id": 700966
+    },
+    "700967": {
+        "text": "",
+        "id": 700967
+    },
+    "700968": {
+        "text": "",
+        "id": 700968
+    },
+    "700969": {
+        "text": "",
+        "id": 700969
+    },
+    "700970": {
+        "text": "",
+        "id": 700970
+    },
+    "700971": {
+        "text": "",
+        "id": 700971
+    },
+    "700972": {
+        "text": "",
+        "id": 700972
+    },
+    "700973": {
+        "text": "",
+        "id": 700973
+    },
+    "700974": {
+        "text": "",
+        "id": 700974
+    },
+    "700975": {
+        "text": "",
+        "id": 700975
+    },
+    "700976": {
+        "text": "",
+        "id": 700976
+    },
+    "700977": {
+        "text": "",
+        "id": 700977
+    },
+    "700978": {
+        "text": "",
+        "id": 700978
+    },
+    "700979": {
+        "text": "",
+        "id": 700979
+    },
+    "700980": {
+        "text": "",
+        "id": 700980
+    },
+    "700981": {
+        "text": "",
+        "id": 700981
+    },
+    "700982": {
+        "text": "",
+        "id": 700982
+    },
+    "700983": {
+        "text": "",
+        "id": 700983
+    },
+    "700984": {
+        "text": "",
+        "id": 700984
+    },
+    "700985": {
+        "text": "",
+        "id": 700985
+    },
+    "700986": {
+        "text": "",
+        "id": 700986
+    },
+    "700987": {
+        "text": "",
+        "id": 700987
+    },
+    "700988": {
+        "text": "",
+        "id": 700988
+    },
+    "700989": {
+        "text": "",
+        "id": 700989
+    },
+    "700990": {
+        "text": "",
+        "id": 700990
+    },
+    "700991": {
+        "text": "",
+        "id": 700991
+    },
+    "700992": {
+        "text": "",
+        "id": 700992
+    },
+    "700993": {
+        "text": "",
+        "id": 700993
+    },
+    "700994": {
+        "text": "",
+        "id": 700994
+    },
+    "700995": {
+        "text": "",
+        "id": 700995
+    },
+    "700996": {
+        "text": "",
+        "id": 700996
+    },
+    "700997": {
+        "text": "",
+        "id": 700997
+    },
+    "700998": {
+        "text": "",
+        "id": 700998
+    },
+    "700999": {
+        "text": "",
+        "id": 700999
+    },
+    "701000": {
+        "text": "",
+        "id": 701000
+    },
+    "701001": {
+        "text": "",
+        "id": 701001
+    },
+    "701002": {
+        "text": "",
+        "id": 701002
+    },
+    "701003": {
+        "text": "",
+        "id": 701003
+    },
+    "701004": {
+        "text": "",
+        "id": 701004
+    },
+    "701005": {
+        "text": "",
+        "id": 701005
+    },
+    "701006": {
+        "text": "",
+        "id": 701006
+    },
+    "701007": {
+        "text": "",
+        "id": 701007
+    },
+    "701008": {
+        "text": "",
+        "id": 701008
+    },
+    "701009": {
+        "text": "",
+        "id": 701009
+    },
+    "701010": {
+        "text": "",
+        "id": 701010
+    },
+    "701011": {
+        "text": "",
+        "id": 701011
+    },
+    "701012": {
+        "text": "",
+        "id": 701012
+    },
+    "701013": {
+        "text": "",
+        "id": 701013
+    },
+    "701014": {
+        "text": "",
+        "id": 701014
+    },
+    "701015": {
+        "text": "",
+        "id": 701015
+    },
+    "701016": {
+        "text": "",
+        "id": 701016
+    },
+    "701017": {
+        "text": "",
+        "id": 701017
+    },
+    "701018": {
+        "text": "",
+        "id": 701018
+    },
+    "701019": {
+        "text": "",
+        "id": 701019
+    },
+    "701020": {
+        "text": "",
+        "id": 701020
+    },
+    "701021": {
+        "text": "",
+        "id": 701021
+    },
+    "701022": {
+        "text": "",
+        "id": 701022
+    },
+    "701023": {
+        "text": "",
+        "id": 701023
+    },
+    "701024": {
+        "text": "",
+        "id": 701024
+    },
+    "701025": {
+        "text": "",
+        "id": 701025
+    },
+    "701026": {
+        "text": "",
+        "id": 701026
+    },
+    "701027": {
+        "text": "",
+        "id": 701027
+    },
+    "701028": {
+        "text": "",
+        "id": 701028
+    },
+    "701029": {
+        "text": "",
+        "id": 701029
+    },
+    "701030": {
+        "text": "",
+        "id": 701030
+    },
+    "701031": {
+        "text": "",
+        "id": 701031
+    },
+    "701032": {
+        "text": "",
+        "id": 701032
+    },
+    "701033": {
+        "text": "",
+        "id": 701033
+    },
+    "701034": {
+        "text": "",
+        "id": 701034
+    },
+    "701035": {
+        "text": "",
+        "id": 701035
+    },
+    "701036": {
+        "text": "",
+        "id": 701036
+    },
+    "701037": {
+        "text": "",
+        "id": 701037
+    },
+    "701038": {
+        "text": "",
+        "id": 701038
+    },
+    "701039": {
+        "text": "",
+        "id": 701039
+    },
+    "701040": {
+        "text": "",
+        "id": 701040
+    },
+    "701041": {
+        "text": "",
+        "id": 701041
+    },
+    "701042": {
+        "text": "",
+        "id": 701042
+    },
+    "701043": {
+        "text": "",
+        "id": 701043
+    },
+    "701044": {
+        "text": "",
+        "id": 701044
+    },
+    "701045": {
+        "text": "",
+        "id": 701045
+    },
+    "701046": {
+        "text": "",
+        "id": 701046
+    },
+    "701047": {
+        "text": "",
+        "id": 701047
+    },
+    "701048": {
+        "text": "",
+        "id": 701048
+    },
+    "701049": {
+        "text": "",
+        "id": 701049
+    },
+    "701050": {
+        "text": "",
+        "id": 701050
+    },
+    "701051": {
+        "text": "",
+        "id": 701051
+    },
+    "701052": {
+        "text": "",
+        "id": 701052
+    },
+    "701053": {
+        "text": "",
+        "id": 701053
+    },
+    "701054": {
+        "text": "",
+        "id": 701054
+    },
+    "701055": {
+        "text": "",
+        "id": 701055
+    },
+    "701056": {
+        "text": "",
+        "id": 701056
+    },
+    "701057": {
+        "text": "",
+        "id": 701057
+    },
+    "701058": {
+        "text": "",
+        "id": 701058
+    },
+    "701059": {
+        "text": "",
+        "id": 701059
+    },
+    "701060": {
+        "text": "",
+        "id": 701060
+    },
+    "701061": {
+        "text": "",
+        "id": 701061
+    },
+    "701062": {
+        "text": "",
+        "id": 701062
+    },
+    "701063": {
+        "text": "",
+        "id": 701063
+    },
+    "701064": {
+        "text": "",
+        "id": 701064
+    },
+    "701065": {
+        "text": "",
+        "id": 701065
+    },
+    "701066": {
+        "text": "",
+        "id": 701066
+    },
+    "701067": {
+        "text": "",
+        "id": 701067
+    },
+    "701068": {
+        "text": "",
+        "id": 701068
+    },
+    "701069": {
+        "text": "",
+        "id": 701069
+    },
+    "701070": {
+        "text": "",
+        "id": 701070
+    },
+    "701071": {
+        "text": "",
+        "id": 701071
+    },
+    "701072": {
+        "text": "",
+        "id": 701072
+    },
+    "701073": {
+        "text": "",
+        "id": 701073
+    },
+    "701074": {
+        "text": "",
+        "id": 701074
+    },
+    "701075": {
+        "text": "",
+        "id": 701075
+    },
+    "701076": {
+        "text": "",
+        "id": 701076
+    },
+    "701077": {
+        "text": "",
+        "id": 701077
+    },
+    "701078": {
+        "text": "",
+        "id": 701078
+    },
+    "701079": {
+        "text": "",
+        "id": 701079
+    },
+    "701080": {
+        "text": "",
+        "id": 701080
+    },
+    "701081": {
+        "text": "",
+        "id": 701081
+    },
+    "701082": {
+        "text": "",
+        "id": 701082
+    },
+    "701083": {
+        "text": "",
+        "id": 701083
+    },
+    "701084": {
+        "text": "",
+        "id": 701084
+    },
+    "701085": {
+        "text": "",
+        "id": 701085
+    },
+    "701086": {
+        "text": "",
+        "id": 701086
+    },
+    "701087": {
+        "text": "",
+        "id": 701087
+    },
+    "701088": {
+        "text": "",
+        "id": 701088
+    },
+    "701089": {
+        "text": "",
+        "id": 701089
+    },
+    "701090": {
+        "text": "",
+        "id": 701090
+    },
+    "701091": {
+        "text": "",
+        "id": 701091
+    },
+    "701092": {
+        "text": "",
+        "id": 701092
+    },
+    "701093": {
+        "text": "",
+        "id": 701093
+    },
+    "701094": {
+        "text": "",
+        "id": 701094
+    },
+    "701095": {
+        "text": "",
+        "id": 701095
+    },
+    "701096": {
+        "text": "",
+        "id": 701096
+    },
+    "701097": {
+        "text": "",
+        "id": 701097
+    },
+    "701098": {
+        "text": "",
+        "id": 701098
+    },
+    "701099": {
+        "text": "",
+        "id": 701099
+    },
+    "701100": {
+        "text": "",
+        "id": 701100
+    },
+    "701101": {
+        "text": "",
+        "id": 701101
+    },
+    "701102": {
+        "text": "",
+        "id": 701102
+    },
+    "701103": {
+        "text": "",
+        "id": 701103
+    },
+    "701104": {
+        "text": "",
+        "id": 701104
+    },
+    "701105": {
+        "text": "",
+        "id": 701105
+    },
+    "701106": {
+        "text": "",
+        "id": 701106
+    },
+    "701107": {
+        "text": "",
+        "id": 701107
+    },
+    "701108": {
+        "text": "",
+        "id": 701108
+    },
+    "701109": {
+        "text": "",
+        "id": 701109
+    },
+    "701110": {
+        "text": "",
+        "id": 701110
+    },
+    "701111": {
+        "text": "",
+        "id": 701111
+    },
+    "701112": {
+        "text": "",
+        "id": 701112
+    },
+    "701113": {
+        "text": "",
+        "id": 701113
+    },
+    "701114": {
+        "text": "",
+        "id": 701114
+    },
+    "701115": {
+        "text": "",
+        "id": 701115
+    },
+    "701116": {
+        "text": "",
+        "id": 701116
+    },
+    "701117": {
+        "text": "",
+        "id": 701117
+    },
+    "701118": {
+        "text": "",
+        "id": 701118
+    },
+    "701119": {
+        "text": "",
+        "id": 701119
+    },
+    "701120": {
+        "text": "",
+        "id": 701120
+    },
+    "701121": {
+        "text": "",
+        "id": 701121
+    },
+    "701122": {
+        "text": "",
+        "id": 701122
+    },
+    "701123": {
+        "text": "",
+        "id": 701123
+    },
+    "701124": {
+        "text": "",
+        "id": 701124
+    },
+    "701125": {
+        "text": "",
+        "id": 701125
+    },
+    "701126": {
+        "text": "",
+        "id": 701126
+    },
+    "701127": {
+        "text": "",
+        "id": 701127
+    },
+    "701128": {
+        "text": "",
+        "id": 701128
+    },
+    "701129": {
+        "text": "",
+        "id": 701129
+    },
+    "701130": {
+        "text": "",
+        "id": 701130
+    },
+    "701131": {
+        "text": "",
+        "id": 701131
+    },
+    "701132": {
+        "text": "",
+        "id": 701132
+    },
+    "701133": {
+        "text": "",
+        "id": 701133
+    },
+    "701134": {
+        "text": "",
+        "id": 701134
+    },
+    "701135": {
+        "text": "",
+        "id": 701135
+    },
+    "701136": {
+        "text": "",
+        "id": 701136
+    },
+    "701137": {
+        "text": "",
+        "id": 701137
+    },
+    "701138": {
+        "text": "",
+        "id": 701138
+    },
+    "701139": {
+        "text": "",
+        "id": 701139
+    },
+    "701140": {
+        "text": "",
+        "id": 701140
+    },
+    "701141": {
+        "text": "",
+        "id": 701141
+    },
+    "701142": {
+        "text": "",
+        "id": 701142
+    },
+    "701143": {
+        "text": "",
+        "id": 701143
+    },
+    "701144": {
+        "text": "",
+        "id": 701144
+    },
+    "701145": {
+        "text": "",
+        "id": 701145
+    },
+    "701146": {
+        "text": "",
+        "id": 701146
+    },
+    "701147": {
+        "text": "",
+        "id": 701147
+    },
+    "701148": {
+        "text": "",
+        "id": 701148
+    },
+    "701149": {
+        "text": "",
+        "id": 701149
+    },
+    "701150": {
+        "text": "",
+        "id": 701150
+    },
+    "701151": {
+        "text": "",
+        "id": 701151
+    },
+    "701152": {
+        "text": "",
+        "id": 701152
+    },
+    "701153": {
+        "text": "",
+        "id": 701153
+    },
+    "701154": {
+        "text": "",
+        "id": 701154
+    },
+    "701155": {
+        "text": "",
+        "id": 701155
+    },
+    "701156": {
+        "text": "",
+        "id": 701156
+    },
+    "701157": {
+        "text": "",
+        "id": 701157
+    },
+    "701158": {
+        "text": "",
+        "id": 701158
+    },
+    "700001": {
+        "text": "Use",
+        "id": 700001
+    },
+    "700002": {
+        "text": "Cut Down",
+        "id": 700002
+    },
+    "700003": {
+        "text": "Open",
+        "id": 700003
+    },
+    "700004": {
+        "text": "Push",
+        "id": 700004
+    },
+    "700005": {
+        "text": "Pull",
+        "id": 700005
+    },
+    "700006": {
+        "text": "Unlock",
+        "id": 700006
+    },
+    "700007": {
+        "text": "Acquire",
+        "id": 700007
+    },
+    "700008": {
+        "text": "Turn over",
+        "id": 700008
+    },
+    "700009": {
+        "text": "Launch",
+        "id": 700009
+    },
+    "700010": {
+        "text": "Open",
+        "id": 700010
+    },
+    "700011": {
+        "text": "Read",
+        "id": 700011
+    },
+    "700012": {
+        "text": "Check",
+        "id": 700012
+    },
+    "700013": {
+        "text": "Dialogue",
+        "id": 700013
+    },
+    "700014": {
+        "text": "Restore",
+        "id": 700014
+    },
+    "700015": {
+        "text": "Touch",
+        "id": 700015
+    },
+    "700016": {
+        "text": "Touch",
+        "id": 700016
+    },
+    "700017": {
+        "text": "Activate",
+        "id": 700017
+    },
+    "700018": {
+        "text": "Confirm",
+        "id": 700018
+    },
+    "700019": {
+        "text": "Cancel",
+        "id": 700019
+    },
+    "700020": {
+        "text": "Expires in: $parameter1$ d $parameter2$ h",
+        "id": 700020
+    },
+    "700021": {
+        "text": "Permanent",
+        "id": 700021
+    },
+    "700022": {
+        "text": "Soul Alchemy",
+        "id": 700022
+    },
+    "700023": {
+        "text": "Select Character",
+        "id": 700023
+    },
+    "700024": {
+        "text": "Fixed Skill",
+        "id": 700024
+    },
+    "700025": {
+        "text": "Equipped by $parameter1$ (Lv.$parameter2$)",
+        "id": 700025
+    },
+    "700026": {
+        "text": "The name contains restricted character(s).",
+        "id": 700026
+    },
+    "700027": {
+        "text": "The name is too short.",
+        "id": 700027
+    },
+    "700028": {
+        "text": "The name is too long.",
+        "id": 700028
+    },
+    "700029": {
+        "text": "Type: $parameter1$",
+        "id": 700029
+    },
+    "700030": {
+        "text": "Summon x1",
+        "id": 700030
+    },
+    "700031": {
+        "text": "Summon x10",
+        "id": 700031
+    },
+    "700032": {
+        "text": "Unequipped",
+        "id": 700032
+    },
+    "700033": {
+        "text": "Magic DMG Skill",
+        "id": 700033
+    },
+    "700034": {
+        "text": "Physical DMG Skill",
+        "id": 700034
+    },
+    "700035": {
+        "text": "Healing Skill",
+        "id": 700035
+    },
+    "700036": {
+        "text": "Skill Level",
+        "id": 700036
+    },
+    "700037": {
+        "text": "Skill Quality",
+        "id": 700037
+    },
+    "700038": {
+        "text": "Restore $parameter3$ Stamina at the cost of $parameter1$ $parameter2$, confirm?",
+        "id": 700038
+    },
+    "700039": {
+        "text": "Current Stamina",
+        "id": 700039
+    },
+    "700040": {
+        "text": "Restore Stamina to",
+        "id": 700040
+    },
+    "700041": {
+        "text": "$parameter1$\/$parameter2$",
+        "id": 700041
+    },
+    "700042": {
+        "text": "Restore Stamina by $parameter2$ at the cost of $parameter1$",
+        "id": 700042
+    },
+    "700043": {
+        "text": "You have $parameter1$",
+        "id": 700043
+    },
+    "700044": {
+        "text": "Consume $parameter1$ Stamina to enter the next stage?",
+        "id": 700044
+    },
+    "700045": {
+        "text": "Finish Exploration",
+        "id": 700045
+    },
+    "700046": {
+        "text": "Next Stage",
+        "id": 700046
+    },
+    "700047": {
+        "text": "$parameter1$ s ago",
+        "id": 700047
+    },
+    "700048": {
+        "text": "$parameter1$ m ago",
+        "id": 700048
+    },
+    "700049": {
+        "text": "$parameter1$ h ago",
+        "id": 700049
+    },
+    "700050": {
+        "text": "$parameter1$ d ago",
+        "id": 700050
+    },
+    "700051": {
+        "text": "Online",
+        "id": 700051
+    },
+    "700052": {
+        "text": "Recommended Witches",
+        "id": 700052
+    },
+    "700053": {
+        "text": "Search Results",
+        "id": 700053
+    },
+    "700054": {
+        "text": "$parameter1$ New Message(s)",
+        "id": 700054
+    },
+    "700055": {
+        "text": "The event is over",
+        "id": 700055
+    },
+    "700056": {
+        "text": "This is the beginning of our journey together!",
+        "id": 700056
+    },
+    "700057": {
+        "text": "Refreshes in",
+        "id": 700057
+    },
+    "700058": {
+        "text": "%H:%M:%S",
+        "id": 700058
+    },
+    "700059": {
+        "text": "Chance(s) Remaining",
+        "id": 700059
+    },
+    "700060": {
+        "text": "Refresh",
+        "id": 700060
+    },
+    "700061": {
+        "text": "Event ends in:",
+        "id": 700061
+    },
+    "700062": {
+        "text": "d",
+        "id": 700062
+    },
+    "700063": {
+        "text": "h",
+        "id": 700063
+    },
+    "700064": {
+        "text": "m",
+        "id": 700064
+    },
+    "700065": {
+        "text": "$parameter1$",
+        "id": 700065
+    },
+    "700066": {
+        "text": "Perfect Attendance",
+        "id": 700066
+    },
+    "700067": {
+        "text": "Unknown",
+        "id": 700067
+    },
+    "700068": {
+        "text": "Opens Everyday",
+        "id": 700068
+    },
+    "700069": {
+        "text": "Opens on Monday, Wednesday, Friday and Sunday.",
+        "id": 700069
+    },
+    "700070": {
+        "text": "Opens on Tuesday, Thursday, Saturday and Sunday.",
+        "id": 700070
+    },
+    "700071": {
+        "text": "Closed",
+        "id": 700071
+    },
+    "700072": {
+        "text": "Locked",
+        "id": 700072
+    },
+    "700073": {
+        "text": "Saturday",
+        "id": 700073
+    },
+    "700074": {
+        "text": "Sunday",
+        "id": 700074
+    },
+    "700075": {
+        "text": "$parameter1$\/$parameter2$",
+        "id": 700075
+    },
+    "700076": {
+        "text": "Unlocks at Lv.$parameter1$",
+        "id": 700076
+    },
+    "700077": {
+        "text": "($parameter1\/$parameter2)",
+        "id": 700077
+    },
+    "700078": {
+        "text": "Suitable for $parameter1$",
+        "id": 700078
+    },
+    "700079": {
+        "text": "Acquired",
+        "id": 700079
+    },
+    "700080": {
+        "text": "Not Acquired",
+        "id": 700080
+    },
+    "700081": {
+        "text": "Day $parameter1$",
+        "id": 700081
+    },
+    "700082": {
+        "text": "Support Skill",
+        "id": 700082
+    },
+    "700083": {
+        "text": "SSR",
+        "id": 700083
+    },
+    "700084": {
+        "text": "SR",
+        "id": 700084
+    },
+    "700085": {
+        "text": "R",
+        "id": 700085
+    },
+    "700086": {
+        "text": "Level",
+        "id": 700086
+    },
+    "700087": {
+        "text": "Rarity",
+        "id": 700087
+    },
+    "700088": {
+        "text": "Owned",
+        "id": 700088
+    },
+    "700089": {
+        "text": "Acquisition Order",
+        "id": 700089
+    },
+    "700090": {
+        "text": "Skill Type",
+        "id": 700090
+    },
+    "700091": {
+        "text": "Unlocks after Ascension Phase 1",
+        "id": 700091
+    },
+    "700092": {
+        "text": "Unlocks after Ascension Phase 2",
+        "id": 700092
+    },
+    "700093": {
+        "text": "Unlocks after Ascension Phase 3",
+        "id": 700093
+    },
+    "700094": {
+        "text": "Unlocks after Ascension Phase 4",
+        "id": 700094
+    },
+    "700095": {
+        "text": "Unlock Soul Mark",
+        "id": 700095
+    },
+    "700096": {
+        "text": "No Assist Character Obtained",
+        "id": 700096
+    },
+    "700097": {
+        "text": "Team Info",
+        "id": 700097
+    },
+    "700098": {
+        "text": "+$parameter1$",
+        "id": 700098
+    },
+    "700099": {
+        "text": "Accept <color=#e25630ff>$parameter1$<\/color> as your friend?",
+        "id": 700099
+    },
+    "700100": {
+        "text": "Dear Witch, your verification code is: $parameter1$. You can only use it once. Don't give it to anyone else.",
+        "id": 700100
+    },
+    "700101": {
+        "text": "Bind to Email",
+        "id": 700101
+    },
+    "700102": {
+        "text": "Resend in $parameter1$ s",
+        "id": 700102
+    },
+    "700103": {
+        "text": "$parameter1$:$parameter2$:$parameter3$",
+        "id": 700103
+    },
+    "700104": {
+        "text": "You will receive $parameter1$ after successfully binding your account",
+        "id": 700104
+    },
+    "700105": {
+        "text": "$parameter1$ Channel (Input $parameter2$ - $parameter3$)",
+        "id": 700105
+    },
+    "700106": {
+        "text": "$parameter1$ owned:",
+        "id": 700106
+    },
+    "700107": {
+        "text": "Remove Friend",
+        "id": 700107
+    },
+    "700108": {
+        "text": "Add Friend",
+        "id": 700108
+    },
+    "700109": {
+        "text": "Unlocks at Enhance +2",
+        "id": 700109
+    },
+    "700110": {
+        "text": "Unlocks at Enhance +4",
+        "id": 700110
+    },
+    "700111": {
+        "text": "Boost Attributes",
+        "id": 700111
+    },
+    "700112": {
+        "text": "Enhance$B$Skill",
+        "id": 700112
+    },
+    "700113": {
+        "text": "Unlocks at: Ascension Phase 1",
+        "id": 700113
+    },
+    "700114": {
+        "text": "Unlocks at: Ascension Phase 2",
+        "id": 700114
+    },
+    "700115": {
+        "text": "Unlocks at: Ascension Phase 3",
+        "id": 700115
+    },
+    "700116": {
+        "text": "Unlocks at: Ascension Phase 4",
+        "id": 700116
+    },
+    "700117": {
+        "text": "$parameter1$0k",
+        "id": 700117
+    },
+    "700118": {
+        "text": "$parameter1$",
+        "id": 700118
+    },
+    "700119": {
+        "text": "+$parameter1$ EXP",
+        "id": 700119
+    },
+    "700120": {
+        "text": "Unlocks after passing the previous stage.",
+        "id": 700120
+    },
+    "700121": {
+        "text": "The verification code has expired, please request a new code.",
+        "id": 700121
+    },
+    "700122": {
+        "text": "Support Skill",
+        "id": 700122
+    },
+    "700123": {
+        "text": "<Parallel Chronospace>",
+        "id": 700123
+    },
+    "700124": {
+        "text": "<Dreamworld>",
+        "id": 700124
+    },
+    "700125": {
+        "text": "No Loot Obtained",
+        "id": 700125
+    },
+    "700126": {
+        "text": "$parameter1$s ",
+        "id": 700126
+    },
+    "700127": {
+        "text": "$parameter1$ is broken",
+        "id": 700127
+    },
+    "700128": {
+        "text": "$parameter1$:$parameter2$:$parameter3$",
+        "id": 700128
+    },
+    "700129": {
+        "text": "Unlocks at Magic Tree Lv.$parameter1$",
+        "id": 700129
+    },
+    "700130": {
+        "text": "<color=#E6B75Dff>$parameter1$<\/color>\/$parameter2$",
+        "id": 700130
+    },
+    "700131": {
+        "text": "Accounts for $parameter1$% of summoning $parameter2$ chance",
+        "id": 700131
+    },
+    "700132": {
+        "text": "<color=#$parameter2$>Summoning Chance $parameter1$%<\/color>",
+        "id": 700132
+    },
+    "700133": {
+        "text": "<color=#$parameter1$>$parameter2$<\/color> chance(s) remaining today.",
+        "id": 700133
+    },
+    "700134": {
+        "text": "<color=#$parameter1$>$parameter2$<\/color>",
+        "id": 700134
+    },
+    "700135": {
+        "text": "You've won the combat and acquired",
+        "id": 700135
+    },
+    "700136": {
+        "text": "You opened the Chest and found",
+        "id": 700136
+    },
+    "700137": {
+        "text": "You've finished the Storyline and acquired",
+        "id": 700137
+    },
+    "700138": {
+        "text": "You have acquired",
+        "id": 700138
+    },
+    "700139": {
+        "text": "Unlocks after passing $parameter1$",
+        "id": 700139
+    },
+    "700140": {
+        "text": "Unlocks when Intimacy reaches Lv.$parameter1$",
+        "id": 700140
+    },
+    "700141": {
+        "text": "Null",
+        "id": 700141
+    },
+    "700142": {
+        "text": "Max. Level Reached",
+        "id": 700142
+    },
+    "700143": {
+        "text": "Unlocks at <color=#FFFFFFff>Mirror of the Otherworld<\/color><color=#FFFFFFff> <\/color><color=#D7C899ff>Lv.$parameter1$<\/color>",
+        "id": 700143
+    },
+    "700144": {
+        "text": "Quest Paused",
+        "id": 700144
+    },
+    "700145": {
+        "text": "$parameter1$ d $parameter2$ h $parameter3$ m",
+        "id": 700145
+    },
+    "700146": {
+        "text": "Challenge Completed",
+        "id": 700146
+    },
+    "700147": {
+        "text": "Pass the challenge in $parameter1$ s",
+        "id": 700147
+    },
+    "700148": {
+        "text": "No challenger has yet succeeded",
+        "id": 700148
+    },
+    "700149": {
+        "text": "Working",
+        "id": 700149
+    },
+    "700150": {
+        "text": "Available",
+        "id": 700150
+    },
+    "700151": {
+        "text": "Unlock Buildings",
+        "id": 700151
+    },
+    "700152": {
+        "text": "No refresh chances left",
+        "id": 700152
+    },
+    "700153": {
+        "text": "Collected White Light",
+        "id": 700153
+    },
+    "700154": {
+        "text": "Collected Dark Light",
+        "id": 700154
+    },
+    "700155": {
+        "text": "Collected Chromatic Light",
+        "id": 700155
+    },
+    "700156": {
+        "text": "+<color=#EDC25Bff>$parameter1$<\/color>",
+        "id": 700156
+    },
+    "700157": {
+        "text": "x$parameter1$",
+        "id": 700157
+    },
+    "700158": {
+        "text": "Unlocks when Magic Tree reaches Lv.$parameter1$",
+        "id": 700158
+    },
+    "700159": {
+        "text": "$parameter1$ Capacity",
+        "id": 700159
+    },
+    "700160": {
+        "text": "Fully restores in $parameter1$ h, $parameter2$ m, $parameter3$ s.",
+        "id": 700160
+    },
+    "700161": {
+        "text": "Exploration Paused",
+        "id": 700161
+    },
+    "700162": {
+        "text": "$parameter1$:$parameter2$",
+        "id": 700162
+    },
+    "700163": {
+        "text": "Available",
+        "id": 700163
+    },
+    "700164": {
+        "text": "<color=#E25630ff>$parameter1$<\/color>",
+        "id": 700164
+    },
+    "700165": {
+        "text": "$parameter1$ <color=#FFFFFFff>\/ $parameter2$<\/color>",
+        "id": 700165
+    },
+    "700166": {
+        "text": "<color=#E25630ff>$parameter1$<\/color> <color=#FFFFFFff>\/$parameter2$<\/color>",
+        "id": 700166
+    },
+    "700167": {
+        "text": "<Witch Courtyard>",
+        "id": 700167
+    },
+    "700168": {
+        "text": "You have selected Doll <color=#E25630ff>$parameter1$<\/color>\/$parameter2$",
+        "id": 700168
+    },
+    "700169": {
+        "text": "You have selected Doll $parameter1$\/$parameter2$",
+        "id": 700169
+    },
+    "700170": {
+        "text": "The text contains restricted character(s)",
+        "id": 700170
+    },
+    "700171": {
+        "text": "Rarity:",
+        "id": 700171
+    },
+    "700172": {
+        "text": "Skill Type:",
+        "id": 700172
+    },
+    "700173": {
+        "text": "Only the most recent $parameter1$ summons are recorded",
+        "id": 700173
+    },
+    "700174": {
+        "text": "<color=#$parameter1$>[$parameter2$]<\/color>",
+        "id": 700174
+    },
+    "700175": {
+        "text": "You have performed $parameter2$ summons in $parameter1$",
+        "id": 700175
+    },
+    "700176": {
+        "text": "No summoning record for now",
+        "id": 700176
+    },
+    "700177": {
+        "text": "$parameter1$ d $parameter2$ h remaining",
+        "id": 700177
+    },
+    "700178": {
+        "text": "$parameter1$ h remaining",
+        "id": 700178
+    },
+    "700179": {
+        "text": "$parameter1$ m remaining",
+        "id": 700179
+    },
+    "700180": {
+        "text": "There's a chance of obtaining byproducts with this type of item",
+        "id": 700180
+    },
+    "700181": {
+        "text": "This type of item has no byproducts",
+        "id": 700181
+    },
+    "700182": {
+        "text": "Max. Level Reached",
+        "id": 700182
+    },
+    "700183": {
+        "text": "Witch Hut",
+        "id": 700183
+    },
+    "700184": {
+        "text": "Popularity",
+        "id": 700184
+    },
+    "700185": {
+        "text": "Latest",
+        "id": 700185
+    },
+    "700186": {
+        "text": "Not Purchased",
+        "id": 700186
+    },
+    "700187": {
+        "text": "Instantly receive Diamond x10$B$Daily Log-in Bonus Item1 x10$B$Daily Log-in Bonus Item2 x10 instantly",
+        "id": 700187
+    },
+    "700188": {
+        "text": "$parameter1$ x$parameter2$",
+        "id": 700188
+    },
+    "700189": {
+        "text": "Expires in $parameter1$ year(s)",
+        "id": 700189
+    },
+    "700190": {
+        "text": "Expires in $parameter1$ d",
+        "id": 700190
+    },
+    "700191": {
+        "text": "Expires in $parameter1$ h",
+        "id": 700191
+    },
+    "700192": {
+        "text": "Expires in $parameter1$ m",
+        "id": 700192
+    },
+    "700193": {
+        "text": "Pass Main Story $parameter1$ to unlock",
+        "id": 700193
+    },
+    "700194": {
+        "text": "You have unlocked the $parameter1$ feature!",
+        "id": 700194
+    },
+    "700195": {
+        "text": "Extra Gift",
+        "id": 700195
+    },
+    "700196": {
+        "text": " $parameter1$ $parameter2$",
+        "id": 700196
+    },
+    "700197": {
+        "text": " $parameter1$% - $parameter2$",
+        "id": 700197
+    },
+    "700198": {
+        "text": "Limited to $parameter1$ year(s)",
+        "id": 700198
+    },
+    "700199": {
+        "text": "Limited to $parameter1$ d",
+        "id": 700199
+    },
+    "700200": {
+        "text": "Limited to $parameter1$ h",
+        "id": 700200
+    },
+    "700201": {
+        "text": "Limited to $parameter1$ m",
+        "id": 700201
+    },
+    "700202": {
+        "text": "$parameter1$ Expired",
+        "id": 700202
+    },
+    "700203": {
+        "text": "Equipment of $parameter1$ Rarity",
+        "id": 700203
+    },
+    "700204": {
+        "text": "Blue",
+        "id": 700204
+    },
+    "700205": {
+        "text": "Purple",
+        "id": 700205
+    },
+    "700206": {
+        "text": "Gold",
+        "id": 700206
+    },
+    "700207": {
+        "text": "Set",
+        "id": 700207
+    },
+    "700208": {
+        "text": "Legendary",
+        "id": 700208
+    },
+    "700209": {
+        "text": "Precious Item Frame",
+        "id": 700209
+    },
+    "700210": {
+        "text": "Damage",
+        "id": 700210
+    },
+    "700211": {
+        "text": "Heal",
+        "id": 700211
+    },
+    "700212": {
+        "text": "Physical Tenacity",
+        "id": 700212
+    },
+    "700213": {
+        "text": "Magic Tenacity",
+        "id": 700213
+    },
+    "700214": {
+        "text": "Same type of attributes exists",
+        "id": 700214
+    },
+    "700215": {
+        "text": "$parameter1$ +$parameter2$ <color=#e25630ff>[$parameter3$ - $parameter4$] (Unlocks at Ascension $parameter5$)<\/color>",
+        "id": 700215
+    },
+    "700216": {
+        "text": "$parameter1$ +$parameter2$ <color=#e25630ff>[$parameter3$ - $parameter4$]<\/color>",
+        "id": 700216
+    },
+    "700217": {
+        "text": "Applicable to:",
+        "id": 700217
+    },
+    "700218": {
+        "text": "Unlock Voice $parameter1$",
+        "id": 700218
+    },
+    "700219": {
+        "text": "[$parameter1$-$parameter2$]",
+        "id": 700219
+    },
+    "700220": {
+        "text": "[Unlocks at Ascend $parameter1$]",
+        "id": 700220
+    },
+    "700221": {
+        "text": "Accessible at Lv.$parameter1$",
+        "id": 700221
+    },
+    "700222": {
+        "text": "$parameter1$\/$parameter2$",
+        "id": 700222
+    },
+    "700223": {
+        "text": "<color=#61687cff>+0%<\/color>",
+        "id": 700223
+    },
+    "700224": {
+        "text": "<color=#82C65Dff>+$parameter1$%<\/color>",
+        "id": 700224
+    },
+    "700225": {
+        "text": "<color=#FC3333ff>$parameter1$%<\/color>",
+        "id": 700225
+    },
+    "700226": {
+        "text": "$parameter1$: $parameter2$<color=#BDAB91ff> [Unlocks at Ascension $parameter3$]<\/color>",
+        "id": 700226
+    },
+    "700227": {
+        "text": "$parameter1$:$parameter2$",
+        "id": 700227
+    },
+    "700228": {
+        "text": "[$parameter1$-$parameter2$] [Unlocks at Ascension $parameter3$]",
+        "id": 700228
+    },
+    "700229": {
+        "text": "<color=#82c65dff>$parameter1$<\/color>\/$parameter2$",
+        "id": 700229
+    },
+    "700230": {
+        "text": "No Alchemy Skill",
+        "id": 700230
+    },
+    "700231": {
+        "text": "$parameter1$\/h <color=#e25630ff>$parameter2$<\/color>",
+        "id": 700231
+    },
+    "700232": {
+        "text": "Unlock Teleport:",
+        "id": 700232
+    },
+    "700233": {
+        "text": "Main Story: Recover Shards of the Irminsul Mirror",
+        "id": 700233
+    },
+    "700234": {
+        "text": "Unlock Teleport:",
+        "id": 700234
+    },
+    "700235": {
+        "text": "Pray",
+        "id": 700235
+    },
+    "700236": {
+        "text": "Main Story:",
+        "id": 700236
+    },
+    "700237": {
+        "text": "Main Story: Collect the Mirror Shards",
+        "id": 700237
+    },
+    "700238": {
+        "text": "Pray: Goddess of Victory I",
+        "id": 700238
+    },
+    "700239": {
+        "text": "Pray: Goddess of Victory II",
+        "id": 700239
+    },
+    "700240": {
+        "text": "Pray: Dreamworld Exploration",
+        "id": 700240
+    },
+    "700241": {
+        "text": "Pray: Collect Mana",
+        "id": 700241
+    },
+    "700242": {
+        "text": "Pray: Beast Hunter I",
+        "id": 700242
+    },
+    "700243": {
+        "text": "Pray: Beast Hunter II",
+        "id": 700243
+    },
+    "700244": {
+        "text": "Pray: Daily Exploration I",
+        "id": 700244
+    },
+    "700245": {
+        "text": "Pray: Daily Exploration II",
+        "id": 700245
+    },
+    "700246": {
+        "text": "Pray: Doll Enhancement",
+        "id": 700246
+    },
+    "700247": {
+        "text": "Pray: Enhance Equipment I",
+        "id": 700247
+    },
+    "700248": {
+        "text": "Pray: Equipment Collecting",
+        "id": 700248
+    },
+    "700249": {
+        "text": "Pray: Enhance Equipment II",
+        "id": 700249
+    },
+    "700250": {
+        "text": "Pray: Equipment Collecting III",
+        "id": 700250
+    },
+    "700251": {
+        "text": "Pray: Beast Hunter III",
+        "id": 700251
+    },
+    "700252": {
+        "text": "Pray: Goddess of Victory III",
+        "id": 700252
+    },
+    "700253": {
+        "text": "Pray: Doll Ascension",
+        "id": 700253
+    },
+    "700254": {
+        "text": "Pray: Master of Summoning",
+        "id": 700254
+    },
+    "700255": {
+        "text": "Main Story: Wielding Mana I",
+        "id": 700255
+    },
+    "700256": {
+        "text": "Main Story: Wielding Mana II",
+        "id": 700256
+    },
+    "700257": {
+        "text": "Main Story: Wielding Mana III",
+        "id": 700257
+    },
+    "700258": {
+        "text": "Side Story:",
+        "id": 700258
+    },
+    "700259": {
+        "text": "Claimed:",
+        "id": 700259
+    },
+    "700260": {
+        "text": "Main Story: Wielding Mana IV",
+        "id": 700260
+    },
+    "700261": {
+        "text": "Main Story: Enhance Equipment",
+        "id": 700261
+    },
+    "700262": {
+        "text": "Main Story: Ascension",
+        "id": 700262
+    },
+    "700263": {
+        "text": "Character Story Line:",
+        "id": 700263
+    },
+    "700264": {
+        "text": "$parameter1$",
+        "id": 700264
+    },
+    "700265": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700265
+    },
+    "700266": {
+        "text": "$parameter1$",
+        "id": 700266
+    },
+    "700267": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700267
+    },
+    "700268": {
+        "text": "$parameter1$ completed",
+        "id": 700268
+    },
+    "700269": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700269
+    },
+    "700270": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700270
+    },
+    "700271": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700271
+    },
+    "700272": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700272
+    },
+    "700273": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700273
+    },
+    "700274": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700274
+    },
+    "700275": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700275
+    },
+    "700276": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700276
+    },
+    "700277": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700277
+    },
+    "700278": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700278
+    },
+    "700279": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700279
+    },
+    "700280": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700280
+    },
+    "700281": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700281
+    },
+    "700282": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700282
+    },
+    "700283": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700283
+    },
+    "700284": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700284
+    },
+    "700285": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700285
+    },
+    "700286": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700286
+    },
+    "700287": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700287
+    },
+    "700288": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700288
+    },
+    "700289": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700289
+    },
+    "700290": {
+        "text": "$parameter1$ completed",
+        "id": 700290
+    },
+    "700291": {
+        "text": " $parameter1$",
+        "id": 700291
+    },
+    "700292": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700292
+    },
+    "700293": {
+        "text": " $parameter1$ \/ $parameter2$",
+        "id": 700293
+    },
+    "700294": {
+        "text": "Completed",
+        "id": 700294
+    },
+    "700295": {
+        "text": "$parameter1$ completed",
+        "id": 700295
+    },
+    "700296": {
+        "text": "Item quantity insufficient to consume, would you like to purchase it in the Shop?",
+        "id": 700296
+    },
+    "700297": {
+        "text": "The selected items contain Legendary quality Equipment; do you still want to dismantle?",
+        "id": 700297
+    },
+    "700298": {
+        "text": "Confirm to dismiss the team?",
+        "id": 700298
+    },
+    "700299": {
+        "text": "Confirm to use $parameter1$?",
+        "id": 700299
+    },
+    "700300": {
+        "text": "Delete this mail?",
+        "id": 700300
+    },
+    "700301": {
+        "text": "Delete all read mails?",
+        "id": 700301
+    },
+    "700302": {
+        "text": "Purchase $parameter2$ $parameter3$ at the cost of $parameter1$?",
+        "id": 700302
+    },
+    "700303": {
+        "text": "Confirm to ascend this character?",
+        "id": 700303
+    },
+    "700304": {
+        "text": "Max. level reached, go to Ascend now?",
+        "id": 700304
+    },
+    "700305": {
+        "text": "Confirm to perform Summon at the cost of $parameter1$ $parameter2$? (Amount remaining: $parameter3$)",
+        "id": 700305
+    },
+    "700306": {
+        "text": "Confirm to perform Summon x10 at the cost of $parameter1$ $parameter2$?",
+        "id": 700306
+    },
+    "700307": {
+        "text": "Confirm to perform $parameter4$ in the $parameter3$ Summon Pool at the cost of $parameter1$ $parameter2$?",
+        "id": 700307
+    },
+    "700308": {
+        "text": "This equipment is currently equipped by $parameter1$ (Lv.$parameter2$), confirm to shift its user?",
+        "id": 700308
+    },
+    "700309": {
+        "text": "Connection failed, please check your network status. $B$(Error code: $parameter1$)",
+        "id": 700309
+    },
+    "700310": {
+        "text": "Insufficient Diamonds, top-up now?",
+        "id": 700310
+    },
+    "700311": {
+        "text": "Your chat history with this friend will be deleted as this friend gets removed, confirm?",
+        "id": 700311
+    },
+    "700312": {
+        "text": "Move this friend to the Blacklist?",
+        "id": 700312
+    },
+    "700313": {
+        "text": "Decline the friend request from this player?",
+        "id": 700313
+    },
+    "700314": {
+        "text": "Performing Soul Alchemy will destroy the Character permanently. This action cannot be undone. Confirm?",
+        "id": 700314
+    },
+    "700315": {
+        "text": "You have chosen to perform Soul Alchemy on an SSR Character. This action will destroy the Character and cannot be undone. Confirm?",
+        "id": 700315
+    },
+    "700316": {
+        "text": "Insufficient Mana, redeem more now?",
+        "id": 700316
+    },
+    "700317": {
+        "text": "Confirm to refresh?",
+        "id": 700317
+    },
+    "700318": {
+        "text": "Confirm to re-check-in at the cost of 1 Retroactive Check-in Item?",
+        "id": 700318
+    },
+    "700319": {
+        "text": "Consume this valuable Equipment in Fusion?",
+        "id": 700319
+    },
+    "700320": {
+        "text": "The new attribute is superior to the original one. Confirm to reforge without replacing the attribute?",
+        "id": 700320
+    },
+    "700321": {
+        "text": "Confirm to replace the attribute?",
+        "id": 700321
+    },
+    "700322": {
+        "text": "Confirm this Summoning result? (Once confirmed, you will receive the summoned Characters and cannot perform the 1st Limited Edition Summon again)",
+        "id": 700322
+    },
+    "700323": {
+        "text": "Confirm to cancel the current arrangement and reset to the previous state?",
+        "id": 700323
+    },
+    "700324": {
+        "text": "You can't carry any more equipment. Please dismantle some equipment first. Open the Equipment Box?",
+        "id": 700324
+    },
+    "700325": {
+        "text": "You can't carry any more skills. Please dismantle some skills first. Open the Skill Box?",
+        "id": 700325
+    },
+    "700326": {
+        "text": "Confirm to redeem $parameter2$ Soul(s) at the cost of $parameter1$ Diamonds and perform Summon?",
+        "id": 700326
+    },
+    "700327": {
+        "text": "Confirm to refresh this Quest? All current progress will be lost.",
+        "id": 700327
+    },
+    "700328": {
+        "text": "Enter the next stage?",
+        "id": 700328
+    },
+    "700329": {
+        "text": "Finish exploring the current area?",
+        "id": 700329
+    },
+    "700330": {
+        "text": "Withdraw now?",
+        "id": 700330
+    },
+    "700331": {
+        "text": "Finish Exploring?",
+        "id": 700331
+    },
+    "700332": {
+        "text": "Confirm to dismantle this equipment?",
+        "id": 700332
+    },
+    "700333": {
+        "text": "Change cannot be done in the middle of a quest. Abort the quest?",
+        "id": 700333
+    },
+    "700334": {
+        "text": "The combat ahead is difficult. Do you insist on it?$B$(Recommended for: Lv.$parameter1$)",
+        "id": 700334
+    },
+    "700335": {
+        "text": "Remove this player from Blacklist?",
+        "id": 700335
+    },
+    "700336": {
+        "text": "Return to Hall of Origin?",
+        "id": 700336
+    },
+    "700337": {
+        "text": "Delete this comment?",
+        "id": 700337
+    },
+    "700338": {
+        "text": "All furniture will be removed from the room. Confirm?",
+        "id": 700338
+    },
+    "700339": {
+        "text": "All changes made this time will be reset. Confirm?",
+        "id": 700339
+    },
+    "700340": {
+        "text": "Would you like to save the current furniture setting?",
+        "id": 700340
+    },
+    "700341": {
+        "text": "Delete the current Custom Theme?",
+        "id": 700341
+    },
+    "700342": {
+        "text": "The combat ahead will be difficult. Do you insist on it?$B$(Recommended for: Lv.14)",
+        "id": 700342
+    },
+    "700343": {
+        "text": "Exit the raid now?",
+        "id": 700343
+    },
+    "700344": {
+        "text": "Enter the next stage?",
+        "id": 700344
+    },
+    "700345": {
+        "text": "Exit the raid now?",
+        "id": 700345
+    },
+    "700346": {
+        "text": "The selected Materials include <color=#e25630ff>Enhanced Equipment<\/color>. $B$Confirm Enhancement?",
+        "id": 700346
+    },
+    "700347": {
+        "text": "The selected Materials include <color=#e25630ff>Equipment of Gold or higher quality<\/color>.$B$Confirm Enhancement?",
+        "id": 700347
+    },
+    "700348": {
+        "text": "The selected Materials include <color=#e25630ff>Enhanced Equipment and Equipment of Gold or higher quality<\/color>. $B$Confirm Enhancement?",
+        "id": 700348
+    },
+    "700349": {
+        "text": "Cancel",
+        "id": 700349
+    },
+    "700350": {
+        "text": "Think about it",
+        "id": 700350
+    },
+    "700351": {
+        "text": "Summon again",
+        "id": 700351
+    },
+    "700352": {
+        "text": "Check out the Shop",
+        "id": 700352
+    },
+    "700353": {
+        "text": "Dismantle",
+        "id": 700353
+    },
+    "700354": {
+        "text": "Confirm",
+        "id": 700354
+    },
+    "700355": {
+        "text": "Delete",
+        "id": 700355
+    },
+    "700356": {
+        "text": "Purchase",
+        "id": 700356
+    },
+    "700357": {
+        "text": "Summon",
+        "id": 700357
+    },
+    "700358": {
+        "text": "Equipment",
+        "id": 700358
+    },
+    "700359": {
+        "text": "Reconnect",
+        "id": 700359
+    },
+    "700360": {
+        "text": "Finish Summoning",
+        "id": 700360
+    },
+    "700361": {
+        "text": "You have obtained $parameter1$ Gold Coins.",
+        "id": 700361
+    },
+    "700362": {
+        "text": "You have obtained $parameter1$ Diamonds.",
+        "id": 700362
+    },
+    "700363": {
+        "text": "Account can't be empty.",
+        "id": 700363
+    },
+    "700364": {
+        "text": "Summon failed.",
+        "id": 700364
+    },
+    "700365": {
+        "text": "Your Character Storage is full, please make more space before summoning.",
+        "id": 700365
+    },
+    "700366": {
+        "text": "Insufficient Mana.",
+        "id": 700366
+    },
+    "700367": {
+        "text": "Injected Mana has reached maximum limit.",
+        "id": 700367
+    },
+    "700368": {
+        "text": "There are currently no read (claimed) emails that can be deleted.",
+        "id": 700368
+    },
+    "700369": {
+        "text": "You can't purchase any more items.",
+        "id": 700369
+    },
+    "700370": {
+        "text": "There is no mail to be claimed.",
+        "id": 700370
+    },
+    "700371": {
+        "text": "Please decide the amount first.",
+        "id": 700371
+    },
+    "700372": {
+        "text": "None of the current equipment can be switched.",
+        "id": 700372
+    },
+    "700373": {
+        "text": "Insufficient Stamina.",
+        "id": 700373
+    },
+    "700374": {
+        "text": "The name contains restricted character(s).",
+        "id": 700374
+    },
+    "700375": {
+        "text": "The name is too short.",
+        "id": 700375
+    },
+    "700376": {
+        "text": "The name is too long.",
+        "id": 700376
+    },
+    "700377": {
+        "text": "Insufficient $parameter1$, summoning can't be performed.",
+        "id": 700377
+    },
+    "700378": {
+        "text": "Dolls with broken souls cannot engage in battle.",
+        "id": 700378
+    },
+    "700379": {
+        "text": "None of the current skills can be switched.",
+        "id": 700379
+    },
+    "700380": {
+        "text": "Your account has been logged in on another device; you have been forced to log out. $B$(Error code: $parameter1$)",
+        "id": 700380
+    },
+    "700381": {
+        "text": "The server is under maintenance, please try again later. $B$(Error code: $parameter1$)",
+        "id": 700381
+    },
+    "700382": {
+        "text": "Network error. $B$(Error code: $parameter1$)",
+        "id": 700382
+    },
+    "700383": {
+        "text": "You have $parameter1$ detached Diamonds and $parameter1$ attached Diamonds.",
+        "id": 700383
+    },
+    "700384": {
+        "text": "Friend not found.",
+        "id": 700384
+    },
+    "700385": {
+        "text": "It seems like this person hasn't been to the World of Witches yet.",
+        "id": 700385
+    },
+    "700386": {
+        "text": "Request sent! Please wait for response.",
+        "id": 700386
+    },
+    "700387": {
+        "text": "You have added this player as your friend.",
+        "id": 700387
+    },
+    "700388": {
+        "text": "This player cannot accept more friends.",
+        "id": 700388
+    },
+    "700389": {
+        "text": "You can't add this player to be your friend.",
+        "id": 700389
+    },
+    "700390": {
+        "text": "The team is in poor condition; it is recommended to return to Hall of Origin.",
+        "id": 700390
+    },
+    "700391": {
+        "text": "You can't send an empty message.",
+        "id": 700391
+    },
+    "700392": {
+        "text": "Insufficient $parameter1$.",
+        "id": 700392
+    },
+    "700393": {
+        "text": "The current event has ended.",
+        "id": 700393
+    },
+    "700394": {
+        "text": "Introduction is limited to $parameter1$ characters.",
+        "id": 700394
+    },
+    "700395": {
+        "text": "Purchase failed.",
+        "id": 700395
+    },
+    "700396": {
+        "text": "The activation code is invalid or incorrect.",
+        "id": 700396
+    },
+    "700397": {
+        "text": "This activation code has already been used.",
+        "id": 700397
+    },
+    "700398": {
+        "text": "Failed to save changes, the text might contain restricted words.",
+        "id": 700398
+    },
+    "700399": {
+        "text": "Purchase successful.",
+        "id": 700399
+    },
+    "700400": {
+        "text": "Dismantling successful.",
+        "id": 700400
+    },
+    "700401": {
+        "text": "Message is limited to $parameter1$ characters.",
+        "id": 700401
+    },
+    "700402": {
+        "text": "Current Time: $parameter1$.",
+        "id": 700402
+    },
+    "700403": {
+        "text": "You can't request to be your own friend.",
+        "id": 700403
+    },
+    "700404": {
+        "text": "Your friend count has already reached the limit.",
+        "id": 700404
+    },
+    "700405": {
+        "text": "This player is already on your Friend List.",
+        "id": 700405
+    },
+    "700406": {
+        "text": "This player is already on your Blacklist.",
+        "id": 700406
+    },
+    "700407": {
+        "text": "You can't add any more equipment for use in Fusion.",
+        "id": 700407
+    },
+    "700408": {
+        "text": "None of the current equipment can be used in Fusion.",
+        "id": 700408
+    },
+    "700409": {
+        "text": "Insufficient material.",
+        "id": 700409
+    },
+    "700410": {
+        "text": "You need to reforge first.",
+        "id": 700410
+    },
+    "700411": {
+        "text": "Reforging, please try again later.",
+        "id": 700411
+    },
+    "700412": {
+        "text": "Invalid ID.",
+        "id": 700412
+    },
+    "700413": {
+        "text": "The number entered is invalid.",
+        "id": 700413
+    },
+    "700414": {
+        "text": "Verification code has been sent, please check your message.",
+        "id": 700414
+    },
+    "700415": {
+        "text": "We are currently unable to send you a verification code; please try again after 2 hours.",
+        "id": 700415
+    }
+}

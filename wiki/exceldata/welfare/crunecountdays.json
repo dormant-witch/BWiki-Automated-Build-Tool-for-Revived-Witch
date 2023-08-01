@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "dayCount": "100",
+        "dialogId": "31"
+    },
+    {
+        "id": 2,
+        "dayCount": "365",
+        "dialogId": "32"
+    }
+]

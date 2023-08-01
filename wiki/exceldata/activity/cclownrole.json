@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "roleid": 1,
+        "growHP": 80,
+        "equipid": 1,
+        "battlesort": 2,
+        "tipstextid": 701855,
+        "growATK": 40
+    },
+    {
+        "id": 2,
+        "roleid": 86,
+        "growHP": 120,
+        "equipid": 2,
+        "battlesort": 1,
+        "tipstextid": 701855,
+        "growATK": 20
+    },
+    {
+        "id": 3,
+        "roleid": 99,
+        "growHP": 40,
+        "equipid": 3,
+        "battlesort": 3,
+        "tipstextid": 701855,
+        "growATK": 60
+    }
+]

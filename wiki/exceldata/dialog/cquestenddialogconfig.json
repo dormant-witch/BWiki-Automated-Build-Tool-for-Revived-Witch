@@ -1,0 +1,72 @@
+{
+    "1": {
+        "Emotion_id": 1,
+        "id": 1,
+        "dialogbox": 1,
+        "Voice_id": 0,
+        "time": "0.001",
+        "NPC_NameTextID": 200001,
+        "contentTextID": 202058,
+        "NPC_ShapeID": 10,
+        "Next_id": 2,
+        "SkipTime": 5,
+        "animation": "",
+        "summary": 4
+    },
+    "2": {
+        "Emotion_id": 1,
+        "id": 2,
+        "dialogbox": 1,
+        "Voice_id": 0,
+        "time": "0.001",
+        "NPC_NameTextID": 200001,
+        "contentTextID": 202059,
+        "NPC_ShapeID": 10,
+        "Next_id": 3,
+        "SkipTime": 5,
+        "animation": "",
+        "summary": 10
+    },
+    "3": {
+        "Emotion_id": 1,
+        "id": 3,
+        "dialogbox": 1,
+        "Voice_id": 0,
+        "time": "0.001",
+        "NPC_NameTextID": 200001,
+        "contentTextID": 202060,
+        "NPC_ShapeID": 10,
+        "Next_id": 0,
+        "SkipTime": 5,
+        "animation": "",
+        "summary": 10
+    },
+    "5": {
+        "Emotion_id": 1,
+        "id": 5,
+        "dialogbox": 1,
+        "Voice_id": 0,
+        "time": "0.001",
+        "NPC_NameTextID": 200001,
+        "contentTextID": 202062,
+        "NPC_ShapeID": 10,
+        "Next_id": 6,
+        "SkipTime": 5,
+        "animation": "",
+        "summary": 10
+    },
+    "6": {
+        "Emotion_id": 1,
+        "id": 6,
+        "dialogbox": 1,
+        "Voice_id": 0,
+        "time": "0.001",
+        "NPC_NameTextID": 200001,
+        "contentTextID": 202063,
+        "NPC_ShapeID": 10,
+        "Next_id": 0,
+        "SkipTime": 5,
+        "animation": "",
+        "summary": 14
+    }
+}

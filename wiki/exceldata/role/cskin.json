@@ -1,0 +1,6443 @@
+{
+    "908801": {
+        "id": 908801,
+        "roleid": 88,
+        "shapeID": 1119,
+        "discribeTextID": 502458,
+        "action": [
+            10088,
+            6088101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502971
+    },
+    "908802": {
+        "id": 908802,
+        "roleid": 88,
+        "shapeID": 1119,
+        "discribeTextID": 502458,
+        "action": [
+            10088,
+            6088101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 1,
+        "artistTextID": 502971
+    },
+    "908803": {
+        "id": 908803,
+        "roleid": 88,
+        "shapeID": 60094,
+        "discribeTextID": 502630,
+        "action": [
+            10088,
+            6088101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502971
+    },
+    "900101": {
+        "id": 900101,
+        "roleid": 1,
+        "shapeID": 1,
+        "discribeTextID": 502458,
+        "action": [
+            10001,
+            6001101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502536
+    },
+    "900102": {
+        "id": 900102,
+        "roleid": 1,
+        "shapeID": 1,
+        "discribeTextID": 502458,
+        "action": [
+            10001,
+            6001101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502536
+    },
+    "904711": {
+        "id": 904711,
+        "roleid": 47,
+        "shapeID": 60077,
+        "discribeTextID": 502908,
+        "action": [
+            10047,
+            6047101
+        ],
+        "getwayID": 502909,
+        "EffectTextID": -1,
+        "skinItemID": 90035,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2022,
+        "skinNameTextID": 502907,
+        "skinType": 15,
+        "artistTextID": 502906
+    },
+    "904201": {
+        "id": 904201,
+        "roleid": 42,
+        "shapeID": 1048,
+        "discribeTextID": 502458,
+        "action": [
+            10042,
+            6042101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502580
+    },
+    "904202": {
+        "id": 904202,
+        "roleid": 42,
+        "shapeID": 1048,
+        "discribeTextID": 502458,
+        "action": [
+            10042,
+            6042101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502580
+    },
+    "904203": {
+        "id": 904203,
+        "roleid": 42,
+        "shapeID": 60055,
+        "discribeTextID": 502458,
+        "action": [
+            10042,
+            6042101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502580
+    },
+    "908301": {
+        "id": 908301,
+        "roleid": 83,
+        "shapeID": 1101,
+        "discribeTextID": 502458,
+        "action": [
+            10083,
+            6083101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502828
+    },
+    "908302": {
+        "id": 908302,
+        "roleid": 83,
+        "shapeID": 1101,
+        "discribeTextID": 502458,
+        "action": [
+            10083,
+            6083101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502828
+    },
+    "900111": {
+        "id": 900111,
+        "roleid": 1,
+        "shapeID": 60015,
+        "discribeTextID": 502714,
+        "action": [
+            10001,
+            6001101
+        ],
+        "getwayID": 502715,
+        "EffectTextID": -1,
+        "skinItemID": 90013,
+        "shapeType": 2,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502713,
+        "skinType": 4,
+        "artistTextID": 502536
+    },
+    "912401": {
+        "id": 912401,
+        "roleid": 124,
+        "shapeID": 1136,
+        "discribeTextID": 502458,
+        "action": [
+            10124,
+            6124101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 503047
+    },
+    "912402": {
+        "id": 912402,
+        "roleid": 124,
+        "shapeID": 1136,
+        "discribeTextID": 502458,
+        "action": [
+            10124,
+            6124101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 1,
+        "artistTextID": 503047
+    },
+    "912403": {
+        "id": 912403,
+        "roleid": 124,
+        "shapeID": 60126,
+        "discribeTextID": 502630,
+        "action": [
+            10124,
+            6124101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 503047
+    },
+    "907801": {
+        "id": 907801,
+        "roleid": 78,
+        "shapeID": 1097,
+        "discribeTextID": 502458,
+        "action": [
+            10078,
+            6078101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502815
+    },
+    "907802": {
+        "id": 907802,
+        "roleid": 78,
+        "shapeID": 1097,
+        "discribeTextID": 502458,
+        "action": [
+            10078,
+            6078101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502815
+    },
+    "907803": {
+        "id": 907803,
+        "roleid": 78,
+        "shapeID": 60036,
+        "discribeTextID": 502630,
+        "action": [
+            10078,
+            6078101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502815
+    },
+    "911901": {
+        "id": 911901,
+        "roleid": 119,
+        "shapeID": 1129,
+        "discribeTextID": 502458,
+        "action": [
+            10119,
+            6119101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 503012
+    },
+    "911902": {
+        "id": 911902,
+        "roleid": 119,
+        "shapeID": 1129,
+        "discribeTextID": 502458,
+        "action": [
+            10119,
+            6119101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 1,
+        "artistTextID": 503012
+    },
+    "911903": {
+        "id": 911903,
+        "roleid": 119,
+        "shapeID": 60109,
+        "discribeTextID": 502630,
+        "action": [
+            10119,
+            6119101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 503012
+    },
+    "903201": {
+        "id": 903201,
+        "roleid": 32,
+        "shapeID": 1038,
+        "discribeTextID": 502458,
+        "action": [
+            10032,
+            6032101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502789
+    },
+    "903202": {
+        "id": 903202,
+        "roleid": 32,
+        "shapeID": 1038,
+        "discribeTextID": 502458,
+        "action": [
+            10032,
+            6032101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502789
+    },
+    "907301": {
+        "id": 907301,
+        "roleid": 73,
+        "shapeID": 1083,
+        "discribeTextID": 502458,
+        "action": [
+            10073,
+            6073101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502795
+    },
+    "907302": {
+        "id": 907302,
+        "roleid": 73,
+        "shapeID": 1083,
+        "discribeTextID": 502458,
+        "action": [
+            10073,
+            6073101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502795
+    },
+    "907303": {
+        "id": 907303,
+        "roleid": 73,
+        "shapeID": 60030,
+        "discribeTextID": 502630,
+        "action": [
+            10073,
+            6073101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502795
+    },
+    "902701": {
+        "id": 902701,
+        "roleid": 27,
+        "shapeID": 1032,
+        "discribeTextID": 502458,
+        "action": [
+            10027,
+            6027101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502554
+    },
+    "902702": {
+        "id": 902702,
+        "roleid": 27,
+        "shapeID": 1032,
+        "discribeTextID": 502458,
+        "action": [
+            10027,
+            6027101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502554
+    },
+    "906801": {
+        "id": 906801,
+        "roleid": 68,
+        "shapeID": 1092,
+        "discribeTextID": 502458,
+        "action": [
+            10068,
+            6068101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502844
+    },
+    "906802": {
+        "id": 906802,
+        "roleid": 68,
+        "shapeID": 1092,
+        "discribeTextID": 502458,
+        "action": [
+            10068,
+            6068101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502844
+    },
+    "906803": {
+        "id": 906803,
+        "roleid": 68,
+        "shapeID": 60056,
+        "discribeTextID": 502630,
+        "action": [
+            10068,
+            6068101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502844
+    },
+    "910901": {
+        "id": 910901,
+        "roleid": 109,
+        "shapeID": 1125,
+        "discribeTextID": 502458,
+        "action": [
+            10109,
+            6109101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502992
+    },
+    "910902": {
+        "id": 910902,
+        "roleid": 109,
+        "shapeID": 1125,
+        "discribeTextID": 502458,
+        "action": [
+            10109,
+            6109101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 1,
+        "artistTextID": 502992
+    },
+    "910903": {
+        "id": 910903,
+        "roleid": 109,
+        "shapeID": 60102,
+        "discribeTextID": 502630,
+        "action": [
+            10109,
+            6109101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502992
+    },
+    "902201": {
+        "id": 902201,
+        "roleid": 22,
+        "shapeID": 1027,
+        "discribeTextID": 502458,
+        "action": [
+            10022,
+            6022101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502556
+    },
+    "902202": {
+        "id": 902202,
+        "roleid": 22,
+        "shapeID": 1027,
+        "discribeTextID": 502458,
+        "action": [
+            10022,
+            6022101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502556
+    },
+    "906301": {
+        "id": 906301,
+        "roleid": 63,
+        "shapeID": 1071,
+        "discribeTextID": 502458,
+        "action": [
+            10063,
+            6063101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502539
+    },
+    "906302": {
+        "id": 906302,
+        "roleid": 63,
+        "shapeID": 1071,
+        "discribeTextID": 502458,
+        "action": [
+            10063,
+            6063101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502539
+    },
+    "906303": {
+        "id": 906303,
+        "roleid": 63,
+        "shapeID": 60031,
+        "discribeTextID": 502630,
+        "action": [
+            10063,
+            6063101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502796
+    },
+    "910401": {
+        "id": 910401,
+        "roleid": 104,
+        "shapeID": 1121,
+        "discribeTextID": 502458,
+        "action": [
+            10104,
+            6104101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502968
+    },
+    "910402": {
+        "id": 910402,
+        "roleid": 104,
+        "shapeID": 1121,
+        "discribeTextID": 502458,
+        "action": [
+            10104,
+            6104101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 1,
+        "artistTextID": 502968
+    },
+    "910403": {
+        "id": 910403,
+        "roleid": 104,
+        "shapeID": 60097,
+        "discribeTextID": 502630,
+        "action": [
+            10104,
+            6104101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502968
+    },
+    "901701": {
+        "id": 901701,
+        "roleid": 17,
+        "shapeID": 1025,
+        "discribeTextID": 502458,
+        "action": [
+            10017,
+            6017101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502551
+    },
+    "901702": {
+        "id": 901702,
+        "roleid": 17,
+        "shapeID": 1025,
+        "discribeTextID": 502458,
+        "action": [
+            10017,
+            6017101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502551
+    },
+    "901703": {
+        "id": 901703,
+        "roleid": 17,
+        "shapeID": 60010,
+        "discribeTextID": 502630,
+        "action": [
+            10017,
+            6017101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502551
+    },
+    "906312": {
+        "id": 906312,
+        "roleid": 63,
+        "shapeID": 60105,
+        "discribeTextID": 502985,
+        "action": [
+            10063,
+            6063101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90043,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2022,
+        "skinNameTextID": 502984,
+        "skinType": 6,
+        "artistTextID": 502986
+    },
+    "905801": {
+        "id": 905801,
+        "roleid": 58,
+        "shapeID": 1066,
+        "discribeTextID": 502458,
+        "action": [
+            10058,
+            6058101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502564
+    },
+    "905802": {
+        "id": 905802,
+        "roleid": 58,
+        "shapeID": 1066,
+        "discribeTextID": 502458,
+        "action": [
+            10058,
+            6058101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502564
+    },
+    "910411": {
+        "id": 910411,
+        "roleid": 104,
+        "shapeID": 60122,
+        "discribeTextID": 503027,
+        "action": [
+            10104,
+            6104101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90053,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2023,
+        "skinNameTextID": 503026,
+        "skinType": 6,
+        "artistTextID": 503028
+    },
+    "909901": {
+        "id": 909901,
+        "roleid": 99,
+        "shapeID": 1108,
+        "discribeTextID": 502458,
+        "action": [
+            10099,
+            6099101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502890
+    },
+    "909902": {
+        "id": 909902,
+        "roleid": 99,
+        "shapeID": 1108,
+        "discribeTextID": 502458,
+        "action": [
+            10099,
+            6099101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502890
+    },
+    "901711": {
+        "id": 901711,
+        "roleid": 17,
+        "shapeID": 60018,
+        "discribeTextID": 502742,
+        "action": [
+            10017,
+            6017101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90015,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2021,
+        "skinNameTextID": 502747,
+        "skinType": 6,
+        "artistTextID": 502551
+    },
+    "901712": {
+        "id": 901712,
+        "roleid": 17,
+        "shapeID": 60116,
+        "discribeTextID": 503014,
+        "action": [
+            10017,
+            6017101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90051,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2022,
+        "skinNameTextID": 503013,
+        "skinType": 6,
+        "artistTextID": 503015
+    },
+    "901201": {
+        "id": 901201,
+        "roleid": 12,
+        "shapeID": 1007,
+        "discribeTextID": 502458,
+        "action": [
+            10012,
+            6012101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502548
+    },
+    "901202": {
+        "id": 901202,
+        "roleid": 12,
+        "shapeID": 1007,
+        "discribeTextID": 502458,
+        "action": [
+            10012,
+            6012101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502548
+    },
+    "901203": {
+        "id": 901203,
+        "roleid": 12,
+        "shapeID": 60050,
+        "discribeTextID": 502630,
+        "action": [
+            10012,
+            6012101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502548
+    },
+    "905301": {
+        "id": 905301,
+        "roleid": 53,
+        "shapeID": 1061,
+        "discribeTextID": 502458,
+        "action": [
+            10053,
+            6053101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502556
+    },
+    "905302": {
+        "id": 905302,
+        "roleid": 53,
+        "shapeID": 1061,
+        "discribeTextID": 502458,
+        "action": [
+            10053,
+            6053101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502556
+    },
+    "905303": {
+        "id": 905303,
+        "roleid": 53,
+        "shapeID": 60095,
+        "discribeTextID": 502630,
+        "action": [
+            10053,
+            6053101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502952
+    },
+    "909401": {
+        "id": 909401,
+        "roleid": 94,
+        "shapeID": 1116,
+        "discribeTextID": 502458,
+        "action": [
+            10094,
+            6094101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502939
+    },
+    "909402": {
+        "id": 909402,
+        "roleid": 94,
+        "shapeID": 1116,
+        "discribeTextID": 502458,
+        "action": [
+            10094,
+            6094101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502939
+    },
+    "909403": {
+        "id": 909403,
+        "roleid": 94,
+        "shapeID": 60088,
+        "discribeTextID": 502630,
+        "action": [
+            10094,
+            6094101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502939
+    },
+    "900701": {
+        "id": 900701,
+        "roleid": 7,
+        "shapeID": 1007,
+        "discribeTextID": 502458,
+        "action": [
+            10007,
+            6007101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502544
+    },
+    "900702": {
+        "id": 900702,
+        "roleid": 7,
+        "shapeID": 1007,
+        "discribeTextID": 502458,
+        "action": [
+            10007,
+            6007101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502544
+    },
+    "905311": {
+        "id": 905311,
+        "roleid": 53,
+        "shapeID": 60016,
+        "discribeTextID": 502741,
+        "action": [
+            10053,
+            6053101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90012,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2021,
+        "skinNameTextID": 502746,
+        "skinType": 6,
+        "artistTextID": 502556
+    },
+    "904801": {
+        "id": 904801,
+        "roleid": 48,
+        "shapeID": 1055,
+        "discribeTextID": 502458,
+        "action": [
+            10048,
+            6048101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502566
+    },
+    "904802": {
+        "id": 904802,
+        "roleid": 48,
+        "shapeID": 1055,
+        "discribeTextID": 502458,
+        "action": [
+            10048,
+            6048101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502566
+    },
+    "904803": {
+        "id": 904803,
+        "roleid": 48,
+        "shapeID": 60059,
+        "discribeTextID": 502630,
+        "action": [
+            10048,
+            6048101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502796
+    },
+    "908901": {
+        "id": 908901,
+        "roleid": 89,
+        "shapeID": 1099,
+        "discribeTextID": 502458,
+        "action": [
+            10089,
+            6089101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502551
+    },
+    "908902": {
+        "id": 908902,
+        "roleid": 89,
+        "shapeID": 1099,
+        "discribeTextID": 502458,
+        "action": [
+            10089,
+            6089101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502551
+    },
+    "908903": {
+        "id": 908903,
+        "roleid": 89,
+        "shapeID": 60046,
+        "discribeTextID": 502630,
+        "action": [
+            10089,
+            6089101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502551
+    },
+    "900201": {
+        "id": 900201,
+        "roleid": 2,
+        "shapeID": 1004,
+        "discribeTextID": 502458,
+        "action": [
+            10002,
+            6002101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502537
+    },
+    "900202": {
+        "id": 900202,
+        "roleid": 2,
+        "shapeID": 1004,
+        "discribeTextID": 502458,
+        "action": [
+            10002,
+            6002101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502537
+    },
+    "904811": {
+        "id": 904811,
+        "roleid": 48,
+        "shapeID": 60063,
+        "discribeTextID": 502865,
+        "action": [
+            10048,
+            6048101
+        ],
+        "getwayID": 502628,
+        "EffectTextID": -1,
+        "skinItemID": 90026,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2022,
+        "skinNameTextID": 502866,
+        "skinType": 4,
+        "artistTextID": 502867
+    },
+    "904301": {
+        "id": 904301,
+        "roleid": 43,
+        "shapeID": 1049,
+        "discribeTextID": 502458,
+        "action": [
+            10043,
+            6043101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502792
+    },
+    "904302": {
+        "id": 904302,
+        "roleid": 43,
+        "shapeID": 1049,
+        "discribeTextID": 502458,
+        "action": [
+            10043,
+            6043101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502792
+    },
+    "904303": {
+        "id": 904303,
+        "roleid": 43,
+        "shapeID": 60028,
+        "discribeTextID": 502630,
+        "action": [
+            10043,
+            6043101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502792
+    },
+    "908401": {
+        "id": 908401,
+        "roleid": 84,
+        "shapeID": 1113,
+        "discribeTextID": 502458,
+        "action": [
+            10084,
+            6084101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502828
+    },
+    "908402": {
+        "id": 908402,
+        "roleid": 84,
+        "shapeID": 1113,
+        "discribeTextID": 502458,
+        "action": [
+            10084,
+            6084101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502828
+    },
+    "908403": {
+        "id": 908403,
+        "roleid": 84,
+        "shapeID": 60084,
+        "discribeTextID": 502630,
+        "action": [
+            10084,
+            6084101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502921
+    },
+    "904311": {
+        "id": 904311,
+        "roleid": 43,
+        "shapeID": 60045,
+        "discribeTextID": 502817,
+        "action": [
+            10043,
+            6043101
+        ],
+        "getwayID": 502825,
+        "EffectTextID": -1,
+        "skinItemID": 90022,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2021,
+        "skinNameTextID": 502818,
+        "skinType": 15,
+        "artistTextID": 502819
+    },
+    "903801": {
+        "id": 903801,
+        "roleid": 38,
+        "shapeID": 1044,
+        "discribeTextID": 502458,
+        "action": [
+            10038,
+            6038101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502556
+    },
+    "903802": {
+        "id": 903802,
+        "roleid": 38,
+        "shapeID": 1044,
+        "discribeTextID": 502458,
+        "action": [
+            10038,
+            6038101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502556
+    },
+    "903803": {
+        "id": 903803,
+        "roleid": 38,
+        "shapeID": 60054,
+        "discribeTextID": 502630,
+        "action": [
+            10038,
+            6038101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502556
+    },
+    "907901": {
+        "id": 907901,
+        "roleid": 79,
+        "shapeID": 1098,
+        "discribeTextID": 502458,
+        "action": [
+            10079,
+            6079101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502814
+    },
+    "907902": {
+        "id": 907902,
+        "roleid": 79,
+        "shapeID": 1098,
+        "discribeTextID": 502458,
+        "action": [
+            10079,
+            6079101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502814
+    },
+    "907903": {
+        "id": 907903,
+        "roleid": 79,
+        "shapeID": 60037,
+        "discribeTextID": 502630,
+        "action": [
+            10079,
+            6079101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502814
+    },
+    "912001": {
+        "id": 912001,
+        "roleid": 120,
+        "shapeID": 1122,
+        "discribeTextID": 502458,
+        "action": [
+            10120,
+            6120101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502975
+    },
+    "912002": {
+        "id": 912002,
+        "roleid": 120,
+        "shapeID": 1122,
+        "discribeTextID": 502458,
+        "action": [
+            10120,
+            6120101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 1,
+        "artistTextID": 502975
+    },
+    "903811": {
+        "id": 903811,
+        "roleid": 38,
+        "shapeID": 60127,
+        "discribeTextID": 503050,
+        "action": [
+            10038,
+            6038101
+        ],
+        "getwayID": 502628,
+        "EffectTextID": -1,
+        "skinItemID": 90055,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2023,
+        "skinNameTextID": 503049,
+        "skinType": 15,
+        "artistTextID": 503051
+    },
+    "903301": {
+        "id": 903301,
+        "roleid": 33,
+        "shapeID": 1039,
+        "discribeTextID": 502458,
+        "action": [
+            10033,
+            6033101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502539
+    },
+    "903302": {
+        "id": 903302,
+        "roleid": 33,
+        "shapeID": 1039,
+        "discribeTextID": 502458,
+        "action": [
+            10033,
+            6033101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502539
+    },
+    "903303": {
+        "id": 903303,
+        "roleid": 33,
+        "shapeID": 60052,
+        "discribeTextID": 502630,
+        "action": [
+            10033,
+            6033101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502539
+    },
+    "907401": {
+        "id": 907401,
+        "roleid": 74,
+        "shapeID": 1084,
+        "discribeTextID": 502458,
+        "action": [
+            10074,
+            6074101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502787
+    },
+    "907402": {
+        "id": 907402,
+        "roleid": 74,
+        "shapeID": 1084,
+        "discribeTextID": 502458,
+        "action": [
+            10074,
+            6074101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502787
+    },
+    "911501": {
+        "id": 911501,
+        "roleid": 115,
+        "shapeID": 1126,
+        "discribeTextID": 502458,
+        "action": [
+            10115,
+            6115101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502995
+    },
+    "911502": {
+        "id": 911502,
+        "roleid": 115,
+        "shapeID": 1126,
+        "discribeTextID": 502458,
+        "action": [
+            10115,
+            6115101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 1,
+        "artistTextID": 502995
+    },
+    "903311": {
+        "id": 903311,
+        "roleid": 33,
+        "shapeID": 60061,
+        "discribeTextID": 502870,
+        "action": [
+            10033,
+            6033101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90028,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2022,
+        "skinNameTextID": 502871,
+        "skinType": 6,
+        "artistTextID": 502882
+    },
+    "902801": {
+        "id": 902801,
+        "roleid": 28,
+        "shapeID": 1034,
+        "discribeTextID": 502458,
+        "action": [
+            10028,
+            6028101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502566
+    },
+    "902802": {
+        "id": 902802,
+        "roleid": 28,
+        "shapeID": 1034,
+        "discribeTextID": 502458,
+        "action": [
+            10028,
+            6028101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502566
+    },
+    "906901": {
+        "id": 906901,
+        "roleid": 69,
+        "shapeID": 1077,
+        "discribeTextID": 502458,
+        "action": [
+            10069,
+            6069101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502556
+    },
+    "906902": {
+        "id": 906902,
+        "roleid": 69,
+        "shapeID": 1077,
+        "discribeTextID": 502458,
+        "action": [
+            10069,
+            6069101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502556
+    },
+    "911001": {
+        "id": 911001,
+        "roleid": 110,
+        "shapeID": 1107,
+        "discribeTextID": 502458,
+        "action": [
+            100110,
+            60110101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502869
+    },
+    "911002": {
+        "id": 911002,
+        "roleid": 110,
+        "shapeID": 1107,
+        "discribeTextID": 502458,
+        "action": [
+            100110,
+            60110101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502869
+    },
+    "911003": {
+        "id": 911003,
+        "roleid": 110,
+        "shapeID": 60065,
+        "discribeTextID": 502630,
+        "action": [
+            100110,
+            60110101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502869
+    },
+    "902301": {
+        "id": 902301,
+        "roleid": 23,
+        "shapeID": 1028,
+        "discribeTextID": 502458,
+        "action": [
+            10023,
+            6023101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502561
+    },
+    "902302": {
+        "id": 902302,
+        "roleid": 23,
+        "shapeID": 1028,
+        "discribeTextID": 502458,
+        "action": [
+            10023,
+            6023101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502561
+    },
+    "906911": {
+        "id": 906911,
+        "roleid": 69,
+        "shapeID": 60087,
+        "discribeTextID": 502938,
+        "action": [
+            10069,
+            6069101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90037,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2022,
+        "skinNameTextID": 502937,
+        "skinType": 6,
+        "artistTextID": 502936
+    },
+    "906401": {
+        "id": 906401,
+        "roleid": 64,
+        "shapeID": 1072,
+        "discribeTextID": 502458,
+        "action": [
+            10064,
+            6064101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502863
+    },
+    "906402": {
+        "id": 906402,
+        "roleid": 64,
+        "shapeID": 1072,
+        "discribeTextID": 502458,
+        "action": [
+            10064,
+            6064101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502863
+    },
+    "906403": {
+        "id": 906403,
+        "roleid": 64,
+        "shapeID": 60071,
+        "discribeTextID": 502630,
+        "action": [
+            10064,
+            6064101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502863
+    },
+    "910501": {
+        "id": 910501,
+        "roleid": 105,
+        "shapeID": 1130,
+        "discribeTextID": 502458,
+        "action": [
+            10105,
+            6105101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 503021
+    },
+    "910502": {
+        "id": 910502,
+        "roleid": 105,
+        "shapeID": 1130,
+        "discribeTextID": 502458,
+        "action": [
+            10105,
+            6105101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 1,
+        "artistTextID": 503021
+    },
+    "902311": {
+        "id": 902311,
+        "roleid": 23,
+        "shapeID": 60106,
+        "discribeTextID": 502997,
+        "action": [
+            10023,
+            6023101
+        ],
+        "getwayID": 502628,
+        "EffectTextID": -1,
+        "skinItemID": 90044,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2022,
+        "skinNameTextID": 502996,
+        "skinType": 15,
+        "artistTextID": 502998
+    },
+    "901801": {
+        "id": 901801,
+        "roleid": 18,
+        "shapeID": 1033,
+        "discribeTextID": 502458,
+        "action": [
+            10018,
+            6018101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502556
+    },
+    "901802": {
+        "id": 901802,
+        "roleid": 18,
+        "shapeID": 1033,
+        "discribeTextID": 502458,
+        "action": [
+            10018,
+            6018101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502556
+    },
+    "901803": {
+        "id": 901803,
+        "roleid": 18,
+        "shapeID": 60051,
+        "discribeTextID": 502630,
+        "action": [
+            10018,
+            6018101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502556
+    },
+    "905901": {
+        "id": 905901,
+        "roleid": 59,
+        "shapeID": 1067,
+        "discribeTextID": 502458,
+        "action": [
+            10059,
+            6059101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502554
+    },
+    "905902": {
+        "id": 905902,
+        "roleid": 59,
+        "shapeID": 1067,
+        "discribeTextID": 502458,
+        "action": [
+            10059,
+            6059101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502554
+    },
+    "905903": {
+        "id": 905903,
+        "roleid": 59,
+        "shapeID": 60058,
+        "discribeTextID": 502630,
+        "action": [
+            10059,
+            6059101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502554
+    },
+    "910001": {
+        "id": 910001,
+        "roleid": 100,
+        "shapeID": 1103,
+        "discribeTextID": 502458,
+        "action": [
+            10100,
+            6100101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502879
+    },
+    "910002": {
+        "id": 910002,
+        "roleid": 100,
+        "shapeID": 1103,
+        "discribeTextID": 502458,
+        "action": [
+            10100,
+            6100101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502879
+    },
+    "901811": {
+        "id": 901811,
+        "roleid": 18,
+        "shapeID": 60034,
+        "discribeTextID": 502809,
+        "action": [
+            10018,
+            6018101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90021,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2021,
+        "skinNameTextID": 502808,
+        "skinType": 6,
+        "artistTextID": 502556
+    },
+    "901301": {
+        "id": 901301,
+        "roleid": 13,
+        "shapeID": 1012,
+        "discribeTextID": 502458,
+        "action": [
+            10013,
+            6013101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502551
+    },
+    "901302": {
+        "id": 901302,
+        "roleid": 13,
+        "shapeID": 1012,
+        "discribeTextID": 502458,
+        "action": [
+            10013,
+            6013101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502551
+    },
+    "901303": {
+        "id": 901303,
+        "roleid": 13,
+        "shapeID": 60006,
+        "discribeTextID": 502630,
+        "action": [
+            10013,
+            6013101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502551
+    },
+    "905401": {
+        "id": 905401,
+        "roleid": 54,
+        "shapeID": 1062,
+        "discribeTextID": 502458,
+        "action": [
+            10054,
+            6054101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502554
+    },
+    "905402": {
+        "id": 905402,
+        "roleid": 54,
+        "shapeID": 1062,
+        "discribeTextID": 502458,
+        "action": [
+            10054,
+            6054101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502554
+    },
+    "905403": {
+        "id": 905403,
+        "roleid": 54,
+        "shapeID": 60014,
+        "discribeTextID": 502630,
+        "action": [
+            10054,
+            6054101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502554
+    },
+    "909501": {
+        "id": 909501,
+        "roleid": 95,
+        "shapeID": 1102,
+        "discribeTextID": 502458,
+        "action": [
+            10095,
+            6095101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502548
+    },
+    "909502": {
+        "id": 909502,
+        "roleid": 95,
+        "shapeID": 1102,
+        "discribeTextID": 502458,
+        "action": [
+            10095,
+            6095101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502548
+    },
+    "901311": {
+        "id": 901311,
+        "roleid": 13,
+        "shapeID": 60033,
+        "discribeTextID": 502807,
+        "action": [
+            10013,
+            6013101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90020,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2021,
+        "skinNameTextID": 502384,
+        "skinType": 6,
+        "artistTextID": 502551
+    },
+    "900801": {
+        "id": 900801,
+        "roleid": 8,
+        "shapeID": 1018,
+        "discribeTextID": 502458,
+        "action": [
+            10008,
+            6008101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502545
+    },
+    "900802": {
+        "id": 900802,
+        "roleid": 8,
+        "shapeID": 1018,
+        "discribeTextID": 502458,
+        "action": [
+            10008,
+            6008101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502545
+    },
+    "900803": {
+        "id": 900803,
+        "roleid": 8,
+        "shapeID": 60049,
+        "discribeTextID": 502630,
+        "action": [
+            10008,
+            6008101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502545
+    },
+    "904901": {
+        "id": 904901,
+        "roleid": 49,
+        "shapeID": 1056,
+        "discribeTextID": 502458,
+        "action": [
+            10049,
+            6049101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502562
+    },
+    "904902": {
+        "id": 904902,
+        "roleid": 49,
+        "shapeID": 1056,
+        "discribeTextID": 502458,
+        "action": [
+            10049,
+            6049101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502562
+    },
+    "904903": {
+        "id": 904903,
+        "roleid": 49,
+        "shapeID": 60023,
+        "discribeTextID": 502630,
+        "action": [
+            10049,
+            6049101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502562
+    },
+    "909001": {
+        "id": 909001,
+        "roleid": 90,
+        "shapeID": 1100,
+        "discribeTextID": 502458,
+        "action": [
+            10090,
+            6090101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502820
+    },
+    "909002": {
+        "id": 909002,
+        "roleid": 90,
+        "shapeID": 1100,
+        "discribeTextID": 502458,
+        "action": [
+            10090,
+            6090101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502820
+    },
+    "900811": {
+        "id": 900811,
+        "roleid": 8,
+        "shapeID": 60069,
+        "discribeTextID": 502884,
+        "action": [
+            10008,
+            6008101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90030,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2022,
+        "skinNameTextID": 502883,
+        "skinType": 6,
+        "artistTextID": 502885
+    },
+    "900301": {
+        "id": 900301,
+        "roleid": 3,
+        "shapeID": 1008,
+        "discribeTextID": 502458,
+        "action": [
+            10003,
+            6003101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502539
+    },
+    "900302": {
+        "id": 900302,
+        "roleid": 3,
+        "shapeID": 1008,
+        "discribeTextID": 502458,
+        "action": [
+            10003,
+            6003101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502539
+    },
+    "904401": {
+        "id": 904401,
+        "roleid": 44,
+        "shapeID": 1050,
+        "discribeTextID": 502458,
+        "action": [
+            10044,
+            6044101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502582
+    },
+    "904402": {
+        "id": 904402,
+        "roleid": 44,
+        "shapeID": 1050,
+        "discribeTextID": 502458,
+        "action": [
+            10044,
+            6044101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502582
+    },
+    "908501": {
+        "id": 908501,
+        "roleid": 85,
+        "shapeID": 1114,
+        "discribeTextID": 502458,
+        "action": [
+            10085,
+            6085101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502890
+    },
+    "908502": {
+        "id": 908502,
+        "roleid": 85,
+        "shapeID": 1114,
+        "discribeTextID": 502458,
+        "action": [
+            10085,
+            6085101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502890
+    },
+    "900311": {
+        "id": 900311,
+        "roleid": 3,
+        "shapeID": 60001,
+        "discribeTextID": 502459,
+        "action": [
+            10003,
+            6003101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90008,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2021,
+        "skinNameTextID": 502381,
+        "skinType": 6,
+        "artistTextID": 502539
+    },
+    "903901": {
+        "id": 903901,
+        "roleid": 39,
+        "shapeID": 1045,
+        "discribeTextID": 502458,
+        "action": [
+            10039,
+            6039101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502862
+    },
+    "903902": {
+        "id": 903902,
+        "roleid": 39,
+        "shapeID": 1045,
+        "discribeTextID": 502458,
+        "action": [
+            10039,
+            6039101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502862
+    },
+    "903903": {
+        "id": 903903,
+        "roleid": 39,
+        "shapeID": 1045,
+        "discribeTextID": 502630,
+        "action": [
+            10039,
+            6039101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502862
+    },
+    "908001": {
+        "id": 908001,
+        "roleid": 80,
+        "shapeID": 1105,
+        "discribeTextID": 502458,
+        "action": [
+            10080,
+            6080101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502853
+    },
+    "908002": {
+        "id": 908002,
+        "roleid": 80,
+        "shapeID": 1105,
+        "discribeTextID": 502458,
+        "action": [
+            10080,
+            6080101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502853
+    },
+    "908003": {
+        "id": 908003,
+        "roleid": 80,
+        "shapeID": 60062,
+        "discribeTextID": 502630,
+        "action": [
+            10080,
+            6080101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502853
+    },
+    "912101": {
+        "id": 912101,
+        "roleid": 121,
+        "shapeID": 1133,
+        "discribeTextID": 502458,
+        "action": [
+            10121,
+            6121101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 503034
+    },
+    "912102": {
+        "id": 912102,
+        "roleid": 121,
+        "shapeID": 1133,
+        "discribeTextID": 502458,
+        "action": [
+            10121,
+            6121101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 1,
+        "artistTextID": 503034
+    },
+    "912103": {
+        "id": 912103,
+        "roleid": 121,
+        "shapeID": 60121,
+        "discribeTextID": 502630,
+        "action": [
+            10121,
+            6121101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 503034
+    },
+    "903401": {
+        "id": 903401,
+        "roleid": 34,
+        "shapeID": 1040,
+        "discribeTextID": 502458,
+        "action": [
+            10034,
+            6034101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502539
+    },
+    "903402": {
+        "id": 903402,
+        "roleid": 34,
+        "shapeID": 1040,
+        "discribeTextID": 502458,
+        "action": [
+            10034,
+            6034101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502539
+    },
+    "907501": {
+        "id": 907501,
+        "roleid": 75,
+        "shapeID": 1085,
+        "discribeTextID": 502458,
+        "action": [
+            10075,
+            6075101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502797
+    },
+    "907502": {
+        "id": 907502,
+        "roleid": 75,
+        "shapeID": 1085,
+        "discribeTextID": 502458,
+        "action": [
+            10075,
+            6075101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502797
+    },
+    "903411": {
+        "id": 903411,
+        "roleid": 34,
+        "shapeID": 60003,
+        "discribeTextID": 502469,
+        "action": [
+            10034,
+            6034101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90010,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2021,
+        "skinNameTextID": 502383,
+        "skinType": 6,
+        "artistTextID": 502539
+    },
+    "902901": {
+        "id": 902901,
+        "roleid": 29,
+        "shapeID": 1035,
+        "discribeTextID": 502458,
+        "action": [
+            10029,
+            6029101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502556
+    },
+    "902902": {
+        "id": 902902,
+        "roleid": 29,
+        "shapeID": 1035,
+        "discribeTextID": 502458,
+        "action": [
+            10029,
+            6029101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502556
+    },
+    "907001": {
+        "id": 907001,
+        "roleid": 70,
+        "shapeID": 1078,
+        "discribeTextID": 502458,
+        "action": [
+            10070,
+            6070101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502607
+    },
+    "907002": {
+        "id": 907002,
+        "roleid": 70,
+        "shapeID": 1078,
+        "discribeTextID": 502458,
+        "action": [
+            10070,
+            6070101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502607
+    },
+    "911101": {
+        "id": 911101,
+        "roleid": 111,
+        "shapeID": 1123,
+        "discribeTextID": 502458,
+        "action": [
+            10111,
+            6111101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502978
+    },
+    "911102": {
+        "id": 911102,
+        "roleid": 111,
+        "shapeID": 1123,
+        "discribeTextID": 502458,
+        "action": [
+            10111,
+            6111101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 1,
+        "artistTextID": 502978
+    },
+    "902911": {
+        "id": 902911,
+        "roleid": 29,
+        "shapeID": 60017,
+        "discribeTextID": 502740,
+        "action": [
+            10029,
+            6029101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90016,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2021,
+        "skinNameTextID": 502745,
+        "skinType": 6,
+        "artistTextID": 502556
+    },
+    "902401": {
+        "id": 902401,
+        "roleid": 24,
+        "shapeID": 1029,
+        "discribeTextID": 502458,
+        "action": [
+            10024,
+            6024101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502562
+    },
+    "902402": {
+        "id": 902402,
+        "roleid": 24,
+        "shapeID": 1029,
+        "discribeTextID": 502458,
+        "action": [
+            10024,
+            6024101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502562
+    },
+    "902403": {
+        "id": 902403,
+        "roleid": 24,
+        "shapeID": 60011,
+        "discribeTextID": 502630,
+        "action": [
+            10024,
+            6024101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502562
+    },
+    "906501": {
+        "id": 906501,
+        "roleid": 65,
+        "shapeID": 1073,
+        "discribeTextID": 502458,
+        "action": [
+            10065,
+            6065101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502828
+    },
+    "906502": {
+        "id": 906502,
+        "roleid": 65,
+        "shapeID": 1073,
+        "discribeTextID": 502458,
+        "action": [
+            10065,
+            6065101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502828
+    },
+    "910601": {
+        "id": 910601,
+        "roleid": 106,
+        "shapeID": 1104,
+        "discribeTextID": 502458,
+        "action": [
+            10106,
+            6106101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502880
+    },
+    "910602": {
+        "id": 910602,
+        "roleid": 106,
+        "shapeID": 1104,
+        "discribeTextID": 502458,
+        "action": [
+            10106,
+            6106101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502880
+    },
+    "910603": {
+        "id": 910603,
+        "roleid": 106,
+        "shapeID": 60065,
+        "discribeTextID": 502630,
+        "action": [
+            10106,
+            6106101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502880
+    },
+    "901901": {
+        "id": 901901,
+        "roleid": 19,
+        "shapeID": 1023,
+        "discribeTextID": 502458,
+        "action": [
+            10019,
+            6019101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502551
+    },
+    "901902": {
+        "id": 901902,
+        "roleid": 19,
+        "shapeID": 1023,
+        "discribeTextID": 502458,
+        "action": [
+            10019,
+            6019101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502551
+    },
+    "901903": {
+        "id": 901903,
+        "roleid": 19,
+        "shapeID": 60009,
+        "discribeTextID": 502630,
+        "action": [
+            10019,
+            6019101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502551
+    },
+    "906001": {
+        "id": 906001,
+        "roleid": 60,
+        "shapeID": 1068,
+        "discribeTextID": 502458,
+        "action": [
+            10060,
+            6060101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502564
+    },
+    "906002": {
+        "id": 906002,
+        "roleid": 60,
+        "shapeID": 1068,
+        "discribeTextID": 502458,
+        "action": [
+            10060,
+            6060101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502564
+    },
+    "910101": {
+        "id": 910101,
+        "roleid": 101,
+        "shapeID": 1117,
+        "discribeTextID": 502458,
+        "action": [
+            10101,
+            6101101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 503022
+    },
+    "910102": {
+        "id": 910102,
+        "roleid": 101,
+        "shapeID": 1117,
+        "discribeTextID": 502458,
+        "action": [
+            10101,
+            6101101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 503022
+    },
+    "910103": {
+        "id": 910103,
+        "roleid": 101,
+        "shapeID": 60089,
+        "discribeTextID": 502630,
+        "action": [
+            10101,
+            6101101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 503022
+    },
+    "901401": {
+        "id": 901401,
+        "roleid": 14,
+        "shapeID": 1014,
+        "discribeTextID": 502458,
+        "action": [
+            10014,
+            6014101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502552
+    },
+    "901402": {
+        "id": 901402,
+        "roleid": 14,
+        "shapeID": 1014,
+        "discribeTextID": 502458,
+        "action": [
+            10014,
+            6014101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502552
+    },
+    "905501": {
+        "id": 905501,
+        "roleid": 55,
+        "shapeID": 1063,
+        "discribeTextID": 502458,
+        "action": [
+            10055,
+            6055101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502791
+    },
+    "905502": {
+        "id": 905502,
+        "roleid": 55,
+        "shapeID": 1063,
+        "discribeTextID": 502458,
+        "action": [
+            10055,
+            6055101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502791
+    },
+    "905503": {
+        "id": 905503,
+        "roleid": 55,
+        "shapeID": 60025,
+        "discribeTextID": 502630,
+        "action": [
+            10055,
+            6055101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502791
+    },
+    "901411": {
+        "id": 901411,
+        "roleid": 14,
+        "shapeID": 60021,
+        "discribeTextID": 502783,
+        "action": [
+            10014,
+            6014101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90017,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2021,
+        "skinNameTextID": 502781,
+        "skinType": 6,
+        "artistTextID": 502552
+    },
+    "900901": {
+        "id": 900901,
+        "roleid": 9,
+        "shapeID": 1019,
+        "discribeTextID": 502458,
+        "action": [
+            10009,
+            6009101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502537
+    },
+    "900902": {
+        "id": 900902,
+        "roleid": 9,
+        "shapeID": 1019,
+        "discribeTextID": 502458,
+        "action": [
+            10009,
+            6009101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502537
+    },
+    "905511": {
+        "id": 905511,
+        "roleid": 55,
+        "shapeID": 60080,
+        "discribeTextID": 502912,
+        "action": [
+            10055,
+            6055101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90036,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2022,
+        "skinNameTextID": 502911,
+        "skinType": 15,
+        "artistTextID": 502910
+    },
+    "905001": {
+        "id": 905001,
+        "roleid": 50,
+        "shapeID": 1065,
+        "discribeTextID": 502458,
+        "action": [
+            10050,
+            6050101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502564
+    },
+    "905002": {
+        "id": 905002,
+        "roleid": 50,
+        "shapeID": 1065,
+        "discribeTextID": 502458,
+        "action": [
+            10050,
+            6050101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502564
+    },
+    "909101": {
+        "id": 909101,
+        "roleid": 91,
+        "shapeID": 1065,
+        "discribeTextID": 502458,
+        "action": [
+            10091,
+            6091101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502905
+    },
+    "909102": {
+        "id": 909102,
+        "roleid": 91,
+        "shapeID": 1065,
+        "discribeTextID": 502458,
+        "action": [
+            10091,
+            6091101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502905
+    },
+    "909103": {
+        "id": 909103,
+        "roleid": 91,
+        "shapeID": 60076,
+        "discribeTextID": 502630,
+        "action": [
+            10091,
+            6091101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502905
+    },
+    "900401": {
+        "id": 900401,
+        "roleid": 4,
+        "shapeID": 1006,
+        "discribeTextID": 502458,
+        "action": [
+            10004,
+            6004101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502537
+    },
+    "900402": {
+        "id": 900402,
+        "roleid": 4,
+        "shapeID": 1006,
+        "discribeTextID": 502458,
+        "action": [
+            10004,
+            6004101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502537
+    },
+    "904501": {
+        "id": 904501,
+        "roleid": 45,
+        "shapeID": 1052,
+        "discribeTextID": 502458,
+        "action": [
+            10045,
+            6045101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502582
+    },
+    "904502": {
+        "id": 904502,
+        "roleid": 45,
+        "shapeID": 1052,
+        "discribeTextID": 502458,
+        "action": [
+            10045,
+            6045101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502582
+    },
+    "908601": {
+        "id": 908601,
+        "roleid": 86,
+        "shapeID": 1109,
+        "discribeTextID": 502458,
+        "action": [
+            10086,
+            6086101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502891
+    },
+    "908602": {
+        "id": 908602,
+        "roleid": 86,
+        "shapeID": 1109,
+        "discribeTextID": 502458,
+        "action": [
+            10086,
+            6086101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502891
+    },
+    "908603": {
+        "id": 908603,
+        "roleid": 86,
+        "shapeID": 60070,
+        "discribeTextID": 502630,
+        "action": [
+            10086,
+            6086101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502891
+    },
+    "904001": {
+        "id": 904001,
+        "roleid": 40,
+        "shapeID": 1046,
+        "discribeTextID": 502458,
+        "action": [
+            10040,
+            6040101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502566
+    },
+    "904002": {
+        "id": 904002,
+        "roleid": 40,
+        "shapeID": 1046,
+        "discribeTextID": 502458,
+        "action": [
+            10040,
+            6040101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502566
+    },
+    "908101": {
+        "id": 908101,
+        "roleid": 81,
+        "shapeID": 1068,
+        "discribeTextID": 502458,
+        "action": [
+            10081,
+            6081101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502816
+    },
+    "908102": {
+        "id": 908102,
+        "roleid": 81,
+        "shapeID": 1068,
+        "discribeTextID": 502458,
+        "action": [
+            10081,
+            6081101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502816
+    },
+    "908103": {
+        "id": 908103,
+        "roleid": 81,
+        "shapeID": 60035,
+        "discribeTextID": 502630,
+        "action": [
+            10081,
+            6081101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502816
+    },
+    "912201": {
+        "id": 912201,
+        "roleid": 122,
+        "shapeID": 1132,
+        "discribeTextID": 502458,
+        "action": [
+            10122,
+            6122101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 503031
+    },
+    "912202": {
+        "id": 912202,
+        "roleid": 122,
+        "shapeID": 1132,
+        "discribeTextID": 502458,
+        "action": [
+            10122,
+            6122101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 1,
+        "artistTextID": 503031
+    },
+    "912203": {
+        "id": 912203,
+        "roleid": 122,
+        "shapeID": 60120,
+        "discribeTextID": 502630,
+        "action": [
+            10122,
+            6122101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 503031
+    },
+    "903501": {
+        "id": 903501,
+        "roleid": 35,
+        "shapeID": 1041,
+        "discribeTextID": 502458,
+        "action": [
+            10035,
+            6035101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502548
+    },
+    "903502": {
+        "id": 903502,
+        "roleid": 35,
+        "shapeID": 1041,
+        "discribeTextID": 502458,
+        "action": [
+            10035,
+            6035101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502548
+    },
+    "907601": {
+        "id": 907601,
+        "roleid": 76,
+        "shapeID": 1086,
+        "discribeTextID": 502458,
+        "action": [
+            10076,
+            6076101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502536
+    },
+    "907602": {
+        "id": 907602,
+        "roleid": 76,
+        "shapeID": 1086,
+        "discribeTextID": 502458,
+        "action": [
+            10076,
+            6076101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502536
+    },
+    "911701": {
+        "id": 911701,
+        "roleid": 117,
+        "shapeID": 1131,
+        "discribeTextID": 502458,
+        "action": [
+            10117,
+            6117101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 503025
+    },
+    "911702": {
+        "id": 911702,
+        "roleid": 117,
+        "shapeID": 1131,
+        "discribeTextID": 502458,
+        "action": [
+            10117,
+            6117101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 1,
+        "artistTextID": 503025
+    },
+    "903511": {
+        "id": 903511,
+        "roleid": 35,
+        "shapeID": 60086,
+        "discribeTextID": 502955,
+        "action": [
+            10035,
+            6035101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90039,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2022,
+        "skinNameTextID": 502954,
+        "skinType": 6,
+        "artistTextID": 502953
+    },
+    "903001": {
+        "id": 903001,
+        "roleid": 30,
+        "shapeID": 1036,
+        "discribeTextID": 502458,
+        "action": [
+            10030,
+            6030101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502562
+    },
+    "903002": {
+        "id": 903002,
+        "roleid": 30,
+        "shapeID": 1036,
+        "discribeTextID": 502458,
+        "action": [
+            10030,
+            6030101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502562
+    },
+    "903003": {
+        "id": 903003,
+        "roleid": 30,
+        "shapeID": 60012,
+        "discribeTextID": 502630,
+        "action": [
+            10030,
+            6030101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502562
+    },
+    "907101": {
+        "id": 907101,
+        "roleid": 71,
+        "shapeID": 1087,
+        "discribeTextID": 502458,
+        "action": [
+            10077,
+            6077101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502805
+    },
+    "907102": {
+        "id": 907102,
+        "roleid": 71,
+        "shapeID": 1087,
+        "discribeTextID": 502458,
+        "action": [
+            10077,
+            6077101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502805
+    },
+    "907103": {
+        "id": 907103,
+        "roleid": 71,
+        "shapeID": 60026,
+        "discribeTextID": 502630,
+        "action": [
+            10077,
+            6077101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502805
+    },
+    "911201": {
+        "id": 911201,
+        "roleid": 112,
+        "shapeID": 1120,
+        "discribeTextID": 502458,
+        "action": [
+            10112,
+            6112101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502958
+    },
+    "911202": {
+        "id": 911202,
+        "roleid": 112,
+        "shapeID": 1120,
+        "discribeTextID": 502458,
+        "action": [
+            10112,
+            6112101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 1,
+        "artistTextID": 502958
+    },
+    "903011": {
+        "id": 903011,
+        "roleid": 30,
+        "shapeID": 60002,
+        "discribeTextID": 502461,
+        "action": [
+            10030,
+            6030101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90009,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2021,
+        "skinNameTextID": 502382,
+        "skinType": 6,
+        "artistTextID": 502562
+    },
+    "902501": {
+        "id": 902501,
+        "roleid": 25,
+        "shapeID": 1030,
+        "discribeTextID": 502458,
+        "action": [
+            10025,
+            6025101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502554
+    },
+    "902502": {
+        "id": 902502,
+        "roleid": 25,
+        "shapeID": 1030,
+        "discribeTextID": 502458,
+        "action": [
+            10025,
+            6025101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502554
+    },
+    "902503": {
+        "id": 902503,
+        "roleid": 25,
+        "shapeID": 60022,
+        "discribeTextID": 502630,
+        "action": [
+            10025,
+            6025101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502554
+    },
+    "906601": {
+        "id": 906601,
+        "roleid": 66,
+        "shapeID": 1090,
+        "discribeTextID": 502458,
+        "action": [
+            10066,
+            6066101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502852
+    },
+    "906602": {
+        "id": 906602,
+        "roleid": 66,
+        "shapeID": 1090,
+        "discribeTextID": 502458,
+        "action": [
+            10066,
+            6066101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502852
+    },
+    "906603": {
+        "id": 906603,
+        "roleid": 66,
+        "shapeID": 60067,
+        "discribeTextID": 502630,
+        "action": [
+            10066,
+            6066101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502852
+    },
+    "910701": {
+        "id": 910701,
+        "roleid": 107,
+        "shapeID": 1128,
+        "discribeTextID": 502458,
+        "action": [
+            10098,
+            6107101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 503002
+    },
+    "910702": {
+        "id": 910702,
+        "roleid": 107,
+        "shapeID": 1128,
+        "discribeTextID": 502458,
+        "action": [
+            10098,
+            6107101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 1,
+        "artistTextID": 503002
+    },
+    "910703": {
+        "id": 910703,
+        "roleid": 107,
+        "shapeID": 60108,
+        "discribeTextID": 502630,
+        "action": [
+            10098,
+            6107101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 503002
+    },
+    "902001": {
+        "id": 902001,
+        "roleid": 20,
+        "shapeID": 1024,
+        "discribeTextID": 502458,
+        "action": [
+            10020,
+            6020101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502558
+    },
+    "902002": {
+        "id": 902002,
+        "roleid": 20,
+        "shapeID": 1024,
+        "discribeTextID": 502458,
+        "action": [
+            10020,
+            6020101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502558
+    },
+    "906101": {
+        "id": 906101,
+        "roleid": 61,
+        "shapeID": 1069,
+        "discribeTextID": 502458,
+        "action": [
+            10061,
+            6061101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502793
+    },
+    "906102": {
+        "id": 906102,
+        "roleid": 61,
+        "shapeID": 1069,
+        "discribeTextID": 502458,
+        "action": [
+            10061,
+            6061101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502793
+    },
+    "906103": {
+        "id": 906103,
+        "roleid": 61,
+        "shapeID": 60029,
+        "discribeTextID": 502630,
+        "action": [
+            10061,
+            6061101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502793
+    },
+    "910201": {
+        "id": 910201,
+        "roleid": 102,
+        "shapeID": 1112,
+        "discribeTextID": 502458,
+        "action": [
+            10102,
+            6102101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502920
+    },
+    "910202": {
+        "id": 910202,
+        "roleid": 102,
+        "shapeID": 1112,
+        "discribeTextID": 502458,
+        "action": [
+            10102,
+            6102101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502920
+    },
+    "910203": {
+        "id": 910203,
+        "roleid": 102,
+        "shapeID": 60083,
+        "discribeTextID": 502630,
+        "action": [
+            10102,
+            6102101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502920
+    },
+    "901501": {
+        "id": 901501,
+        "roleid": 15,
+        "shapeID": 1022,
+        "discribeTextID": 502458,
+        "action": [
+            10015,
+            6015101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502552
+    },
+    "901502": {
+        "id": 901502,
+        "roleid": 15,
+        "shapeID": 1022,
+        "discribeTextID": 502458,
+        "action": [
+            10015,
+            6015101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502552
+    },
+    "905601": {
+        "id": 905601,
+        "roleid": 56,
+        "shapeID": 1064,
+        "discribeTextID": 502458,
+        "action": [
+            10056,
+            6056101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502595
+    },
+    "905602": {
+        "id": 905602,
+        "roleid": 56,
+        "shapeID": 1064,
+        "discribeTextID": 502458,
+        "action": [
+            10056,
+            6056101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502595
+    },
+    "909701": {
+        "id": 909701,
+        "roleid": 97,
+        "shapeID": 1118,
+        "discribeTextID": 502458,
+        "action": [
+            10097,
+            6097101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502947
+    },
+    "909702": {
+        "id": 909702,
+        "roleid": 97,
+        "shapeID": 1118,
+        "discribeTextID": 502458,
+        "action": [
+            10097,
+            6097101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502947
+    },
+    "909703": {
+        "id": 909703,
+        "roleid": 97,
+        "shapeID": 60091,
+        "discribeTextID": 502630,
+        "action": [
+            10097,
+            6097101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502947
+    },
+    "901001": {
+        "id": 901001,
+        "roleid": 10,
+        "shapeID": 1016,
+        "discribeTextID": 502458,
+        "action": [
+            10010,
+            6010101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502548
+    },
+    "901002": {
+        "id": 901002,
+        "roleid": 10,
+        "shapeID": 1016,
+        "discribeTextID": 502458,
+        "action": [
+            10010,
+            6010101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502548
+    },
+    "905101": {
+        "id": 905101,
+        "roleid": 51,
+        "shapeID": 1059,
+        "discribeTextID": 502458,
+        "action": [
+            10051,
+            6051101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502589
+    },
+    "905102": {
+        "id": 905102,
+        "roleid": 51,
+        "shapeID": 1059,
+        "discribeTextID": 502458,
+        "action": [
+            10051,
+            6051101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502589
+    },
+    "909201": {
+        "id": 909201,
+        "roleid": 92,
+        "shapeID": 1110,
+        "discribeTextID": 502458,
+        "action": [
+            10092,
+            6092101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502831
+    },
+    "909202": {
+        "id": 909202,
+        "roleid": 92,
+        "shapeID": 1110,
+        "discribeTextID": 502458,
+        "action": [
+            10092,
+            6092101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502831
+    },
+    "901011": {
+        "id": 901011,
+        "roleid": 10,
+        "shapeID": 60032,
+        "discribeTextID": 502798,
+        "action": [
+            10010,
+            6010101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90019,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2021,
+        "skinNameTextID": 502799,
+        "skinType": 6,
+        "artistTextID": 502548
+    },
+    "900501": {
+        "id": 900501,
+        "roleid": 5,
+        "shapeID": 1009,
+        "discribeTextID": 502458,
+        "action": [
+            10005,
+            6005101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502542
+    },
+    "900502": {
+        "id": 900502,
+        "roleid": 5,
+        "shapeID": 1009,
+        "discribeTextID": 502458,
+        "action": [
+            10005,
+            6005101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502542
+    },
+    "905111": {
+        "id": 905111,
+        "roleid": 51,
+        "shapeID": 60098,
+        "discribeTextID": 502973,
+        "action": [
+            10051,
+            6051101
+        ],
+        "getwayID": 502628,
+        "EffectTextID": -1,
+        "skinItemID": 90041,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2022,
+        "skinNameTextID": 502972,
+        "skinType": 15,
+        "artistTextID": 502974
+    },
+    "905112": {
+        "id": 905112,
+        "roleid": 51,
+        "shapeID": 60118,
+        "discribeTextID": 503017,
+        "action": [
+            10051,
+            6051101
+        ],
+        "getwayID": 502628,
+        "EffectTextID": -1,
+        "skinItemID": 90052,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2022,
+        "skinNameTextID": 503016,
+        "skinType": 15,
+        "artistTextID": 503018
+    },
+    "904601": {
+        "id": 904601,
+        "roleid": 46,
+        "shapeID": 1043,
+        "discribeTextID": 502458,
+        "action": [
+            10046,
+            6046101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502584
+    },
+    "904602": {
+        "id": 904602,
+        "roleid": 46,
+        "shapeID": 1043,
+        "discribeTextID": 502458,
+        "action": [
+            10046,
+            6046101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502584
+    },
+    "904101": {
+        "id": 904101,
+        "roleid": 41,
+        "shapeID": 1047,
+        "discribeTextID": 502458,
+        "action": [
+            10041,
+            6041101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502551
+    },
+    "904102": {
+        "id": 904102,
+        "roleid": 41,
+        "shapeID": 1047,
+        "discribeTextID": 502458,
+        "action": [
+            10041,
+            6041101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502551
+    },
+    "904103": {
+        "id": 904103,
+        "roleid": 41,
+        "shapeID": 60013,
+        "discribeTextID": 502630,
+        "action": [
+            10041,
+            6041101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502551
+    },
+    "908201": {
+        "id": 908201,
+        "roleid": 82,
+        "shapeID": 1135,
+        "discribeTextID": 502458,
+        "action": [
+            10082,
+            6082101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 503043
+    },
+    "908202": {
+        "id": 908202,
+        "roleid": 82,
+        "shapeID": 1135,
+        "discribeTextID": 502458,
+        "action": [
+            10082,
+            6082101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 1,
+        "artistTextID": 503043
+    },
+    "908203": {
+        "id": 908203,
+        "roleid": 82,
+        "shapeID": 60125,
+        "discribeTextID": 502630,
+        "action": [
+            10082,
+            6082101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 503043
+    },
+    "912301": {
+        "id": 912301,
+        "roleid": 123,
+        "shapeID": 1134,
+        "discribeTextID": 502458,
+        "action": [
+            10123,
+            6123101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 503037
+    },
+    "912302": {
+        "id": 912302,
+        "roleid": 123,
+        "shapeID": 1134,
+        "discribeTextID": 502458,
+        "action": [
+            10123,
+            6123101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 1,
+        "artistTextID": 503037
+    },
+    "904111": {
+        "id": 904111,
+        "roleid": 41,
+        "shapeID": 60104,
+        "discribeTextID": 502982,
+        "action": [
+            10041,
+            6041101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90042,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2022,
+        "skinNameTextID": 502981,
+        "skinType": 6,
+        "artistTextID": 502983
+    },
+    "903601": {
+        "id": 903601,
+        "roleid": 36,
+        "shapeID": 1042,
+        "discribeTextID": 502458,
+        "action": [
+            10036,
+            6036101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502575
+    },
+    "903602": {
+        "id": 903602,
+        "roleid": 36,
+        "shapeID": 1042,
+        "discribeTextID": 502458,
+        "action": [
+            10036,
+            6036101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502575
+    },
+    "907201": {
+        "id": 907201,
+        "roleid": 72,
+        "shapeID": 1080,
+        "discribeTextID": 502458,
+        "action": [
+            10072,
+            6072101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502790
+    },
+    "907202": {
+        "id": 907202,
+        "roleid": 72,
+        "shapeID": 1080,
+        "discribeTextID": 502458,
+        "action": [
+            10072,
+            6072101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502790
+    },
+    "907203": {
+        "id": 907203,
+        "roleid": 72,
+        "shapeID": 60027,
+        "discribeTextID": 502630,
+        "action": [
+            10072,
+            6072101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502790
+    },
+    "911301": {
+        "id": 911301,
+        "roleid": 113,
+        "shapeID": 1124,
+        "discribeTextID": 502458,
+        "action": [
+            10113,
+            6113101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502989
+    },
+    "911302": {
+        "id": 911302,
+        "roleid": 113,
+        "shapeID": 1124,
+        "discribeTextID": 502458,
+        "action": [
+            10113,
+            6113101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 1,
+        "artistTextID": 502989
+    },
+    "911303": {
+        "id": 911303,
+        "roleid": 113,
+        "shapeID": 60101,
+        "discribeTextID": 502630,
+        "action": [
+            10113,
+            6113101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502989
+    },
+    "902601": {
+        "id": 902601,
+        "roleid": 26,
+        "shapeID": 1031,
+        "discribeTextID": 502458,
+        "action": [
+            10026,
+            6026101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502564
+    },
+    "902602": {
+        "id": 902602,
+        "roleid": 26,
+        "shapeID": 1031,
+        "discribeTextID": 502458,
+        "action": [
+            10026,
+            6026101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502564
+    },
+    "907211": {
+        "id": 907211,
+        "roleid": 72,
+        "shapeID": 60073,
+        "discribeTextID": 502893,
+        "action": [
+            10072,
+            6072101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90032,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2022,
+        "skinNameTextID": 502892,
+        "skinType": 6,
+        "artistTextID": 502894
+    },
+    "912303": {
+        "id": 912303,
+        "roleid": 123,
+        "shapeID": 60123,
+        "discribeTextID": 502630,
+        "action": [
+            10123,
+            6123101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 503037
+    },
+    "906701": {
+        "id": 906701,
+        "roleid": 67,
+        "shapeID": 1037,
+        "discribeTextID": 502458,
+        "action": [
+            10067,
+            6067101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502864
+    },
+    "906702": {
+        "id": 906702,
+        "roleid": 67,
+        "shapeID": 1037,
+        "discribeTextID": 502458,
+        "action": [
+            10067,
+            6067101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502864
+    },
+    "906703": {
+        "id": 906703,
+        "roleid": 67,
+        "shapeID": 60068,
+        "discribeTextID": 502630,
+        "action": [
+            10067,
+            6067101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502864
+    },
+    "912003": {
+        "id": 912003,
+        "roleid": 120,
+        "shapeID": 60099,
+        "discribeTextID": 502630,
+        "action": [
+            10120,
+            6120101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502975
+    },
+    "910801": {
+        "id": 910801,
+        "roleid": 108,
+        "shapeID": 1106,
+        "discribeTextID": 502458,
+        "action": [
+            100108,
+            60108101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502868
+    },
+    "910802": {
+        "id": 910802,
+        "roleid": 108,
+        "shapeID": 1106,
+        "discribeTextID": 502458,
+        "action": [
+            100108,
+            60108101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502868
+    },
+    "910803": {
+        "id": 910803,
+        "roleid": 108,
+        "shapeID": 60093,
+        "discribeTextID": 502630,
+        "action": [
+            10108,
+            6108101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502949
+    },
+    "911703": {
+        "id": 911703,
+        "roleid": 117,
+        "shapeID": 60119,
+        "discribeTextID": 502630,
+        "action": [
+            10117,
+            6117101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 503025
+    },
+    "902101": {
+        "id": 902101,
+        "roleid": 21,
+        "shapeID": 1026,
+        "discribeTextID": 502458,
+        "action": [
+            10021,
+            6021101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502554
+    },
+    "902102": {
+        "id": 902102,
+        "roleid": 21,
+        "shapeID": 1026,
+        "discribeTextID": 502458,
+        "action": [
+            10021,
+            6021101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502554
+    },
+    "911503": {
+        "id": 911503,
+        "roleid": 115,
+        "shapeID": 60103,
+        "discribeTextID": 502630,
+        "action": [
+            10115,
+            6115101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502995
+    },
+    "911203": {
+        "id": 911203,
+        "roleid": 112,
+        "shapeID": 60096,
+        "discribeTextID": 502630,
+        "action": [
+            10112,
+            6112101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502958
+    },
+    "906201": {
+        "id": 906201,
+        "roleid": 62,
+        "shapeID": 1070,
+        "discribeTextID": 502458,
+        "action": [
+            10062,
+            6062101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502564
+    },
+    "906202": {
+        "id": 906202,
+        "roleid": 62,
+        "shapeID": 1070,
+        "discribeTextID": 502458,
+        "action": [
+            10062,
+            6062101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502564
+    },
+    "911103": {
+        "id": 911103,
+        "roleid": 111,
+        "shapeID": 60100,
+        "discribeTextID": 502630,
+        "action": [
+            10111,
+            6111101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502978
+    },
+    "910503": {
+        "id": 910503,
+        "roleid": 105,
+        "shapeID": 60110,
+        "discribeTextID": 502630,
+        "action": [
+            10105,
+            6105101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 503021
+    },
+    "910301": {
+        "id": 910301,
+        "roleid": 103,
+        "shapeID": 1111,
+        "discribeTextID": 502458,
+        "action": [
+            10103,
+            6103101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502917
+    },
+    "910302": {
+        "id": 910302,
+        "roleid": 103,
+        "shapeID": 1111,
+        "discribeTextID": 502458,
+        "action": [
+            10103,
+            6103101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502917
+    },
+    "910303": {
+        "id": 910303,
+        "roleid": 103,
+        "shapeID": 60081,
+        "discribeTextID": 502630,
+        "action": [
+            10103,
+            6103101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502917
+    },
+    "909903": {
+        "id": 909903,
+        "roleid": 99,
+        "shapeID": 1108,
+        "discribeTextID": 502630,
+        "action": [
+            10099,
+            6099101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502890
+    },
+    "901601": {
+        "id": 901601,
+        "roleid": 16,
+        "shapeID": 1021,
+        "discribeTextID": 502458,
+        "action": [
+            10016,
+            6016101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502794
+    },
+    "901602": {
+        "id": 901602,
+        "roleid": 16,
+        "shapeID": 1021,
+        "discribeTextID": 502458,
+        "action": [
+            10016,
+            6016101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502794
+    },
+    "901603": {
+        "id": 901603,
+        "roleid": 16,
+        "shapeID": 60008,
+        "discribeTextID": 502630,
+        "action": [
+            10016,
+            6016101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502794
+    },
+    "910003": {
+        "id": 910003,
+        "roleid": 100,
+        "shapeID": 60065,
+        "discribeTextID": 502630,
+        "action": [
+            10100,
+            6100101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502879
+    },
+    "905701": {
+        "id": 905701,
+        "roleid": 57,
+        "shapeID": 1058,
+        "discribeTextID": 502458,
+        "action": [
+            10057,
+            6057101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502596
+    },
+    "905702": {
+        "id": 905702,
+        "roleid": 57,
+        "shapeID": 1058,
+        "discribeTextID": 502458,
+        "action": [
+            10057,
+            6057101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502596
+    },
+    "910311": {
+        "id": 910311,
+        "roleid": 103,
+        "shapeID": 60124,
+        "discribeTextID": 503039,
+        "action": [
+            10103,
+            6103101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90054,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2023,
+        "skinNameTextID": 503038,
+        "skinType": 6,
+        "artistTextID": 503040
+    },
+    "909803": {
+        "id": 909803,
+        "roleid": 98,
+        "shapeID": 60107,
+        "discribeTextID": 502630,
+        "action": [
+            10098,
+            6098101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 503001
+    },
+    "909801": {
+        "id": 909801,
+        "roleid": 98,
+        "shapeID": 1127,
+        "discribeTextID": 502458,
+        "action": [
+            10098,
+            6098101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 503001
+    },
+    "909802": {
+        "id": 909802,
+        "roleid": 98,
+        "shapeID": 1127,
+        "discribeTextID": 502458,
+        "action": [
+            10098,
+            6098101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 1,
+        "artistTextID": 503001
+    },
+    "901611": {
+        "id": 901611,
+        "roleid": 16,
+        "shapeID": 60048,
+        "discribeTextID": 502827,
+        "action": [
+            10016,
+            6016101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90015,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2021,
+        "skinNameTextID": 502826,
+        "skinType": 6,
+        "artistTextID": 502794
+    },
+    "909511": {
+        "id": 909511,
+        "roleid": 95,
+        "shapeID": 60090,
+        "discribeTextID": 502944,
+        "action": [
+            10095,
+            6095101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90038,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2022,
+        "skinNameTextID": 502943,
+        "skinType": 6,
+        "artistTextID": 502942
+    },
+    "901101": {
+        "id": 901101,
+        "roleid": 11,
+        "shapeID": 1015,
+        "discribeTextID": 502458,
+        "action": [
+            10011,
+            6011101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502548
+    },
+    "901102": {
+        "id": 901102,
+        "roleid": 11,
+        "shapeID": 1015,
+        "discribeTextID": 502458,
+        "action": [
+            10011,
+            6011101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502548
+    },
+    "901103": {
+        "id": 901103,
+        "roleid": 11,
+        "shapeID": 60007,
+        "discribeTextID": 502630,
+        "action": [
+            10011,
+            6011101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502548
+    },
+    "909503": {
+        "id": 909503,
+        "roleid": 95,
+        "shapeID": 60092,
+        "discribeTextID": 502630,
+        "action": [
+            10095,
+            6095101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502948
+    },
+    "905201": {
+        "id": 905201,
+        "roleid": 52,
+        "shapeID": 1060,
+        "discribeTextID": 502458,
+        "action": [
+            10052,
+            6052101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502562
+    },
+    "905202": {
+        "id": 905202,
+        "roleid": 52,
+        "shapeID": 1060,
+        "discribeTextID": 502458,
+        "action": [
+            10052,
+            6052101
+        ],
+        "getwayID": 502785,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502562
+    },
+    "909203": {
+        "id": 909203,
+        "roleid": 92,
+        "shapeID": 60079,
+        "discribeTextID": 502630,
+        "action": [
+            10092,
+            6092101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502831
+    },
+    "909003": {
+        "id": 909003,
+        "roleid": 90,
+        "shapeID": 60047,
+        "discribeTextID": 502630,
+        "action": [
+            10090,
+            6090101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502820
+    },
+    "908503": {
+        "id": 908503,
+        "roleid": 85,
+        "shapeID": 60085,
+        "discribeTextID": 502630,
+        "action": [
+            10085,
+            6085101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502921
+    },
+    "908303": {
+        "id": 908303,
+        "roleid": 83,
+        "shapeID": 60057,
+        "discribeTextID": 502630,
+        "action": [
+            10083,
+            6083101
+        ],
+        "getwayID": 502633,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502629,
+        "skinType": 1,
+        "artistTextID": 502828
+    },
+    "901111": {
+        "id": 901111,
+        "roleid": 11,
+        "shapeID": 60019,
+        "discribeTextID": 502743,
+        "action": [
+            10011,
+            6011101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90014,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2021,
+        "skinNameTextID": 502748,
+        "skinType": 6,
+        "artistTextID": 502548
+    },
+    "907111": {
+        "id": 907111,
+        "roleid": 71,
+        "shapeID": 60060,
+        "discribeTextID": 502872,
+        "action": [
+            10077,
+            6077101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90029,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2022,
+        "skinNameTextID": 502873,
+        "skinType": 6,
+        "artistTextID": 502881
+    },
+    "900601": {
+        "id": 900601,
+        "roleid": 6,
+        "shapeID": 1003,
+        "discribeTextID": 502458,
+        "action": [
+            10006,
+            6006101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502542
+    },
+    "900602": {
+        "id": 900602,
+        "roleid": 6,
+        "shapeID": 1003,
+        "discribeTextID": 502458,
+        "action": [
+            10006,
+            6006101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502542
+    },
+    "905211": {
+        "id": 905211,
+        "roleid": 52,
+        "shapeID": 60004,
+        "discribeTextID": 502471,
+        "action": [
+            10052,
+            6052101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90011,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2021,
+        "skinNameTextID": 502806,
+        "skinType": 6,
+        "artistTextID": 502562
+    },
+    "907011": {
+        "id": 907011,
+        "roleid": 70,
+        "shapeID": 60064,
+        "discribeTextID": 502859,
+        "action": [
+            10070,
+            6070101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90027,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2022,
+        "skinNameTextID": 502858,
+        "skinType": 6,
+        "artistTextID": 502860
+    },
+    "904701": {
+        "id": 904701,
+        "roleid": 47,
+        "shapeID": 1053,
+        "discribeTextID": 502458,
+        "action": [
+            10047,
+            6047101
+        ],
+        "getwayID": 0,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 1,
+        "ifLive": 0,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502585
+    },
+    "904702": {
+        "id": 904702,
+        "roleid": 47,
+        "shapeID": 1053,
+        "discribeTextID": 502458,
+        "action": [
+            10047,
+            6047101
+        ],
+        "getwayID": 502786,
+        "EffectTextID": -1,
+        "skinItemID": 0,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 0,
+        "skinNameTextID": 502380,
+        "skinType": 0,
+        "artistTextID": 502585
+    },
+    "906311": {
+        "id": 906311,
+        "roleid": 63,
+        "shapeID": 60024,
+        "discribeTextID": 502784,
+        "action": [
+            10063,
+            6063101
+        ],
+        "getwayID": 502627,
+        "EffectTextID": -1,
+        "skinItemID": 90018,
+        "shapeType": 2,
+        "ifLive": 1,
+        "year": 2021,
+        "skinNameTextID": 502782,
+        "skinType": 6,
+        "artistTextID": 502796
+    }
+}

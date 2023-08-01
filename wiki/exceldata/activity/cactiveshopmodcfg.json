@@ -1,0 +1,16 @@
+{
+    "45002": {
+        "skinShopType": 0,
+        "id": 45002,
+        "shopBuyBtnPre": 15601,
+        "shopBuyBtn": 15601,
+        "shopCellBackImg": 15586
+    },
+    "45001": {
+        "skinShopType": 0,
+        "id": 45001,
+        "shopBuyBtnPre": 15041,
+        "shopBuyBtn": 15041,
+        "shopCellBackImg": 15012
+    }
+}

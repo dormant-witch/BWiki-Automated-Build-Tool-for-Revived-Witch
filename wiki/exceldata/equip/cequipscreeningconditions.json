@@ -1,0 +1,74 @@
+{
+    "5": {
+        "id": 5,
+        "type": 2,
+        "equiptype": "",
+        "nameid": 1500043,
+        "typename": 1500061,
+        "sort": 1
+    },
+    "6": {
+        "id": 6,
+        "type": 2,
+        "equiptype": "",
+        "nameid": 1500044,
+        "typename": 1500061,
+        "sort": 2
+    },
+    "7": {
+        "id": 7,
+        "type": 2,
+        "equiptype": "",
+        "nameid": 1500045,
+        "typename": 1500061,
+        "sort": 3
+    },
+    "8": {
+        "id": 8,
+        "type": 1,
+        "equiptype": "",
+        "nameid": 1500047,
+        "typename": 1500060,
+        "sort": 2
+    },
+    "9": {
+        "id": 9,
+        "type": 1,
+        "equiptype": "",
+        "nameid": 1500048,
+        "typename": 1500060,
+        "sort": 3
+    },
+    "10": {
+        "id": 10,
+        "type": 1,
+        "equiptype": "",
+        "nameid": 1500049,
+        "typename": 1500060,
+        "sort": 4
+    },
+    "11": {
+        "id": 11,
+        "type": 1,
+        "equiptype": "",
+        "nameid": 1500062,
+        "typename": 1500060,
+        "sort": 1
+    },
+    "12": {
+        "id": 12,
+        "type": 3,
+        "equiptype": "",
+        "nameid": 1500069,
+        "typename": 1500071,
+        "sort": 1
+    },
+    "13": {
+        "id": 13,
+        "type": 3,
+        "equiptype": "",
+        "nameid": 1500070,
+        "typename": 1500071,
+        "sort": 2
+    }
+}

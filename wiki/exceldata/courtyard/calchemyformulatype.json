@@ -1,0 +1,16 @@
+[
+    {
+        "typeNameTextID": 800057,
+        "id": 1,
+        "typeName": "素材",
+        "byproduct": 0,
+        "image": 10509
+    },
+    {
+        "typeNameTextID": 800058,
+        "id": 2,
+        "typeName": "结晶",
+        "byproduct": 1,
+        "image": 10528
+    }
+]

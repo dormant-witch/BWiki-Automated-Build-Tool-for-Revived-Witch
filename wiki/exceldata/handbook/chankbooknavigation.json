@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1,
+        "regionBtn": 1,
+        "groupID": 2,
+        "camParam": 2,
+        "teamBtn": 1
+    },
+    {
+        "id": 2,
+        "regionBtn": 1,
+        "groupID": 3,
+        "camParam": 3,
+        "teamBtn": 2
+    },
+    {
+        "id": 3,
+        "regionBtn": 1,
+        "groupID": 4,
+        "camParam": 4,
+        "teamBtn": 3
+    },
+    {
+        "id": 4,
+        "regionBtn": 1,
+        "groupID": 5,
+        "camParam": 5,
+        "teamBtn": 4
+    },
+    {
+        "id": 5,
+        "regionBtn": 1,
+        "groupID": 6,
+        "camParam": 6,
+        "teamBtn": 5
+    },
+    {
+        "id": 6,
+        "regionBtn": 2,
+        "groupID": 7,
+        "camParam": 7,
+        "teamBtn": 1
+    },
+    {
+        "id": 7,
+        "regionBtn": 2,
+        "groupID": 8,
+        "camParam": 8,
+        "teamBtn": 2
+    },
+    {
+        "id": 8,
+        "regionBtn": 2,
+        "groupID": 9,
+        "camParam": 9,
+        "teamBtn": 3
+    },
+    {
+        "id": 9,
+        "regionBtn": 2,
+        "groupID": 10,
+        "camParam": 10,
+        "teamBtn": 4
+    },
+    {
+        "id": 10,
+        "regionBtn": 3,
+        "groupID": 11,
+        "camParam": 11,
+        "teamBtn": 1
+    },
+    {
+        "id": 11,
+        "regionBtn": 3,
+        "groupID": 12,
+        "camParam": 12,
+        "teamBtn": 2
+    },
+    {
+        "id": 12,
+        "regionBtn": 3,
+        "groupID": 13,
+        "camParam": 13,
+        "teamBtn": 3
+    },
+    {
+        "id": 13,
+        "regionBtn": 4,
+        "groupID": 14,
+        "camParam": 14,
+        "teamBtn": 1
+    },
+    {
+        "id": 14,
+        "regionBtn": 4,
+        "groupID": 15,
+        "camParam": 15,
+        "teamBtn": 2
+    },
+    {
+        "id": 15,
+        "regionBtn": 4,
+        "groupID": 16,
+        "camParam": 16,
+        "teamBtn": 3
+    },
+    {
+        "id": 16,
+        "regionBtn": 5,
+        "groupID": 17,
+        "camParam": 17,
+        "teamBtn": 1
+    },
+    {
+        "id": 17,
+        "regionBtn": 5,
+        "groupID": 18,
+        "camParam": 18,
+        "teamBtn": 2
+    },
+    {
+        "id": 18,
+        "regionBtn": 5,
+        "groupID": 19,
+        "camParam": 19,
+        "teamBtn": 3
+    },
+    {
+        "id": 19,
+        "regionBtn": 5,
+        "groupID": 20,
+        "camParam": 20,
+        "teamBtn": 4
+    }
+]

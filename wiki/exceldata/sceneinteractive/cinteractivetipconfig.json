@@ -1,0 +1,527 @@
+[
+    {
+        "Dialogid": "1,2,3",
+        "id": 1,
+        "Roleid": 2
+    },
+    {
+        "Dialogid": "4,5,6",
+        "id": 2,
+        "Roleid": 3
+    },
+    {
+        "Dialogid": "7,8",
+        "id": 3,
+        "Roleid": 4
+    },
+    {
+        "Dialogid": "9,10",
+        "id": 4,
+        "Roleid": 6
+    },
+    {
+        "Dialogid": "19,20",
+        "id": 5,
+        "Roleid": 8
+    },
+    {
+        "Dialogid": "11,12",
+        "id": 6,
+        "Roleid": 9
+    },
+    {
+        "Dialogid": "13,14",
+        "id": 7,
+        "Roleid": 10
+    },
+    {
+        "Dialogid": "15,16",
+        "id": 8,
+        "Roleid": 11
+    },
+    {
+        "Dialogid": "17,18",
+        "id": 9,
+        "Roleid": 12
+    },
+    {
+        "Dialogid": "21,22",
+        "id": 10,
+        "Roleid": 13
+    },
+    {
+        "Dialogid": "23,24",
+        "id": 11,
+        "Roleid": 14
+    },
+    {
+        "Dialogid": "25,26",
+        "id": 12,
+        "Roleid": 15
+    },
+    {
+        "Dialogid": "27,28,129,130",
+        "id": 13,
+        "Roleid": 16
+    },
+    {
+        "Dialogid": "29,30",
+        "id": 14,
+        "Roleid": 17
+    },
+    {
+        "Dialogid": "31,32",
+        "id": 15,
+        "Roleid": 18
+    },
+    {
+        "Dialogid": "33,34",
+        "id": 16,
+        "Roleid": 19
+    },
+    {
+        "Dialogid": "35,36",
+        "id": 17,
+        "Roleid": 22
+    },
+    {
+        "Dialogid": "37,38",
+        "id": 18,
+        "Roleid": 23
+    },
+    {
+        "Dialogid": "39,40",
+        "id": 19,
+        "Roleid": 24
+    },
+    {
+        "Dialogid": "41,42",
+        "id": 20,
+        "Roleid": 25
+    },
+    {
+        "Dialogid": "43,44",
+        "id": 21,
+        "Roleid": 27
+    },
+    {
+        "Dialogid": "45,46",
+        "id": 22,
+        "Roleid": 28
+    },
+    {
+        "Dialogid": "47,48",
+        "id": 23,
+        "Roleid": 29
+    },
+    {
+        "Dialogid": "49,50",
+        "id": 24,
+        "Roleid": 30
+    },
+    {
+        "Dialogid": "51,52",
+        "id": 25,
+        "Roleid": 32
+    },
+    {
+        "Dialogid": "53,54",
+        "id": 26,
+        "Roleid": 33
+    },
+    {
+        "Dialogid": "55,56",
+        "id": 27,
+        "Roleid": 34
+    },
+    {
+        "Dialogid": "57,58",
+        "id": 28,
+        "Roleid": 35
+    },
+    {
+        "Dialogid": "59,60",
+        "id": 29,
+        "Roleid": 36
+    },
+    {
+        "Dialogid": "61,62",
+        "id": 30,
+        "Roleid": 38
+    },
+    {
+        "Dialogid": "63,64",
+        "id": 31,
+        "Roleid": 39
+    },
+    {
+        "Dialogid": "65,66",
+        "id": 32,
+        "Roleid": 40
+    },
+    {
+        "Dialogid": "67,68",
+        "id": 33,
+        "Roleid": 41
+    },
+    {
+        "Dialogid": "69,70",
+        "id": 34,
+        "Roleid": 42
+    },
+    {
+        "Dialogid": "71,72",
+        "id": 35,
+        "Roleid": 43
+    },
+    {
+        "Dialogid": "73,74",
+        "id": 36,
+        "Roleid": 44
+    },
+    {
+        "Dialogid": "75,76",
+        "id": 37,
+        "Roleid": 45
+    },
+    {
+        "Dialogid": "77,78",
+        "id": 38,
+        "Roleid": 47
+    },
+    {
+        "Dialogid": "79,80",
+        "id": 39,
+        "Roleid": 48
+    },
+    {
+        "Dialogid": "81,82",
+        "id": 40,
+        "Roleid": 49
+    },
+    {
+        "Dialogid": "83,84",
+        "id": 41,
+        "Roleid": 51
+    },
+    {
+        "Dialogid": "85,86",
+        "id": 42,
+        "Roleid": 52
+    },
+    {
+        "Dialogid": "87,88",
+        "id": 43,
+        "Roleid": 53
+    },
+    {
+        "Dialogid": "89,90",
+        "id": 44,
+        "Roleid": 54
+    },
+    {
+        "Dialogid": "91,92",
+        "id": 45,
+        "Roleid": 55
+    },
+    {
+        "Dialogid": "93,94",
+        "id": 46,
+        "Roleid": 56
+    },
+    {
+        "Dialogid": "95,96",
+        "id": 47,
+        "Roleid": 57
+    },
+    {
+        "Dialogid": "97,98",
+        "id": 48,
+        "Roleid": 59
+    },
+    {
+        "Dialogid": "99,100",
+        "id": 49,
+        "Roleid": 61
+    },
+    {
+        "Dialogid": "101,102",
+        "id": 50,
+        "Roleid": 63
+    },
+    {
+        "Dialogid": "103,104",
+        "id": 51,
+        "Roleid": 64
+    },
+    {
+        "Dialogid": "105,106",
+        "id": 52,
+        "Roleid": 65
+    },
+    {
+        "Dialogid": "107,108",
+        "id": 53,
+        "Roleid": 66
+    },
+    {
+        "Dialogid": "109,110",
+        "id": 54,
+        "Roleid": 67
+    },
+    {
+        "Dialogid": "111,112",
+        "id": 55,
+        "Roleid": 68
+    },
+    {
+        "Dialogid": "113,114",
+        "id": 56,
+        "Roleid": 69
+    },
+    {
+        "Dialogid": "115,116",
+        "id": 57,
+        "Roleid": 70
+    },
+    {
+        "Dialogid": "117,118",
+        "id": 58,
+        "Roleid": 71
+    },
+    {
+        "Dialogid": "119,120",
+        "id": 59,
+        "Roleid": 72
+    },
+    {
+        "Dialogid": "121,122",
+        "id": 60,
+        "Roleid": 73
+    },
+    {
+        "Dialogid": "123,124",
+        "id": 61,
+        "Roleid": 74
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 62,
+        "Roleid": 75
+    },
+    {
+        "Dialogid": "127,128,131,132",
+        "id": 63,
+        "Roleid": 76
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 64,
+        "Roleid": 83
+    },
+    {
+        "Dialogid": "13,14",
+        "id": 65,
+        "Roleid": 95
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 66,
+        "Roleid": 80
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 67,
+        "Roleid": 108
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 68,
+        "Roleid": 110
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 69,
+        "Roleid": 100
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 70,
+        "Roleid": 106
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 71,
+        "Roleid": 86
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 72,
+        "Roleid": 99
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 73,
+        "Roleid": 91
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 74,
+        "Roleid": 92
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 75,
+        "Roleid": 102
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 76,
+        "Roleid": 103
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 77,
+        "Roleid": 84
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 78,
+        "Roleid": 85
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 79,
+        "Roleid": 94
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 80,
+        "Roleid": 101
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 81,
+        "Roleid": 97
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 82,
+        "Roleid": 88
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 83,
+        "Roleid": 112
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 84,
+        "Roleid": 104
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 85,
+        "Roleid": 120
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 86,
+        "Roleid": 111
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 87,
+        "Roleid": 113
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 88,
+        "Roleid": 109
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 89,
+        "Roleid": 115
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 90,
+        "Roleid": 98
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 91,
+        "Roleid": 119
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 92,
+        "Roleid": 107
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 93,
+        "Roleid": 105
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 94,
+        "Roleid": 117
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 95,
+        "Roleid": 122
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 96,
+        "Roleid": 121
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 97,
+        "Roleid": 123
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 98,
+        "Roleid": 82
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 99,
+        "Roleid": 124
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 100,
+        "Roleid": 116
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 101,
+        "Roleid": 93
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 102,
+        "Roleid": 118
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 103,
+        "Roleid": 126
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 104,
+        "Roleid": 129
+    },
+    {
+        "Dialogid": "125,126",
+        "id": 105,
+        "Roleid": 130
+    }
+]

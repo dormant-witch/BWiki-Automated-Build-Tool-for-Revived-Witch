@@ -1,0 +1,8740 @@
+[
+    {
+        "id": 1,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": -1,
+        "position": 0,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 5
+    },
+    {
+        "id": 2,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205843,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 3,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205844,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 4,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205845,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 5,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205846,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 6,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205847,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 7,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": [
+            205848,
+            205849
+        ],
+        "speed": "0.02",
+        "contentTextID": -1,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 0,
+        "isBlack": 1,
+        "chatType": 3
+    },
+    {
+        "id": 8,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205850,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 9,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205851,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 10,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205852,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 11,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205853,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 12,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205854,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 13,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205855,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 14,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205856,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 15,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205857,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 16,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205858,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 17,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205859,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 18,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205860,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 19,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205861,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 20,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205862,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 21,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205863,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 22,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205864,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 23,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205865,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 24,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205866,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 25,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205867,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 26,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205868,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 27,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205869,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 28,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205870,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 29,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205871,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 30,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205873,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 31,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205874,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205872
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 32,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205875,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205872
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 33,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205876,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205872
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 34,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205877,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205872
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 35,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205878,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205872
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 36,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205879,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205872
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 37,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205880,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205872
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 38,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205881,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205872
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 39,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205882,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205872
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 40,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205883,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 41,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205884,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 42,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205885,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 43,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": [
+            205886,
+            205887
+        ],
+        "speed": "0.02",
+        "contentTextID": -1,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 0,
+        "isBlack": 1,
+        "chatType": 3
+    },
+    {
+        "id": 44,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205888,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 45,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205889,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 46,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205890,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 47,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205891,
+        "position": -1,
+        "nameTextID": [
+            205840,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 48,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205892,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 49,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205893,
+        "position": -1,
+        "nameTextID": [
+            205840,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 50,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205894,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 51,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205895,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 52,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205896,
+        "position": -1,
+        "nameTextID": [
+            205840,
+            202064
+        ],
+        "shapeId": [
+            1006,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 53,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205897,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 54,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205898,
+        "position": -1,
+        "nameTextID": [
+            205839,
+            202064
+        ],
+        "shapeId": [
+            1006,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 55,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205899,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 56,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205900,
+        "position": -1,
+        "nameTextID": [
+            205839,
+            202064
+        ],
+        "shapeId": [
+            1006,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 57,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205901,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 58,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205902,
+        "position": -1,
+        "nameTextID": [
+            205839,
+            202064
+        ],
+        "shapeId": [
+            1006,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 59,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205903,
+        "position": -1,
+        "nameTextID": [
+            205839,
+            202064
+        ],
+        "shapeId": [
+            1006,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 60,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205904,
+        "position": -1,
+        "nameTextID": [
+            205839,
+            202064
+        ],
+        "shapeId": [
+            1006,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 61,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205905,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 62,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205906,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 63,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205907,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 64,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205908,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 65,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205909,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 66,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205910,
+        "position": -1,
+        "nameTextID": [
+            205839,
+            202064
+        ],
+        "shapeId": [
+            1006,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 67,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205911,
+        "position": -1,
+        "nameTextID": [
+            205839,
+            202064
+        ],
+        "shapeId": [
+            1006,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 68,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205912,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 69,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205913,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 70,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205914,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 71,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205915,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 72,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205916,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 73,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205917,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 74,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205918,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 75,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205919,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 76,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": [
+            205920,
+            205921
+        ],
+        "speed": "0.02",
+        "contentTextID": -1,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 0,
+        "isBlack": 1,
+        "chatType": 3
+    },
+    {
+        "id": 77,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205922,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 78,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205923,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 79,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205924,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 80,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205925,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 81,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205926,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 82,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205927,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 83,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205928,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 84,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205929,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 85,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205930,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 86,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205931,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 87,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205932,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 88,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205933,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 89,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205934,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 90,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205935,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 91,
+        "skipTime": 30,
+        "chooseValue": [
+            12,
+            13
+        ],
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": [
+            205936,
+            205937
+        ],
+        "speed": "0.02",
+        "contentTextID": -1,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 0,
+        "isBlack": 1,
+        "chatType": 3
+    },
+    {
+        "id": 92,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205938,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 93,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205939,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 94,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205940,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 95,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205941,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 96,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205942,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 97,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205943,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 98,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205946,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 99,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205947,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 100,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205948,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 101,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205949,
+        "position": -1,
+        "nameTextID": [
+            205944,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 102,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205950,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205945
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 103,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205951,
+        "position": -1,
+        "nameTextID": [
+            205944,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 104,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205952,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205945
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 105,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205953,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 106,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205954,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205945
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 107,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205955,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205945
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 108,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205956,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205945
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 109,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205957,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 110,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205958,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205945
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 111,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205959,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205945
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 112,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205960,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 113,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205961,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205945
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 114,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205962,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 115,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205963,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 116,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205964,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 117,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205965,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 118,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205966,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 119,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205967,
+        "position": -1,
+        "nameTextID": [
+            205840,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 120,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205968,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 121,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205969,
+        "position": -1,
+        "nameTextID": [
+            205840,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 122,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205970,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 123,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205971,
+        "position": -1,
+        "nameTextID": [
+            205840,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 124,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205972,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205842
+        ],
+        "shapeId": [
+            0,
+            1104
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 125,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205973,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205842
+        ],
+        "shapeId": [
+            0,
+            1104
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 126,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205974,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 127,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205975,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 128,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205976,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 129,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205977,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 130,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205978,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205842
+        ],
+        "shapeId": [
+            0,
+            1104
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 131,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205979,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205842
+        ],
+        "shapeId": [
+            0,
+            1104
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 132,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205980,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 133,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205981,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 134,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205982,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 135,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205983,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 136,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205984,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 137,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205985,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 138,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205986,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205842
+        ],
+        "shapeId": [
+            0,
+            1104
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 139,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205987,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 140,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205988,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 141,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205989,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 142,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205990,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 143,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205991,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 144,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205992,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 145,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205993,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 146,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205994,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 147,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205995,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205842
+        ],
+        "shapeId": [
+            0,
+            1104
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 148,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205996,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 149,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205997,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 150,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205998,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 151,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 205999,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 152,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206000,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 153,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206001,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 154,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206002,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 155,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206003,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 156,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206004,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 157,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206005,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 158,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206006,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 159,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206007,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 160,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206008,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 161,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206009,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 162,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206010,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 163,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206011,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 164,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206012,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 165,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206013,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 166,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206014,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 167,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206015,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 168,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206016,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 169,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": [
+            206017
+        ],
+        "speed": "0.02",
+        "contentTextID": -1,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 0,
+        "isBlack": 1,
+        "chatType": 3
+    },
+    {
+        "id": 170,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206018,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 171,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206021,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 172,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206022,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 173,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206023,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 174,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206024,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 175,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": [
+            206025,
+            206026
+        ],
+        "speed": "0.02",
+        "contentTextID": -1,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 0,
+        "isBlack": 1,
+        "chatType": 3
+    },
+    {
+        "id": 176,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206027,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 177,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206028,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206019
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 178,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206029,
+        "position": -1,
+        "nameTextID": [
+            206020,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 179,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206030,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206019
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 180,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206031,
+        "position": -1,
+        "nameTextID": [
+            206020,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 181,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206032,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 182,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206033,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 183,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206034,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 184,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206035,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 185,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": [
+            206036,
+            206037
+        ],
+        "speed": "0.02",
+        "contentTextID": -1,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 0,
+        "isBlack": 1,
+        "chatType": 3
+    },
+    {
+        "id": 186,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206038,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 187,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206040,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 188,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206041,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 189,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206042,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 190,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206043,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 191,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206044,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 192,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206045,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 193,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206046,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 194,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206047,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 195,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206048,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 196,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206049,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 197,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206050,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 198,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206051,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 199,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206052,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 200,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206053,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 201,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206054,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206039
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 202,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206055,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 203,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206056,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 204,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206057,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 205,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206058,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206039
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 206,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206059,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 207,
+        "skipTime": 30,
+        "chooseValue": [
+            14,
+            15
+        ],
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": [
+            206060,
+            206061
+        ],
+        "speed": "0.02",
+        "contentTextID": -1,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 0,
+        "isBlack": 1,
+        "chatType": 3
+    },
+    {
+        "id": 208,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206062,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206039
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 209,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206063,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206039
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 210,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206064,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 211,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206066,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206039
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 212,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": [
+            206067,
+            206068
+        ],
+        "speed": "0.02",
+        "contentTextID": -1,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 0,
+        "isBlack": 1,
+        "chatType": 3
+    },
+    {
+        "id": 213,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206069,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206039
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 214,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206070,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 215,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206071,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206039
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 216,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206072,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 217,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206073,
+        "position": -1,
+        "nameTextID": [
+            206065,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 218,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206074,
+        "position": -1,
+        "nameTextID": [
+            206065,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 219,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206075,
+        "position": -1,
+        "nameTextID": [
+            206065,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 220,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206076,
+        "position": -1,
+        "nameTextID": [
+            206065,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 221,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206077,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206039
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 222,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206078,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 223,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206079,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206039
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 224,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206080,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206039
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 225,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206081,
+        "position": -1,
+        "nameTextID": [
+            206065,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 226,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206082,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206039
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 227,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206083,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206039
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 228,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206084,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 229,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206085,
+        "position": -1,
+        "nameTextID": [
+            206065,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 230,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206086,
+        "position": -1,
+        "nameTextID": [
+            206065,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 231,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206087,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 232,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206088,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206039
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 233,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206089,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 234,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206090,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 235,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206091,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 236,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206092,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 237,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206093,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 238,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206094,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 239,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206095,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 240,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206096,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 241,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206097,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 242,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206098,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 243,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206099,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 244,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206100,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 245,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206101,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 246,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206102,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 247,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": [
+            206103,
+            206104
+        ],
+        "speed": "0.02",
+        "contentTextID": -1,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 0,
+        "isBlack": 1,
+        "chatType": 3
+    },
+    {
+        "id": 248,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206105,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 249,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206106,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 250,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206107,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 251,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206108,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 252,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206109,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 253,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206110,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 254,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206111,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            1087,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 255,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206112,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 256,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206113,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 257,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206114,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 258,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206115,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205842
+        ],
+        "shapeId": [
+            0,
+            1104
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 259,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206116,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205842
+        ],
+        "shapeId": [
+            0,
+            1104
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 260,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206117,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 261,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206118,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 262,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206119,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 263,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206120,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205842
+        ],
+        "shapeId": [
+            0,
+            1104
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 264,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206121,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 265,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206122,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 266,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206123,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 267,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206124,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 268,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206125,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 269,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206126,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            60061
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 270,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206127,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            60060,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 271,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206128,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 272,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206129,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            60060,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 273,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206130,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            60061
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 274,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": [
+            206131,
+            206132
+        ],
+        "speed": "0.02",
+        "contentTextID": -1,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 0,
+        "isBlack": 1,
+        "chatType": 3
+    },
+    {
+        "id": 275,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206133,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            60061
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 276,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206134,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            60060,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 277,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206135,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205836
+        ],
+        "shapeId": [
+            0,
+            60061
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 278,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206136,
+        "position": -1,
+        "nameTextID": [
+            205837,
+            202064
+        ],
+        "shapeId": [
+            60060,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 279,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206137,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            205838
+        ],
+        "shapeId": [
+            0,
+            1
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 280,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206138,
+        "position": -1,
+        "nameTextID": [
+            205841,
+            202064
+        ],
+        "shapeId": [
+            1103,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 1
+    },
+    {
+        "id": 281,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206139,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            202064
+        ],
+        "shapeId": [
+            0,
+            0
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 0
+    },
+    {
+        "id": 282,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206140,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206141
+        ],
+        "shapeId": [
+            0,
+            1004
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 283,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206142,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206207
+        ],
+        "shapeId": [
+            0,
+            1008
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 284,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206143,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206208
+        ],
+        "shapeId": [
+            0,
+            1006
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 285,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206144,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206209
+        ],
+        "shapeId": [
+            0,
+            1018
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 286,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206145,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206210
+        ],
+        "shapeId": [
+            0,
+            1019
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 287,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206146,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206211
+        ],
+        "shapeId": [
+            0,
+            1016
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 288,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206147,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206212
+        ],
+        "shapeId": [
+            0,
+            1015
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 289,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206148,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206213
+        ],
+        "shapeId": [
+            0,
+            1007
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 290,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206149,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206214
+        ],
+        "shapeId": [
+            0,
+            1012
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 291,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206150,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206215
+        ],
+        "shapeId": [
+            0,
+            1014
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 292,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206151,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206216
+        ],
+        "shapeId": [
+            0,
+            1022
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 293,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206152,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206217
+        ],
+        "shapeId": [
+            0,
+            1021
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 294,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206153,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206218
+        ],
+        "shapeId": [
+            0,
+            1025
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 295,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206154,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206219
+        ],
+        "shapeId": [
+            0,
+            1033
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 296,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206155,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206220
+        ],
+        "shapeId": [
+            0,
+            1023
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 297,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206156,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206221
+        ],
+        "shapeId": [
+            0,
+            1027
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 298,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206157,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206222
+        ],
+        "shapeId": [
+            0,
+            1028
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 299,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206158,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206223
+        ],
+        "shapeId": [
+            0,
+            1029
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 300,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206159,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206224
+        ],
+        "shapeId": [
+            0,
+            1030
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 301,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206160,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206225
+        ],
+        "shapeId": [
+            0,
+            1032
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 302,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206161,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206226
+        ],
+        "shapeId": [
+            0,
+            1034
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 303,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206162,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206227
+        ],
+        "shapeId": [
+            0,
+            1035
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 304,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206163,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206228
+        ],
+        "shapeId": [
+            0,
+            1036
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 305,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206164,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206229
+        ],
+        "shapeId": [
+            0,
+            1038
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 306,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206165,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206230
+        ],
+        "shapeId": [
+            0,
+            1039
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 307,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206166,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206231
+        ],
+        "shapeId": [
+            0,
+            1040
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 308,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206167,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206232
+        ],
+        "shapeId": [
+            0,
+            1041
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 309,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206168,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206233
+        ],
+        "shapeId": [
+            0,
+            1042
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 310,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206169,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206234
+        ],
+        "shapeId": [
+            0,
+            1044
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 311,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206170,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206235
+        ],
+        "shapeId": [
+            0,
+            1047
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 312,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206171,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206236
+        ],
+        "shapeId": [
+            0,
+            1048
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 313,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206172,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206237
+        ],
+        "shapeId": [
+            0,
+            1049
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 314,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206173,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206238
+        ],
+        "shapeId": [
+            0,
+            1052
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 315,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206174,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206239
+        ],
+        "shapeId": [
+            0,
+            1053
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 316,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206175,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206240
+        ],
+        "shapeId": [
+            0,
+            1055
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 317,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206176,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206241
+        ],
+        "shapeId": [
+            0,
+            1056
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 318,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206177,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206242
+        ],
+        "shapeId": [
+            0,
+            1059
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 319,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206178,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206243
+        ],
+        "shapeId": [
+            0,
+            1060
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 320,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206179,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206244
+        ],
+        "shapeId": [
+            0,
+            1061
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 321,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206180,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206245
+        ],
+        "shapeId": [
+            0,
+            1063
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 322,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206181,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206246
+        ],
+        "shapeId": [
+            0,
+            1064
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 323,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206182,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206247
+        ],
+        "shapeId": [
+            0,
+            1058
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 324,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206183,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206248
+        ],
+        "shapeId": [
+            0,
+            1067
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 325,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206184,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206249
+        ],
+        "shapeId": [
+            0,
+            1068
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 326,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206185,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206250
+        ],
+        "shapeId": [
+            0,
+            1069
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 327,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206186,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206251
+        ],
+        "shapeId": [
+            0,
+            1105
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 328,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206187,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206252
+        ],
+        "shapeId": [
+            0,
+            1071
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 329,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206188,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206253
+        ],
+        "shapeId": [
+            0,
+            1073
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 330,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206189,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206254
+        ],
+        "shapeId": [
+            0,
+            1077
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 331,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206190,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206255
+        ],
+        "shapeId": [
+            0,
+            1078
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 332,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206191,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206256
+        ],
+        "shapeId": [
+            0,
+            1087
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 333,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206192,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206257
+        ],
+        "shapeId": [
+            0,
+            1080
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 334,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206193,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206258
+        ],
+        "shapeId": [
+            0,
+            1083
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 335,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206194,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206259
+        ],
+        "shapeId": [
+            0,
+            1084
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 336,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206195,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206260
+        ],
+        "shapeId": [
+            0,
+            1085
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 337,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206196,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206261
+        ],
+        "shapeId": [
+            0,
+            1086
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 338,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206197,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206262
+        ],
+        "shapeId": [
+            0,
+            1097
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 339,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206198,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206263
+        ],
+        "shapeId": [
+            0,
+            60041
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 340,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206199,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206264
+        ],
+        "shapeId": [
+            0,
+            1101
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 341,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206200,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206265
+        ],
+        "shapeId": [
+            0,
+            1099
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 342,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206201,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206266
+        ],
+        "shapeId": [
+            0,
+            1100
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 343,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206202,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206267
+        ],
+        "shapeId": [
+            0,
+            1102
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 344,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206203,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206268
+        ],
+        "shapeId": [
+            0,
+            1104
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 345,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206204,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206269
+        ],
+        "shapeId": [
+            0,
+            1106
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 346,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206205,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206270
+        ],
+        "shapeId": [
+            0,
+            1103
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 347,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206206,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206271
+        ],
+        "shapeId": [
+            0,
+            1107
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    },
+    {
+        "id": 348,
+        "skipTime": 30,
+        "chooseValue": {},
+        "voiceId": 0,
+        "emotionId": [
+            0,
+            0
+        ],
+        "chooseTextID": {},
+        "speed": "0.02",
+        "contentTextID": 206422,
+        "position": -1,
+        "nameTextID": [
+            202064,
+            206421
+        ],
+        "shapeId": [
+            0,
+            1092
+        ],
+        "isClickable": 1,
+        "isBlack": 1,
+        "chatType": 2
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "nextDialog": 0,
+        "id": 1,
+        "skipTime": -1,
+        "canSkip": 1,
+        "bgImage": 12999,
+        "dialogList": "1-18"
+    },
+    {
+        "nextDialog": 0,
+        "id": 2,
+        "skipTime": -1,
+        "canSkip": 1,
+        "bgImage": 12999,
+        "dialogList": "19-32"
+    },
+    {
+        "nextDialog": 0,
+        "id": 3,
+        "skipTime": -1,
+        "canSkip": 1,
+        "bgImage": 12999,
+        "dialogList": "33-44"
+    },
+    {
+        "nextDialog": 0,
+        "id": 4,
+        "skipTime": -1,
+        "canSkip": 1,
+        "bgImage": 12999,
+        "dialogList": "45-59"
+    },
+    {
+        "nextDialog": 0,
+        "id": 5,
+        "skipTime": -1,
+        "canSkip": 1,
+        "bgImage": 12999,
+        "dialogList": "60-77"
+    },
+    {
+        "nextDialog": 0,
+        "id": 6,
+        "skipTime": -1,
+        "canSkip": 1,
+        "bgImage": 12999,
+        "dialogList": "78-114"
+    },
+    {
+        "nextDialog": 0,
+        "id": 7,
+        "skipTime": -1,
+        "canSkip": 1,
+        "bgImage": 13000,
+        "dialogList": "115-120"
+    },
+    {
+        "nextDialog": 0,
+        "id": 8,
+        "skipTime": -1,
+        "canSkip": 1,
+        "bgImage": 13000,
+        "dialogList": "121-131"
+    },
+    {
+        "nextDialog": 0,
+        "id": 9,
+        "skipTime": -1,
+        "canSkip": 1,
+        "bgImage": 12999,
+        "dialogList": "132-142"
+    },
+    {
+        "nextDialog": 0,
+        "id": 10,
+        "skipTime": -1,
+        "canSkip": 1,
+        "bgImage": 12999,
+        "dialogList": "143-156"
+    },
+    {
+        "nextDialog": 0,
+        "id": 11,
+        "skipTime": -1,
+        "canSkip": 1,
+        "bgImage": 13000,
+        "dialogList": "157-174"
+    },
+    {
+        "nextDialog": 0,
+        "id": 12,
+        "skipTime": -1,
+        "canSkip": 1,
+        "bgImage": 13000,
+        "dialogList": "175-187"
+    },
+    {
+        "nextDialog": 0,
+        "id": 13,
+        "skipTime": -1,
+        "canSkip": 1,
+        "bgImage": 13000,
+        "dialogList": "188-197"
+    },
+    {
+        "nextDialog": 0,
+        "id": 14,
+        "skipTime": -1,
+        "canSkip": 1,
+        "bgImage": 13000,
+        "dialogList": "198-202"
+    },
+    {
+        "nextDialog": 0,
+        "id": 15,
+        "skipTime": -1,
+        "canSkip": 1,
+        "bgImage": 13000,
+        "dialogList": "203-219"
+    },
+    {
+        "nextDialog": 0,
+        "id": 16,
+        "skipTime": -1,
+        "canSkip": 1,
+        "bgImage": 13000,
+        "dialogList": "220-263"
+    }
+]

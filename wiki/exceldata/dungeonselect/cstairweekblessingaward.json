@@ -1,0 +1,146 @@
+[
+    {
+        "BlessingValue": 0,
+        "id": 1,
+        "EpicProbability": 0,
+        "passedPoints": 9,
+        "RareProbability": 100,
+        "BlessingPooltype": [
+            "1@10",
+            "2@10",
+            "3@10"
+        ]
+    },
+    {
+        "BlessingValue": 0,
+        "id": 2,
+        "EpicProbability": 0,
+        "passedPoints": 18,
+        "RareProbability": 100,
+        "BlessingPooltype": [
+            "1@10",
+            "2@10",
+            "3@10"
+        ]
+    },
+    {
+        "BlessingValue": 0,
+        "id": 3,
+        "EpicProbability": 5,
+        "passedPoints": 27,
+        "RareProbability": 95,
+        "BlessingPooltype": [
+            "1@10",
+            "2@10",
+            "3@10"
+        ]
+    },
+    {
+        "BlessingValue": 0,
+        "id": 4,
+        "EpicProbability": 5,
+        "passedPoints": 36,
+        "RareProbability": 95,
+        "BlessingPooltype": [
+            "1@10",
+            "2@10",
+            "3@10"
+        ]
+    },
+    {
+        "BlessingValue": 2,
+        "id": 5,
+        "EpicProbability": 5,
+        "passedPoints": 45,
+        "RareProbability": 95,
+        "BlessingPooltype": [
+            "1@10",
+            "2@10",
+            "3@10"
+        ]
+    },
+    {
+        "BlessingValue": 4,
+        "id": 6,
+        "EpicProbability": 5,
+        "passedPoints": 54,
+        "RareProbability": 95,
+        "BlessingPooltype": [
+            "1@10",
+            "2@10",
+            "3@10"
+        ]
+    },
+    {
+        "BlessingValue": 6,
+        "id": 7,
+        "EpicProbability": 10,
+        "passedPoints": 63,
+        "RareProbability": 90,
+        "BlessingPooltype": [
+            "1@10",
+            "2@10",
+            "3@10"
+        ]
+    },
+    {
+        "BlessingValue": 8,
+        "id": 8,
+        "EpicProbability": 10,
+        "passedPoints": 72,
+        "RareProbability": 90,
+        "BlessingPooltype": [
+            "1@10",
+            "2@10",
+            "3@10"
+        ]
+    },
+    {
+        "BlessingValue": 10,
+        "id": 9,
+        "EpicProbability": 10,
+        "passedPoints": 81,
+        "RareProbability": 90,
+        "BlessingPooltype": [
+            "1@10",
+            "2@10",
+            "3@10"
+        ]
+    },
+    {
+        "BlessingValue": 12,
+        "id": 10,
+        "EpicProbability": 10,
+        "passedPoints": 90,
+        "RareProbability": 90,
+        "BlessingPooltype": [
+            "1@10",
+            "2@10",
+            "3@10"
+        ]
+    },
+    {
+        "BlessingValue": 14,
+        "id": 11,
+        "EpicProbability": 15,
+        "passedPoints": 99,
+        "RareProbability": 85,
+        "BlessingPooltype": [
+            "1@10",
+            "2@10",
+            "3@10"
+        ]
+    },
+    {
+        "BlessingValue": 16,
+        "id": 12,
+        "EpicProbability": 15,
+        "passedPoints": 108,
+        "RareProbability": 85,
+        "BlessingPooltype": [
+            "1@10",
+            "2@10",
+            "3@10"
+        ]
+    }
+]

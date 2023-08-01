@@ -1,0 +1,20 @@
+[
+    {
+        "sceneName": 1225,
+        "id": 1,
+        "sceneNameRemark": "战斗",
+        "scene": 1
+    },
+    {
+        "sceneName": 1226,
+        "id": 2,
+        "sceneNameRemark": "地宫",
+        "scene": 2
+    },
+    {
+        "sceneName": 1227,
+        "id": 3,
+        "sceneNameRemark": "主城",
+        "scene": 3
+    }
+]

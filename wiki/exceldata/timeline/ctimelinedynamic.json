@@ -1,0 +1,226 @@
+{
+    "3009": {
+        "TrackType": [
+            2
+        ],
+        "id": 3009,
+        "Path": "W1_Area_15_ForBuild_02",
+        "TrackName": [
+            "Animation Track",
+            "0"
+        ],
+        "npcID": [
+            10028
+        ],
+        "Name": 12015
+    },
+    "3010": {
+        "TrackType": [
+            2
+        ],
+        "id": 3010,
+        "Path": "T1_Area_09_ForBuild_04",
+        "TrackName": [
+            "Animation Track (1)"
+        ],
+        "npcID": [
+            10027
+        ],
+        "Name": 10010
+    },
+    "3011": {
+        "TrackType": [
+            2
+        ],
+        "id": 3011,
+        "Path": "W2_Area_r1_ForBuild_01",
+        "TrackName": [
+            "Animation Track"
+        ],
+        "npcID": [
+            10031
+        ],
+        "Name": 13101
+    },
+    "3019": {
+        "TrackType": [
+            2
+        ],
+        "id": 3019,
+        "Path": "T1_Area_22_ForBuild_03",
+        "TrackName": [
+            "Animation Track (1)",
+            "0"
+        ],
+        "npcID": [
+            10056
+        ],
+        "Name": 10023
+    },
+    "3018": {
+        "TrackType": [
+            2,
+            2
+        ],
+        "id": 3018,
+        "Path": "W2_Area_n18_ForBuild_01",
+        "TrackName": [
+            "Animation Track",
+            "Transform Event Track (1)"
+        ],
+        "npcID": [
+            10060,
+            10060
+        ],
+        "Name": 14018
+    },
+    "3014": {
+        "TrackType": [
+            2
+        ],
+        "id": 3014,
+        "Path": "W2_Area_12_ForBuild_01",
+        "TrackName": [
+            "Animation Track",
+            "0"
+        ],
+        "npcID": [
+            10034
+        ],
+        "Name": 13012
+    },
+    "3015": {
+        "TrackType": [
+            2
+        ],
+        "id": 3015,
+        "Path": "W2_Area_15_ForBuild_01",
+        "TrackName": [
+            "Animation Track",
+            "0"
+        ],
+        "npcID": [
+            10045
+        ],
+        "Name": 13015
+    },
+    "3016": {
+        "TrackType": [
+            2
+        ],
+        "id": 3016,
+        "Path": "W2_Area_04_ForBuild_01",
+        "TrackName": [
+            "Animation Track (3)"
+        ],
+        "npcID": [
+            10046
+        ],
+        "Name": 13004
+    },
+    "3001": {
+        "TrackType": [
+            2
+        ],
+        "id": 3001,
+        "Path": "W1_Area_02_ForBuild_02",
+        "TrackName": [
+            "Animation Track"
+        ],
+        "npcID": [
+            10016
+        ],
+        "Name": 12002
+    },
+    "3002": {
+        "TrackType": [
+            2
+        ],
+        "id": 3002,
+        "Path": "W1_Area_05_ForBuild_01",
+        "TrackName": [
+            "Animation Track"
+        ],
+        "npcID": [
+            10017
+        ],
+        "Name": 12005
+    },
+    "3003": {
+        "TrackType": [
+            2
+        ],
+        "id": 3003,
+        "Path": "T1_Area_08_ForBuild_02",
+        "TrackName": [
+            "Animation Track"
+        ],
+        "npcID": [
+            10001
+        ],
+        "Name": 10005
+    },
+    "3004": {
+        "TrackType": [
+            2,
+            2
+        ],
+        "id": 3004,
+        "Path": "W1_Area_24_ForBuild_02",
+        "TrackName": [
+            "Animation Track",
+            "Transform Event Track"
+        ],
+        "npcID": [
+            10023,
+            10023
+        ],
+        "Name": 12024
+    },
+    "3005": {
+        "TrackType": [
+            2
+        ],
+        "id": 3005,
+        "Path": "W1_Area_18_ForBuild_01",
+        "TrackName": [
+            "Animation Track"
+        ],
+        "npcID": [
+            10005
+        ],
+        "Name": 12018
+    },
+    "3006": {
+        "TrackType": [
+            2,
+            2
+        ],
+        "id": 3006,
+        "Path": "T1_Area_08_ForBuild_03",
+        "TrackName": [
+            "Animation Track",
+            "Transform Event Track"
+        ],
+        "npcID": [
+            10001,
+            10001
+        ],
+        "Name": 10005
+    },
+    "3017": {
+        "TrackType": [
+            2
+        ],
+        "id": 3017,
+        "Path": "W2_Area_30_ForBuild_02",
+        "TrackName": [
+            "Animation Track",
+            "0"
+        ],
+        "npcID": [
+            10038
+        ],
+        "Name": 13030
+    }
+}

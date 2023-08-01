@@ -1,0 +1,13 @@
+[
+    {
+        "apLimit": 5,
+        "id": 1,
+        "exchangeTimes": 3,
+        "exchangeScoreCost": [
+            5,
+            8,
+            10
+        ],
+        "apCost": 1
+    }
+]

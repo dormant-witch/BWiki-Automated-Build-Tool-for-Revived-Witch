@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "battleSceneId": 20007,
+        "rewardNum": 8,
+        "rewardItem": 35023,
+        "battleId": 9001,
+        "describe": {},
+        "buff": 0
+    },
+    {
+        "id": 2,
+        "battleSceneId": 20007,
+        "rewardNum": 10,
+        "rewardItem": 35023,
+        "battleId": 9002,
+        "describe": [
+            1900447
+        ],
+        "buff": 21118
+    },
+    {
+        "id": 3,
+        "battleSceneId": 20007,
+        "rewardNum": 15,
+        "rewardItem": 35023,
+        "battleId": 9003,
+        "describe": [
+            1900448,
+            1900449
+        ],
+        "buff": 21119
+    }
+]

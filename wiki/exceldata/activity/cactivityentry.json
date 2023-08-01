@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "displayRelation": 0,
+        "effectsID": 1141,
+        "pictureID": 13654,
+        "priority": 2,
+        "activityTextID": 701618
+    },
+    {
+        "id": 2,
+        "displayRelation": 1,
+        "effectsID": 1141,
+        "pictureID": 13655,
+        "priority": 1,
+        "activityTextID": 701620
+    },
+    {
+        "id": 3,
+        "displayRelation": 1,
+        "effectsID": 1141,
+        "pictureID": 13656,
+        "priority": 3,
+        "activityTextID": 701619
+    },
+    {
+        "id": 4,
+        "displayRelation": 1,
+        "effectsID": 1141,
+        "pictureID": 13656,
+        "priority": 4,
+        "activityTextID": 701621
+    },
+    {
+        "id": 5,
+        "displayRelation": 0,
+        "effectsID": 1141,
+        "pictureID": 13654,
+        "priority": 5,
+        "activityTextID": 701622
+    },
+    {
+        "id": 6,
+        "displayRelation": 0,
+        "effectsID": 1141,
+        "pictureID": 13655,
+        "priority": 6,
+        "activityTextID": 701623
+    },
+    {
+        "id": 7,
+        "displayRelation": 0,
+        "effectsID": 1141,
+        "pictureID": 13656,
+        "priority": 7,
+        "activityTextID": 701624
+    },
+    {
+        "id": 8,
+        "displayRelation": 0,
+        "effectsID": 1141,
+        "pictureID": 13656,
+        "priority": 8,
+        "activityTextID": 701625
+    }
+]

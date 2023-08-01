@@ -1,0 +1,72 @@
+{
+    "1": {
+        "TypeNameTextID": 1100014,
+        "id": 1,
+        "Sort": 1,
+        "TypeName": "商品推荐",
+        "Image": 0
+    },
+    "2": {
+        "TypeNameTextID": 1100015,
+        "id": 2,
+        "Sort": 2,
+        "TypeName": "充值",
+        "Image": 0
+    },
+    "3": {
+        "TypeNameTextID": 1100016,
+        "id": 3,
+        "Sort": 4,
+        "TypeName": "礼包",
+        "Image": 0
+    },
+    "4": {
+        "TypeNameTextID": 1100017,
+        "id": 4,
+        "Sort": 5,
+        "TypeName": "人偶外观",
+        "Image": 0
+    },
+    "5": {
+        "TypeNameTextID": 1100018,
+        "id": 5,
+        "Sort": 7,
+        "TypeName": "杂货",
+        "Image": 0
+    },
+    "7": {
+        "TypeNameTextID": 1100028,
+        "id": 7,
+        "Sort": 8,
+        "TypeName": "试炼",
+        "Image": 0
+    },
+    "8": {
+        "TypeNameTextID": -1,
+        "id": 8,
+        "Sort": -1,
+        "TypeName": "限时活动",
+        "Image": -1
+    },
+    "2002": {
+        "TypeNameTextID": 1100021,
+        "id": 2002,
+        "Sort": 3,
+        "TypeName": "梦境",
+        "Image": 0
+    },
+    "2001": {
+        "TypeNameTextID": 1100020,
+        "id": 2001,
+        "Sort": 3,
+        "TypeName": "梦境",
+        "Image": 0
+    },
+    "100": {
+        "TypeNameTextID": 1100019,
+        "id": 100,
+        "Sort": 100,
+        "TypeName": "春节限时",
+        "Image": 0
+    }
+}

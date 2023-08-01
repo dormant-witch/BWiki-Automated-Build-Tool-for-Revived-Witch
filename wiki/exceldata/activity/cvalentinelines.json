@@ -1,0 +1,38 @@
+[
+    {
+        "textId": 206272,
+        "id": 1,
+        "type": 1,
+        "condition": 1
+    },
+    {
+        "textId": 206273,
+        "id": 2,
+        "type": 1,
+        "condition": 2
+    },
+    {
+        "textId": 206274,
+        "id": 3,
+        "type": 2,
+        "condition": 1
+    },
+    {
+        "textId": 206275,
+        "id": 4,
+        "type": 2,
+        "condition": 2
+    },
+    {
+        "textId": 206276,
+        "id": 5,
+        "type": 3,
+        "condition": 1
+    },
+    {
+        "textId": 206277,
+        "id": 6,
+        "type": 3,
+        "condition": 2
+    }
+]

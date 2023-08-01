@@ -1,0 +1,911 @@
+{
+    "200064": {
+        "id": 200064,
+        "effect": 0,
+        "condition": 64,
+        "imageId": 0,
+        "scene": 13101,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200065": {
+        "id": 200065,
+        "effect": 0,
+        "condition": 65,
+        "imageId": 0,
+        "scene": 13033,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200066": {
+        "id": 200066,
+        "effect": 0,
+        "condition": 66,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200067": {
+        "id": 200067,
+        "effect": 0,
+        "condition": 67,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200068": {
+        "id": 200068,
+        "effect": 0,
+        "condition": 68,
+        "imageId": 0,
+        "scene": 13008,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200069": {
+        "id": 200069,
+        "effect": 0,
+        "condition": 69,
+        "imageId": 0,
+        "scene": 13012,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200070": {
+        "id": 200070,
+        "effect": 0,
+        "condition": 70,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200071": {
+        "id": 200071,
+        "effect": 0,
+        "condition": 71,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200072": {
+        "id": 200072,
+        "effect": 0,
+        "condition": 72,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200073": {
+        "id": 200073,
+        "effect": 0,
+        "condition": 73,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200074": {
+        "id": 200074,
+        "effect": 0,
+        "condition": 74,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200075": {
+        "id": 200075,
+        "effect": 0,
+        "condition": 75,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200076": {
+        "id": 200076,
+        "effect": 0,
+        "condition": 76,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200077": {
+        "id": 200077,
+        "effect": 0,
+        "condition": 77,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200078": {
+        "id": 200078,
+        "effect": 0,
+        "condition": 78,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200079": {
+        "id": 200079,
+        "effect": 0,
+        "condition": 79,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200080": {
+        "id": 200080,
+        "effect": 0,
+        "condition": 80,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200081": {
+        "id": 200081,
+        "effect": 0,
+        "condition": 81,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200083": {
+        "id": 200083,
+        "effect": 0,
+        "condition": 83,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200084": {
+        "id": 200084,
+        "effect": 0,
+        "condition": 84,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200085": {
+        "id": 200085,
+        "effect": 0,
+        "condition": 85,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200086": {
+        "id": 200086,
+        "effect": 0,
+        "condition": 86,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200087": {
+        "id": 200087,
+        "effect": 0,
+        "condition": 87,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200088": {
+        "id": 200088,
+        "effect": 0,
+        "condition": 88,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200089": {
+        "id": 200089,
+        "effect": 0,
+        "condition": 89,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200090": {
+        "id": 200090,
+        "effect": 0,
+        "condition": 90,
+        "imageId": 0,
+        "scene": 16001,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200092": {
+        "id": 200092,
+        "effect": 0,
+        "condition": 92,
+        "imageId": 0,
+        "scene": 16002,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200093": {
+        "id": 200093,
+        "effect": 0,
+        "condition": 93,
+        "imageId": 0,
+        "scene": 16002,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200095": {
+        "id": 200095,
+        "effect": 0,
+        "condition": 95,
+        "imageId": 0,
+        "scene": 16005,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200099": {
+        "id": 200099,
+        "effect": 0,
+        "condition": 99,
+        "imageId": 0,
+        "scene": 16010,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200101": {
+        "id": 200101,
+        "effect": 0,
+        "condition": 101,
+        "imageId": 0,
+        "scene": 16015,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200105": {
+        "id": 200105,
+        "effect": 0,
+        "condition": 105,
+        "imageId": 0,
+        "scene": 16019,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200107": {
+        "id": 200107,
+        "effect": 0,
+        "condition": 107,
+        "imageId": 0,
+        "scene": 16020,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200109": {
+        "id": 200109,
+        "effect": 0,
+        "condition": 109,
+        "imageId": 0,
+        "scene": 16025,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200113": {
+        "id": 200113,
+        "effect": 0,
+        "condition": 113,
+        "imageId": 0,
+        "scene": 16030,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200115": {
+        "id": 200115,
+        "effect": 0,
+        "condition": 115,
+        "imageId": 0,
+        "scene": 16035,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200116": {
+        "id": 200116,
+        "effect": 0,
+        "condition": 116,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200000": {
+        "id": 200000,
+        "effect": 0,
+        "condition": 82,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200001": {
+        "id": 200001,
+        "effect": 0,
+        "condition": 1,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200002": {
+        "id": 200002,
+        "effect": 0,
+        "condition": 2,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200003": {
+        "id": 200003,
+        "effect": 0,
+        "condition": 3,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200004": {
+        "id": 200004,
+        "effect": 0,
+        "condition": 4,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200005": {
+        "id": 200005,
+        "effect": 0,
+        "condition": 5,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200006": {
+        "id": 200006,
+        "effect": 0,
+        "condition": 6,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200007": {
+        "id": 200007,
+        "effect": 0,
+        "condition": 7,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200008": {
+        "id": 200008,
+        "effect": 0,
+        "condition": 8,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200009": {
+        "id": 200009,
+        "effect": 0,
+        "condition": 9,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200010": {
+        "id": 200010,
+        "effect": 0,
+        "condition": 10,
+        "imageId": 0,
+        "scene": 12002,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200011": {
+        "id": 200011,
+        "effect": 0,
+        "condition": 11,
+        "imageId": 0,
+        "scene": 12025,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200012": {
+        "id": 200012,
+        "effect": 0,
+        "condition": 12,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200013": {
+        "id": 200013,
+        "effect": 0,
+        "condition": 13,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200014": {
+        "id": 200014,
+        "effect": 0,
+        "condition": 14,
+        "imageId": 0,
+        "scene": 12002,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200015": {
+        "id": 200015,
+        "effect": 0,
+        "condition": 15,
+        "imageId": 0,
+        "scene": 12002,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200016": {
+        "id": 200016,
+        "effect": 0,
+        "condition": 16,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200017": {
+        "id": 200017,
+        "effect": 0,
+        "condition": 17,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200018": {
+        "id": 200018,
+        "effect": 0,
+        "condition": 18,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200019": {
+        "id": 200019,
+        "effect": 0,
+        "condition": 19,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200020": {
+        "id": 200020,
+        "effect": 0,
+        "condition": 20,
+        "imageId": 0,
+        "scene": 12002,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200021": {
+        "id": 200021,
+        "effect": 0,
+        "condition": 21,
+        "imageId": 0,
+        "scene": 12005,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200022": {
+        "id": 200022,
+        "effect": 0,
+        "condition": 22,
+        "imageId": 0,
+        "scene": 12005,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200023": {
+        "id": 200023,
+        "effect": 0,
+        "condition": 23,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200024": {
+        "id": 200024,
+        "effect": 0,
+        "condition": 24,
+        "imageId": 0,
+        "scene": 12005,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200025": {
+        "id": 200025,
+        "effect": 0,
+        "condition": 25,
+        "imageId": 0,
+        "scene": 40002,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200026": {
+        "id": 200026,
+        "effect": 0,
+        "condition": 26,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200027": {
+        "id": 200027,
+        "effect": 0,
+        "condition": 27,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200028": {
+        "id": 200028,
+        "effect": 0,
+        "condition": 28,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200029": {
+        "id": 200029,
+        "effect": 0,
+        "condition": 29,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200030": {
+        "id": 200030,
+        "effect": 0,
+        "condition": 30,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200031": {
+        "id": 200031,
+        "effect": 0,
+        "condition": 31,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200032": {
+        "id": 200032,
+        "effect": 0,
+        "condition": 32,
+        "imageId": 0,
+        "scene": 12003,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200033": {
+        "id": 200033,
+        "effect": 0,
+        "condition": 33,
+        "imageId": 0,
+        "scene": 12010,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200034": {
+        "id": 200034,
+        "effect": 0,
+        "condition": 34,
+        "imageId": 0,
+        "scene": 12022,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200035": {
+        "id": 200035,
+        "effect": 0,
+        "condition": 35,
+        "imageId": 0,
+        "scene": 12016,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200036": {
+        "id": 200036,
+        "effect": 0,
+        "condition": 36,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200037": {
+        "id": 200037,
+        "effect": 0,
+        "condition": 37,
+        "imageId": 0,
+        "scene": 12024,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200038": {
+        "id": 200038,
+        "effect": 0,
+        "condition": 38,
+        "imageId": 0,
+        "scene": 12007,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200039": {
+        "id": 200039,
+        "effect": 0,
+        "condition": 39,
+        "imageId": 0,
+        "scene": 12007,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200040": {
+        "id": 200040,
+        "effect": 0,
+        "condition": 40,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200041": {
+        "id": 200041,
+        "effect": 0,
+        "condition": 41,
+        "imageId": 0,
+        "scene": 12014,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200042": {
+        "id": 200042,
+        "effect": 0,
+        "condition": 42,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200043": {
+        "id": 200043,
+        "effect": 0,
+        "condition": 43,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200044": {
+        "id": 200044,
+        "effect": 0,
+        "condition": 44,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200045": {
+        "id": 200045,
+        "effect": 0,
+        "condition": 45,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200046": {
+        "id": 200046,
+        "effect": 0,
+        "condition": 46,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200047": {
+        "id": 200047,
+        "effect": 0,
+        "condition": 47,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200048": {
+        "id": 200048,
+        "effect": 0,
+        "condition": 48,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200049": {
+        "id": 200049,
+        "effect": 0,
+        "condition": 49,
+        "imageId": 0,
+        "scene": 12024,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200050": {
+        "id": 200050,
+        "effect": 0,
+        "condition": 50,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200051": {
+        "id": 200051,
+        "effect": 0,
+        "condition": 51,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200052": {
+        "id": 200052,
+        "effect": 0,
+        "condition": 52,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200053": {
+        "id": 200053,
+        "effect": 0,
+        "condition": 53,
+        "imageId": 0,
+        "scene": 13003,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200054": {
+        "id": 200054,
+        "effect": 0,
+        "condition": 54,
+        "imageId": 0,
+        "scene": 13001,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200055": {
+        "id": 200055,
+        "effect": 0,
+        "condition": 55,
+        "imageId": 0,
+        "scene": 13004,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200056": {
+        "id": 200056,
+        "effect": 0,
+        "condition": 56,
+        "imageId": 0,
+        "scene": 13104,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200057": {
+        "id": 200057,
+        "effect": 0,
+        "condition": 57,
+        "imageId": 0,
+        "scene": 13104,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200058": {
+        "id": 200058,
+        "effect": 0,
+        "condition": 58,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200059": {
+        "id": 200059,
+        "effect": 0,
+        "condition": 59,
+        "imageId": 0,
+        "scene": 10014,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200060": {
+        "id": 200060,
+        "effect": 0,
+        "condition": 60,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200061": {
+        "id": 200061,
+        "effect": 0,
+        "condition": 61,
+        "imageId": 0,
+        "scene": 13001,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200062": {
+        "id": 200062,
+        "effect": 0,
+        "condition": 62,
+        "imageId": 0,
+        "scene": 0,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    },
+    "200063": {
+        "id": 200063,
+        "effect": 0,
+        "condition": 63,
+        "imageId": 0,
+        "scene": 13101,
+        "isShowMinimapIcon": 0,
+        "coordinate": "0"
+    }
+}

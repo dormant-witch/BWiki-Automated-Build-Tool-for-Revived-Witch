@@ -1,0 +1,332 @@
+{
+    "1": {
+        "items": [
+            75019
+        ],
+        "id": 1,
+        "type": 1,
+        "outcome": 75018,
+        "emotionCost": 4,
+        "getExp": 20,
+        "unlockLv": 3,
+        "num": [
+            3
+        ],
+        "outcomeNum": 2
+    },
+    "2": {
+        "items": [
+            75018
+        ],
+        "id": 2,
+        "type": 1,
+        "outcome": 75019,
+        "emotionCost": 4,
+        "getExp": 20,
+        "unlockLv": 3,
+        "num": [
+            3
+        ],
+        "outcomeNum": 2
+    },
+    "3": {
+        "items": [
+            74005
+        ],
+        "id": 3,
+        "type": 1,
+        "outcome": 74004,
+        "emotionCost": 4,
+        "getExp": 20,
+        "unlockLv": 3,
+        "num": [
+            3
+        ],
+        "outcomeNum": 2
+    },
+    "4": {
+        "items": [
+            74004
+        ],
+        "id": 4,
+        "type": 1,
+        "outcome": 74005,
+        "emotionCost": 4,
+        "getExp": 20,
+        "unlockLv": 3,
+        "num": [
+            3
+        ],
+        "outcomeNum": 2
+    },
+    "10": {
+        "items": [
+            75012
+        ],
+        "id": 10,
+        "type": 2,
+        "outcome": 75000,
+        "emotionCost": 2,
+        "getExp": 10,
+        "unlockLv": 1,
+        "num": [
+            3
+        ],
+        "outcomeNum": 2
+    },
+    "11": {
+        "items": [
+            75013
+        ],
+        "id": 11,
+        "type": 2,
+        "outcome": 75001,
+        "emotionCost": 3,
+        "getExp": 15,
+        "unlockLv": 2,
+        "num": [
+            3
+        ],
+        "outcomeNum": 2
+    },
+    "12": {
+        "items": [
+            75014
+        ],
+        "id": 12,
+        "type": 2,
+        "outcome": 75002,
+        "emotionCost": 4,
+        "getExp": 20,
+        "unlockLv": 3,
+        "num": [
+            3
+        ],
+        "outcomeNum": 2
+    },
+    "13": {
+        "items": [
+            75006
+        ],
+        "id": 13,
+        "type": 2,
+        "outcome": 75003,
+        "emotionCost": 2,
+        "getExp": 10,
+        "unlockLv": 1,
+        "num": [
+            3
+        ],
+        "outcomeNum": 2
+    },
+    "14": {
+        "items": [
+            75007
+        ],
+        "id": 14,
+        "type": 2,
+        "outcome": 75004,
+        "emotionCost": 3,
+        "getExp": 15,
+        "unlockLv": 2,
+        "num": [
+            3
+        ],
+        "outcomeNum": 2
+    },
+    "15": {
+        "items": [
+            75008
+        ],
+        "id": 15,
+        "type": 2,
+        "outcome": 75005,
+        "emotionCost": 4,
+        "getExp": 20,
+        "unlockLv": 3,
+        "num": [
+            3
+        ],
+        "outcomeNum": 2
+    },
+    "16": {
+        "items": [
+            75003
+        ],
+        "id": 16,
+        "type": 2,
+        "outcome": 75006,
+        "emotionCost": 2,
+        "getExp": 10,
+        "unlockLv": 1,
+        "num": [
+            3
+        ],
+        "outcomeNum": 2
+    },
+    "17": {
+        "items": [
+            75004
+        ],
+        "id": 17,
+        "type": 2,
+        "outcome": 75007,
+        "emotionCost": 3,
+        "getExp": 15,
+        "unlockLv": 2,
+        "num": [
+            3
+        ],
+        "outcomeNum": 2
+    },
+    "18": {
+        "items": [
+            75005
+        ],
+        "id": 18,
+        "type": 2,
+        "outcome": 75008,
+        "emotionCost": 4,
+        "getExp": 20,
+        "unlockLv": 3,
+        "num": [
+            3
+        ],
+        "outcomeNum": 2
+    },
+    "19": {
+        "items": [
+            75015
+        ],
+        "id": 19,
+        "type": 2,
+        "outcome": 75009,
+        "emotionCost": 2,
+        "getExp": 10,
+        "unlockLv": 1,
+        "num": [
+            3
+        ],
+        "outcomeNum": 2
+    },
+    "20": {
+        "items": [
+            75016
+        ],
+        "id": 20,
+        "type": 2,
+        "outcome": 75010,
+        "emotionCost": 3,
+        "getExp": 15,
+        "unlockLv": 2,
+        "num": [
+            3
+        ],
+        "outcomeNum": 2
+    },
+    "21": {
+        "items": [
+            75017
+        ],
+        "id": 21,
+        "type": 2,
+        "outcome": 75011,
+        "emotionCost": 4,
+        "getExp": 20,
+        "unlockLv": 3,
+        "num": [
+            3
+        ],
+        "outcomeNum": 2
+    },
+    "22": {
+        "items": [
+            75000
+        ],
+        "id": 22,
+        "type": 2,
+        "outcome": 75012,
+        "emotionCost": 2,
+        "getExp": 10,
+        "unlockLv": 1,
+        "num": [
+            3
+        ],
+        "outcomeNum": 2
+    },
+    "23": {
+        "items": [
+            75001
+        ],
+        "id": 23,
+        "type": 2,
+        "outcome": 75013,
+        "emotionCost": 3,
+        "getExp": 15,
+        "unlockLv": 2,
+        "num": [
+            3
+        ],
+        "outcomeNum": 2
+    },
+    "24": {
+        "items": [
+            75002
+        ],
+        "id": 24,
+        "type": 2,
+        "outcome": 75014,
+        "emotionCost": 4,
+        "getExp": 20,
+        "unlockLv": 3,
+        "num": [
+            3
+        ],
+        "outcomeNum": 2
+    },
+    "25": {
+        "items": [
+            75009
+        ],
+        "id": 25,
+        "type": 2,
+        "outcome": 75015,
+        "emotionCost": 2,
+        "getExp": 10,
+        "unlockLv": 1,
+        "num": [
+            3
+        ],
+        "outcomeNum": 2
+    },
+    "26": {
+        "items": [
+            75010
+        ],
+        "id": 26,
+        "type": 2,
+        "outcome": 75016,
+        "emotionCost": 3,
+        "getExp": 15,
+        "unlockLv": 2,
+        "num": [
+            3
+        ],
+        "outcomeNum": 2
+    },
+    "27": {
+        "items": [
+            75011
+        ],
+        "id": 27,
+        "type": 2,
+        "outcome": 75017,
+        "emotionCost": 4,
+        "getExp": 20,
+        "unlockLv": 3,
+        "num": [
+            3
+        ],
+        "outcomeNum": 2
+    }
+}

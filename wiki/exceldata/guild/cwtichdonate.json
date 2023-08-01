@@ -1,0 +1,37 @@
+[
+    {
+        "Awardnum": 80,
+        "id": 1,
+        "Maxicon": 200,
+        "DonatePoint": 1000,
+        "GuildAward": 35004
+    },
+    {
+        "Awardnum": 80,
+        "id": 2,
+        "Maxicon": 200,
+        "DonatePoint": 2000,
+        "GuildAward": 35004
+    },
+    {
+        "Awardnum": 80,
+        "id": 3,
+        "Maxicon": 200,
+        "DonatePoint": 3000,
+        "GuildAward": 35004
+    },
+    {
+        "Awardnum": 80,
+        "id": 4,
+        "Maxicon": 200,
+        "DonatePoint": 3600,
+        "GuildAward": 35004
+    },
+    {
+        "Awardnum": 80,
+        "id": 5,
+        "Maxicon": 200,
+        "DonatePoint": 4800,
+        "GuildAward": 35004
+    }
+]

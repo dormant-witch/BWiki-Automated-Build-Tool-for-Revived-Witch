@@ -1,0 +1,353 @@
+[
+    {
+        "id": 1,
+        "vocaid": 0,
+        "bonusPoints": 1000,
+        "textID": 1900985,
+        "entrytype": 1,
+        "entrygroup": 1,
+        "buffid": "21284"
+    },
+    {
+        "id": 2,
+        "vocaid": 0,
+        "bonusPoints": 500,
+        "textID": 1900986,
+        "entrytype": 1,
+        "entrygroup": 1,
+        "buffid": "21285"
+    },
+    {
+        "id": 3,
+        "vocaid": 0,
+        "bonusPoints": 300,
+        "textID": 1900987,
+        "entrytype": 1,
+        "entrygroup": 1,
+        "buffid": "21286"
+    },
+    {
+        "id": 4,
+        "vocaid": 0,
+        "bonusPoints": 100,
+        "textID": 1900988,
+        "entrytype": 2,
+        "entrygroup": 2,
+        "buffid": "21287"
+    },
+    {
+        "id": 5,
+        "vocaid": 0,
+        "bonusPoints": 300,
+        "textID": 1900989,
+        "entrytype": 2,
+        "entrygroup": 2,
+        "buffid": "21288"
+    },
+    {
+        "id": 6,
+        "vocaid": 0,
+        "bonusPoints": 500,
+        "textID": 1900990,
+        "entrytype": 2,
+        "entrygroup": 2,
+        "buffid": "21289"
+    },
+    {
+        "id": 7,
+        "vocaid": 0,
+        "bonusPoints": 100,
+        "textID": 1900991,
+        "entrytype": 5,
+        "entrygroup": 2,
+        "buffid": "21290"
+    },
+    {
+        "id": 8,
+        "vocaid": 0,
+        "bonusPoints": 300,
+        "textID": 1900992,
+        "entrytype": 6,
+        "entrygroup": 2,
+        "buffid": "21291"
+    },
+    {
+        "id": 9,
+        "vocaid": 0,
+        "bonusPoints": 500,
+        "textID": 1900993,
+        "entrytype": 7,
+        "entrygroup": 2,
+        "buffid": "21292"
+    },
+    {
+        "id": 10,
+        "vocaid": 0,
+        "bonusPoints": 100,
+        "textID": 1900994,
+        "entrytype": 8,
+        "entrygroup": 2,
+        "buffid": "21293"
+    },
+    {
+        "id": 11,
+        "vocaid": 0,
+        "bonusPoints": 300,
+        "textID": 1900995,
+        "entrytype": 9,
+        "entrygroup": 2,
+        "buffid": "21294"
+    },
+    {
+        "id": 12,
+        "vocaid": 0,
+        "bonusPoints": 500,
+        "textID": 1900996,
+        "entrytype": 10,
+        "entrygroup": 2,
+        "buffid": "21295"
+    },
+    {
+        "id": 13,
+        "vocaid": 0,
+        "bonusPoints": 100,
+        "textID": 1900997,
+        "entrytype": 11,
+        "entrygroup": 2,
+        "buffid": "21296"
+    },
+    {
+        "id": 14,
+        "vocaid": 0,
+        "bonusPoints": 300,
+        "textID": 1900998,
+        "entrytype": 12,
+        "entrygroup": 2,
+        "buffid": "21297"
+    },
+    {
+        "id": 15,
+        "vocaid": 0,
+        "bonusPoints": 500,
+        "textID": 1900999,
+        "entrytype": 13,
+        "entrygroup": 2,
+        "buffid": "21298"
+    },
+    {
+        "id": 16,
+        "vocaid": 0,
+        "bonusPoints": 100,
+        "textID": 1901000,
+        "entrytype": 14,
+        "entrygroup": 2,
+        "buffid": "21299"
+    },
+    {
+        "id": 17,
+        "vocaid": 0,
+        "bonusPoints": 300,
+        "textID": 1901001,
+        "entrytype": 15,
+        "entrygroup": 2,
+        "buffid": "21300"
+    },
+    {
+        "id": 18,
+        "vocaid": 0,
+        "bonusPoints": 500,
+        "textID": 1901002,
+        "entrytype": 16,
+        "entrygroup": 2,
+        "buffid": "21301"
+    },
+    {
+        "id": 19,
+        "vocaid": 0,
+        "bonusPoints": 100,
+        "textID": 1901010,
+        "entrytype": 17,
+        "entrygroup": 2,
+        "buffid": "21333"
+    },
+    {
+        "id": 20,
+        "vocaid": 0,
+        "bonusPoints": 300,
+        "textID": 1901011,
+        "entrytype": 17,
+        "entrygroup": 2,
+        "buffid": "21334"
+    },
+    {
+        "id": 21,
+        "vocaid": 0,
+        "bonusPoints": 500,
+        "textID": 1901012,
+        "entrytype": 17,
+        "entrygroup": 2,
+        "buffid": "21335"
+    },
+    {
+        "id": 22,
+        "vocaid": 0,
+        "bonusPoints": 100,
+        "textID": 1901013,
+        "entrytype": 18,
+        "entrygroup": 2,
+        "buffid": "21336"
+    },
+    {
+        "id": 23,
+        "vocaid": 0,
+        "bonusPoints": 300,
+        "textID": 1901014,
+        "entrytype": 18,
+        "entrygroup": 2,
+        "buffid": "21337"
+    },
+    {
+        "id": 24,
+        "vocaid": 0,
+        "bonusPoints": 500,
+        "textID": 1901015,
+        "entrytype": 18,
+        "entrygroup": 2,
+        "buffid": "21338"
+    },
+    {
+        "id": 25,
+        "vocaid": 0,
+        "bonusPoints": 100,
+        "textID": 1901045,
+        "entrytype": 19,
+        "entrygroup": 2,
+        "buffid": "21354"
+    },
+    {
+        "id": 26,
+        "vocaid": 0,
+        "bonusPoints": 300,
+        "textID": 1901046,
+        "entrytype": 19,
+        "entrygroup": 2,
+        "buffid": "21355"
+    },
+    {
+        "id": 27,
+        "vocaid": 0,
+        "bonusPoints": 500,
+        "textID": 1901047,
+        "entrytype": 19,
+        "entrygroup": 2,
+        "buffid": "21356"
+    },
+    {
+        "id": 28,
+        "vocaid": 0,
+        "bonusPoints": 100,
+        "textID": 1901190,
+        "entrytype": 20,
+        "entrygroup": 2,
+        "buffid": "21386"
+    },
+    {
+        "id": 29,
+        "vocaid": 0,
+        "bonusPoints": 300,
+        "textID": 1901191,
+        "entrytype": 21,
+        "entrygroup": 2,
+        "buffid": "21387"
+    },
+    {
+        "id": 30,
+        "vocaid": 0,
+        "bonusPoints": 500,
+        "textID": 1901192,
+        "entrytype": 22,
+        "entrygroup": 2,
+        "buffid": "21388"
+    },
+    {
+        "id": 31,
+        "vocaid": 0,
+        "bonusPoints": 100,
+        "textID": 1901193,
+        "entrytype": 23,
+        "entrygroup": 2,
+        "buffid": "21389"
+    },
+    {
+        "id": 32,
+        "vocaid": 0,
+        "bonusPoints": 300,
+        "textID": 1901194,
+        "entrytype": 24,
+        "entrygroup": 2,
+        "buffid": "21390"
+    },
+    {
+        "id": 33,
+        "vocaid": 0,
+        "bonusPoints": 500,
+        "textID": 1901195,
+        "entrytype": 25,
+        "entrygroup": 2,
+        "buffid": "21391"
+    },
+    {
+        "id": 34,
+        "vocaid": 1,
+        "bonusPoints": 500,
+        "textID": 1901442,
+        "entrytype": 1,
+        "entrygroup": 2,
+        "buffid": "0"
+    },
+    {
+        "id": 35,
+        "vocaid": 2,
+        "bonusPoints": 500,
+        "textID": 1901443,
+        "entrytype": 2,
+        "entrygroup": 2,
+        "buffid": "0"
+    },
+    {
+        "id": 36,
+        "vocaid": 6,
+        "bonusPoints": 500,
+        "textID": 1901444,
+        "entrytype": 2,
+        "entrygroup": 2,
+        "buffid": "0"
+    },
+    {
+        "id": 37,
+        "vocaid": 4,
+        "bonusPoints": 500,
+        "textID": 1901445,
+        "entrytype": 3,
+        "entrygroup": 2,
+        "buffid": "0"
+    },
+    {
+        "id": 38,
+        "vocaid": 3,
+        "bonusPoints": 500,
+        "textID": 1901446,
+        "entrytype": 2,
+        "entrygroup": 2,
+        "buffid": "0"
+    },
+    {
+        "id": 39,
+        "vocaid": 5,
+        "bonusPoints": 500,
+        "textID": 1901447,
+        "entrytype": 1,
+        "entrygroup": 2,
+        "buffid": "0"
+    }
+]

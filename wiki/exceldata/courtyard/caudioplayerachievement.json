@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "audioRewardTypeTxt": 800382,
+        "audioRewardNum": 1,
+        "RewardNum": [
+            50
+        ],
+        "audioRewardType": 1,
+        "RewardId": [
+            35008
+        ]
+    },
+    {
+        "id": 2,
+        "audioRewardTypeTxt": 800383,
+        "audioRewardNum": 5,
+        "RewardNum": [
+            100
+        ],
+        "audioRewardType": 1,
+        "RewardId": [
+            35008
+        ]
+    },
+    {
+        "id": 3,
+        "audioRewardTypeTxt": 800384,
+        "audioRewardNum": 10,
+        "RewardNum": [
+            150
+        ],
+        "audioRewardType": 1,
+        "RewardId": [
+            35008
+        ]
+    },
+    {
+        "id": 4,
+        "audioRewardTypeTxt": 800385,
+        "audioRewardNum": 20,
+        "RewardNum": [
+            300
+        ],
+        "audioRewardType": 1,
+        "RewardId": [
+            35008
+        ]
+    },
+    {
+        "id": 5,
+        "audioRewardTypeTxt": 800386,
+        "audioRewardNum": 40,
+        "RewardNum": [
+            600
+        ],
+        "audioRewardType": 1,
+        "RewardId": [
+            35008
+        ]
+    },
+    {
+        "id": 6,
+        "audioRewardTypeTxt": 800387,
+        "audioRewardNum": 50,
+        "RewardNum": [
+            5
+        ],
+        "audioRewardType": 1,
+        "RewardId": [
+            30076
+        ]
+    },
+    {
+        "id": 7,
+        "audioRewardTypeTxt": 800388,
+        "audioRewardNum": 102,
+        "RewardNum": [
+            1
+        ],
+        "audioRewardType": 2,
+        "RewardId": [
+            30076
+        ]
+    },
+    {
+        "id": 8,
+        "audioRewardTypeTxt": 800389,
+        "audioRewardNum": 103,
+        "RewardNum": [
+            1
+        ],
+        "audioRewardType": 2,
+        "RewardId": [
+            30076
+        ]
+    },
+    {
+        "id": 9,
+        "audioRewardTypeTxt": 800390,
+        "audioRewardNum": 104,
+        "RewardNum": [
+            3
+        ],
+        "audioRewardType": 2,
+        "RewardId": [
+            30076
+        ]
+    }
+]
