@@ -1,6 +1,6 @@
 from requests import Session
 
-import wiki.爬取cookie as ck
+import wiki.GetCookie as ck
 import utilSimple.JsonTool as jt
 
 host = "https://wiki.biligame.com/fsdmn/api.php?"

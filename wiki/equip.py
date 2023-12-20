@@ -142,3 +142,24 @@ for i in cequip_handbook:
     upList.append(upload.createPair(Name,template))
 
 upload.prepareUploadWiki(upList)
+
+
+# rrr={}
+# for i in cequip_handbook:
+#     if not cequip_handbook[i]["isShow"] == 1:
+#         continue
+#     Name=wt.getword(cequip_handbook[i]["nameTextID"], cworditem_ch)
+#
+#     rarityid = cequip_handbook[i]["rarity"]
+#     if rarityid == 5:
+#         rarityid = 1
+#     else:
+#         rarityid = 5 - rarityid
+#     Rarity = dealEquipType(rarityid, 1500060)
+#     if rrr.get(Rarity)is None:
+#         rrr[Rarity]=[Name]
+#     else :
+#         rrr[Rarity].append(Name)
+#     # print(Name,Rarity)
+#
+# print(jt.dictToJsonNoOpen(rrr))
