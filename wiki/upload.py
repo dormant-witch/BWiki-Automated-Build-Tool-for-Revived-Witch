@@ -45,3 +45,29 @@ def prepareUploadWiki(allList):
 
 def createPair(tittle, text):
     return {"tittle": tittle, "text": text}
+
+
+def createPairWithFile(tittle, text, chunk):
+    return {"tittle": tittle, "text": text, "chunk": chunk}
+
+
+def uploadtoWikiWithFile(titles, tt, chunk, csrftoken):
+    editTittle = {
+        'action': 'upload', 'filename': titles, 'format': 'json',
+        'summary': '自动化编辑', 'text': tt,
+        'token': csrftoken, "ignorewarnings": True
+    }
+    res = sessdata.post(host, data=editTittle, headers=headers, files={'file': chunk})
+    try:
+        print(jt.strToJson(res.text) + ",")
+    except Exception as e:
+        print("文件{}长度为{:.2f}MB".format(titles,len(chunk) / 1024 ** 2), e)
+
+
+def prepareUploadWikiWithFile(allList):
+    tokenresponse = sessdata.post(host, headers=headers, data=tokenParams)
+    csrftoken = tokenresponse.json()['query']['tokens']['csrftoken']
+    print("[")
+    for r in allList:
+        uploadtoWikiWithFile(r["tittle"], r["text"], r["chunk"], csrftoken)
+    print("]")
